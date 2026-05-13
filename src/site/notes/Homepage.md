@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"]}
 ---
 
-<a href="https://youtu.be/vHmnoXX8afc"> <video width="700" autoplay muted playsinline poster="/images/RotS_Logo.png"> <source src="/images/intro.mp4" type="video/mp4"> Your browser does not support the video tag. </video> </a>
+<a href="https://youtu.be/vHmnoXX8afc"> <video width="700" autoplay muted playsinline poster="/Images/RotS_Logo.png"> <source src="/Images/intro.mp4" type="video/mp4"> Your browser does not support the video tag. </video> </a>
 
 ---
 
