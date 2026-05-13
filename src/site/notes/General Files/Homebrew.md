@@ -187,8 +187,27 @@
 
 - Standard longbow damage (1d8 + modifier)
 - **+1d4 radiant damage** on every hit (confirmed Session 38)
-- Infinite magical arrows — no ammunition tracking
+- Infinite magical arrows - no ammunition tracking
 - No physical arrows required
+
+---
+
+### Twin Blades of the Serpent
+
+**Owner:** [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] | **Source:** Unknown | **Rarity:** Rare (Requires Attunement) **Weapon:** Scimtar (pair)
+
+**Description:** A matched pair of shortswords with sleek, curved blades resembling snake fangs. Crafted from dark, near-obsidian metal with a faint greenish shimmer. Hilts wrapped in black leather with serpent motifs etched into the metalwork. A hidden mechanism in each hilt houses a magical chain of interlocking scales that can connect the two blades.
+
+**Properties:**
+
+**Serpent's Chain** _(Bonus Action)_ The hidden chain extends and connects the two swords, stretching up to 10 feet. While connected, the chain can be used to perform special manoeuvres:
+
+- **Trip:** Target creature makes DC 15 Dexterity saving throw or is tripped
+- **Disarm:** Target creature makes DC 15 Strength saving throw or is disarmed The chain can be retracted or extended again as a bonus action.
+
+**Whirling Fang Strike** _(Action — 1/short or long rest)_ While the swords are connected by the chain, make a single attack roll. On a hit, target all creatures within a 10-foot radius, dealing **1d6 slashing damage** to each.
+
+**Venomous Bite** _(Passive — on Critical Hit)_ When a critical hit is scored with either blade, the target must make a **DC 14 Constitution saving throw**. On a failed save, the target takes an additional **2d6 poison damage** and becomes **poisoned for 1 minute**.
 
 ---
 
@@ -240,7 +259,53 @@
 
 ---
 
-**Owner:** [[Party Members/Elvva Beltavar\|Elvva Beltavar]] | **Source:** Dream vision (Session 30)
+### Key of the Wrong Door
+
+**Owner:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] | **Source:** Makeshift office chest, [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] (Session 39) | **Rarity:** Uncommon
+
+**Description:** Small gold key with a tiny green eye set in the bow.
+
+**Properties:**
+
+- **Activation:** Once per long rest — insert into any locked door and turn
+- Roll 1d6:
+    - **1** — Door explodes
+    - **2–3** — Remains locked (no negative consequence)
+    - **4–5** — Opens normally
+    - **6** — Opens to a completely different location (DM's choice)
+
+⚠️ **Note:** Does not override or supersede doors sealed by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s Permanent Lockpicks.
+
+---
+
+### Coin of Fate
+
+**Owner:** [[Party Members/Elvva Beltavar\|Elvva Beltavar]] | **Source:** Found on a cultist, [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] (Session 39) | **Rarity:** Uncommon
+
+**Description:** Tarnished silver coin of unknown origin.
+
+**Properties:**
+
+- **Activation:** Once per long rest — when hitting a creature with an attack, flip the coin before damage is dealt
+- **Heads** — Target takes double damage
+- **Tails** — You take the damage instead (at normal value)
+
+---
+
+### Blood-Pact Rings
+
+**Owner:** Party loot (found on [[NPCs/Darius Kain\|Darius Kain]], Session 39) | **Type:** Paired rings | **Rarity:** Rare (requires both rings to function)
+
+**Description:** Two rings designed to be worn as a matched pair — one in darker metal, one lighter, each set with a deep red stone (ruby or garnet) in swirling carved metalwork.
+
+**Properties (requires both rings to be worn by two different creatures):**
+
+- **Soul-Binding:** The rings link the life forces of both wearers
+- **Shared Fate:** Once per day — if one wearer is reduced to 0 hit points, they instead drop to 1 HP; the other wearer immediately takes double the damage that would have dropped their partner
+
+⚠️ **Note:** [[NPCs/Darius Kain\|Darius Kain]] was found wearing both rings on the same finger — wearing both yourself provides no benefit.
+
+---
 
 **Properties:**
 

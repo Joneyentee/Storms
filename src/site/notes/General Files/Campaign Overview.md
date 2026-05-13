@@ -270,4 +270,4 @@ The session ended there.
 
 ---
 
-_Last updated: Session 36_ _See also: [[index\|index]] | [[General Files/Campaign Reference\|Campaign Reference]] | [[General Files/Memorable Moments\|Memorable Moments]]_
+_Last updated: Session 36_ _See also: [[Homepage\|Homepage]] | [[General Files/Campaign Reference\|Campaign Reference]] | [[General Files/Memorable Moments\|Memorable Moments]]_

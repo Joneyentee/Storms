@@ -2,7 +2,15 @@
 {"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"]}
 ---
 
-![RotS_Logo.png](/img/user/Images/RotS_Logo.png)
+<a href="https://youtu.be/vHmnoXX8afc"> <video width="700" autoplay muted playsinline poster="/images/RotS_Logo.png"> <source src="/images/intro.mp4" type="video/mp4"> Your browser does not support the video tag. </video> </a>
+
+---
+
+> **Last Session:** [[Sessions/Session 39 - 18 April 2026\|Session 39 - 18 April 2026]] - The party defeated the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] in a two-phase boss fight — he revealed himself as a Stormswallow ancestor, gave [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] his longsword and family banner, and crumbled to dust. [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] emerged from invisibility, admitted engineering the entire sequence of events, and departed through a Bane portal with the now-risen wyrm.
+
+> **[[General Files/Next Session Briefing Document\|Next Session]]**
+
+---
 
 # Storms over Odessia
 
@@ -18,7 +26,7 @@ In the months that followed, the party - who would come to call themselves the *
 
 The civil war that followed changed everything. The High King was assassinated. [[NPCs/Elincia Flowers\|Elincia Flowers]] - secretly the Black Knight Thalas, the tournament's White Falcon, and the architect of the conspiracy - escaped. The kingdom split 50/50 between the Eagle faction (loyal to [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]]) and the Falcon faction (loyal to [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]]). The party emerged from the chaos as the **Marshals of the North**, granted an army, a castle, and a mission: rally the northern territories for the Princess before the kingdom tears itself apart.
 
-They are currently sealed inside a hidden passage beneath the [[Locations/Silver Lantern Garrison\|Silver Lantern Garrison]] in [[Locations/Thalas'Miriel\|Thalas'Miriel]], having just broken one of their own out of a jail cell.
+They are now at [[Locations/Thalas'Miriel\|Thalas'Miriel]], resting at [[NPCs/Calen Thorne\|Calen Thorne]]'s hovel after clearing an ancient underground complex, defeating a Stormswallow ancestor entombed in stone for centuries, and watching [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] walk out of a Bane portal with the wyrm that ancestor died to contain.
 
 _For the full story, see [[General Files/Campaign Overview\|Campaign Overview]]._
 
@@ -26,39 +34,41 @@ _For the full story, see [[General Files/Campaign Overview\|Campaign Overview]].
 
 ## Current Situation
 
-**Session 37** | Location: [[Locations/Silver Lantern Garrison - Hidden Passage\|Silver Lantern Garrison - Hidden Passage]], [[Locations/Thalas'Miriel\|Thalas'Miriel]] | **CLIFFHANGER**
+**Session 39** | Location: [[Locations/Thalas'Miriel\|Thalas'Miriel]], [[NPCs/Calen Thorne\|Calen Thorne]]'s hovel | **Long rest taken**
 
-The party infiltrated the [[Locations/Silver Lantern Garrison\|Silver Lantern Garrison]] and rescued [[Party Members/ToooAh\|ToooAh]], with the help of [[NPCs/Brother Calen\|Brother Calen]] (a combat-trained monk whose true identity is unclear) and [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] (former second in command of the Order, imprisoned for siding with the Crown). They discovered the Order has been corrupted from within by its High Commander, **Darius Kain**, who is connected to a secret cult. Then [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] pressed his hand to a glowing green symbol on the garrison wall - and [[NPCs/The Bane\|The Bane]] flowed from his palm and opened a hidden passage. The wall sealed shut behind the party. Green-flamed lanterns lit the way down.
+The [[NPCs/Purple Dragonborn\|Purple Dragonborn]] was defeated in a two-phase boss fight. He revealed himself as a direct Stormswallow ancestor who had sacrificed himself to bind a wyrm beneath the world, spent centuries entombed in stone as the seal, and placed a final ancestral charge on [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] before crumbling to dust: _"Do what I could not do, for the sake of our family in the world."_ Elik'r now holds the dragonborn's longsword (properties unknown) and the Stormswallow family banner. The moment he died, the wyrm rose from a fissure in the ritual chamber floor — and [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]], invisible throughout the fight, revealed himself, took a bow, and departed through a Bane-powered portal with it.
 
-They are underground. [[Party Members/Elvva Beltavar\|Elvva Beltavar]] is still in the [[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]] above. Vaelorian's delegation to [[Locations/Neverwinter\|Neverwinter]] is still moving.
+Post-combat, the party looted the chamber (sealed scroll from [[NPCs/Darius Kain\|Darius Kain]] — unread; Blood-Pact Rings; Key of the Wrong Door; Coin of Fate) and interrogated [[NPCs/Calen Thorne\|Calen Thorne]], who confirmed his identity as the bastard son of [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]. He provided intelligence on his brothers [[NPCs/Edran Thorne\|Edran Thorne]] and [[NPCs/Marek Thorne\|Marek Thorne]] and on the unnamed Regent now governing [[Locations/Neverwinter\|Neverwinter]], and is considering a Ducal claim. He has promised an answer by morning.
 
-**Next destination:** Wherever this passage leads - then back to the surface, retrieve Elvva, and get to [[Locations/Neverwinter\|Neverwinter]] before Vaelorian's delegation does.
+**Next:** Receive Calen's answer; read the sealed scroll; identify the dragonborn's longsword; counter [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]]'s delegation to [[Locations/Neverwinter\|Neverwinter]].
 
 ---
 
 ## The Party
 
-| Character                   | Player  | Class         | Status                                                                              |
-| --------------------------- | ------- | ------------- | ----------------------------------------------------------------------------------- |
-| [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]   | Paul    | Life Cleric 6 | Knight of Storm Riders, General of the Left; **Bane manifested through palm (S37)** |
-| [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] | Annie   | Ranger 6      | Lady of Sylobelle, General of the North, Warg ability                               |
-| [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]     | Kieran  | Paladin 6     | General of the Right, active curse, missing pinky finger                            |
-| [[Party Members/ToooAh\|ToooAh]]                  | Joy     | Monk 6        | Chariot General, adopted [[NPCs/Avicia\|Avicia]], rescued from garrison (S37)                    |
-| [[Party Members/Elvva Beltavar\|Elvva Beltavar]]          | Shannon | Sorc 5/Lock 1 | Main DPS, **CRITICAL Bane corruption**; still in cathedral (S37)                    |
+|Character|Player|Class|Status|
+|---|---|---|---|
+|[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]|Paul|Life Cleric 6|Knight of Storm Riders, General of the Left; Bane manifested through palm (S37); seraph said "Kill them all" (S38)|
+|[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]|Annie|Ranger 6|Lady of Sylobelle, General of the North, Warg ability|
+|[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]|Kieran|Paladin 6|General of the Right; active curse; missing pinky; **Stormswallow longsword + family banner acquired (S39)**|
+|[[Party Members/ToooAh\|ToooAh]]|Joy|Monk 6|Chariot General, adopted [[NPCs/Avicia\|Avicia]]; killed [[NPCs/Darius Kain\|Darius Kain]] (S38)|
+|[[Party Members/Elvva Beltavar\|Elvva Beltavar]]|Shannon|Sorc 5/Lock 1|Main DPS, **CRITICAL Bane corruption**; Coin of Fate (S39)|
 
-**Companion:** [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] (enchantment bard, "Brother Algrim" - allegiance unknown) **Travelling with party:** [[NPCs/Brother Calen\|Brother Calen]] (combat-trained monk, identity unconfirmed) · [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] (Crown loyalist, freed S37) **Former Member:** [[Party Members/Ser Pas Rata\|Ser Pas Rata]] (deceased)
+**Travelling with party:** [[NPCs/Calen Thorne\|Calen Thorne]] (identity confirmed S38; bastard son of [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]; considering Ducal claim S39) · [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] (Crown loyalist Silver Lantern; status post-wyrm unconfirmed S39) **Former Member:** [[Party Members/Ser Pas Rata\|Ser Pas Rata]] (deceased)
 
 ---
 
 ## Critical Concerns
 
-⚠️ **Party sealed underground** - hidden passage below [[Locations/Silver Lantern Garrison\|Silver Lantern Garrison]]; destination unknown; [[Party Members/Elvva Beltavar\|Elvva Beltavar]] separated on the surface (S37 cliffhanger).
+⚠️ **Wyrm at large** - taken by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] through a Bane portal (S39); second dragon also unaccounted for; two draconic threats now loose in the world simultaneously.
 
-⚠️ **[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s Bane manifestation** - [[NPCs/The Bane\|The Bane]] flowed physically from his palm (S37); only party member able to sense or trigger the cult symbol; significance unknown.
+⚠️ **[[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]** - admitted engineering the party's actions to obtain the wyrm; Bane abilities confirmed; whereabouts unknown; no longer an ally.
 
-⚠️ **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Bane corruption** - Dragon's Breath now manifests as green Bane flame (S36); third failed Wisdom save reflects full spell damage back. Citadel visit urgent.
+⚠️ **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Bane corruption** - Dragon's Breath manifests as green Bane flame; third failed Wisdom save reflects full spell damage back. Citadel visit urgent.
 
-⚠️ **Vaelorian's delegation to [[Locations/Neverwinter\|Neverwinter]]** - ticking clock; party underground while it moves.
+⚠️ **Vaelorian's delegation to [[Locations/Neverwinter\|Neverwinter]]** - ticking clock; has been moving while we were underground.
+
+⚠️ **Neverwinter succession complications** - [[NPCs/Edran Thorne\|Edran Thorne]] (cold, ambitious, effectively in charge); [[NPCs/Marek Thorne\|Marek Thorne]] (returned with mercenary company of unknown origin); unnamed Regent (Professor from abroad) — three power centres to navigate.
 
 ⚠️ **Dormant Bane commands** - [[Party Members/ToooAh\|ToooAh]] (kill Tessell), [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (kill Co'narr), [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] (betray the mole).
 
@@ -66,7 +76,7 @@ They are underground. [[Party Members/Elvva Beltavar\|Elvva Beltavar]] is still 
 
 ⚠️ **Eastern Citadel** fallen silent. Strange creatures attacking northern settlements.
 
-⚠️ **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s curse** - psychic damage whenever he harms [[Party Members/Elvva Beltavar\|Elvva Beltavar]], even accidentally.
+⚠️ **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s ancestral charge** - _"Do what I could not do"_ — the seal is broken and the wyrm is loose; what finishing it requires is unknown.
 
 ---
 
@@ -74,34 +84,33 @@ They are underground. [[Party Members/Elvva Beltavar\|Elvva Beltavar]] is still 
 
 **Primary:**
 
-- 🗡️ **Escape hidden passage** - IMMEDIATE; party sealed below [[Locations/Silver Lantern Garrison\|Silver Lantern Garrison]], destination unknown
-- 🗡️ **Rally the North** - Retrieve Elvva; counter Vaelorian's delegation; then Neverwinter (Duke Alaric Thorne)
+- 🗡️ **Rally the North** - Receive Calen's Ducal answer; read sealed scroll; counter Vaelorian's delegation; then Neverwinter
 - 🗡️ **Secure Eastern Border** - Eastern Citadel gone silent, investigate
 - 🗡️ **Eagle vs Falcon Civil War** - Kingdom 50/50, secure northern nobles for Princess
 - 🗡️ **Visit Bane Watcher Citadel** - URGENT for Elvva; remove dormant commands
-- 🗡️ **The Bane** - World-ending ancient evil, released Session 1; now manifesting through Tessell
+- 🗡️ **The Bane** - Wyrm now loose in the world (S39); [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] in possession; second dragon also unaccounted for
 
 **Ongoing:**
 
 - 🔍 **Avicia's Education Decision** - ToooAh must decide her future
 - 🔍 **Gnome Army Revenge Plot** - [[NPCs/Barry\|Barry]] and his army still tracking party
-- 🔍 **Pas Rata Investigation** - Death circumstances unclear
+- 🔍 **Lord Pompaduke's True Agenda** - confirmed Bane-powered antagonist (S39); goals unknown
 
 ---
 
 ## Key People
 
-**Allies:** [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] · [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]] · [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] · [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] (departed for Nolunia) · [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]] · [[NPCs/Avicia\|Avicia]] (rightful heir, secret) · [[NPCs/Seraphine\|Seraphine]] (healer at Keep) · [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] (Crown loyalist Silver Lantern, freed S37) · [[NPCs/Brother Calen\|Brother Calen]] (identity unconfirmed, travelling with party)
+**Allies:** [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] · [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]] · [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] · [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] (departed for Nolunia) · [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]] · [[NPCs/Avicia\|Avicia]] (rightful heir, secret) · [[NPCs/Seraphine\|Seraphine]] (healer at Keep) · [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] (Crown loyalist Silver Lantern; status post-wyrm unconfirmed S39) · [[NPCs/Calen Thorne\|Calen Thorne]] (considering Ducal claim S39)
 
-**Enemies:** [[NPCs/Elincia Flowers\|Elincia Flowers]] (escaped, promised war) · [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]] (Falcon faction leader) · [[NPCs/Emperor Vladier Drakonhart\|Emperor Vladier Drakonhart]] · [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]] (skull face, "My Queen" to Elincia) · [[NPCs/Humanoid Wolf Rider\|Humanoid Wolf Rider]] (serves Zorn) · **Darius Kain** (High Commander, [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]], cult-aligned) · **Zorn** (unknown, imminent threat declared S36)
+**Enemies:** [[NPCs/Elincia Flowers\|Elincia Flowers]] (escaped, promised war) · [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]] (Falcon faction leader) · [[NPCs/Emperor Vladier Drakonhart\|Emperor Vladier Drakonhart]] · [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]] (skull face) · [[NPCs/Humanoid Wolf Rider\|Humanoid Wolf Rider]] (serves Zorn) · **Zorn** (unknown, imminent threat) · [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] (true agenda revealed S39; departed with wyrm; Bane abilities confirmed)
 
-**Uncertain:** [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] ("Brother Algrim" - green Bane aura from lute, allegiance unknown)
+**Uncertain:** [[Ember Vein Envoy (unnamed)\|Ember Vein Envoy (unnamed)]] (restored party to full strength S38; agenda unknown; at large)
 
 ---
 
 ## Key Locations
 
-**Current:** [[Locations/Silver Lantern Garrison - Hidden Passage\|Silver Lantern Garrison - Hidden Passage]], [[Locations/Thalas'Miriel\|Thalas'Miriel]] (party sealed underground, S37) **Base:** [[Locations/Stormhold Keep\|Stormhold Keep]] (732 troops, walls under construction) **Capital:** [[Locations/Belendar\|Belendar]] (secured, Eagle faction, [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] on throne) **Destination:** [[Locations/Neverwinter\|Neverwinter]] (after escaping passage and retrieving Elvva) **Critical:** Bane Watcher Citadel (island in central lake - urgent) **Other:** [[Locations/Sylobelle\|Sylobelle]] (Odonia's lands, Lady Isolde mayor) · [[Locations/Canathalas\|Canathalas]] (port) · [[Locations/Ulvenora\|Ulvenora]] (stone supply)
+**Current:** [[Locations/Thalas'Miriel\|Thalas'Miriel]] — [[NPCs/Calen Thorne\|Calen Thorne]]'s hovel (long rest taken S39) **Base:** [[Locations/Stormhold Keep\|Stormhold Keep]] (732 troops, walls under construction) **Capital:** [[Locations/Belendar\|Belendar]] (secured, Eagle faction, [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] on throne) **Destination:** [[Locations/Neverwinter\|Neverwinter]] (Ducal succession complications; Vaelorian delegation en route) **Critical:** Bane Watcher Citadel (island in central lake — urgent for Elvva) **Other:** [[Locations/Sylobelle\|Sylobelle]] (Odonia's lands, Lady Isolde mayor) · [[Locations/Canathalas\|Canathalas]] (port) · [[Locations/Ulvenora\|Ulvenora]] (stone supply)
 
 ---
 
@@ -115,4 +124,4 @@ They are underground. [[Party Members/Elvva Beltavar\|Elvva Beltavar]] is still 
 
 ---
 
-_Last updated: Session 38
+_Last updated: Session 39_

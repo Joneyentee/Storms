@@ -8,13 +8,40 @@
 
 ---
 
+## Session 39 Completions
+
+### ✅ Find the Purple Dragonborn
+
+**Completed:** Session 39
+
+**Outcome:** The [[NPCs/Purple Dragonborn\|Purple Dragonborn]] was defeated in a two-phase boss fight in the [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] ritual chamber. Confirmed as a direct Stormswallow ancestor who sacrificed himself in ancient history to bind a wyrm beneath the world, then spent centuries entombed in stone. On death, passed his longsword and the Stormswallow family banner to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] and issued a final ancestral charge: _"Do what I could not do, for the sake of our family in the world."_ Body crumbled to stone dust. His name was never stated.
+
+**Resolution:**
+
+- Identity confirmed: direct Stormswallow ancestor; motive confirmed: guardian of the wyrm's seal
+- Longsword (dark iron, ember-red veins; properties unidentified) and family banner (purple dragon bound by chains) now with [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
+- Phase 1 ended by [[Party Members/ToooAh\|ToooAh]]'s magical wing darts (32 damage); Phase 2 ended by [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Lightning Chromatic Orb (49 damage)
+
+**Loose Ends:**
+
+- The dragonborn's name was never stated
+- His longsword's magical properties remain unidentified
+- The seraph's word _"Release"_ delivered to Elik'r (S38) — now that the dragonborn has been released from stone and has died, the full meaning remains unresolved
+- The ancestral charge placed on Elik'r is an active obligation, not a resolved matter
+
+**Impact:** Stormswallow bloodline and family heritage confirmed. [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] now holds the family banner and the ancestral weapon. The wyrm the dragonborn sealed rose immediately on his defeat and was taken by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]].
+
+**Related Mysteries:** [The Seraph - Separate Entity?](Quests - Mysteries.md#the-seraph--separate-entity) | [Tessell's Bane Connection](Quests - Mysteries.md#tessells-bane-connection---the-cult-symbol--the-seraph)
+
+---
+
 ## Session 38 Completions
 
 ### ✅ Identify the Cult Behind Darius Kain
 
 **Completed:** Session 38
 
-**Outcome:** The cult is the **[[Organisations/Ember Vein\|Ember Vein]]** — an ancient organisation dedicated to maintaining the slumber of a vast entity called the seraph through a network of subterranean ember fissures. The [[Organisations/Ember Vein\|Ember Vein]] did not seek to wake the seraph; their goal was containment via sacrifice and ritual. [[NPCs/Darius Kain\|Darius Kain]] was operating under the Ash Protocol, authorised by the Inner Ember to silence outsiders interfering with the western fissure. The cult has a clear hierarchy (Third Ember, High Flame, Inner Ember) and operates from underground complexes beneath multiple cities, including [[Locations/Thalas'Miriel\|Thalas'Miriel]] and [[Locations/Neverwinter\|Neverwinter]].
+**Outcome:** The cult is the **[[Organisations/Ember Vein\|Ember Vein]]** - an ancient organisation dedicated to maintaining the slumber of a vast entity called the seraph through a network of subterranean ember fissures. The [[Organisations/Ember Vein\|Ember Vein]] did not seek to wake the seraph; their goal was containment via sacrifice and ritual. [[NPCs/Darius Kain\|Darius Kain]] was operating under the Ash Protocol, authorised by the Inner Ember to silence outsiders interfering with the western fissure. The cult has a clear hierarchy (Third Ember, High Flame, Inner Ember) and operates from underground complexes beneath multiple cities, including [[Locations/Thalas'Miriel\|Thalas'Miriel]] and [[Locations/Neverwinter\|Neverwinter]].
 
 **Resolution:**
 
@@ -26,12 +53,12 @@
 
 - Identity and location of the Inner Ember unknown
 - The High Flame (referenced in recovered letter) unknown
-- Relationship between [[Organisations/Ember Vein\|Ember Vein]] and [[NPCs/The Bane\|The Bane]] unresolved — see [The Seraph — Separate Entity?](Quests - Mysteries.md#the-seraph--separate-entity)
+- Relationship between [[Organisations/Ember Vein\|Ember Vein]] and [[NPCs/The Bane\|The Bane]] unresolved - see [The Seraph - Separate Entity?](Quests - Mysteries.md#the-seraph--separate-entity)
 - The Ash Protocol and the western fissure interference (who is siphoning the heat?) unresolved
 
 **Impact:** [[NPCs/Darius Kain\|Darius Kain]] eliminated. [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] corrupt leadership removed. [[Organisations/Ember Vein\|Ember Vein]] doctrine and goals now understood in outline.
 
-**Related Mysteries:** [The Seraph — Separate Entity?](Quests - Mysteries.md#the-seraph--separate-entity) | [Who is the Ember Vein Envoy?](Quests - Mysteries.md#who-is-the-ember-vein-envoy)
+**Related Mysteries:** [The Seraph - Separate Entity?](Quests - Mysteries.md#the-seraph--separate-entity) | [Who is the Ember Vein Envoy?](Quests - Mysteries.md#who-is-the-ember-vein-envoy)
 
 ---
 
@@ -290,7 +317,7 @@
 
 ## Statistics
 
-**Total Completed:** 13 (12 major + 1 partial) **Session 38:** 1 completion **Session 34:** 1 completion **Session 31:** 4 completions **Session 30:** 1 completion **Session 26:** 5 completions **Completion Rate:** ~30% of total tracked quests
+**Total Completed:** 14 (13 major + 1 partial) **Session 39:** 1 completion **Session 38:** 1 completion **Session 34:** 1 completion **Session 31:** 4 completions **Session 30:** 1 completion **Session 26:** 5 completions **Completion Rate:** ~30% of total tracked quests
 
 **By Priority at Completion:**
 
@@ -300,6 +327,6 @@
 
 ---
 
-**Last Updated:** Session 38
+**Last Updated:** Session 39
 
 > [Index](02 Quests Index.md) | [Active](Quests - Active.md) | [On Hold](Quests - On Hold.md) | [Mysteries](Quests - Mysteries.md) | **Completed**

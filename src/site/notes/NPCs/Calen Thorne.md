@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/np-cs/calen-thorne/"}
 ---
 
-**Faction:** Unknown
+**Faction:** Circumstantial ally 
 **Status:** Active 
 **Race:** Human 
 **Tags:** #npc/unknown #npc/nobles
@@ -11,7 +11,7 @@
 
 ### Description
 
-Young, fair-featured human male with light blonde hair and a toned, athletic build — manual labour evident despite his clerical role. Operating under the alias **Brother Calen**, he tends the herb garden adjacent to the [[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]] in [[Locations/Thalas'Miriel\|Thalas'Miriel]] and presents as a mild-mannered monk. The bastard son of [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] of [[Locations/Neverwinter\|Neverwinter]], aged 16. Demonstrated expert combat capability inconsistent with his apparent station — killed a garrison guard with a precisely thrown dagger (Natural 20) and neutralised multiple guards with practised efficiency, suggesting formal combat training.
+Young, fair-featured human male with light blonde hair and a toned, athletic build - manual labour evident despite his clerical role. Operating under the alias **Brother Calen**, he tends the herb garden adjacent to the [[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]] in [[Locations/Thalas'Miriel\|Thalas'Miriel]] and presents as a mild-mannered monk. The bastard son of [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] of [[Locations/Neverwinter\|Neverwinter]], aged 16. Demonstrated expert combat capability inconsistent with his apparent station - killed a garrison guard with a precisely thrown dagger (Natural 20) and neutralised multiple guards with practised efficiency, suggesting formal combat training.
 
 ### Key Details
 
@@ -19,11 +19,14 @@ Young, fair-featured human male with light blonde hair and a toned, athletic bui
 - Identified the [[Organisations/Riders of the Storm\|Riders of the Storm]] by name before meeting them; approached [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] unprompted during [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]]'s sermon
 - Offered to help rescue [[Party Members/ToooAh\|ToooAh]] from the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] garrison in exchange for help finding [[NPCs/Clara\|Clara]]
 - [[NPCs/Clara\|Clara]] is his primary motivation; the relationship appears to be more than collegial despite their vows of celibacy
-- Briefed party that High Commander [[NPCs/Darius Kain\|Darius Kain]] had turned the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] against the Crown — numbers dwindling, gates shut, behaviour erratic
-- Confirmed (S38) that his mentor found a site almost identical to the [[Organisations/Ember Vein\|Ember Vein]] underground complex in the chasms beneath [[Locations/Neverwinter\|Neverwinter]] — was notably calm in the chamber while freed knights were visibly bewildered (party Insight checks DC 15, all passed)
-- A faint green glow was briefly observed circling him after passing through the draconic archway in the underground complex (S38) — origin and significance unknown
+- Briefed party that High Commander [[NPCs/Darius Kain\|Darius Kain]] had turned the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] against the Crown - numbers dwindling, gates shut, behaviour erratic
+- Confirmed (S38) that his mentor found a site almost identical to the [[Organisations/Ember Vein\|Ember Vein]] underground complex in the chasms beneath [[Locations/Neverwinter\|Neverwinter]] - was notably calm in the chamber while freed knights were visibly bewildered (party Insight checks DC 15, all passed)
+- A faint green glow was briefly observed circling him after passing through the draconic archway in the underground complex (S38) - origin and significance unknown
 - Rescued [[NPCs/Clara\|Clara]] from the ritual table mid-combat (S38); pulled back into the chamber by the [[Ember Vein Envoy\|Ember Vein Envoy]] at session end alongside the rest of the party
-- Identity as [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]'s bastard son deduced by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] from intelligence provided by [[NPCs/Captain Mara Veylan\|Captain Mara Veylan]] of the [[Organisations/Iron Finch Company\|Iron Finch Company]] — not yet confirmed to his face
+- Identity as [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]'s bastard son deduced by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] from intelligence provided by [[NPCs/Captain Mara Veylan\|Captain Mara Veylan]] of the [[Organisations/Iron Finch Company\|Iron Finch Company]] (S37); **confirmed to his face and acknowledged by Calen (S39)**
+- S39: Confirmed his father [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] is old and dying; eldest brother [[NPCs/Edran Thorne\|Edran Thorne]] is effectively in charge — wants to preserve what their father built but is cold-hearted and deeply ambitious; middle brother [[NPCs/Marek Thorne\|Marek Thorne]] has returned with a mercenary company of unknown origin
+- S39: The current Regent of [[Locations/Neverwinter\|Neverwinter]] is a Professor from abroad, described as wise and very gaudy, who rose through the ranks after the Duke's condition worsened; name unknown to Calen
+- S39: Considering taking the Ducal title if an opening exists; promised the party an answer by morning
 
 ### Relationships
 
@@ -38,6 +41,7 @@ Young, fair-featured human male with light blonde hair and a toned, athletic bui
 - [[Sessions/Session 36 - 21 February 2026\|Session 36 - 21 February 2026]] - Seated next to [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] during cathedral sermon; noticed listening intently when [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] whispered her plan to leave
 - [[Sessions/Session 37 - 22 March 2026\|Session 37 - 22 March 2026]] - Identified himself as Brother Calen; offered intelligence on garrison back entrance; demonstrated lethal combat skill during infiltration; descended into hidden passage with party at session end
 - [[Sessions/Session 38 - 6 April 2026\|Session 38 - 6 April 2026]] - Accompanied party through the [[Organisations/Ember Vein\|Ember Vein]] underground complex; revealed his mentor had found a near-identical site beneath [[Locations/Neverwinter\|Neverwinter]]; confirmed [[NPCs/Darius Kain\|Darius Kain]]'s identity on sight; rescued [[NPCs/Clara\|Clara]] from the ritual table mid-combat; pulled back into the chamber by the [[Ember Vein Envoy\|Ember Vein Envoy]] at session end
+- [[Sessions/Session 39 - 18 April 2026\|Session 39 - 18 April 2026]] - Fought in both phases of the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] boss fight; reduced to 1 HP by the psychic roar. Post-combat: acknowledged his true identity to the party; provided intelligence on brothers [[NPCs/Edran Thorne\|Edran Thorne]] and [[NPCs/Marek Thorne\|Marek Thorne]] and on the unnamed Regent; is considering a Ducal claim and promised an answer by morning. Took a long rest with the party at his hovel.
 
 ### Related Quests
 

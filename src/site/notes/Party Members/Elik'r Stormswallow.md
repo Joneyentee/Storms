@@ -39,7 +39,7 @@ Young gold dragonborn Paladin of Vengeance. Has spirit guide Steve (only he can 
 
 **Mysterious Connections:**
 
-- [[NPCs/Purple Dragonborn\|Purple Dragonborn]] called out his name specifically in Bane initiation vision: "RELEASE ME, RELEASE ME, ELIK'R STORMSWALLOW!" - **S38: Physically encountered.** Animated from an ancient stone statue in the [[Organisations/Ember Vein\|Ember Vein]] underground complex beneath [[Locations/Thalas'Miriel\|Thalas'Miriel]]; twelve feet tall, purple-scaled, armoured, bearing **Elik'r's family crest on a clasp**. Carries a longsword of dark iron shot through with ember-red veins. The seraph's vision (S38) said "Release" to Elik'r specifically in connection with this figure. Boss encounter beginning at S38 end - nature (threat or ally) unresolved.
+- [[NPCs/Purple Dragonborn\|Purple Dragonborn]] — **S39: RESOLVED (partially).** Confirmed as a direct ancestor of the Stormswallow bloodline. Called Elik'r's name from petrification in the Bane initiation vision (S18); physically encountered and fought (S38–S39). In his final moments passed Elik'r his longsword and gestured to the Stormswallow family banner, with a last charge: _"Do what I could not do, for the sake of our family in the world."_ Body crumbled to stone dust. His name was never stated. The seraph's vision word _"Release"_ and the ancestral legacy he placed on Elik'r remain unresolved obligations.
 - Connected to [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]] (unknown nature of relationship)
 
 **Military Rank:** General of the Right (Session 26 - appointed by [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]])
@@ -52,6 +52,7 @@ Young gold dragonborn Paladin of Vengeance. Has spirit guide Steve (only he can 
 
 - Greataxe (2H) - 1d12 slashing
 - **Hearts Rend** (longsword, 1H) - 1d8 slashing (versatile 1d10); cursed, attuned; can be enhanced with dragon breath skill to add fire damage; charges via self-inflicted damage - see [[General Files/Homebrew#Hearts Rend\|Homebrew#Hearts Rend]]
+- **Stormswallow Longsword** (1H, unnamed - working title) - dark iron blade threaded with ember-red veins; formerly wielded by the [[NPCs/Purple Dragonborn\|Purple Dragonborn]]; resized to Elik'r's proportions upon transfer (S39); properties unidentified
 
 ### Armour
 
@@ -60,6 +61,7 @@ Young gold dragonborn Paladin of Vengeance. Has spirit guide Steve (only he can 
 ### Magic Items
 
 - **Hearts Rend** (longsword, cursed, attuned) - see [[General Files/Homebrew#Hearts Rend\|Homebrew#Hearts Rend]]; charges by dealing damage to Elik'r himself; activates flaming cone attack at 100 HP charged
+- **Key of the Wrong Door** (Session 39) - Gold key with a small green eye set in the bow; once per long rest, insert into any locked door and turn it, then roll 1d6: 1 = door explodes, 2–3 = remains stubbornly locked, 4–5 = opens normally, 6 = opens to a DM-chosen location entirely; does not supersede doors sealed by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s magical lock picks
 - **Mini Steve** (Session 31) - Painted rock with face, physical gift from [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] before departing for [[Locations/Nolunia\|Nolunia]], permanent backpack companion representing spirit guide
 - Massive iridescent scale from unknown sea beast (looted from [[NPCs/Ser Balthazar Thornwood\|Ser Balthazar Thornwood]])
 - **Ornate golden sash** (Session 26 - symbolic item from Princess, marks military rank)
@@ -67,6 +69,7 @@ Young gold dragonborn Paladin of Vengeance. Has spirit guide Steve (only he can 
 ### Other Gear
 
 - Standard adventuring equipment
+- **Stormswallow Family Banner** (Session 39) - Purple dragon bound by chains on a long gold and red wood shaft; had been stored in the [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] ritual chamber; claimed by Elik'r after the [[NPCs/Purple Dragonborn\|Purple Dragonborn]]'s death; the dragonborn gestured to it as _"a symbol of what our job is, what our family's right is to be"_
 
 ### Property
 
@@ -140,10 +143,12 @@ Young gold dragonborn Paladin of Vengeance. Has spirit guide Steve (only he can 
     
 - **[[Sessions/Session 38 - 6 April 2026\|Session 38 - 6 April 2026]]:** Touched an ember fissure in the [[Organisations/Ember Vein\|Ember Vein]] underground complex; received a psychic vision from the seraph - a wingless wyrm in a cavern of embers saying _"Release,"_ followed by a dragonborn lifting an ember-igniting sword, then **his own family banner burning**. Failed Wisdom saving throw (Natural 1), taking 16 psychic damage. When the [[Ember Vein Envoy\|Ember Vein Envoy]] dropped the illusion concealing the ritual chamber's back wall, Elik'r alone recognised his **family crest on the clasp of the ancient purple dragonborn statue**. The statue was subsequently animated; boss encounter unresolved at session end.
     
+- **[[Sessions/Session 39 - 18 April 2026\|Session 39 - 18 April 2026]]:** Fought the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] across two phases; used Vow of Enmity, Wrathful Smite, Hunter's Mark, and two Thunderous Smites (42 damage in a single turn). The dragonborn, dying at his feet, confirmed the ancestral connection directly: _"You carry my line. And yet you undo my sacrifice."_ Passed Elik'r his longsword (which resized on contact) and gestured to the Stormswallow family banner with a final charge: _"Do what I could not do, for the sake of our family in the world."_ Both the longsword and the banner are now in Elik'r's possession. Also recovered the Key of the Wrong Door from a makeshift office chest in the ritual chamber.
+    
 
 ### Character Arc
 
-Young paladin discovering mysterious connections to ancient past. Why does the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] know his name? Carries heavy guilt about [[NPCs/Guy (Elik'r's Squire)\|Guy (Elik'r's Squire)]]'s death and [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s forced killing. Growing as warrior and leader despite psychological burden. **Appointed General of the Right Session 26** - significant military responsibility at age 17.
+Young paladin grappling with an ancient legacy he did not ask for. The [[NPCs/Purple Dragonborn\|Purple Dragonborn]] mystery is resolved — he was a Stormswallow ancestor who bound a wyrm beneath the world at the cost of his own life, and has now placed that unfinished obligation directly on Elik'r. Carries heavy guilt about [[NPCs/Guy (Elik'r's Squire)\|Guy (Elik'r's Squire)]]'s death and [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s forced killing. **Appointed General of the Right Session 26** — significant military responsibility at age 17. Now also holds the family banner and the ancestor's longsword, and must decide what the Stormswallow legacy means in practice.
 
 ### Skills & Abilities
 
@@ -185,8 +190,8 @@ Young paladin discovering mysterious connections to ancient past. Why does the [
 
 - **Unconscious Duration:** 20 hours (longest in party - [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] drew tic-tac-toe on his face)
 - **Bane Sense:** Can sense [[NPCs/The Bane\|The Bane]]'s presence (currently unfocused)
-- **Shared Vision:** Saw [[NPCs/Purple Dragonborn\|Purple Dragonborn]] calling his name specifically - **S38: This figure has now been physically encountered** (see Mysterious Connections above)
-- **Seraph Contact (S38):** Touched an ember fissure in the [[Organisations/Ember Vein\|Ember Vein]] complex; the seraph communicated the word _"Release"_ directly to him - distinct from the message delivered to [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] ("Kill them all"). The seraph's visions also showed Elik'r's family banner burning and a dragonborn wielding an ember-igniting sword. Significance unresolved.
+- **Shared Vision:** Saw [[NPCs/Purple Dragonborn\|Purple Dragonborn]] calling his name specifically - **S39: This figure has now been defeated and confirmed as a Stormswallow ancestor** (see Mysterious Connections above)
+- **Seraph Contact (S38):** Touched an ember fissure in the [[Organisations/Ember Vein\|Ember Vein]] complex; the seraph communicated the word _"Release"_ directly to him - distinct from the message delivered to [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] ("Kill them all"). The seraph's visions also showed Elik'r's family banner burning and a dragonborn wielding an ember-igniting sword. The dragonborn has now been identified; significance of _"Release"_ in broader context remains unresolved.
 
 ---
 
@@ -229,7 +234,7 @@ Young paladin discovering mysterious connections to ancient past. Why does the [
 - Spirit guide Steve (mystery: is it just a rock?)
 - Cape fire incident during parade (comedic moment)
 - Natural 1 deception vs [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] (memorable failure)
-- Ancient connection to [[NPCs/Purple Dragonborn\|Purple Dragonborn]] (major mystery)
+- Ancient connection to [[NPCs/Purple Dragonborn\|Purple Dragonborn]] confirmed as direct ancestor (S39) — passed Elik'r his longsword and the family banner; body crumbled to dust
 - Connection to [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]] (nature unknown)
 - Former cursed ring link to [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]
 - Major friendly fire incident (Session 25) - flame breath killed ~25 allied soldiers alongside enemies

@@ -40,8 +40,6 @@
 
 Main DPS of the party. **Killed Session 22** by assassins in [[Locations/Belendar\|Belendar]] town square ambush (stabbed multiple times, failed all death saves). **Resurrected Session 23** via necromantic ritual led by [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]].
 
-**Physical Location (Session 29):** Pulled into shared dream vision from [[Locations/Belendar\|Belendar]] via mirror portal. Physical body remains in [[Locations/Belendar\|Belendar]], consciousness trapped in Dream Temple with party.
-
 **Resurrection Consequence:** Must take Warlock Level 2 at next advancement (taken Session 26).
 
 **Post-Resurrection Conditions:**
@@ -75,6 +73,7 @@ Boxing champion at [[Locations/Crossroads Inn\|Crossroads Inn]]. Forgave [[Party
 - **Ornate golden sash** (Session 26 - symbolic item from Princess, marks military honour)
 - **Founder's Wand** (Session 27 - reward from Fizwidget Spindleflash) - Simple wand, magical properties unknown (requires Identify), name suggests significance
 - **Wand of Dusk Veil** (Session 36 - purchased for 380 gp, attuned) - Matte-black wand tipped with smoky quartz. 6 charges; recharges 1d4 + 2 at dawn. Spells: _Disguise Self_ (1 charge), _Silent Image_ (1 charge), _Darkness_ (2 charges). Special - _Veil Step_: when casting Darkness from this wand, may immediately move up to 10ft without provoking opportunity attacks.
+- **Coin of Fate** (Session 39) - Tarnished silver coin found on a cultist in the [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]]; once per long rest, when hitting a creature with an attack, flip the coin: heads = target takes double the damage, tails = you take the damage instead.
 
 ### Other Gear
 
@@ -137,22 +136,43 @@ Boxing champion at [[Locations/Crossroads Inn\|Crossroads Inn]]. Forgave [[Party
 **Siege of Belendar (Sessions 16-17):**
 
 - City attacked on all sides (Silven Embrace, Glimmering Vale, Silverdew Crossing, Eldergrove Arch gates)
+    
 - Party defended Silverdew Crossing gate
+    
 - Witnessed [[NPCs/Ser Balthazar Thornwood\|Ser Balthazar Thornwood]] transform into wyvern
+    
 - **Received Balthazar's diary** containing his darkest secrets and death certificates (party members listed with blank dates, [[Party Members/Ser Pas Rata\|Ser Pas Rata]] dated ~1 month ago)
+    
 - [[Sessions/Session 18 - 2 November 2024\|Session 18 - 2 November 2024]] - Survived Bane Watcher initiation. Vision revealed father's death and Black Knight involvement.
+    
 - Won boxing championship at [[Locations/Crossroads Inn\|Crossroads Inn]]
+    
 - **Session 22:** KILLED in [[Locations/Belendar\|Belendar]] town square ambush - stabbed multiple times while unconscious, failed all three death saves, last words "I can take it"
+    
 - **Session 23:** RESURRECTED via necromantic ritual - party entered ethereal plane, witnessed her entire traumatic history, successfully brought her back
+    
 - **Session 23:** Forced to take Warlock Level 2 (game balance)
+    
 - **[[Sessions/Session 25 - 14 June 2025\|Session 25 - 14 June 2025]]:** Temporarily petrified mid-combat after green glow appeared on Aganazzar's Scorcher (31 fire damage). Triggered traumatic village-burning flashback with harsh indiscernible voice. Recovered with natural 20 wisdom save before reaching throne room.
+    
 - **[[Sessions/Session 26 - 16 July 2025\|Session 26 - 16 July 2025]]:** **BANE CORRUPTION SIGNIFICANTLY ADVANCED.** Green sprite manifested during [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]'s test (drink burned like whiskey). [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] warned: "You're further along than I thought." Urged to visit Bane Watcher Citadel immediately for training. Lost all non-magical clothing when magical cake made skin catch fire (no damage). Awarded medal: "Funniest drunk in city" after feast.
+    
 - **[[Sessions/Session 27 - 26 July 2025\|Session 27 - 26 July 2025]]:** Received Founder's Wand from Fizwidget Spindleflash after completing carnival challenges. Won 1000 gold gambling during magical alternate reality (status unclear after reality reset). Lost all clothing and prepared spells temporarily during Fizwidget's challenges (reversed at reality reset).
+    
 - **[[Sessions/Session 29 - 20 September 2025\|Session 29 - 20 September 2025]]:** Pulled into shared dream vision from [[Locations/Belendar\|Belendar]] via mirror portal when [[Party Members/ToooAh\|ToooAh]] reached through showing [[Party Members/Elvva Beltavar\|Elvva Beltavar]] sleeping. Physical body remains in [[Locations/Belendar\|Belendar]] while consciousness joins party in Dream Temple. PTSD distraction significantly affected combat readiness throughout maze exploration (multiple initiative rolls of 3), found at rear of party formation during Khorrak encounter.
+    
 - **[[Sessions/Session 30 - 28 September 2025\|Session 30 - 28 September 2025]]:** In Dream Temple central chamber, solved dragon's riddle requiring demonstration of forgiveness. Told Elik'r: "I forgive you for killing me that one time. It's not your fault anymore. I no longer blame you for my death" - referring to Session 22 Belendar ambush when he failed to save her. Dragon judged forgiveness authentic, eye glowed blue, shed single tear forming **Dragon's Tear gem** (only item from dream that remained upon waking). Major character growth demonstrating ability to let go of blame and move forward. PTSD distraction continued affecting combat performance throughout Khorrak battle. **LEVELLED TO 6** at session end.
+    
 - **[[Sessions/Session 31 - 18 October 2025\|Session 31 - 18 October 2025]]:** Purchased frog from [[NPCs/Seraphine\|Seraphine]]. Spotted huge wolf with humanoid rider watching battle from distant ridge (disappeared when noticed).
+    
 - **[[Sessions/Session 34 - 25 January 2026\|Session 34 - 25 January 2026]]:** Bane corruption pattern confirmed during [[Locations/Moth Queen Cavern\|Moth Queen Cavern]] battle. Held Fireball through two moth bites (passed Constitution saves 19 and 25), spell erupted bright green. Later cast Agonising Scorcher dealing 32 damage to Moth Queen but failed third Wisdom save (rolled 5) - green flames reflected full damage back, knocked unconscious at moment of victory. Pattern established: escalating reflection risk with repeated spellcasting failures.
+    
 - **[[Sessions/Session 36 - 21 February 2026\|Session 36 - 21 February 2026]]:** Purchased [[Party Members/Elvva Beltavar#Magic Items\|Wand of Dusk Veil]] from magical curio shop in [[Locations/Thalas'Miriel\|Thalas'Miriel]] for 380 gp (attuned). Dragon's Breath cast during frost wolf combat manifested as green flame (Bane corruption visible), knocking unconscious an already-wounded [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]. Morning tea left her convinced her hands and feet had been replaced with wooden spoons for 24 hours.
+    
+- **[[Sessions/Session 38 - 6 April 2026\|Session 38 - 6 April 2026]]:** Player absent; character remained seated in the [[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]] throughout the session, held in place by an elderly nun with an inexplicable grip. Took 20 psychic damage from the sermon. Teleported directly into the [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] ritual chamber by the [[Ember Vein Envoy (unnamed)\|Ember Vein Envoy (unnamed)]] at session end, reuniting with the full party.
+    
+- **[[Sessions/Session 39 - 18 April 2026\|Session 39 - 18 April 2026]]:** Participated in the two-phase [[NPCs/Purple Dragonborn\|Purple Dragonborn]] boss fight. Took 28 points of damage (22 slashing, 6 fire) from the dragonborn's sword and was reduced to 1 HP. Used Misty Step to reposition (bonus action), then delivered the killing blow with a Lightning Chromatic Orb at level three — 49 total damage (23 lightning doubled for vulnerability, plus 3 Hex). Acquired the **Coin of Fate** from a cultist's body during the post-combat investigation.
+    
 
 ### Character Arc
 
@@ -311,3 +331,4 @@ Main damage dealer for party. 217 years old with extensive life experience. Carr
 
 - [[General Files/Homebrew#Dragon's Tear Gem\|Homebrew#Dragon's Tear Gem]]
 - [[General Files/Homebrew#Founder's Wand\|Homebrew#Founder's Wand]]
+- [[General Files/Homebrew#Coin of Fate\|Homebrew#Coin of Fate]]

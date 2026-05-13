@@ -54,7 +54,7 @@
 
 ### Weapons
 
-- Twin Blades of the Serpent (see [[General Files/Homebrew#Twin Blades of the Serpent\|Homebrew#Twin Blades of the Serpent]]) - Dual-wielding weapon set, serpent theme matches warg tattoo
+- Twin Blades of the Serpent (see [[General Files/Homebrew#Twin Blades of the Serpent\|Homebrew#Twin Blades of the Serpent]]) — Matched pair of shortswords; dark obsidian-like metal with faint green shimmer; hidden chain mechanism connects blades (up to 10ft); can trip (DC 15 Dex) or disarm (DC 15 Str); Whirling Fang Strike hits all within 10ft (1/rest); critical hits apply Venomous Bite (DC 14 Con or 2d6 poison + poisoned 1 min); Requires Attunement
 - Infinite Radiant Bow (see [[General Files/Homebrew#Infinite Radiant Bow\|Homebrew#Infinite Radiant Bow]]) - magical longbow, infinite ammunition, +1d4 radiant damage
 
 ### Armour

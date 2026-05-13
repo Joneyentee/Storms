@@ -121,13 +121,13 @@ _For standard D&D 5E rules, see [[General Files/Game Mechanics - Reference\|Game
 - Distinct from Bane Sense (passive detection) - this was an active, physical outflow
 - **Note:** The DM's audio confirms "green Bane" not "green vein" - the manifestation is explicitly The Bane
 
-**Ember Fissure Contact (Session 38 — NEW MECHANIC):**
+**Ember Fissure Contact (Session 38 - NEW MECHANIC):**
 
 - Touching an ember fissure in the [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] triggers direct psychic contact from the seraph
 - **Mechanic:** White dice roll determines whether the character receives any vision at all; if contact occurs, a Wisdom saving throw follows
 - **On failed Wisdom save:** Character takes psychic damage (16 observed on Natural 1; 14 observed on dirty 20 insufficient)
-- **Vision content:** Rapid, fragmented psychic imagery — the majority too fast to process; a few distinct images resolve clearly per individual
-- **Individual messages:** The seraph appears to address each person differently — [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] received _"Release"_; [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] received _"Kill them all"_
+- **Vision content:** Rapid, fragmented psychic imagery - the majority too fast to process; a few distinct images resolve clearly per individual
+- **Individual messages:** The seraph appears to address each person differently - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] received _"Release"_; [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] received _"Kill them all"_
 - **External observation:** Nothing visibly happens to the person touching the fissure
 - Mechanic may recur anywhere ember fissures are present
 
@@ -272,7 +272,7 @@ _For standard D&D 5E rules, see [[General Files/Game Mechanics - Reference\|Game
 **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]** - Sorcerer 5/Warlock 1
 
 - 217 years old, Drow
-- Main DPS (currently petrified Session 25)
+- Main DPS
 - Must take Warlock level 2 next opportunity (DM requirement)
 - Dragon's Tear gem
 - Player: Shannon
@@ -322,4 +322,4 @@ _For standard D&D 5E rules, see [[General Files/Game Mechanics - Reference\|Game
 - NPCs → [[General Files/02 NPCs Index\|02 NPCs Index]]
 - Lore context → [[General Files/Lore and Worldbuilding\|Lore and Worldbuilding]]
 
-**Last Updated:** Session 38
+**Last Updated:** Session 39 (stale petrification note removed from Party Composition Reference)

@@ -35,7 +35,7 @@
 ---
 ## Physical Description
 
-**Age:** 120 years old (adult tiefling)  
+**Age:** 20 years old (adult tiefling)  
 **Height:** 5'6" (167 cm) - slightly taller than average  
 **Weight:** 125 lbs  
 **Gender:** Female

@@ -123,39 +123,70 @@
 
 ---
 
-### The Seraph — Ancient Entombed Entity
+### The Seraph - Ancient Entombed Entity
 
 **Nature:**
 
 - A vast, ancient entity entombed beneath an old Caldera, held in a dream-like slumber by a network of subterranean ember fissures (the "veins")
-- Described in [[Organisations/Ember Vein\|Ember Vein]] doctrine as "not crowned in flame, but entombed within it" — the veins are wounds through which it dreams, not chains that bind it
+- Described in [[Organisations/Ember Vein\|Ember Vein]] doctrine as "not crowned in flame, but entombed within it" - the veins are wounds through which it dreams, not chains that bind it
 - Sealing the veins would end its dream and wake it; the veins are kept open deliberately to sustain the slumber
-- Communicates psychically through the ember fissures to those who touch them; delivers individual, targeted messages (see Campaign Mechanics — Ember Fissure Contact)
+- Communicates psychically through the ember fissures to those who touch them; delivers individual, targeted messages (see Campaign Mechanics - Ember Fissure Contact)
 - Physical manifestation suggested as a vast wingless wyrm of enormous scale, moving through the earth itself
 
 **Relationship to [[NPCs/The Bane\|The Bane]]:**
 
-- Possibly separate entities; possibly aspects of the same ancient power — unconfirmed
+- Possibly separate entities; possibly aspects of the same ancient power - unconfirmed
 - The [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] implied the party has caused two distinct awakenings: [[NPCs/The Bane\|The Bane]] (released at campaign start) and the seraph (stirring S38)
-- The [[Organisations/Ember Vein\|Ember Vein]] cult has no documented connection to [[NPCs/The Bane\|The Bane]] — their doctrine concerns only the seraph
+- The [[Organisations/Ember Vein\|Ember Vein]] cult has no documented connection to [[NPCs/The Bane\|The Bane]] - their doctrine concerns only the seraph
 
 **The [[Organisations/Ember Vein\|Ember Vein]]'s Purpose:**
 
 - An ancient organisation dedicated entirely to maintaining the seraph's slumber through sacrifice, ritual, and vigilance at three mapped convergence points beneath the Caldera
-- Internal doctrine holds that both "sustaining" and "feeding" the seraph lead ultimately to its return — containment is all they can achieve
+- Internal doctrine holds that both "sustaining" and "feeding" the seraph lead ultimately to its return - containment is all they can achieve
 - A near-identical containment site confirmed beneath [[Locations/Neverwinter\|Neverwinter]]; scale of the network unknown
 
 **Current Status:**
 
-- Stirring — all four pedestals in the [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] ignited (Session 38); the ground trembling was felt in the ritual chamber
-- The party have been identified as the cause of its stirring, compounding their earlier role in releasing [[NPCs/The Bane\|The Bane]]
+- **The seal is broken (S39)** — the [[NPCs/Purple Dragonborn\|Purple Dragonborn]]'s sacrifice was the active containment mechanism; on his defeat, the wyrm rose from a fissure in the [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] ritual chamber floor and was taken through a Bane-powered portal by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]; current location unknown
+- The [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] in [[Locations/Thalas'Miriel\|Thalas'Miriel]] is now abandoned; the Bane-fire in its fissures extinguished when Pompaduke departed
+- The [[Organisations/Ember Vein\|Ember Vein]] cult's Thalas'Miriel operation is eliminated; whether equivalent sites (e.g., [[Locations/Neverwinter\|Neverwinter]]) remain active is unknown
+- Previously (S38): seraph confirmed stirring; all four pedestals ignited; the party identified as the cause
 
 **Open Questions:**
 
 - Is the seraph the same entity as [[NPCs/The Bane\|The Bane]], or a separate ancient power?
-- What is the "old caldera" — where is it, and is it known to the party?
+- What is the "old caldera" - where is it, and is it known to the party?
 - What happens if it fully wakes?
 - What does "the sky itself may burn" (from recovered [[Organisations/Ember Vein\|Ember Vein]] letter) mean in practice?
+
+---
+
+### The Stormswallow Bloodline
+
+**Status:** Ancient lineage; currently represented by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] | **Confirmed:** Session 39
+
+**Known Lore:**
+
+An ancient dragonborn of purple scale — non-standard colouration, homebrew — sacrificed himself to bind a wyrm beneath the world, burning his name into stone so the seal would hold. His body was entombed as part of the containment, preserved in stone for an unknown number of centuries within the [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] beneath [[Locations/Thalas'Miriel\|Thalas'Miriel]].
+
+[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] is a confirmed direct descendant of this figure. The dragonborn recognised the lineage immediately on sight: _"You carry my line."_
+
+**Family Standard:**
+
+A purple dragon bound by chains on a long gold and red wood shaft. The dragonborn described it as _"a symbol of what our job is, what our family's right is to be"_ — implying a hereditary guardianship role rather than a purely personal sacrifice. The banner was stored in the ritual chamber alongside the statue. It is now in [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s possession.
+
+**The Ancestral Charge (S39):**
+
+The dragonborn's final words to Elik'r were: _"The seal is weakening. You must finish it, before it's too late"_ and _"Do what I could not do, for the sake of our family in the world."_ The nature of "finishing it" — with the wyrm now loose and in [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]'s possession — is unresolved.
+
+**Open Questions:**
+
+- How old is the Stormswallow bloodline, and how many generations separate Elik'r from this ancestor?
+- Was the dragonborn's sacrifice known to the family, or was the knowledge lost over time?
+- What is the full scope of the Stormswallow family's hereditary purpose?
+- Why is the dragonborn purple — a non-standard colouration with no known parallel in current Odessian dragonborn culture?
+
+**Related:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] | [[NPCs/Purple Dragonborn\|Purple Dragonborn]] | [The Seraph - Ancient Entombed Entity](https://claude.ai/chat/2482f2e0-cae1-445b-bd0a-c12f3db27e90#the-seraph---ancient-entombed-entity)
 
 ---
 
@@ -445,11 +476,13 @@
 - How to defeat permanently?
 - What/who is corrupted in [[Locations/Belendar\|Belendar]]?
 
-**Purple Dragonborn:**
+**Purple Dragonborn — ✅ RESOLVED (S39):**
 
-- Who is he? Why knows [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s name?
-- Hero or villain? What if released?
-- Trapped since First Age?
+- Confirmed as a direct ancestor of [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s bloodline — the Stormswallow lineage descends from this figure
+- Sacrificed himself in the ancient past to bind the wyrm beneath the world; was entombed in stone as the seal; body crumbled to dust on defeat
+- Passed his longsword and the Stormswallow family banner to Elik'r with a final charge: _"Do what I could not do, for the sake of our family in the world"_
+- His name was never stated; the full history of his sacrifice is unknown
+- See [[Quests/Quests - Completed#Find the Purple Dragonborn\|Quests - Completed#Find the Purple Dragonborn]] and [[General Files/Lore and Worldbuilding#The Stormswallow Bloodline\|Lore and Worldbuilding#The Stormswallow Bloodline]]
 
 **Skull-Faced Man:**
 
@@ -510,11 +543,13 @@
 
 ## Timeline Summary
 
-**Ancient Era:** First races (dwarves and goliaths) created → Bane corrupts dwarves → Great War → Near-extinction of both races → Dragon gods imprison Bane → Bane Watchers founded
+**Ancient Era:** First races (dwarves and goliaths) created → Bane corrupts dwarves → Great War → Near-extinction of both races → Dragon gods imprison Bane → Bane Watchers founded → A Stormswallow ancestor binds a wyrm beneath Thalas'Miriel at the cost of his own life; entombed in stone as the seal
 
 **Recent History:** Various royal deaths → High King assassinated → Civil war erupts → The Bane released (horn blown) → Riders of the Storm formed and join Bane Watchers
 
-**Current Campaign:** Sessions 1-33, currently mid-civil war during palace siege aftermath
+**Current Campaign:** Sessions 1-39, mid-civil war; northern campaign in progress
 
 - **Session 27:** Fizwidget's 1st intervention (Carnival Realm)
 - **Session 33:** Fizwidget's 2nd intervention (Winter Realm, pattern confirmed)
+- **Session 38:** Ember Vein cult identified; Darius Kain killed; Purple Dragonborn animated
+- **Session 39:** Purple Dragonborn confirmed as Stormswallow ancestor and defeated; seal broken; wyrm risen and taken by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] via Bane portal — now loose in the world

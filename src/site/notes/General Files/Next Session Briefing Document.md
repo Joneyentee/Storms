@@ -2,54 +2,51 @@
 {"dg-publish":true,"permalink":"/general-files/next-session-briefing-document/"}
 ---
 
----
-
-# Session 39 Briefing - Quick Reference
+# Session 40 Briefing - Quick Reference
 
 ## What Happened Last Session
 
-We explored the ancient [[Organisations/Ember Vein\|Ember Vein]] underground complex beneath [[Locations/Thalas'Miriel\|Thalas'Miriel]], discovering it was built by a cult dedicated to keeping a vast sleeping entity — the seraph — contained via a network of ember fissures. We found and read five documents establishing the cult's doctrine, ranks, and chain of command. [[NPCs/Darius Kain\|Darius Kain]] was killed by [[Party Members/ToooAh\|ToooAh]] in the ritual chamber. [[NPCs/Clara\|Clara]] was rescued from the ritual table by [[NPCs/Calen Thorne\|Calen Thorne]]. A mysterious woman in a black and red cloak dropped an illusion at the back of the chamber, revealing an enormous ancient dragonborn statue — bearing **Elik'r's family crest** — which she then animated with a single word. She also teleported [[Party Members/Elvva Beltavar\|Elvva Beltavar]] directly from the [[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]] into the chamber, restored us all to full health and spell slots, and said something cryptic about twice watching us unravel things that were never meant to wake. The session ended with the animated purple dragonborn standing before us, blade in hand.
+We fought the animated [[NPCs/Purple Dragonborn\|Purple Dragonborn]] in a two-phase boss fight and won — but not before [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] appeared mid-combat, played villain music on his lute, and used Bane magic to supercharge the dragonborn into Phase Two. The dragonborn turned out to be a direct ancestor of [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s bloodline, who had sacrificed himself centuries ago to seal a wyrm beneath [[Locations/Thalas'Miriel\|Thalas'Miriel]]. He gave Elik'r his longsword and the Stormswallow family banner before crumbling to dust. The wyrm rose the moment he died — and Pompaduke stepped out of invisibility, said _"Thank you, everyone, for completing the task I needed to do. For me"_, and vanished through a Bane portal with it.
 
-**Our Current Mission:** Survive the encounter with the [[NPCs/Purple Dragonborn\|Purple Dragonborn]], then get out of the underground complex and counter [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]]'s delegation to [[Locations/Neverwinter\|Neverwinter]] before it departs.
+After looting the chamber, we interrogated [[NPCs/Calen Thorne\|Calen Thorne]], who confirmed he's the bastard son of [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] of [[Locations/Neverwinter\|Neverwinter]]. He gave us intelligence on his brothers and the city's Regent, and is considering making a play for the Ducal title. He's promised us an answer by morning. We're currently at his hovel, rested and ready.
+
+**Our Current Mission:** Get to [[Locations/Neverwinter\|Neverwinter]], secure the Duke's allegiance for the Crown Princess, and counter [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]]'s Falcon-aligned delegation before it gets there first.
 
 ---
 
 ## Our Party (Level 6)
 
-|Character|Player|Class|Notes|
+|Character|Player|Class|Notable Gear|
 |---|---|---|---|
-|Ser Tessell Highfrost|Paul|Life Cleric 6|Full health + spell slots (restored by Envoy)|
-|Lady Odonia of Galantri|Annie|Ranger 6|Full health + spell slots|
-|Elik'r Stormswallow|Kieran|Paladin 6|Full health; **family crest on the dragonborn standing in front of us**|
-|ToooAh|Joy|Monk 6|Full health + ki points; killed Darius Kain last session|
-|Elvva Beltavar|Shannon|Sorc 5/Lock 1|Full health; **just teleported in — may need a moment to orient**|
+|[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]|Paul|Life Cleric 6|Chainmail, mace, magical lock picks|
+|[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]|Annie|Ranger 6|Twin Blades of the Serpent, longbow, River (dog)|
+|[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]|Kieran|Paladin of Vengeance 6|Hearts Rend (cursed longsword), **new unnamed longsword (properties unknown)**, greataxe, Stormswallow family banner, Key of the Wrong Door|
+|[[Party Members/ToooAh\|ToooAh]]|Joy|Monk 6|Flight (50ft), Horn of the Winter Gale|
+|[[Party Members/Elvva Beltavar\|Elvva Beltavar]]|Shannon|Sorcerer 5/Warlock 1|Wand of Dusk Veil, Dragon's Tear gem, Coin of Fate|
 
 **Active Conditions We're Dealing With:**
 
-- **Elvva** — Bane corruption CRITICAL; Dragon's Breath now manifests as green Bane flame; reflection pattern active (3rd failed Wisdom save = full damage reflected)
-- **Elik'r** — Psychological curse active: 3 psychic damage if he accidentally harms Elvva
-- **ToooAh** — Dormant Bane command: kill Tessell (trigger conditions unknown)
-- **Odonia** — Dormant Bane command: kill Co'narr (trigger conditions unknown)
-- **Tessell** — Seraph contact (S38): received the message _"Kill them all"_ via ember fissure; significance unknown
-- **Elik'r** — Seraph contact (S38): received the message _"Release"_ — believed to refer to the dragonborn now standing in front of us
+- **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]** — Psychological curse (3 psychic damage when harming [[Party Members/Elvva Beltavar\|Elvva Beltavar]] in combat); missing left pinky finger; ancestral charge from the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] weighing on him
+- **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]** — Bane corruption **CRITICAL**; green glow on offensive spells (third failed Wisdom save = full spell damage reflected back); Dragon's Breath now producing Bane flame; corruption spreading to innate draconic abilities
+- **[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]** — Bane manifested physically through palm (S37); seraph delivered _"Kill them all"_ directly to him (S38); permanent facial scar
+- **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]** — Warg ability (even/odd roll mechanic for control); psychic backlash risk when spirit-bonding with hostile mounts
+- **All Party** — Dormant Bane commands (ToooAh: kill Tessell; Odonia: kill Co'narr; Patriarch Siegfried: betray the mole) — trigger conditions unknown
 
 ---
 
 ## What We're Trying to Do
 
-1. **Survive and resolve the Purple Dragonborn encounter** — is he a threat, an ally, or something in between? The seraph told Elik'r to "release" him and the Envoy animated him for a reason; this may not be a straight fight
-2. **Establish Clara's status and get everyone out** — [[NPCs/Clara\|Clara]] was last seen on the chamber floor; [[NPCs/Calen Thorne\|Calen Thorne]] is with us; [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] and the freed Silver Lanterns are holding the three-staircase junction above us
-3. **Counter Vaelorian's delegation to Neverwinter** — this is still a ticking clock; every session we spend underground is time the [[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]] gains on us diplomatically
+1. **Get [[NPCs/Calen Thorne\|Calen Thorne]]'s answer** on the Ducal claim — this changes our entire approach to [[Locations/Neverwinter\|Neverwinter]] depending on what he says
+2. **Read the sealed scroll** found on [[NPCs/Darius Kain\|Darius Kain]]'s body before we leave — could contain critical intelligence about the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]], the [[Organisations/Ember Vein\|Ember Vein]], or [[Locations/Neverwinter\|Neverwinter]]
+3. **Counter [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]]'s delegation to [[Locations/Neverwinter\|Neverwinter]]** — get there first, or at least ensure it doesn't succeed in turning the Duke against the Crown
 
 ---
 
 ## Where We Are / Where We're Going
 
-**[[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] — Ritual Chamber** — We're at the deepest known point of the complex. The four pedestals are all lit. The ground was trembling when the session ended. The cloaked woman has departed. [[NPCs/Clara\|Clara]] is somewhere on the floor behind us. The [[NPCs/Purple Dragonborn\|Purple Dragonborn]] is in front of us with an ember-veined longsword. This room is now the most dangerous place we have ever been.
+**[[Locations/Thalas'Miriel\|Thalas'Miriel]] — [[NPCs/Calen Thorne\|Calen Thorne]]'s hovel (current):** Long rest taken. Morning is coming. We're waiting on Calen's answer. [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] and the freed Silver Lanterns were last confirmed at the three-staircase junction below the garrison — their status after the wyrm's emergence has not been established; they may need checking on before we leave.
 
-**Exit route** — The left-hand staircase from the three-staircase junction (above us, via the blood-magic door and the necrotic corridor) is believed to lead up to the [[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]]. That is our best-known way out. The right-hand staircase destination remains unknown.
-
-**Next destination** — [[Locations/Thalas'Miriel\|Thalas'Miriel]] surface, then countering the Neverwinter delegation. After that: [[Locations/Neverwinter\|Neverwinter]] to secure [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]'s allegiance for the Crown Princess.
+**[[Locations/Neverwinter\|Neverwinter]] (destination):** Northern Duchy currently in a complicated political situation. [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] is old and incapacitated. His eldest son [[NPCs/Edran Thorne\|Edran Thorne]] (35) is effectively in charge — described as cold-hearted with deep ambition. His second son [[NPCs/Marek Thorne\|Marek Thorne]] (24) has returned with a mercenary company of unknown origin. An unnamed Regent — a Professor from abroad, reportedly wise and very gaudy — holds formal governing authority. The [[Organisations/Iron Finch Company\|Iron Finch Company]] (hired by the Duke) should already be there. [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]]'s delegation is en route or may have already arrived.
 
 ---
 
@@ -57,17 +54,22 @@ We explored the ancient [[Organisations/Ember Vein\|Ember Vein]] underground com
 
 **Immediate Threats:**
 
-- **[[NPCs/Purple Dragonborn\|Purple Dragonborn]]** — twelve feet tall, animated, ember-veined longsword, standing in front of us right now; intention unknown
-- **Seraph stirring** — all four pedestals are lit; the ground was shaking; something is waking beneath the Caldera
-- **[[Organisations/Ember Vein\|Ember Vein]] upper hierarchy** — Inner Ember and High Flame are still at large; they will know what happened here
-- **Vaelorian's Neverwinter delegation** — still departing; still a threat to our northern mission
+- **[[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] + the wyrm** — Bane-powered bard now at large with a wingless dragon; explicit confirmation he engineered our actions; location and intentions unknown; should be treated as a major active threat
+- **Second dragon** — still unaccounted for from an earlier session; two draconic threats now loose in the world simultaneously
+- **[[NPCs/Edran Thorne\|Edran Thorne]]'s ambitions** — the heir apparent is cold and calculating; may not welcome the Crown Princess's agents arriving to court his father's allegiance
+- **[[NPCs/Marek Thorne\|Marek Thorne]]'s mercenary company** — unknown origin and unknown loyalties; his return is recent; could complicate or be leveraged
+- **Vaelorian's delegation** — Falcon-aligned; if it arrives first and succeeds, Neverwinter could side against us
 
-**Things to keep in mind:**
+**Unread / Unidentified Items:**
 
-- The [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] restored us to full strength _and_ said our "first real trial begins" — she appears to want us to succeed at something; this encounter may be a test, not just a fight
-- [[Party Members/Elvva Beltavar\|Elvva Beltavar]] has just teleported in cold; she doesn't know what's been happening; she may need a quick word before anything kicks off
-- [[NPCs/Calen Thorne\|Calen Thorne]]'s mentor found an identical site beneath [[Locations/Neverwinter\|Neverwinter]] — if we're heading there anyway, that connection may matter
-- The Envoy said _"twice now I have seen you unravelling that which was never meant to wake"_ — the first was [[NPCs/The Bane\|The Bane]] (the horn, Session 1); the second is the seraph; we are apparently responsible for both
+- **Sealed scroll (from [[NPCs/Darius Kain\|Darius Kain]])** — read this before doing anything else
+- **Unnamed longsword (from the [[NPCs/Purple Dragonborn\|Purple Dragonborn]])** — dark iron blade with ember-red veins; properties completely unknown; could be significant or dangerous
+- **Blood-Pact Rings (x2)** — nobody has put these on yet; decide who wears them, or whether to use them at all
+
+**Still Unresolved from Thalas'Miriel:**
+
+- [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] and the freed Silver Lanterns — check on them; potential allies, and they're loyal to the Crown
+- [[NPCs/Clara\|Clara]] — safe at the hovel, but what happens to her now?
 
 ---
 
@@ -75,19 +77,17 @@ We explored the ancient [[Organisations/Ember Vein\|Ember Vein]] underground com
 
 **Things we forgot to ask about:**
 
-- What does the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] actually want — has anyone tried just talking to him?
-- Where did the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] go after she snapped her fingers?
-- Is [[NPCs/Clara\|Clara]] conscious and unharmed?
-- What is [[NPCs/Calen Thorne\|Calen Thorne]]'s mentor's name, and are they still alive?
+- What does [[NPCs/Calen Thorne\|Calen Thorne]] actually know about the site beneath [[Locations/Neverwinter\|Neverwinter]] — did his mentor describe it in detail, and does he know if it's still active?
+- Who taught [[NPCs/Calen Thorne\|Calen Thorne]] additional knightly arms alongside his page training — he mentioned it was someone we know
 
 **Decisions we need to make:**
 
-- How do we approach the Purple Dragonborn — combat, diplomacy, or something else?
-- Once we're out: do we confront [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] ("Brother Algrim") about his Bane aura, or leave it?
-- When do we find time for the Bane Watcher Citadel visit — Elvva's corruption is CRITICAL and getting worse
+- **Blood-Pact Rings** — who wears them, if anyone? (Reminder: one wearer drops to 1 HP instead of 0, but the other takes double the original damage)
+- **[[NPCs/Calen Thorne\|Calen Thorne]]'s Ducal play** — if he says yes, how do we support it without openly declaring against Edran or Marek before we've assessed them?
+- **[[NPCs/Ser Alric Vayne\|Ser Alric Vayne]]** — bring him with us to Neverwinter? Leave him in Thalas'Miriel? He's Crown-loyal and knows the Order's internal politics
 
 **Things to follow up on:**
 
-- The sealed Ember Vein letter used the phrase "someone has begun siphoning the heat" from the western fissure — who is doing this, and why?
-- The Envoy said _"what is awakened must be returned"_ — what does "returning" the seraph actually mean in practice?
-- [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] and the freed Silver Lanterns are still holding the junction — what happens to them once we leave?
+- The Bane Watcher Citadel visit — Elvva's corruption is CRITICAL; this keeps getting pushed back
+- The wyrm and [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] — we have no leads yet; does anyone have a way to track either?
+- What does the Stormswallow ancestral charge actually require? _"Do what I could not do"_ — what does finishing the seal mean now that the wyrm is already loose?

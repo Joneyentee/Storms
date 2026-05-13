@@ -5,6 +5,16 @@
 ### Quick reference for epic, funny, and significant moments.
 
 ---
+
+**Session 39 - You Carry My Line** - The [[NPCs/Purple Dragonborn\|Purple Dragonborn]], dying at [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s feet, revealed himself as an ancestor of the Stormswallow bloodline, passed Elik'r his longsword, gestured to the family banner waiting on the wall, and crumbled to stone dust before Elik'r could say a word in return.
+
+**Session 39 - Thank You, Everyone** - [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] materialised from invisibility as the wyrm rose from the floor, performed his customary theatrical bow, announced _"Thank you, everyone, for completing the task I needed to do, for me,"_ and stepped through a Bane portal with the party's dragon before anyone could stop him.
+
+**Session 39 - Sixteen Points of Damage** - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] cast Mass Healing Word on the bloodied party and announced each person could have _"sixteen points of damage"_; the DM let the silence stretch before responding: _"Finally — I hit everybody!"_
+
+**Session 39 - I Will Protect Him** - [[Party Members/ToooAh\|ToooAh]] delivered a speech declaring she owed [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] a debt and would protect him with her life, then immediately spent her ki point to disengage and retreated four squares from the fight.
+
+---
 #### Session 38
 
 **Session 38 - It Is Dreaming Us** - The dead traveller's final journal entry, written after touching an ember fissure in his cell, ended with six words that reframed everything the party thought they understood: _"The seraph does not sleep. It is dreaming us."_

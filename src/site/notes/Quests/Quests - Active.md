@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/quests/quests-active/"}
 ---
 
-**Session 38** | Marshals of the North | 732 troops | War chest access
+**Session 39** | Marshals of the North | 732 troops | War chest access
 
 > [Index](02 Quests Index.md) | **Active** | [On Hold](Quests - On Hold.md) | [Mysteries](Quests - Mysteries.md)
 
@@ -18,23 +18,33 @@
 
 **Current Objectives:**
 
-- [x] ~~FREE TOOOAH from Order of the Silver Lantern garrison~~ (S37 — rescued)
-- [x] ~~ESCAPE hidden passage~~ (S38 — party advanced through into Ember Vein Underground Complex)
-- [x] ~~Retrieve [[Party Members/Elvva Beltavar\|Elvva Beltavar]]~~ (S38 — teleported directly to party by [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]])
-- [ ] **Resolve boss encounter with [[NPCs/Purple Dragonborn\|Purple Dragonborn]]** (S38 cliffhanger — immediate priority)
-- [ ] **Confirm [[NPCs/Clara\|Clara]]'s status** (last seen on ritual chamber floor S38)
-- [ ] **Exit the [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]]** (left-hand staircase to [[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]] is known route)
-- [ ] **Counter Vaelorian's delegation to Neverwinter** before it departs (S36 — ticking clock)
+- [x] ~~FREE TOOOAH from Order of the Silver Lantern garrison~~ (S37 - rescued)
+- [x] ~~ESCAPE hidden passage~~ (S38 - party advanced through into Ember Vein Underground Complex)
+- [x] ~~Retrieve [[Party Members/Elvva Beltavar\|Elvva Beltavar]]~~ (S38 - teleported directly to party by [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]])
+- [x] ~~Resolve boss encounter with [[NPCs/Purple Dragonborn\|Purple Dragonborn]]~~ (S39 - defeated; confirmed Stormswallow ancestor; DECEASED)
+- [x] ~~Confirm [[NPCs/Clara\|Clara]]'s status~~ (S39 - safe; conscious; at [[NPCs/Calen Thorne\|Calen Thorne]]'s hovel)
+- [x] ~~Exit the [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]]~~ (S39 - party at Calen's hovel for long rest)
+- [ ] **Read sealed scroll found on [[NPCs/Darius Kain\|Darius Kain]]** (contents unknown; potential orders)
+- [ ] **Establish [[NPCs/Calen Thorne\|Calen Thorne]]'s decision on Ducal claim** (promised answer by morning)
+- [ ] **Counter Vaelorian's delegation to Neverwinter** before it departs (S36 - ticking clock)
 - [ ] Navigate Thalas'Miriel without breaking party's cover
 - [ ] Travel to Neverwinter
 - [ ] Secure Duke Alaric Thorne's allegiance (key to northern support)
 - [ ] Rally undecided nobles before Falcon faction does
 - [ ] Establish defensive positions
 
-**Session 38 Intelligence — Thalas'Miriel:**
+**Session 39 Intelligence - Thalas'Miriel:**
+
+- [[NPCs/Purple Dragonborn\|Purple Dragonborn]] defeated (two-phase boss); confirmed as direct Stormswallow ancestor; gave [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] his longsword and the family banner; body crumbled to stone dust
+- [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] revealed he engineered the party's actions to obtain the wyrm; departed via Bane portal with it — wyrm now loose in world
+- [[NPCs/Calen Thorne\|Calen Thorne]] confirmed identity as bastard son of [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]; father is old and dying; eldest brother [[NPCs/Edran Thorne\|Edran Thorne]] (35) effectively in charge — cold-hearted, ambitious; middle brother [[NPCs/Marek Thorne\|Marek Thorne]] (24) returned with a mercenary company of unknown origin; Regent is an unnamed Professor from abroad — wise and very gaudy — who rose through court as Duke's condition worsened
+- Sealed scroll recovered from [[NPCs/Darius Kain\|Darius Kain]]'s body (contents unread)
+- [[NPCs/Calen Thorne\|Calen Thorne]] considering Ducal claim; promised answer by morning
+
+**Session 38 Intelligence - Thalas'Miriel:**
 
 - [[NPCs/Darius Kain\|Darius Kain]] confirmed [[Organisations/Ember Vein\|Ember Vein]] operative (Ash Protocol authorised); killed by [[Party Members/ToooAh\|ToooAh]] in ritual chamber
-- [[Organisations/Ember Vein\|Ember Vein]] cult identified — ancient organisation maintaining the slumber of an entity called the seraph via subterranean ember fissures; did not seek to wake it; [[NPCs/Darius Kain\|Darius Kain]] was tasked with silencing outsiders interfering with the western fissure
+- [[Organisations/Ember Vein\|Ember Vein]] cult identified - ancient organisation maintaining the slumber of an entity called the seraph via subterranean ember fissures; did not seek to wake it; [[NPCs/Darius Kain\|Darius Kain]] was tasked with silencing outsiders interfering with the western fissure
 - [[NPCs/Calen Thorne\|Calen Thorne]] identity confirmed = [[NPCs/Brother Calen\|Brother Calen]] (alias); his mentor found a near-identical site in chasms beneath [[Locations/Neverwinter\|Neverwinter]]; brief unexplained green glow observed on him after passing through draconic archway
 - [[NPCs/Clara\|Clara]] found alive in ritual chamber; rescued from ritual table by [[NPCs/Calen Thorne\|Calen Thorne]]; status uncertain at session end
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] teleported into underground chamber from [[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]] by [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]]; full party now reunited
@@ -42,10 +52,10 @@
 - Party restored to full health and spell slots by [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] before boss encounter
 - [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] and freed Silver Lanterns holding three-staircase junction as rearguard
 
-**Session 37 Intelligence — Thalas'Miriel:**
+**Session 37 Intelligence - Thalas'Miriel:**
 
 - [[Party Members/ToooAh\|ToooAh]] rescued; [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] freed alongside approximately 8 imprisoned Silver Lanterns; safehouse location shared for surviving loyalists
-- Green cult symbol on garrison wall activated exclusively by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] via [[NPCs/The Bane\|The Bane]] — party entered [[Locations/Silver Lantern Garrison - Hidden Passage\|Silver Lantern Garrison - Hidden Passage]]
+- Green cult symbol on garrison wall activated exclusively by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] via [[NPCs/The Bane\|The Bane]] - party entered [[Locations/Silver Lantern Garrison - Hidden Passage\|Silver Lantern Garrison - Hidden Passage]]
 - Garrison reinforcements fully alerted (S37); man in torture room locked inside by permanent lockpicks
 
 **Session 36 Intelligence - Thalas'Miriel:**
@@ -81,12 +91,12 @@
 
 **Complications:**
 
-- **[[NPCs/Purple Dragonborn\|Purple Dragonborn]] boss encounter unresolved (S38 cliffhanger)** — nature unknown (threat or ally)
-- **[[NPCs/Clara\|Clara]] status uncertain (S38)** — last seen on ritual chamber floor
-- **Seraph stirring beneath Caldera** — party confirmed as cause; scale of threat unknown
-- **[[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]]** — agenda unknown; may intervene again
+- **Wyrm now loose in the world** — taken by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] through a Bane portal (S39); second dragon also unaccounted for; two draconic threats active
+- **Sealed scroll from [[NPCs/Darius Kain\|Darius Kain]] unread** — contents unknown; may contain critical intelligence
+- **[[NPCs/Calen Thorne\|Calen Thorne]]'s Ducal decision pending** — morning answer promised; his candidacy could reshape Neverwinter approach
+- **[[NPCs/Marek Thorne\|Marek Thorne]] returned with mercenary company** — origin unknown; creates military uncertainty around Neverwinter
 - **Vaelorian's delegation to Neverwinter** — ticking clock, counters party's mission
-- **Lord Pompaduke's "Brother Algrim" identity** — unknown allegiance, Bane aura observed
+- **[[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]'s agenda** — admitted engineering party's actions; location unknown; true allegiance unknown
 - Kingdom 50/50 split (Eagle vs Falcon)
 - Elvva's Bane corruption advancing (may need Citadel visit first)
 - Elik'r's curse active combat threat (triggered Session 30)
@@ -207,14 +217,20 @@
 
 **CRITICAL** | World-ending threat
 
+**Session 39 Updates:**
+
+- **The wyrm is now loose** — bound for centuries beneath [[Locations/Thalas'Miriel\|Thalas'Miriel]] by the [[NPCs/Purple Dragonborn\|Purple Dragonborn]]'s sacrifice; rose from a fissure in the ritual chamber floor when the dragonborn was defeated; taken through a Bane-powered portal by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]; current location unknown
+- **Two draconic threats now unaccounted for** — the wyrm (Pompaduke) and the dragon from an earlier session
+- **[[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]'s Bane connection confirmed** — portal and lute abilities are explicitly Bane-powered; used lute to re-energise the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] into Phase Two mid-combat
+
 **Session 38 Updates:**
 
-- **Seraph contacted [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] directly via ember fissures** — different messages to each: Tessell received _"Kill them all"_; Elik'r received _"Release"_ (in connection with the [[NPCs/Purple Dragonborn\|Purple Dragonborn]]); the seraph appears to address individuals differently and may be a separate entity from [[NPCs/The Bane\|The Bane]] — see [The Seraph — Separate Entity?](Quests - Mysteries.md#the-seraph--separate-entity)
-- **[[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]]** restored entire party including [[Party Members/Elvva Beltavar\|Elvva Beltavar]] to full health and spell slots before boss encounter — nature and affiliation unknown
+- **Seraph contacted [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] directly via ember fissures** - different messages to each: Tessell received _"Kill them all"_; Elik'r received _"Release"_ (in connection with the [[NPCs/Purple Dragonborn\|Purple Dragonborn]]); the seraph appears to address individuals differently and may be a separate entity from [[NPCs/The Bane\|The Bane]] - see [The Seraph - Separate Entity?](Quests - Mysteries.md#the-seraph--separate-entity)
+- **[[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]]** restored entire party including [[Party Members/Elvva Beltavar\|Elvva Beltavar]] to full health and spell slots before boss encounter - nature and affiliation unknown
 
 **Session 37 Updates:**
 
-- **[[NPCs/The Bane\|The Bane]] manifested physically through [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s palm (S37 - CRITICAL)** — flowed from hand into garrison wall to activate green cult symbol, opening hidden passage; retracted into hand as passage sealed; Tessell was the only party member able to sense or trigger the symbol
+- **[[NPCs/The Bane\|The Bane]] manifested physically through [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s palm (S37 - CRITICAL)** - flowed from hand into garrison wall to activate green cult symbol, opening hidden passage; retracted into hand as passage sealed; Tessell was the only party member able to sense or trigger the symbol
 
 **Session 36 Updates:**
 
@@ -241,6 +257,8 @@
 
 **Current Objectives:**
 
+- [ ] **Track/locate the wyrm** (taken by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] via Bane portal S39)
+- [ ] **Determine [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]'s true allegiance and agenda** (Bane-powered abilities confirmed S39)
 - [ ] Visit Citadel URGENT (see above)
 - [ ] Address Elvva's corruption
 - [ ] **Treat Elik'r's active curse** (combat liability when near Elvva)
@@ -303,14 +321,14 @@
 
 ## NEXT SESSION IMMEDIATE PRIORITIES
 
-1. **Resolve encounter with [[NPCs/Purple Dragonborn\|Purple Dragonborn]]** — threat or ally? connected to Elik'r's family?
-2. **Confirm [[NPCs/Clara\|Clara]]'s status** — last seen on ritual chamber floor
-3. **Exit [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]]** — left-hand staircase to [[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]] is known route
-4. **Counter Vaelorian's delegation to Neverwinter** — intercept before departure
-5. **Understand the seraph** — separate entity from [[NPCs/The Bane\|The Bane]]? party confirmed as cause of its stirring
+1. **Receive [[NPCs/Calen Thorne\|Calen Thorne]]'s answer** on the Ducal claim (promised by morning)
+2. **Read the sealed scroll** recovered from [[NPCs/Darius Kain\|Darius Kain]]'s body
+3. **Identify the dragonborn's longsword** now in [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s possession (properties unknown)
+4. **Counter Vaelorian's delegation to [[Locations/Neverwinter\|Neverwinter]]** — ticking clock
+5. **Determine next move toward [[Locations/Neverwinter\|Neverwinter]]** — [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] and freed Silver Lanterns' status post-wyrm unconfirmed
 
 ---
 
-**Last Updated:** Session 38
+**Last Updated:** Session 39
 
 > [Index](02 Quests Index.md) | **Active** | [On Hold](Quests - On Hold.md) | [Mysteries](Quests - Mysteries.md)

@@ -10,11 +10,13 @@
 
 ## Session 38 Mysteries
 
-### The Seraph — Separate Entity?
+### The Seraph - Separate Entity?
 
-**CRITICAL** | [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]], S38
+**CRITICAL** | [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]], S38–S39
 
-**Event:** The party discovered the [[Organisations/Ember Vein\|Ember Vein]] cult exists specifically to maintain the slumber of an ancient entity called the seraph, entombed beneath a Caldera via a network of ember fissures. The seraph communicated directly with [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] ("Release") and [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] ("Kill them all") via the fissures. The [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] stated the party has twice unravelled "that which was never meant to wake" — implying both [[NPCs/The Bane\|The Bane]] and the seraph are separate awakenings caused by the party.
+**S39 Development:** The [[NPCs/Purple Dragonborn\|Purple Dragonborn]]'s dying warning — _"when I fall, the dragon rises"_ — proved immediately accurate: the wyrm rose from a fissure in the ritual chamber floor the moment he was defeated. This confirms the dragonborn's sacrifice had been the active seal holding the wyrm beneath the world, and that the seraph/wyrm and the ritual chamber are directly connected. The Bane-fire in the fissures guttered and died when [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] departed with the wyrm.
+
+**S38 Event:** The party discovered the [[Organisations/Ember Vein\|Ember Vein]] cult exists specifically to maintain the slumber of an ancient entity called the seraph, entombed beneath a Caldera via a network of ember fissures. The seraph communicated directly with [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] ("Release") and [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] ("Kill them all") via the fissures. The [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] stated the party has twice unravelled "that which was never meant to wake."
 
 **Key Questions:**
 
@@ -24,7 +26,7 @@
 - What does it mean for the world if the seraph fully wakes?
 - Is the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] aligned with containing it, or something else entirely?
 
-**Evidence:** Seraph described in cult texts as "entombed in flame, dreaming" — the veins are wounds through which it dreams; sealing them ends the dream and wakes it. The Envoy's closing words imply it is already stirring due to the party's actions.
+**Evidence:** Seraph described in cult texts as "entombed in flame, dreaming" - the veins are wounds through which it dreams; sealing them ends the dream and wakes it. The Envoy's closing words imply it is already stirring due to the party's actions.
 
 **Related:** [The Bane](Quests - Active.md#the-bane) | [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] | [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] | [[NPCs/Purple Dragonborn\|Purple Dragonborn]]
 
@@ -34,78 +36,66 @@
 
 **HIGH** | [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]], S38
 
-**Event:** A woman in [[Organisations/Ember Vein\|Ember Vein]] livery was present in the ritual chamber — but was largely immune to physical attacks, could phase in and out of material existence, dropped a permanent illusion concealing the chamber's back wall, animated the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] with a word, teleported [[Party Members/Elvva Beltavar\|Elvva Beltavar]] from the [[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]] to the underground chamber, and restored the entire party to full health and spell slots with a snap of her fingers. She then addressed the party directly, implying she has observed them across at least two separate incidents of "unravelling."
+**Event:** A woman in [[Organisations/Ember Vein\|Ember Vein]] livery was present in the ritual chamber - but was largely immune to physical attacks, could phase in and out of material existence, dropped a permanent illusion concealing the chamber's back wall, animated the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] with a word, teleported [[Party Members/Elvva Beltavar\|Elvva Beltavar]] from the [[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]] to the underground chamber, and restored the entire party to full health and spell slots with a snap of her fingers. She then addressed the party directly, implying she has observed them across at least two separate incidents of "unravelling."
 
 **Key Questions:**
 
 - What is her race, class, and true name?
-- What is her actual rank within the [[Organisations/Ember Vein\|Ember Vein]] — or is she something else entirely?
-- What are her true intentions? She appears to want the party to _succeed_ — why?
-- What was the first incident she witnessed — the awakening of [[NPCs/The Bane\|The Bane]] at the campaign's start?
+- What is her actual rank within the [[Organisations/Ember Vein\|Ember Vein]] - or is she something else entirely?
+- What are her true intentions? She appears to want the party to _succeed_ - why?
+- What was the first incident she witnessed - the awakening of [[NPCs/The Bane\|The Bane]] at the campaign's start?
 - How was she able to teleport [[Party Members/Elvva Beltavar\|Elvva Beltavar]] across the town and through solid stone?
 - Why animate the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] and then restore the party to full strength?
 
-**Related:** [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] | [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] | [[NPCs/Purple Dragonborn\|Purple Dragonborn]] | [The Seraph — Separate Entity?](https://claude.ai/chat/c0d9ca2d-2d42-4f40-b6bc-5e3021ceab18#the-seraph--separate-entity)
+**Related:** [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] | [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] | [[NPCs/Purple Dragonborn\|Purple Dragonborn]] | [The Seraph - Separate Entity?](https://claude.ai/chat/c0d9ca2d-2d42-4f40-b6bc-5e3021ceab18#the-seraph--separate-entity)
 
 ---
 
 ### Calen Thorne's True Background
 
-**MEDIUM** | [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]], S38
+**LARGELY RESOLVED (S39)** | [[Locations/Thalas'Miriel\|Thalas'Miriel]]
 
-**Event:** [[NPCs/Calen Thorne\|Calen Thorne]] (operating as "Brother Calen") was noticeably calm in the ancient underground complex while all the freed knights were visibly bewildered. He confirmed his mentor discovered a near-identical site in the chasms beneath [[Locations/Neverwinter\|Neverwinter]]. After passing through the draconic archway, a brief unexplained green glow was observed circling him.
+**S39 Resolution:** [[NPCs/Calen Thorne\|Calen Thorne]] confirmed his true identity to the party: bastard son of [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] of [[Locations/Neverwinter\|Neverwinter]], sent away to remain out of sight. Combat training came from a squire and page background at court, plus further instruction from [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]]. He is considering a Ducal claim and promised the party an answer by morning.
 
-**Key Questions:**
+**Remaining Questions:**
 
-- Who was his mentor, and how did they find the Neverwinter site?
-- Does Calen have prior knowledge of the [[Organisations/Ember Vein\|Ember Vein]], or just of this type of structure?
-- What is the source of the green glow — Bane attunement, blood magic, or something else?
-- Is his presence in [[Locations/Thalas'Miriel\|Thalas'Miriel]] truly coincidental, or is he connected to the [[Organisations/Ember Vein\|Ember Vein]] in ways not yet revealed?
+- Who was his mentor who found the near-identical site beneath [[Locations/Neverwinter\|Neverwinter]], and how?
+- What is the source of the green glow observed on him after passing through the draconic archway (S38) — Bane attunement, blood magic, or familial connection to the complex?
 - Does [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] know about the site beneath [[Locations/Neverwinter\|Neverwinter]]?
 
-**Related:** [[NPCs/Calen Thorne\|Calen Thorne]] | [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] | [[Locations/Neverwinter\|Neverwinter]] | [The Bane](Quests - Active.md#the-bane)
+**Related:** [[NPCs/Calen Thorne\|Calen Thorne]] | [[Locations/Neverwinter\|Neverwinter]] | [The Bane](Quests - Active.md#the-bane)
 
 ---
 
 ## Session 37 Mysteries
 
-### Tessell's Bane Connection — The Cult Symbol & The Seraph
+### Tessell's Bane Connection - The Cult Symbol & The Seraph
 
 **CRITICAL** | [[Locations/Silver Lantern Garrison\|Silver Lantern Garrison]], S37 | [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]], S38
 
 **S37 Event:** [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] was the only party member able to sense a green glowing symbol etched into the garrison corridor wall. When he pressed his hand to it, [[NPCs/The Bane\|The Bane]] flowed from his palm into the stonework, opening a hidden passage. [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (both Bane Watchers) could not sense the symbol at all.
 
-**S38 Event:** Tessell touched an ember fissure in the [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]]. The seraph communicated directly — delivering the message _"Kill them all"_ — followed by a vision of figures in black and red cloaks and a woman on a ritual table. The seraph delivered a different message to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] ("Release") — it appears to address individuals specifically.
+**S38 Event:** Tessell touched an ember fissure in the [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]]. The seraph communicated directly - delivering the message _"Kill them all"_ - followed by a vision of figures in black and red cloaks and a woman on a ritual table. The seraph delivered a different message to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] ("Release") - it appears to address individuals specifically.
 
 **Key Questions:**
 
-- Why does [[NPCs/The Bane\|The Bane]] respond to Tessell specifically — and not the other Bane Watchers?
+- Why does [[NPCs/The Bane\|The Bane]] respond to Tessell specifically - and not the other Bane Watchers?
 - Why does the seraph say "Kill them all" to Tessell and "Release" to Elik'r?
-- Is the seraph the same entity as [[NPCs/The Bane\|The Bane]], or a separate ancient power? (See [The Seraph — Separate Entity?](https://claude.ai/chat/c0d9ca2d-2d42-4f40-b6bc-5e3021ceab18#the-seraph--separate-entity))
-- Who created the cult symbol, and how did they know Tessell — or someone like him — would come?
+- Is the seraph the same entity as [[NPCs/The Bane\|The Bane]], or a separate ancient power? (See [The Seraph - Separate Entity?](https://claude.ai/chat/c0d9ca2d-2d42-4f40-b6bc-5e3021ceab18#the-seraph--separate-entity))
+- Who created the cult symbol, and how did they know Tessell - or someone like him - would come?
 - Is this connected to the dormant Bane command [[Party Members/ToooAh\|ToooAh]] carries (kill Tessell)?
 
-**Related:** [The Bane](Quests - Active.md#the-bane) | [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] | [[Locations/Silver Lantern Garrison - Hidden Passage\|Silver Lantern Garrison - Hidden Passage]] | [The Seraph — Separate Entity?](https://claude.ai/chat/c0d9ca2d-2d42-4f40-b6bc-5e3021ceab18#the-seraph--separate-entity)
+**Related:** [The Bane](Quests - Active.md#the-bane) | [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] | [[Locations/Silver Lantern Garrison - Hidden Passage\|Silver Lantern Garrison - Hidden Passage]] | [The Seraph - Separate Entity?](https://claude.ai/chat/c0d9ca2d-2d42-4f40-b6bc-5e3021ceab18#the-seraph--separate-entity)
 
 ---
 
-### What Lies Beneath the Garrison?
+### ✅ What Lies Beneath the Garrison?
 
-**PARTIALLY RESOLVED (S38)** | [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]]
+**FULLY RESOLVED (S39)** | [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]]
 
-**S37 Event:** Hidden passage opened beneath [[Locations/Silver Lantern Garrison\|Silver Lantern Garrison]] basement. Green-flamed lanterns ignited. Passage sealed behind party.
+The complex has been fully explored, the cult eliminated, and the ritual chamber cleared. The wyrm it housed has departed. See [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] for full details.
 
-**S38 Resolution:** The passage connects via a three-staircase junction and a blood-magic sealed archway to the [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] — an ancient underground cult site in active use by the [[Organisations/Ember Vein\|Ember Vein]]. The complex is structurally ancient, predates the garrison, and has a near-identical twin beneath [[Locations/Neverwinter\|Neverwinter]] (confirmed by [[NPCs/Calen Thorne\|Calen Thorne]]). The green-flamed lanterns are Bane-fire; the complex runs on blood magic.
-
-**Remaining Questions:**
-
-- Who built the complex, and when? How old is it?
-- Does the right-hand staircase from the junction exit outside the town — and where exactly?
-- What is the full extent of the complex beyond the ritual chamber?
-- Is there a direct magical relationship between the complex and the [[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]] above? (The [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] teleported [[Party Members/Elvva Beltavar\|Elvva Beltavar]] from cathedral to ritual chamber)
-- How many equivalent sites exist, and where?
-
-**Related:** [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] | [[Locations/Silver Lantern Garrison - Hidden Passage\|Silver Lantern Garrison - Hidden Passage]] | [[NPCs/Calen Thorne\|Calen Thorne]] | [The Bane](Quests - Active.md#the-bane)
+**Remaining Open Thread:** The right-hand staircase destination from the three-staircase junction remains unknown.
 
 ---
 
@@ -133,18 +123,17 @@
 
 ### Lord Pompaduke's True Identity
 
-**HIGH** | Active - party travelling with him
+**HIGH** | At large — whereabouts unknown (S39)
 
-**Situation:** [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] led cathedral worship in [[Locations/Thalas'Miriel\|Thalas'Miriel]] S36 as **"Brother Algrim"** - introduced by the abbot as a guest brother from afar. During service, a **green Bane-like aura rose visibly from his lute**. Party noticed; congregation did not. He did not acknowledge the party during the service.
+**S39 Resolution (partial):** [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] revealed his true agenda openly: he engineered the party's actions throughout — including the sequence of events leading to the wyrm's release — for his own ends. His exact words: _"Thank you, everyone, for completing the task I needed to do. For me."_ He then opened a Bane-powered portal and departed with the wyrm. His lute abilities, portal creation, and combat invisibility are all confirmed as Bane-powered. His "Brother Algrim" identity at the cathedral was a cover used to monitor and influence events.
 
-**Key Questions:**
+**Remaining Key Questions:**
 
-- Is "Brother Algrim" a genuine religious identity, a disguise, or something else?
-- What is his connection to [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]]?
-- Is the Bane aura from his lute a sign of corruption, deliberate use, or his instrument's enchantment?
-- Is he working against the party, alongside the party, or pursuing his own agenda?
-- Are his bardic abilities (portal, enchantment) connected to the Bane?
-- Does he know the party witnessed the aura?
+- What is his ultimate goal with the wyrm?
+- Who or what does he serve — or is he acting alone?
+- How far back does his manipulation of the party go — did he engineer events before Session 35?
+- Is his "Lord Pompaduke the Third" identity genuine or also a persona?
+- What is his connection to the wider Bane threat?
 
 **Related:** [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] | [The Bane](Quests - Active.md#the-bane)
 
@@ -339,25 +328,15 @@
 
 ---
 
-### Find the Purple Dragonborn
+### ✅ Find the Purple Dragonborn
 
-**CRITICAL — ACTIVE ENCOUNTER (S38)** | [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]]
+**RESOLVED (S39)** | See [[Quests/Quests - Completed#Find the Purple Dragonborn\|Quests - Completed#Find the Purple Dragonborn]]
 
-**S18 Event:** 12ft tall purple dragonborn seen petrified in Bane Watcher shared vision, calling out [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s name: _"RELEASE ME, RELEASE ME, ELIK'R STORMSWALLOW!"_
+**S39 Resolution:** Fought and defeated in a two-phase boss fight. Confirmed as a direct Stormswallow ancestor who sacrificed himself to bind the wyrm beneath the world. Passed his longsword and the Stormswallow family banner to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] before crumbling to stone dust. His name was never stated. The ancestral charge placed on Elik'r — _"Do what I could not do, for the sake of our family in the world"_ — remains an active obligation. The wyrm he bound has now risen and is at large.
 
-**S38 Development:** Physically encountered as an ancient stone statue in the ritual chamber of the [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]], bearing **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s family crest on a clasp**. Animated by the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] with the word _"Arise"_. Carries a longsword of dark iron shot through with ember-red veins. The seraph communicated _"Release"_ to Elik'r — believed to refer to this figure. Boss encounter unresolved at S38 end.
+**Remaining Open Thread:** The significance of the seraph's word _"Release"_ delivered to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (S38) in connection with this figure — now that the dragonborn has been released from stone and has died — is unresolved.
 
-**Key Questions:**
-
-- Threat or ally?
-- Why does he bear Elik'r's family crest — and how old is that crest?
-- What is his connection to Elik'r's bloodline?
-- Why did the seraph say "Release" to Elik'r specifically?
-- What side was he on in the ancient war — and against whom?
-- Who petrified him, and why?
-- Who is the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] to have the power to animate him?
-
-**Related:** [[NPCs/Purple Dragonborn\|Purple Dragonborn]] | [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] | [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] | [The Seraph — Separate Entity?](https://claude.ai/chat/c0d9ca2d-2d42-4f40-b6bc-5e3021ceab18#the-seraph--separate-entity)
+**Related:** [[NPCs/Purple Dragonborn\|Purple Dragonborn]] | [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] | [The Seraph - Separate Entity?](https://claude.ai/chat/2482f2e0-cae1-445b-bd0a-c12f3db27e90#the-seraph--separate-entity)
 
 ---
 
@@ -439,9 +418,11 @@
 - Green glow/ooze pattern (consistent manifestation)
 - Dormant commands (when activate?)
 - Elvva's corruption progression (how fast? overflow when?)
-- **Tessell's Bane connection** (S37 — flowed from palm; only one who could sense cult symbol; S38 — seraph said "Kill them all" to him specifically)
-- **Seraph vs The Bane** (S38 — are they the same entity or two separate ancient powers woken by the party?)
-- **Elik'r's family crest on ancient statue** (S38 — how old is that crest? what is the bloodline connection?)
+- **Tessell's Bane connection** (S37 - flowed from palm; only one who could sense cult symbol; S38 - seraph said "Kill them all" to him specifically)
+- **Seraph vs The Bane** (S38-39 - are they the same entity or two separate ancient powers woken by the party?)
+- **Elik'r's Stormswallow ancestral charge** (S39 - dragonborn confirmed as ancestor; longsword and banner passed to Elik'r; "do what I could not do" — what does finishing it require?)
+- **The wyrm at large** (S39 - taken by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] via Bane portal; two draconic threats now unaccounted for)
+- **Lord Pompaduke's Bane agenda** (S39 - abilities confirmed Bane-powered; engineered party's actions; ultimate goal unknown)
 
 **Related Active:** [The Bane](Quests - Active.md#the-bane) | [Visit Citadel](Quests - Active.md#visit-bane-watcher-citadel)
 
@@ -480,7 +461,7 @@
 **Instances:**
 
 1. Ship pursuing Avicia (petrified at sea, child Avicia responsible?)
-2. Purple Dragonborn (12ft tall, calls to Elik'r)
+2. Purple Dragonborn (12ft tall, called Elik'r's name — **released S38, defeated S39; petrification was his sacrificial binding**)
 3. Elvva's temporary petrification (Session 25 - green glow triggered, reversed)
 
 **Questions:**
@@ -490,10 +471,10 @@
 - Bane connection? (Elvva's was green glow)
 - How to reverse permanent petrification?
 
-**Related:** [Avicia](Quests - Active.md#avicias-education-decision) | [Purple Dragonborn](https://claude.ai/chat/dd021a64-dac5-49c9-9637-d1c4a29a9172#find-the-purple-dragonborn) | [The Bane](Quests - Active.md#the-bane)
+**Related:** [Avicia](Quests - Active.md#avicias-education-decision) | [The Bane](Quests - Active.md#the-bane)
 
 ---
 
-**Last Updated:** Session 38
+**Last Updated:** Session 39
 
 > [Index](02 Quests Index.md) | [Active](Quests - Active.md) | [On Hold](Quests - On Hold.md) | **Mysteries**
