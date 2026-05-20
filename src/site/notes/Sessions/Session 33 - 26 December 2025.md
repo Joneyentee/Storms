@@ -14,30 +14,30 @@
 - Party travelling through woods towards [[Locations/Moth Queen Cavern\|Moth Queen Cavern]] when [[NPCs/Fizwidget Spindleflash\|Fizwidget Spindleflash]]'s laughter heard, all lost consciousness
 - Awakened in snowy winter realm, all regressed to teenage years (16-17), stripped of equipment (replaced with fur coats)
 - New companion appeared: [[Party Members/Liora Emberveil\|Liora Emberveil]] (tiefling warlock)
-- [[Party Members/ToooAh\|ToooAh]]'s flight suppressed, [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s torch extinguished instantly by Fizwidget's magic
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]'s flight suppressed, [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s torch extinguished instantly by Fizwidget's magic
 - **Challenge 1: Frozen Lake Escape** - Navigate cracking ice lake to escape pursuing blizzard
     - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] stood on [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s back like surfboard as he shuffled across
-    - [[Party Members/ToooAh\|ToooAh]] cartwheeled, accidentally kicked [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] in head (4 damage)
+    - [[Party Members/Tooo-Ah\|Tooo-Ah]] cartwheeled, accidentally kicked [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] in head (4 damage)
     - [[Party Members/Liora Emberveil\|Liora Emberveil]] had panic attack, cast Misty Step 30ft, then ice-skated smoothly
     - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] and [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] barely escaped cracking ice together
     - Fizwidget shattered ice behind them, glimpse of fin in water below
 - **Challenge 2: 10th Annual Husky Games** - Three-team sled race down mountain to Frostglade village
-    - Teams: Odonia/Liora (pink husky "Faggot and Freddy"), Elik'r/Elvva ("Tony and Dancer"), ToooAh/Tessell ("Donner and Blitzen")
+    - Teams: Odonia/Liora (pink husky "Faggot and Freddy"), Elik'r/Elvva ("Tony and Dancer"), Tooo-Ah/Tessell ("Donner and Blitzen")
     - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] cast illusion creating fake snow mounds, [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] firebolted sleds
     - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s firebolt set [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s sled on fire
     - [[Party Members/Liora Emberveil\|Liora Emberveil]] flew from sled, somersaulted around branch, landed back in (Acrobatics 21)
     - [[Party Members/Liora Emberveil\|Liora Emberveil]] lobbed snowball into [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s face whilst putting out fire
-    - **WINNERS:** 1st - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] & [[Party Members/Liora Emberveil\|Liora Emberveil]], 2nd - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] & [[Party Members/Elvva Beltavar\|Elvva Beltavar]], 3rd - [[Party Members/ToooAh\|ToooAh]] & [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]
+    - **WINNERS:** 1st - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] & [[Party Members/Liora Emberveil\|Liora Emberveil]], 2nd - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] & [[Party Members/Elvva Beltavar\|Elvva Beltavar]], 3rd - [[Party Members/Tooo-Ah\|Tooo-Ah]] & [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]
 - **Frostglade Village Arrival** - Met by Pip and Palla (snow sprite children), Clausonick (elder), and Jack Frost (Frost Baker)
 - **Jack Frost's Magical Pastries** - Each party member ate magical treat with random effects (1 hour duration):
     - [[Party Members/Liora Emberveil\|Liora Emberveil]]: Yeti Fetti Cupcake (+10 Strength on all checks/saves)
     - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Icicle Éclair (disadvantage on Intelligence checks, 25% wrong cantrip, must shout "DRAGONS ARE VEGETARIANS!" and whisper "You're worth it")
     - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Fruitcake of Eternal Re-gifting (must constantly eat fruitcake or attack nearest person)
-    - [[Party Members/ToooAh\|ToooAh]]: Blizzard Bagel (personal snowstorm, +10 Intimidation, -10 Stealth, -5 Dexterity/Perception, reduced hearing)
+    - [[Party Members/Tooo-Ah\|Tooo-Ah]]: Blizzard Bagel (personal snowstorm, +10 Intimidation, -10 Stealth, -5 Dexterity/Perception, reduced hearing)
     - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Pretzel of Polar Pact (shoulder polar bear offering advice, must compliment or it cries)
     - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: Croissant of Perpetual Slippiness (disadvantage Acrobatics/Sleight of Hand, slide 10ft after dashing, constantly drop items)
 - **Challenge 3: Snowball Fight Tournament** (3v3 in village centre arena)
-    - Team 1 (Winners): [[Party Members/ToooAh\|ToooAh]], [[Party Members/Liora Emberveil\|Liora Emberveil]], [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
+    - Team 1 (Winners): [[Party Members/Tooo-Ah\|Tooo-Ah]], [[Party Members/Liora Emberveil\|Liora Emberveil]], [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
     - Team 2: [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[Party Members/Elvva Beltavar\|Elvva Beltavar]]
 - Session recording ended before realm departure
 
@@ -48,7 +48,7 @@
 - **[[Party Members/Liora Emberveil\|Liora Emberveil]]** (TEMPORARY) - Tiefling warlock (5'6"), appeared in realm alongside party
     - Participated in all challenges
     - Won husky race (1st place with [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]])
-    - Won snowball tournament (Team 1 with [[Party Members/ToooAh\|ToooAh]] and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]])
+    - Won snowball tournament (Team 1 with [[Party Members/Tooo-Ah\|Tooo-Ah]] and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]])
     - Status uncertain: permanent addition or temporary companion?
 
 ---
@@ -101,7 +101,7 @@ After arriving in Frostglade village, Jack Frost (the Frost Baker) served each p
 - If not eating, intense rage builds
 - If rage not controlled, must attack nearest person
 
-**[[Party Members/ToooAh\|ToooAh]] (rolled 9)** - Blizzard Bagel (dense bagel dusted with arcane frost-salt)
+**[[Party Members/Tooo-Ah\|Tooo-Ah]] (rolled 9)** - Blizzard Bagel (dense bagel dusted with arcane frost-salt)
 
 - Personal snowstorm swirls around constantly
 - Hearing very reduced (people must shout to be heard)
@@ -146,7 +146,7 @@ After arriving in Frostglade village, Jack Frost (the Frost Baker) served each p
 
 - **1st Place:** [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] & [[Party Members/Liora Emberveil\|Liora Emberveil]] (pink husky team)
 - **2nd Place:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] & [[Party Members/Elvva Beltavar\|Elvva Beltavar]]
-- **3rd Place:** [[Party Members/ToooAh\|ToooAh]] & [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]
+- **3rd Place:** [[Party Members/Tooo-Ah\|Tooo-Ah]] & [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]
 
 **Race Mechanics:**
 
@@ -157,7 +157,7 @@ After arriving in Frostglade village, Jack Frost (the Frost Baker) served each p
 **Key Moments:**
 
 - Round 1: [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] & [[Party Members/Elvva Beltavar\|Elvva Beltavar]] Nat 20 (Speed), took early lead
-- Round 2: Three paths chosen - rocky right (Elik'r/Elvva), woods centre (Odonia/Liora), misty right (ToooAh/Tessell)
+- Round 2: Three paths chosen - rocky right (Elik'r/Elvva), woods centre (Odonia/Liora), misty right (Tooo-Ah/Tessell)
 - [[Party Members/Liora Emberveil\|Liora Emberveil]] knocked from sled, somersaulted around branch, landed back in (Acrobatics 21)
 - Round 3: Glacier with falling icicles, [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] & [[Party Members/Elvva Beltavar\|Elvva Beltavar]] hit icicle (DC 14 save met)
 - Round 4: [[Party Members/Elvva Beltavar\|Elvva Beltavar]] cast illusion (fake snow mounds), [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] firebolted sleds
@@ -171,7 +171,7 @@ After arriving in Frostglade village, Jack Frost (the Frost Baker) served each p
 
 **Teams:**
 
-- **Team 1 (Winners):** [[Party Members/ToooAh\|ToooAh]], [[Party Members/Liora Emberveil\|Liora Emberveil]], [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
+- **Team 1 (Winners):** [[Party Members/Tooo-Ah\|Tooo-Ah]], [[Party Members/Liora Emberveil\|Liora Emberveil]], [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
 - **Team 2:** [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[Party Members/Elvva Beltavar\|Elvva Beltavar]]
 
 **Rules:**
@@ -185,22 +185,22 @@ After arriving in Frostglade village, Jack Frost (the Frost Baker) served each p
 - [[Party Members/Liora Emberveil\|Liora Emberveil]]: +10 Strength
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Disadvantage Intelligence, 25% wrong cantrip, shouts "DRAGONS ARE VEGETARIANS!" randomly
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Must constantly eat fruitcake or attack nearest person
-- [[Party Members/ToooAh\|ToooAh]]: Personal snowstorm (+10 Intimidation, -10 Stealth, -5 Dex/Perception, reduced hearing)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Personal snowstorm (+10 Intimidation, -10 Stealth, -5 Dex/Perception, reduced hearing)
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Shoulder polar bear offering advice
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: Disadvantage Acrobatics/Sleight of Hand, constantly drops items, slides 10ft extra
 
 **Key Moments:**
 
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] stunned (effect initially forgotten, then corrected)
-- [[Party Members/ToooAh\|ToooAh]] used hero token to knock out [[Party Members/Elvva Beltavar\|Elvva Beltavar]]
-- [[Party Members/ToooAh\|ToooAh]] attempted intimidation on [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (failed - Wisdom save 12)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] used hero token to knock out [[Party Members/Elvva Beltavar\|Elvva Beltavar]]
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] attempted intimidation on [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (failed - Wisdom save 12)
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] eliminated by [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]
-- [[Party Members/ToooAh\|ToooAh]] spent chi point for dodge action
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] spent chi point for dodge action
 - [[Party Members/Liora Emberveil\|Liora Emberveil]] knocked out [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (final blow, Strength 25 and 18 rolls)
 
 **Elimination Order:**
 
-1. [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (knocked out by [[Party Members/ToooAh\|ToooAh]])
+1. [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (knocked out by [[Party Members/Tooo-Ah\|Tooo-Ah]])
 2. [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (knocked out by [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]])
 3. [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (details not recorded)
 4. [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (knocked out by [[Party Members/Liora Emberveil\|Liora Emberveil]])
@@ -211,7 +211,7 @@ After arriving in Frostglade village, Jack Frost (the Frost Baker) served each p
 - Strength checks to compact and throw heavy snowballs
 - Strength saving throws to avoid being knocked out
 - Hero tokens and chi points functional
-- Dodge actions available (standard or chi point for [[Party Members/ToooAh\|ToooAh]])
+- Dodge actions available (standard or chi point for [[Party Members/Tooo-Ah\|Tooo-Ah]])
 
 ---
 
@@ -233,11 +233,11 @@ After arriving in Frostglade village, Jack Frost (the Frost Baker) served each p
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] grabbed [[Party Members/Liora Emberveil\|Liora Emberveil]]'s horn to wake her
 - Character introductions took ~30 minutes (party describing themselves to new player)
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] immediately mentioned her death by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: "I've died because of him... but we've forgiven him"
-- [[Party Members/ToooAh\|ToooAh]] attempting to fly but being magically grounded
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] attempting to fly but being magically grounded
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s torch blowing out instantly
 - Fizwidget's voice: "You all look cold, you won't need these" as equipment vanished
 - **Elvva Surfs Elik'r** - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] stood on [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s back like surfboard whilst he shuffled across frozen lake on stomach
-- [[Party Members/ToooAh\|ToooAh]] cartwheeled across lake, accidentally kicked [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] in head (4 damage)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] cartwheeled across lake, accidentally kicked [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] in head (4 damage)
 - [[Party Members/Liora Emberveil\|Liora Emberveil]] had panic attack, cast Misty Step 30ft ahead whilst [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] tried to slap her
 - [[Party Members/Liora Emberveil\|Liora Emberveil]] smoothly ice-skated past struggling [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] with just a look (rolled even/10)
 - Fizwidget shattered ice revealing glimpse of creature with fin beneath lake
@@ -248,7 +248,7 @@ After arriving in Frostglade village, Jack Frost (the Frost Baker) served each p
 - **Jack Frost's Magical Pastries** - Random effects including +10 Strength, brain-freeze forcing "DRAGONS ARE VEGETARIANS!" shouts, eternal fruitcake, personal blizzard, needy polar bear, and perpetual slippiness
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] shouted "DRAGONS ARE VEGETARIANS!" then whispered "You're worth it" to someone
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s shoulder polar bear offered advice and needed compliments or would cry
-- Snowball fight stun effect forgotten, [[Party Members/ToooAh\|ToooAh]]: "Always saving you, Elik'r"
+- Snowball fight stun effect forgotten, [[Party Members/Tooo-Ah\|Tooo-Ah]]: "Always saving you, Elik'r"
 - [[Party Members/Liora Emberveil\|Liora Emberveil]]'s consistently high Strength rolls (25, multiple 18s) due to +10 Strength buff
 - "Good job team mate" exchange after Team 1 victory
 

@@ -12,7 +12,7 @@
 
 Party regrouped in underground tavern after [[Sessions/Session 22 - 15 March 2025\|Session 22 - 15 March 2025]] attacks:
 
-- [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and [[Party Members/ToooAh\|ToooAh]] arrived with wounded Ser Silvar's Maître d'
+- [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and [[Party Members/Tooo-Ah\|Tooo-Ah]] arrived with wounded Ser Silvar's Maître d'
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] unconscious, carried by [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s body brought to hideout
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] arrived battered (bruised eyes, slashed lip) with [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]
@@ -60,8 +60,8 @@ Witnessed young [[Party Members/Elvva Beltavar\|Elvva Beltavar]] in ancient batt
 **Bane Influence Attempt:**
 
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] took 2 points psychic damage (failed save)
-- [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[Party Members/ToooAh\|ToooAh]], [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] heard specific commands:
-    - **ToooAh**: "Kill him" with image of [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]
+- [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[Party Members/Tooo-Ah\|Tooo-Ah]], [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] heard specific commands:
+    - **Tooo-Ah**: "Kill him" with image of [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]
     - **Odonia**: "Kill her" with image of [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]
     - **Patriarch**: "Betray the mole" with undisclosed image
 - All three took 5 points psychic damage
@@ -95,7 +95,7 @@ Witnessed [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s captivity and tortu
 
 - Falling through void, lashed by vines turning to iron chains
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] took 10 points slashing damage, blinded for one hour (whipped across face, permanent scar unless healed)
-- [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[Party Members/ToooAh\|ToooAh]], [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] took 3 points bludgeoning damage
+- [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[Party Members/Tooo-Ah\|Tooo-Ah]], [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] took 3 points bludgeoning damage
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] avoided damage (rolled 16)
 
 ### Fourth Vision - The Immortality
@@ -162,7 +162,7 @@ Transported to volcanic plane with lava pools:
 
 **Round 1:**
 
-- [[Party Members/ToooAh\|ToooAh]] flew up, launched 3 Dart of Feathers at [[Party Members/Elvva Beltavar\|Elvva Beltavar]] and wolf
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] flew up, launched 3 Dart of Feathers at [[Party Members/Elvva Beltavar\|Elvva Beltavar]] and wolf
 - 2 hit [[Party Members/Elvva Beltavar\|Elvva Beltavar]], turned to green mist on impact
 - Wolf leaped through lava, breathed fire cone
     - [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] took 19 fire damage
@@ -174,7 +174,7 @@ Transported to volcanic plane with lava pools:
 - [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] used Catapult with boulder - 32 damage to wolf
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] cast Guiding Bolt (partially sighted from injury) - 16 radiant damage, killed wolf
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] used Lay on Hands on self, restored 20 HP
-- [[Party Members/ToooAh\|ToooAh]] attempted to grapple green wisp (failed - hands passed through mist)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] attempted to grapple green wisp (failed - hands passed through mist)
 
 ### The Dragon Emerges
 
@@ -182,7 +182,7 @@ Possessed [[Party Members/Elvva Beltavar\|Elvva Beltavar]] summoned massive gree
 
 - Approximately 10 times [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]'s size
 - Dragon from earlier vision that "swallowed" party members
-- Vision went black for [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]], and [[Party Members/ToooAh\|ToooAh]]
+- Vision went black for [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]], and [[Party Members/Tooo-Ah\|Tooo-Ah]]
 
 ---
 ## The Final Confrontation
@@ -303,7 +303,7 @@ Tavern under siege:
 **New Critical Threat:**
 
 - Bane planted commands in three party members:
-    - [[Party Members/ToooAh\|ToooAh]] commanded to kill [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]
+    - [[Party Members/Tooo-Ah\|Tooo-Ah]] commanded to kill [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]
     - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] commanded to kill [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]
     - [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] commanded to "betray the mole" (target unknown)
 - Commands dormant but may activate
@@ -374,7 +374,7 @@ Tavern under siege:
 - Various tears to clothing
 - Fought [[NPCs/Thalas\|Thalas]] before rejoining party
 
-**[[Party Members/ToooAh\|ToooAh]]:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]:**
 
 - Wings singed (10 fire damage)
 - Bane command planted: Kill [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]
@@ -417,7 +417,7 @@ Tavern under siege:
 
 **Session 23** - [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] - Catapulted boulder at hellhound for 32 damage, successfully led party through ethereal planes, apparently sacrificed himself to resurrect [[Party Members/Elvva Beltavar\|Elvva Beltavar]] - now unconscious with no vital signs.
 
-**Session 23** - [[Party Members/ToooAh\|ToooAh]] - Dart of Feathers turned possessed [[Party Members/Elvva Beltavar\|Elvva Beltavar]] to green mist when they struck, wings caught fire for 10 damage in volcanic plane, now has Bane command to kill [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] planted in mind.
+**Session 23** - [[Party Members/Tooo-Ah\|Tooo-Ah]] - Dart of Feathers turned possessed [[Party Members/Elvva Beltavar\|Elvva Beltavar]] to green mist when they struck, wings caught fire for 10 damage in volcanic plane, now has Bane command to kill [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] planted in mind.
 
 **Session 23** - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] - Arrived bloodied from fighting [[NPCs/Thalas\|Thalas]] the Black Knight in throne room during king's assassination, has Bane command to kill [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] planted in mind.
 
@@ -442,7 +442,7 @@ Tavern under siege:
 - [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]'s condition - can he be saved?
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s mental state after resurrection and possession
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s curse - voice in his head
-- Dormant Bane commands in [[Party Members/ToooAh\|ToooAh]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], and possibly [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]
+- Dormant Bane commands in [[Party Members/Tooo-Ah\|Tooo-Ah]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], and possibly [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]
 - [[NPCs/High King Everglade\|High King Everglade]]'s body location
 - [[NPCs/Thalas\|Thalas]]'s current whereabouts after throne room attack
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s secret mission for [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]]

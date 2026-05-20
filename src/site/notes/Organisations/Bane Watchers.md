@@ -442,7 +442,7 @@ Ability improves with time, training, and experience
 | [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] | 6 | Unknown stage (Session 30 leveled) |
 | [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] | 6 | Dormant command (kill Co'narr), **NEW: Warg ability from corrupted ooze** |
 | [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] | 6 | **Psychological curse ACTIVE (triggered Session 30)** |
-| [[Party Members/ToooAh\|ToooAh]] | 6 | Dormant command (kill Tessell) |
+| [[Party Members/Tooo-Ah\|Tooo-Ah]] | 6 | Dormant command (kill Tessell) |
 | [[Party Members/Elvva Beltavar\|Elvva Beltavar]] | 6 (Sorc 5/Lock 1) | Stage 3 - Sprite manifestation, **possesses Dragon's Tear gem** |
 
 **Dual Mission:**
@@ -576,7 +576,7 @@ Ability improves with time, training, and experience
 **Tactical Limitations:**
 - Bane Sense unfocused (overwhelming)
 - Limited training (need Citadel)
-- Dormant commands in members (ToooAh, Odonia, Patriarch)
+- Dormant commands in members (Tooo-Ah, Odonia, Patriarch)
 - Psychological vulnerabilities (curses, trauma)
 - Advanced corruption (Elvva - Stage 3)
 

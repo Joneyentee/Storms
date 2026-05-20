@@ -19,7 +19,7 @@
 |**Overall Commander**|[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]|General of the North|Military command, Royal Advisor|
 |**Field Leader**|[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]|General of the Left|Tactical leadership, healing|
 |**Second Commander**|[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]|General of the Right|Frontline combat|
-|**Mobile Commander**|[[Party Members/ToooAh\|ToooAh]]|Chariot General|Reconnaissance, mobility|
+|**Mobile Commander**|[[Party Members/Tooo-Ah\|Tooo-Ah]]|Chariot General|Reconnaissance, mobility|
 |**Specialist**|[[Party Members/Elvva Beltavar\|Elvva Beltavar]]|Sorcerer/Warlock|Main DPS, **Bane corruption concern**|
 
 ### Military Forces (Updated Session 32)
@@ -165,7 +165,7 @@
 |[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]|General of the Left|Life Cleric 6|Knighted Session 26, necrotic hand wound|
 |[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]|General of the North|Ranger 6|Lady of Sylobelle, Royal Advisor|
 |[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]|General of the Right|Paladin 6|Psychological curse, age 17, Guy's death|
-|[[Party Members/ToooAh\|ToooAh]]|Chariot General|Monk 6|Avicia's guardian, magical bean in bag|
+|[[Party Members/Tooo-Ah\|Tooo-Ah]]|Chariot General|Monk 6|Avicia's guardian, magical bean in bag|
 |[[Party Members/Elvva Beltavar\|Elvva Beltavar]]|Specialist|Sorc 5/Lock 1|**CRITICAL: Advanced Bane corruption**|
 
 ### Organization-Specific Notes
@@ -197,7 +197,7 @@
 
 **Compromised Capabilities:**
 
-- Dormant Bane commands in ToooAh (kill Tessell) and Odonia (kill Co'narr)
+- Dormant Bane commands in Tooo-Ah (kill Tessell) and Odonia (kill Co'narr)
 - Elik'r's psychological curse ("It's your fault")
 - Elvva's petrification risk (main DPS vulnerability)
 - Recent trauma affecting multiple members
@@ -221,14 +221,14 @@
 |Unnamed Squire|Squire (secondary)|Elik'r Stormswallow|Active, combat-capable|
 |[[NPCs/Ser Garet of the Wildlands\|Ser Garet of the Wildlands]]|Knight → Commander|Elik'r Stormswallow|Promoted Session 26|
 |River|Rottweiler|Lady Odonia|Active|
-|[[NPCs/Avicia\|Avicia]]|Rightful heir (secret)|ToooAh (adoptive parent)|Safe in Belendar, magical prodigy|
+|[[NPCs/Avicia\|Avicia]]|Rightful heir (secret)|Tooo-Ah (adoptive parent)|Safe in Belendar, magical prodigy|
 
 **Note on Avicia:**
 
 - True identity: Rightful heir to throne (superior legal claim)
 - Secret known only to party + Patriarch Siegfried
 - Party sworn to protect identity
-- ToooAh acts as adoptive parent
+- Tooo-Ah acts as adoptive parent
 - Educational decision pending (continue mage training vs accompany party)
 
 ---
@@ -291,7 +291,7 @@
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] resurrected (necromantic ritual)
 - [[NPCs/High King Everglade\|High King Everglade]] assassinated by [[NPCs/Thalas\|Thalas]]
 - Civil war erupted
-- Bane commands planted (ToooAh, Odonia, Patriarch)
+- Bane commands planted (Tooo-Ah, Odonia, Patriarch)
 - **Party leveled to 6**
 
 **Session 24 - Palace Siege:**
@@ -464,9 +464,9 @@
 
 1. **Elik'r:** Psychological curse, Guy's death, young age (17)
 2. **Elvva:** Advanced Bane corruption, temporary petrification risk
-3. **ToooAh:** Dormant command (kill Tessell), Avicia's safety/education
+3. **Tooo-Ah:** Dormant command (kill Tessell), Avicia's safety/education
 4. **Odonia:** Dormant command (kill Co'narr), assassination secret
-5. **Tessell:** Targeted by ToooAh's command, necrotic hand wound
+5. **Tessell:** Targeted by Tooo-Ah's command, necrotic hand wound
 
 ---
 
@@ -477,7 +477,7 @@
 - **Strategic Command:** Lady Odonia (General of the North)
 - **Tactical Field Command:** Ser Tessell (General of the Left)
 - **Frontline Command:** Elik'r (General of the Right)
-- **Mobile/Scout Command:** ToooAh (Chariot General)
+- **Mobile/Scout Command:** Tooo-Ah (Chariot General)
 - **Fire Support:** Elvva (magical specialist)
 
 ### Combat Roles
@@ -485,12 +485,12 @@
 - **Tank/Frontline:** Elik'r, Tessell
 - **Healer/Support:** Tessell
 - **Main DPS:** Elvva (when not petrified)
-- **Scout/Mobility:** ToooAh (flight 50ft)
+- **Scout/Mobility:** Tooo-Ah (flight 50ft)
 - **Ranged/Versatile:** Odonia (bow/blades, warg ability)
 
 ### Tactical Advantages
 
-- Aerial reconnaissance (ToooAh)
+- Aerial reconnaissance (Tooo-Ah)
 - Powerful healing (Tessell)
 - Main DPS capabilities (Elvva)
 - Warg ability (Odonia - infiltration/espionage)
@@ -546,7 +546,7 @@
 - Crown of the Skie Rune (Tessell)
 - Psychic Link Rings (Tessell & Elik'r)
 - Twin Blades of the Serpent (Odonia)
-- Magical tea (ToooAh - d100 effects)
+- Magical tea (Tooo-Ah - d100 effects)
 - Steve the rock (Elik'r - spirit guide)
 - Permanent Lockpicks (Tessell - locks permanently)
 
@@ -580,7 +580,7 @@
 - Known for creative problem-solving
 - **Tessell:** Famous for face-planting charges
 - **Elik'r:** Cape caught fire during Belendar parade
-- **ToooAh:** Terminal velocity experiments
+- **Tooo-Ah:** Terminal velocity experiments
 - **Elvva:** Bareknuckle boxing champion
 - **Odonia:** Shot gnome in eye (Barry's revenge)
 
@@ -628,7 +628,7 @@
 - **[[Organisations/Gnome Army\|Gnome Army]]:** Barry's revenge plot, tracking party
 - **[[NPCs/Emperor Vladier Drakonhart\|Emperor Vladier Drakonhart]]:** Personal grudge, hostile empire
 - **Bane Corruption:** Progressive, advancing in Elvva
-- **Dormant Commands:** Could activate (ToooAh, Odonia, Patriarch)
+- **Dormant Commands:** Could activate (Tooo-Ah, Odonia, Patriarch)
 
 ### Existential Threats
 
@@ -692,11 +692,11 @@
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (member, General of North, Royal Advisor)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (member, General of Left)
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (member, General of Right)
-- [[Party Members/ToooAh\|ToooAh]] (member, Chariot General)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] (member, Chariot General)
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (member, advanced Bane corruption)
 - [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] (mentor, Bane Watcher leader)
 - [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]] (advisor, strategic guidance)
-- [[NPCs/Avicia\|Avicia]] (rightful heir, ToooAh's adopted child)
+- [[NPCs/Avicia\|Avicia]] (rightful heir, Tooo-Ah's adopted child)
 
 **Related Locations:**
 

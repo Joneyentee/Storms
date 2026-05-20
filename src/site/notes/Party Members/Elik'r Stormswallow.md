@@ -85,7 +85,7 @@ Young gold dragonborn Paladin of Vengeance. Has spirit guide Steve (only he can 
 
 - Leader: [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (Ser Tessell, General of the Left)
 - Guilt connection: [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (Session 22 - failed to save her during Belendar ambush leading to her death, Session 30 - she forgave him genuinely calling it "not your fault anymore," he accepted but still feels responsible "factually incorrect," relationship healing but self-forgiveness remains impossible, curse triggers when harming her)
-- Fellow party members: [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (Lady of [[Locations/Sylobelle\|Sylobelle]], General of the North - his overall commander), [[Party Members/ToooAh\|ToooAh]] (Chariot General)
+- Fellow party members: [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (Lady of [[Locations/Sylobelle\|Sylobelle]], General of the North - his overall commander), [[Party Members/Tooo-Ah\|Tooo-Ah]] (Chariot General)
 - **Military Command Structure:** General of the Right under [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s overall command
 
 ### NPCs

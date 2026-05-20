@@ -79,7 +79,7 @@ Four main gates, each assigned a letter in the coded correspondence found during
 - Hooded figures guarding warehouses
 - Party investigated on Crown Princess's orders (large bag of gold reward)
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] created dancing lights distraction
-- [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] and [[Party Members/ToooAh\|ToooAh]] infiltrated unnoticed
+- [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] and [[Party Members/Tooo-Ah\|Tooo-Ah]] infiltrated unnoticed
 - **Found:** Note warning "war between Leaf Eaters, Dragon, Falcon and Eagle has almost begun"
 - **Found:** Boxes of blue/white liveries (similar to royal crest but different colour)
 - **Found:** Boxes of arms and armour
@@ -185,7 +185,7 @@ Ancient elvish city, long-standing capital of [[Locations/Odessia\|Odessia]]. Re
 
 **City Activities:**
 - Reconstruction ongoing (two-day period Sessions 26)
-- [[Party Members/ToooAh\|ToooAh]] acted as flying courier
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] acted as flying courier
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] used magic for reconstruction (lifting gates, rocks)
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] attempted medical aid at town square hospital
 - Normal city functions resuming
@@ -236,7 +236,7 @@ Ancient elvish city, long-standing capital of [[Locations/Odessia\|Odessia]]. Re
 ## Appearances
 
 - **Sessions ~9-14 (Grand Tournament):** Party arrived for Grand Tournament. Tessell won dancing and chariot race. Emperor Drakenhart cheated with grappling hook, imprisoned. Royal feast - all contestants drugged simultaneously including Crown Princess. Tournament of Wits and Wisdom puzzle dungeon.
-- **Session ~15 (Warehouse Investigation & Elvva Joins):** Crown Princess summoned party. Elvva Beltavar joined (Shannon's first session). Warehouse stealth mission at docks (Elvva's dancing lights, Odonia and ToooAh infiltrated). Four-faction war note and coded gate correspondence discovered. Riverside shack quest (500gc, skeleton under floorboards, Eagle crest, Elvva poisoned by cactus plant).
+- **Session ~15 (Warehouse Investigation & Elvva Joins):** Crown Princess summoned party. Elvva Beltavar joined (Shannon's first session). Warehouse stealth mission at docks (Elvva's dancing lights, Odonia and Tooo-Ah infiltrated). Four-faction war note and coded gate correspondence discovered. Riverside shack quest (500gc, skeleton under floorboards, Eagle crest, Elvva poisoned by cactus plant).
 - **Sessions 16-17 (Siege of Belendar):** Four-gate simultaneous assault. Party defended Silverdew Crossing. Ser Balthazar Thornwood transformed into wyvern. Odonia delivered killing blow.
 - [[Sessions/Session 18 - 2 November 2024\|Session 18 - 2 November 2024]] - Strong Bane presence detected, Bane Watcher initiation ritual
 - [[Sessions/Session 19 - 16 November 2024\|Session 19 - 16 November 2024]] - Royal feast, Tournament of Wits and Wisdom, drugging incident

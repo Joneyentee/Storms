@@ -90,7 +90,7 @@
 **Test Method:** Passed tankard with Bane-infused drink to each party member
 
 **Results:**
-- [[Party Members/ToooAh\|ToooAh]]: Tasted nothing (no effect, low corruption)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Tasted nothing (no effect, low corruption)
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Tasted nothing (no effect, low corruption)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Tasted nothing (no effect, low corruption)
 - **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]:** Burned like whiskey, **green sprite appeared** (high corruption)

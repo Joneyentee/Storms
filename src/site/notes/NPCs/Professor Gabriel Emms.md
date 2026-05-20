@@ -42,7 +42,7 @@ Worn, bookish/scholarly appearance with combed greying hair and rimmed glasses. 
 
 - Next room: Three people performing transformation ritual
 - Three magic circles on floor
-- Doll (that [[Party Members/ToooAh\|ToooAh]] found on smuggler boat) in centre circle
+- Doll (that [[Party Members/Tooo-Ah\|Tooo-Ah]] found on smuggler boat) in centre circle
 - Hooded figures sacrificing minions to give doll life
 - Party fought [[NPCs/Elincia Flowers\|Elincia Flowers]] (as Thalas, Black Knight)
 - Ritual completed despite party's intervention
@@ -60,7 +60,7 @@ Worn, bookish/scholarly appearance with combed greying hair and rimmed glasses. 
 - [[NPCs/Avicia\|Avicia]] - The doll he died protecting
 - [[NPCs/Ryvenien Berg\|Ryvenien Berg]] - Friend entrusted with doll, also murdered
 - [[NPCs/Elincia Flowers\|Elincia Flowers]] - As Thalas/Black Knight, present at ritual site where Professor died
-- [[Party Members/ToooAh\|ToooAh]] - Found the doll on smuggler boat (before Professor's quest began)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] - Found the doll on smuggler boat (before Professor's quest began)
 
 ## Related Quests
 

@@ -13,7 +13,7 @@
 
 Combat continued from [[Sessions/Session 25 - 14 June 2025\|Session 25]]:
 
-**[[Party Members/ToooAh\|ToooAh]]:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]:**
 
 - Flew to soldier position, punched him in side of head
 - "Gong noise" - killed instantly with single blow
@@ -84,7 +84,7 @@ Heavy fighting audible in corridor:
 
 ### Throne Room Battle - Round 4
 
-**[[Party Members/ToooAh\|ToooAh]]:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]:**
 
 - Flew forward, stabilised [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (fallen, doing death saves)
 - Still had movement remaining but chose to stay
@@ -141,12 +141,12 @@ Heavy fighting audible in corridor:
 
 Multiple hammer strikes against throne room doors:
 
-- [[Party Members/ToooAh\|ToooAh]] positioned at door after barricading it (earlier action from session start)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] positioned at door after barricading it (earlier action from session start)
 - First strike: Wood splintered, created hole
-- [[Party Members/ToooAh\|ToooAh]] attempted to grab hammer through hole - failed
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] attempted to grab hammer through hole - failed
 - Second strike: More splintering
 - Third strike: Hammer broke completely through
-- [[Party Members/ToooAh\|ToooAh]] grabbed hammer - Black Knight on other side pulled [[Party Members/ToooAh\|ToooAh]] close
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] grabbed hammer - Black Knight on other side pulled [[Party Members/Tooo-Ah\|Tooo-Ah]] close
 - Black Knight attempted punch with gauntleted hand
 - Punch stopped mid-air mysteriously
 - Black Knight retracted, hammer pulled back
@@ -155,7 +155,7 @@ Multiple hammer strikes against throne room doors:
 
 ### Throne Room Battle - Round 5
 
-**[[Party Members/ToooAh\|ToooAh]]:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]:**
 
 - Moved 5 feet, flew to engage
 - First attack: 23 hit, 8 damage
@@ -236,7 +236,7 @@ Critical moment:
 **[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s Reaction:**
 
 - Attempted athletics check to catch dagger (reaction)
-- [[Party Members/ToooAh\|ToooAh]] asked if she could also react (too far away)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] asked if she could also react (too far away)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] rolled 8 total - failed
 - Dagger pierced through [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s hand (didn't catch, went INTO hand)
 - Still stopped dagger from reaching Princess
@@ -320,7 +320,7 @@ Princess, [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]], and [[Party Members/Lady 
 
 **Individual Activities:**
 
-**[[Party Members/ToooAh\|ToooAh]]:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]:**
 
 - Acrobatics check: 18
 - Acted as flying courier throughout city
@@ -441,7 +441,7 @@ Princess, [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]], and [[Party Members/Lady 
 
 ### Riders of the Storm Honours
 
-Princess called forward: Commander [[Party Members/ToooAh\|ToooAh]], Commander [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], Commander [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]
+Princess called forward: Commander [[Party Members/Tooo-Ah\|Tooo-Ah]], Commander [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], Commander [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]
 
 **[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] Knighted:**
 
@@ -509,7 +509,7 @@ Party rolled for reinforcements (D20 × D4):
 - Elite heavy cavalry
 - Compared to Ser Silva (training party's troops)
 
-**[[Party Members/ToooAh\|ToooAh]]:** Natural 20 + 2
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]:** Natural 20 + 2
 
 - 200 Archers (specialised in longbows)
 - Trained professional archers
@@ -533,7 +533,7 @@ Party rolled for reinforcements (D20 × D4):
 
 **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]:** General of the Right
 
-**[[Party Members/ToooAh\|ToooAh]]:** Chariot General
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]:** Chariot General
 
 **Note:** Titles are ceremonial/traditional war titles, don't indicate actual battle positions
 
@@ -573,7 +573,7 @@ Meeting began filtering out into smaller groups.
 
 ### Avicia's Education
 
-**[[Party Members/ToooAh\|ToooAh]]'s Question to [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Question to [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]:**
 
 - Asked if [[NPCs/Avicia\|Avicia]] wants to continue studying with mages
 - Or return with Storm Riders to Castle
@@ -603,7 +603,7 @@ Meeting began filtering out into smaller groups.
 
 **Results (D4 rolls):**
 
-- [[Party Members/ToooAh\|ToooAh]]: 1 - Tasted nothing, no effect
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: 1 - Tasted nothing, no effect
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: 3 - Tasted nothing, no effect
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: 2 - Tasted nothing, no effect
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: 4 - **Whiskey burn sensation**
@@ -695,7 +695,7 @@ Party ate magical desserts - rolled D100 for effects:
 - Produces one perfect note so high/clear that all nearby glass shatters
 - Started singing all actions
 
-**[[Party Members/ToooAh\|ToooAh]] (66):**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]] (66):**
 
 - After one minute, let out deafening burp
 - So loud it stuns all people within 5 metres
@@ -733,11 +733,11 @@ Party ate magical desserts - rolled D100 for effects:
 
 Party rolled percentile for drunken antics (morning-after discoveries):
 
-**[[Party Members/ToooAh\|ToooAh]] (50):**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]] (50):**
 
 - Someone slipped sprouting bean into bag during night
 - Magical bean
-- [[Party Members/ToooAh\|ToooAh]] unaware it's there
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] unaware it's there
 
 **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (94):**
 
@@ -784,7 +784,7 @@ Party rolled percentile for drunken antics (morning-after discoveries):
 - **General [[NPCs/General Thailander Oakwood\|General Thailander Oakwood]]** - Commanded Castle forces, gave strategic report on kingdom civil war, reported Eastern Citadel silence
 - **[[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]** - Received honours with [[Party Members/Elvva Beltavar\|Elvva Beltavar]], discussed [[NPCs/Avicia\|Avicia]]'s magical education and potential
 - **[[NPCs/Avicia\|Avicia]]** - Present somewhere in Castle, magical education discussed, identity as rightful heir still secret
-- **Black Knight (Warhammer)** - Broke through throne room door, attempted to punch [[Party Members/ToooAh\|ToooAh]], stopped mysteriously, departed in brownish light
+- **Black Knight (Warhammer)** - Broke through throne room door, attempted to punch [[Party Members/Tooo-Ah\|Tooo-Ah]], stopped mysteriously, departed in brownish light
 - **Mysterious Soldier** - Skeletal voice, said "Commander I'm done here," disappeared in eerie green light (deeper than party's lime green)
 
 ### Mentioned
@@ -873,7 +873,7 @@ Active Quests Updated
     - Bane corruption can overflow and take over host
     - Can shorten lifespan
     - Sprites are normal manifestation
-    - Dormant commands still planted in [[Party Members/ToooAh\|ToooAh]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]
+    - Dormant commands still planted in [[Party Members/Tooo-Ah\|Tooo-Ah]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]
 
 - **Avicia's Safety & Education** - Status: Ongoing
     - Still at Castle (presumably safe)
@@ -925,7 +925,7 @@ Active Quests Updated
 - Secret arrangement with Princess known only to [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]]
 - Woke surrounded by mysterious bird feathers
 
-**[[Party Members/ToooAh\|ToooAh]]:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]:**
 
 - No additional damage this session
 - Rank: Chariot General
@@ -935,7 +935,7 @@ Active Quests Updated
 **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]:**
 
 - Knocked unconscious during battle
-- Stabilised by [[Party Members/ToooAh\|ToooAh]], healed by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
+- Stabilised by [[Party Members/Tooo-Ah\|Tooo-Ah]], healed by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
 - Bane corruption **advanced** - green sprite manifestation
 - [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]: "Further along than I thought"
 - Must take Warlock level 2 next (DM specified)
@@ -970,7 +970,7 @@ Active Quests Updated
 **Troop Reinforcements (Total: 712+ troops):**
 
 - 200 Archers (specialised longbows) - given to [[Party Members/Elvva Beltavar\|Elvva Beltavar]]
-- 32 Knights + Squires (16 knights each to [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] and [[Party Members/ToooAh\|ToooAh]])
+- 32 Knights + Squires (16 knights each to [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] and [[Party Members/Tooo-Ah\|Tooo-Ah]])
 - 420 Footmen (generic infantry) - given to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
 
 **War Chest:**
@@ -1005,7 +1005,7 @@ Active Quests Updated
 
 - General of the Right
 
-**[[Party Members/ToooAh\|ToooAh]]:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]:**
 
 - Chariot General
 
@@ -1017,11 +1017,11 @@ Active Quests Updated
 
 ### Magic Items
 
-**Magical Bean (in [[Party Members/ToooAh\|ToooAh]]'s bag):**
+**Magical Bean (in [[Party Members/Tooo-Ah\|Tooo-Ah]]'s bag):**
 
 - Sprouting bean
 - Magical properties
-- [[Party Members/ToooAh\|ToooAh]] unaware of possession
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] unaware of possession
 
 ### Currency Changes
 
@@ -1033,7 +1033,7 @@ Active Quests Updated
 
 ## Memorable Moments
 
-**Session 26** - [[Party Members/ToooAh\|ToooAh]] - Killed two soldiers with single punches creating "gong noise" sound effects. Later attempted to grab Black Knight's warhammer through splintered door hole, was pulled close for punch that mysteriously stopped mid-air.
+**Session 26** - [[Party Members/Tooo-Ah\|Tooo-Ah]] - Killed two soldiers with single punches creating "gong noise" sound effects. Later attempted to grab Black Knight's warhammer through splintered door hole, was pulled close for punch that mysteriously stopped mid-air.
 
 **Session 26** - [[NPCs/Thalas\|Thalas]] Identity Reveal - Helmet melted away by earlier acid damage, revealed as Lady Alysanne/Elincia Flowers. Screamed "This isn't over, the war has only just begun!" before throwing necrotic dagger at Princess and escaping via fire teleportation.
 
@@ -1065,7 +1065,7 @@ Active Quests Updated
 - Eastern Citadel fallen silent - unusual threat from dead lands
 - Strange creatures attacking northern settlements
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Bane corruption **advanced** - sprite manifestation
-- Dormant commands still in [[Party Members/ToooAh\|ToooAh]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]
+- Dormant commands still in [[Party Members/Tooo-Ah\|Tooo-Ah]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]
 - Party must rally north starting with Neverwinter (Duke Vallandor Firebloom)
 - [[NPCs/Avicia\|Avicia]]'s education decision pending
 - [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] urging Citadel visit for Bane training
@@ -1087,7 +1087,7 @@ Active Quests Updated
 - **Duke Vallandor Firebloom** - will he support Princess? Negotiate or fight?
 - **Northern nobles** - which haven't declared? Can they be swayed?
 - **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s secret** - when will party learn about assassination arrangement?
-- **Magical bean** - what happens when [[Party Members/ToooAh\|ToooAh]] discovers it? What does it grow?
+- **Magical bean** - what happens when [[Party Members/Tooo-Ah\|Tooo-Ah]] discovers it? What does it grow?
 
 ### NPCs to Follow Up
 

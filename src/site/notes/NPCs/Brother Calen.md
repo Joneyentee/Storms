@@ -17,7 +17,7 @@ Young, fair-featured human male with light blonde hair and a toned, athletic bui
 ### Key Details
 
 - Approached [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] during [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]]'s sermon, identifying him and the [[Organisations/Riders of the Storm\|Riders of the Storm]] by name
-- Offered to help rescue [[Party Members/ToooAh\|ToooAh]] in exchange for assistance finding [[NPCs/Clara\|Clara]] inside the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] garrison
+- Offered to help rescue [[Party Members/Tooo-Ah\|Tooo-Ah]] in exchange for assistance finding [[NPCs/Clara\|Clara]] inside the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] garrison
 - Killed a garrison guard with a precisely thrown dagger; subsequently neutralised multiple guards with apparent ease - described by the DM as normalised, not disgusted by killing
 - Briefed party that High Commander [[NPCs/Darius Kain\|Darius Kain]] has changed the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] over the past month - numbers dwindling, gates shut, behaviour erratic
 - Strongly suspected by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] to be [[NPCs/Calen Thorne\|Calen Thorne]], bastard son of [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] of [[Locations/Neverwinter\|Neverwinter]] - age and description consistent; information sourced from [[NPCs/Captain Mara Veylan\|Captain Mara Veylan]] of the [[Organisations/Iron Finch Company\|Iron Finch Company]]
@@ -41,7 +41,7 @@ Young, fair-featured human male with light blonde hair and a toned, athletic bui
 
 ### Related Quests
 
-- [[Quests/Quests - Active#Extract ToooAh\|Quests - Active#Extract ToooAh]]
+- [[Quests/Quests - Active#Extract Tooo-Ah\|Quests - Active#Extract Tooo-Ah]]
 - [[Quests/Quests - Active#Rally the North\|Quests - Active#Rally the North]]
 
 ### Related Locations

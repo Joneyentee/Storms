@@ -498,7 +498,7 @@ The dragonborn's final words to Elik'r were: _"The seal is weakening. You must f
 - Reality reset complete or lingering effects?
 - **Pattern confirmed (S27 & S33):** Targets party during mission-critical travel
 - **Expanded powers (S33):** Age regression, equipment transmutation, ability suppression (flight/fire), environmental creation
-- **Permanent consequences (S33-34):** ToooAh kept as punishment (whereabouts unknown S34), Liora Emberveil did not return (fate unknown)
+- **Permanent consequences (S33-34):** Tooo-Ah kept as punishment (whereabouts unknown S34), Liora Emberveil did not return (fate unknown)
 - Why intervene twice? Testing party? Entertainment? Recruitment?
 - Will he return again?
 

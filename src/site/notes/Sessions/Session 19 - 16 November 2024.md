@@ -9,7 +9,7 @@
 
 **Recording Note:** There is missing recording from either the latter half of Session 18 or the first half of this session. The riverside shack quest (where [[Party Members/Elvva Beltavar\|Elvva Beltavar]] was poisoned by a cactus plant) was not recorded and information relies on handwritten notes from players.
 
-The party was summoned to a royal feast at seven o'clock, giving them time for a short rest beforehand. At the feast, all tournament competitors were present except [[NPCs/Ser Balthazar Thornwood\|Ser Balthazar Thornwood]] (deceased) and [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (recovering from injuries). The [[NPCs/Lord Commander\|Lord Commander]] attended, having been released for fighting against the attackers. During the feast, all competitors - and notably [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] herself - were drugged and fell unconscious. They awakened individually in identical small rooms for "The Tournament of Wits and Wisdom," a puzzle-based elimination challenge announced by [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]]'s magically amplified voice. Each competitor faced a series of five increasingly difficult riddles in separate, isolated rooms. Wrong answers inflicted elemental damage: cold (Room 1), fire (Room 2), lightning (Room 3), and earth (Room 4). The challenge tested both intelligence and constitution, as accumulated damage could knock competitors out. Success depended on solving riddles quickly whilst managing damage from incorrect guesses. **Only five competitors total** (out of all tournament participants) completed all five rooms - many were knocked out. An unknown NPC completed first overall, followed by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (second overall, first among party members), then [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] (third overall), then [[Party Members/ToooAh\|ToooAh]] (fourth overall, second among party members), and finally [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (fifth overall, third among party members). [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] was knocked out and did not complete.
+The party was summoned to a royal feast at seven o'clock, giving them time for a short rest beforehand. At the feast, all tournament competitors were present except [[NPCs/Ser Balthazar Thornwood\|Ser Balthazar Thornwood]] (deceased) and [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (recovering from injuries). The [[NPCs/Lord Commander\|Lord Commander]] attended, having been released for fighting against the attackers. During the feast, all competitors - and notably [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] herself - were drugged and fell unconscious. They awakened individually in identical small rooms for "The Tournament of Wits and Wisdom," a puzzle-based elimination challenge announced by [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]]'s magically amplified voice. Each competitor faced a series of five increasingly difficult riddles in separate, isolated rooms. Wrong answers inflicted elemental damage: cold (Room 1), fire (Room 2), lightning (Room 3), and earth (Room 4). The challenge tested both intelligence and constitution, as accumulated damage could knock competitors out. Success depended on solving riddles quickly whilst managing damage from incorrect guesses. **Only five competitors total** (out of all tournament participants) completed all five rooms - many were knocked out. An unknown NPC completed first overall, followed by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (second overall, first among party members), then [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] (third overall), then [[Party Members/Tooo-Ah\|Tooo-Ah]] (fourth overall, second among party members), and finally [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (fifth overall, third among party members). [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] was knocked out and did not complete.
 
 ---
 
@@ -32,7 +32,7 @@ The party was summoned to a royal feast at seven o'clock, giving them time for a
 **Discussion Points:**
 
 - Party debated whether fine clothes were necessary
-- [[Party Members/ToooAh\|ToooAh]] expressed concern about improving dexterity during downtime
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] expressed concern about improving dexterity during downtime
 - Squires stationed to wake party members at appropriate time
 
 ### The Royal Feast
@@ -142,7 +142,7 @@ The party was summoned to a royal feast at seven o'clock, giving them time for a
 
 1. [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (highest roll - received first riddle before others)
 2. [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (second)
-3. [[Party Members/ToooAh\|ToooAh]] (third)
+3. [[Party Members/Tooo-Ah\|Tooo-Ah]] (third)
 4. [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (fourth)
 
 ---
@@ -200,7 +200,7 @@ The party was summoned to a royal feast at seven o'clock, giving them time for a
 
 ---
 
-#### ToooAh's Challenge
+#### Tooo-Ah's Challenge
 
 **Room 1 (Cold/Blue Door) - Riddle #20:**
 
@@ -367,7 +367,7 @@ The party was summoned to a royal feast at seven o'clock, giving them time for a
 1. **[Unknown NPC]** - First overall
 2. **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]** - Second overall, **first party member**
 3. **[[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]** - Third overall
-4. **[[Party Members/ToooAh\|ToooAh]]** - Fourth overall, second party member
+4. **[[Party Members/Tooo-Ah\|Tooo-Ah]]** - Fourth overall, second party member
 5. **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]** - Fifth overall, third party member
 
 **Did Not Complete:**
@@ -425,9 +425,9 @@ The party was summoned to a royal feast at seven o'clock, giving them time for a
 - [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]: "You haven't touched a single one, have you lad?"
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: sheepish grin
 - [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] roared with laughter and immediately began his genuine drinking spree
-- By the time [[Party Members/ToooAh\|ToooAh]] arrived, [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] had already surrounded himself with **actually** empty tankards
+- By the time [[Party Members/Tooo-Ah\|Tooo-Ah]] arrived, [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] had already surrounded himself with **actually** empty tankards
 
-**ToooAh's Return:**
+**Tooo-Ah's Return:**
 
 - **Fourth overall, second player member to complete**
 - Found [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] genuinely heavily drunk at feast
@@ -468,7 +468,7 @@ The party was summoned to a royal feast at seven o'clock, giving them time for a
 - Temporarily assumed father's role as "master of the games"
 - **Also drugged and fell unconscious** during feast alongside competitors
 - Woke before competitors to preside over challenge results
-- Congratulated [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], [[Party Members/ToooAh\|ToooAh]], and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] upon completion
+- Congratulated [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], [[Party Members/Tooo-Ah\|Tooo-Ah]], and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] upon completion
 - Standing with [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]] when competitors returned
 
 **Significance:**
@@ -516,7 +516,7 @@ The party was summoned to a royal feast at seven o'clock, giving them time for a
 - **Also drugged and fell unconscious**
 - Participated in Tournament of Wits and Wisdom
 - **Completed all five rooms successfully** (third overall)
-- Already at feast and heavily drunk when [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] and [[Party Members/ToooAh\|ToooAh]] returned
+- Already at feast and heavily drunk when [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] and [[Party Members/Tooo-Ah\|Tooo-Ah]] returned
 - Offered drinks to returning competitors
 - Celebrating his completion
 
@@ -782,7 +782,7 @@ The party was summoned to a royal feast at seven o'clock, giving them time for a
         
     2. [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] - Third overall
         
-    3. [[Party Members/ToooAh\|ToooAh]] - Solid completion
+    3. [[Party Members/Tooo-Ah\|Tooo-Ah]] - Solid completion
         
     4. [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] - Completed successfully
         
@@ -905,7 +905,7 @@ The party was summoned to a royal feast at seven o'clock, giving them time for a
 
 1. **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]** - Second overall (+tournament points)
 2. **[[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]** - Third overall (+tournament points)
-3. **[[Party Members/ToooAh\|ToooAh]]** - Fourth overall (+tournament points)
+3. **[[Party Members/Tooo-Ah\|Tooo-Ah]]** - Fourth overall (+tournament points)
 4. **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]** - Fifth overall (+tournament points)
 
 - **[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]** - Did not complete (minimal or negative points)
@@ -941,7 +941,7 @@ The party was summoned to a royal feast at seven o'clock, giving them time for a
 **Reputation:**
 
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] demonstrated exceptional problem-solving
-- [[Party Members/ToooAh\|ToooAh]] and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] showed competence
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] showed competence
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] struggled publicly (reputation may suffer)
 
 **Political Capital:**
@@ -969,9 +969,9 @@ When he finally submitted the correct answer, the door glowed and opened, but [[
 
 ---
 
-### ToooAh and the Village Riddle
+### Tooo-Ah and the Village Riddle
 
-**Full Description:** [[Party Members/ToooAh\|ToooAh]] entered Room 2 and faced the red door's riddle: "As I was going to the village I met a man with seven wives. Each wife had seven kids. Each kid has seven cats, each cat had seven kittens. How many were going to the village?"
+**Full Description:** [[Party Members/Tooo-Ah\|Tooo-Ah]] entered Room 2 and faced the red door's riddle: "As I was going to the village I met a man with seven wives. Each wife had seven kids. Each kid has seven cats, each cat had seven kittens. How many were going to the village?"
 
 The bird-monk immediately began calculating: "Seven wives timesseven kids is forty-nine... times seven cats... times seven kittens..."
 
@@ -979,13 +979,13 @@ The numbers grew astronomical. Hundreds? Thousands?
 
 He submitted a large number. The room erupted in flames - 5 fire damage. Wrong answer.
 
-[[Party Members/ToooAh\|ToooAh]] recalculated, thinking he'd made a mathematical error. Another wrong answer. Another blast of heat and 5 more damage.
+[[Party Members/Tooo-Ah\|Tooo-Ah]] recalculated, thinking he'd made a mathematical error. Another wrong answer. Another blast of heat and 5 more damage.
 
 Then it hit him - this was a trick question. "**I** was going to the village. Just **one person**. Everyone else was coming **from** the village!"
 
 He submitted "One" and the door opened. The flames subsided.
 
-"Clever," [[Party Members/ToooAh\|ToooAh]] muttered, a bit annoyed at falling for the misdirection but impressed by the riddle's elegance.
+"Clever," [[Party Members/Tooo-Ah\|Tooo-Ah]] muttered, a bit annoyed at falling for the misdirection but impressed by the riddle's elegance.
 
 **Significance:** Classic example of the challenge testing lateral thinking rather than mathematical ability. The riddle punished overthinking.
 
@@ -1071,7 +1071,7 @@ He grabbed one of the pristine mugs and raised it high: "To honesty! And to ACTU
 
 [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] couldn't help but laugh at his own terrible deception attempt.
 
-By the time [[Party Members/ToooAh\|ToooAh]] arrived, [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] had genuinely surrounded himself with **actually** empty tankards, making [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s earlier claim look even more pathetic in retrospect.
+By the time [[Party Members/Tooo-Ah\|Tooo-Ah]] arrived, [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] had genuinely surrounded himself with **actually** empty tankards, making [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s earlier claim look even more pathetic in retrospect.
 
 **Significance:** This provided perfect comic relief after the tension of the challenge. The natural 1 deception roll made the attempted trick hilariously obvious. It showcased [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s playful side whilst highlighting [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]'s inability to be fooled about drinking. The moment also established the lighter atmosphere at the feast as party members returned, contrasting with the serious challenge they'd just survived.
 
@@ -1085,17 +1085,17 @@ By the time [[Party Members/ToooAh\|ToooAh]] arrived, [[NPCs/Co'narr 'Banewatche
 
 [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] watched in amused amazement as [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] worked his way through drink after drink with impressive speed.
 
-When [[Party Members/ToooAh\|ToooAh]] finally materialised back at the feast, exhausted from solving five rooms of riddles, the scene had transformed. [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] was surrounded by empty tankards. **Many** empty tankards. Actually empty this time.
+When [[Party Members/Tooo-Ah\|Tooo-Ah]] finally materialised back at the feast, exhausted from solving five rooms of riddles, the scene had transformed. [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] was surrounded by empty tankards. **Many** empty tankards. Actually empty this time.
 
-"TOOOAH!" [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] bellowed, raising his current drink. His cheeks were flushed, his grin enormous. "You made it! Brilliant! Here, have a drink!"
+"Tooo-Ah!" [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] bellowed, raising his current drink. His cheeks were flushed, his grin enormous. "You made it! Brilliant! Here, have a drink!"
 
-[[Party Members/ToooAh\|ToooAh]], still processing the ordeal, accepted. "How long have you been back?"
+[[Party Members/Tooo-Ah\|Tooo-Ah]], still processing the ordeal, accepted. "How long have you been back?"
 
 "Oh, not that long!" [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] laughed, gesturing at the impressive array of empty vessels. "Third one through! Not bad for an old warrior, eh?" He slapped the table, causing several mugs to jump. "Those riddles were FUN! Especially that one about-" he paused dramatically, "-ALCOHOL!" He roared with laughter.
 
-[[Party Members/ToooAh\|ToooAh]] couldn't help but smile despite his exhaustion. The image of [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] confidently solving a riddle about drinking while others struggled was perfectly in character.
+[[Party Members/Tooo-Ah\|Tooo-Ah]] couldn't help but smile despite his exhaustion. The image of [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] confidently solving a riddle about drinking while others struggled was perfectly in character.
 
-"That one would've been instant for you," [[Party Members/ToooAh\|ToooAh]] observed.
+"That one would've been instant for you," [[Party Members/Tooo-Ah\|Tooo-Ah]] observed.
 
 "Damn right!" [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] agreed enthusiastically. "Now drink up! We're celebrating! You completed it! That's what matters!"
 
@@ -1111,7 +1111,7 @@ When [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] arrived 
 
 ### Tessell's Struggle
 
-**Full Description:** While [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], [[Party Members/ToooAh\|ToooAh]], and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] returned to the feast one by one, [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] remained trapped in the challenge rooms.
+**Full Description:** While [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], [[Party Members/Tooo-Ah\|Tooo-Ah]], and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] returned to the feast one by one, [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] remained trapped in the challenge rooms.
 
 Back at the feast, the returned party members exchanged glances. Where was [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]?
 
@@ -1349,7 +1349,7 @@ The mystery would need investigation.
 
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] proved exceptional problem-solver
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] struggling with confidence after poor performance
-- [[Party Members/ToooAh\|ToooAh]] and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] solid middle-tier showings
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] solid middle-tier showings
 - Party reputation boosted by three completions (if [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] fails, may be diminished)
 
 **Political Situation:**

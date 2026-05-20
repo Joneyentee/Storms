@@ -49,7 +49,7 @@
 - Who is "her"? (The doll/[[NPCs/Avicia\|Avicia]]? Someone else?)
 - What "key" did he hide? Where is "the sanctuary"?
 - Which King is referenced?
-- Did he manage to hide the doll before death? (Yes - [[Party Members/ToooAh\|ToooAh]] had found it earlier on smuggler boat)
+- Did he manage to hide the doll before death? (Yes - [[Party Members/Tooo-Ah\|Tooo-Ah]] had found it earlier on smuggler boat)
 
 ## Relationships
 
@@ -79,7 +79,7 @@
 
 **Unanswered Questions:**
 
-- Did he successfully hide the doll before death? (Appears yes - it ended up on smuggler boat that [[Party Members/ToooAh\|ToooAh]] found)
+- Did he successfully hide the doll before death? (Appears yes - it ended up on smuggler boat that [[Party Members/Tooo-Ah\|Tooo-Ah]] found)
 - What "key" did he hide?
 - Where is "the sanctuary below where King dwelled"?
 - Who is "he" that was coming?

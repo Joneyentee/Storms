@@ -16,7 +16,7 @@ The head servant of [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]]'s [[Location
 - Head servant (Major-domo) of [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]]'s mansion in [[Locations/Belendar\|Belendar]]
 - Found in back garden with severe injuries - jumped from window to escape fire/attack
 - Multiple lacerations, cuts, and glass shards embedded in body
-- Stabilized by [[Party Members/ToooAh\|ToooAh]] using Cure Wounds spell
+- Stabilized by [[Party Members/Tooo-Ah\|Tooo-Ah]] using Cure Wounds spell
 - Currently unconscious but alive, taken to [[Locations/Secret Tavern Hideout\|Secret Tavern Hideout]]
 - Only known survivor from mansion staff - other servants found as charred remains
 - Primary witness who can provide information about attack when he awakens
@@ -24,12 +24,12 @@ The head servant of [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]]'s [[Location
 ### Relationships
 
 - **Employer:** [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]]
-- **Saved by:** [[Party Members/ToooAh\|ToooAh]]
+- **Saved by:** [[Party Members/Tooo-Ah\|Tooo-Ah]]
 - **Served:** [[Organisations/Riders of the Storm\|Riders of the Storm]] party during tournament stay
 
 ### Appearances
 
-- [[Sessions/Session 22 - 15 March 2025\|Session 22 - 15 March 2025]] - Found critically wounded in mansion garden after fire attack, stabilized by [[Party Members/ToooAh\|ToooAh]], evacuated to hideout
+- [[Sessions/Session 22 - 15 March 2025\|Session 22 - 15 March 2025]] - Found critically wounded in mansion garden after fire attack, stabilized by [[Party Members/Tooo-Ah\|Tooo-Ah]], evacuated to hideout
 
 ### Related Quests
 

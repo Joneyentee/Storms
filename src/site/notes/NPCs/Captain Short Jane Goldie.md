@@ -42,7 +42,7 @@ Female dwarf who seized command of an enemy vessel during the party's escape fro
 - Boarded captured ship with Short Jane as captain
 - Two horses were in the hold
 - Sailed south initially
-- Encountered more ships, ToooAh captured briefly but talked way out
+- Encountered more ships, Tooo-Ah captured briefly but talked way out
 - Changed course east to avoid pursuit
 - Landed at [[Locations/Canathalas\|Canathalas]]
 

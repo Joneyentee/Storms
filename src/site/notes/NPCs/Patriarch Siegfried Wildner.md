@@ -61,7 +61,7 @@
 
 **[[NPCs/Avicia\|Avicia]]'s Magical Assessment:**
 
-- Asked by [[Party Members/ToooAh\|ToooAh]] about [[NPCs/Avicia\|Avicia]]'s education progress
+- Asked by [[Party Members/Tooo-Ah\|Tooo-Ah]] about [[NPCs/Avicia\|Avicia]]'s education progress
 - Noted limited recent learning (siege/battle/chaos interruptions)
 - **Critical Assessment:** [[NPCs/Avicia\|Avicia]] has natural affinity for magic
 - **Comparison:** Talent rivals [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]]
@@ -76,12 +76,12 @@
 - Providing foundation training
 - Progress slowed by recent events but talent undeniable
 
-**[[Party Members/ToooAh\|ToooAh]]'s Parental Concern:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Parental Concern:**
 
-- [[Party Members/ToooAh\|ToooAh]] inquired about [[NPCs/Avicia\|Avicia]]'s future education
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] inquired about [[NPCs/Avicia\|Avicia]]'s future education
 - Options discussed: Continue mage training vs accompany party north
 - Decision pending
-- Demonstrates [[Party Members/ToooAh\|ToooAh]]'s protective parental instincts
+- Demonstrates [[Party Members/Tooo-Ah\|Tooo-Ah]]'s protective parental instincts
 
 **Educational Stakes:**
 

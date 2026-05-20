@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/party-members/lady-odonia-of-galantri/"}
 ---
 
-![Odoniai.jpg|300](/img/user/Images/Odoniai.jpg)
+<a href="/img/user/images/Odonia.png" target="_blank"><img src="/img/user/images/Odonia.png" width="300" alt="Lady Odonia" /></a>
+
 **Player:** Annie
 **Status:** Active
 **Race:** Human
@@ -86,7 +87,7 @@
 ### Party Members
 
 - Leader: [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (Ser Tessell, General of the Left - under her overall command)
-- Fellow party members: [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (General of the Right), [[Party Members/ToooAh\|ToooAh]] (Chariot General), [[Party Members/Elvva Beltavar\|Elvva Beltavar]]
+- Fellow party members: [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (General of the Right), [[Party Members/Tooo-Ah\|Tooo-Ah]] (Chariot General), [[Party Members/Elvva Beltavar\|Elvva Beltavar]]
 - Former member: [[Party Members/Ser Pas Rata\|Ser Pas Rata]]
 - **Military Command:** Overall commander (General of the North) of party's northern forces
 
@@ -121,9 +122,9 @@
 
 **Warehouse Investigation (Session ~15):**
 
-- **Stealth Mission with [[Party Members/ToooAh\|ToooAh]]:** Summoned to meet [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]], [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]], Patriarch, and [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (Shannon's first session)
+- **Stealth Mission with [[Party Members/Tooo-Ah\|Tooo-Ah]]:** Summoned to meet [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]], [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]], Patriarch, and [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (Shannon's first session)
     
-- Successfully infiltrated warehouse at docks with [[Party Members/ToooAh\|ToooAh]] whilst [[Party Members/Elvva Beltavar\|Elvva Beltavar]] created dancing lights distraction for hooded figures
+- Successfully infiltrated warehouse at docks with [[Party Members/Tooo-Ah\|Tooo-Ah]] whilst [[Party Members/Elvva Beltavar\|Elvva Beltavar]] created dancing lights distraction for hooded figures
     
 - Discovered faction war evidence: note mentioning "Leaf Eaters, Dragon, Falcon and Eagle," boxes of blue/white liveries (fake royal crest), arms and armour, coded correspondence about four city gates
     

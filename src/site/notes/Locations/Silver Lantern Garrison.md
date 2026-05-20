@@ -69,13 +69,13 @@ Under [[NPCs/Darius Kain\|Darius Kain]]'s control. Multiple guards killed during
 
 ### Related Quests
 
-- [[Quests/Quests - Active#Extract ToooAh\|Quests - Active#Extract ToooAh]]
+- [[Quests/Quests - Active#Extract Tooo-Ah\|Quests - Active#Extract Tooo-Ah]]
 - [[Quests/Quests - Active#Rally the North\|Quests - Active#Rally the North]]
 
 ### Appearances
 
-- [[Sessions/Session 36 - 21 February 2026\|Session 36 - 21 February 2026]] - [[Party Members/ToooAh\|ToooAh]] arrested and escorted here after stealing from the cathedral collection basket; S36 cliffhanger
-- [[Sessions/Session 37 - 22 March 2026\|Session 37 - 22 March 2026]] - Infiltrated by the [[Organisations/Riders of the Storm\|Riders of the Storm]] via back entrance; cell blocks cleared; [[Party Members/ToooAh\|ToooAh]] and [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] freed; hidden passage discovered and activated; party sealed inside passage at session end
+- [[Sessions/Session 36 - 21 February 2026\|Session 36 - 21 February 2026]] - [[Party Members/Tooo-Ah\|Tooo-Ah]] arrested and escorted here after stealing from the cathedral collection basket; S36 cliffhanger
+- [[Sessions/Session 37 - 22 March 2026\|Session 37 - 22 March 2026]] - Infiltrated by the [[Organisations/Riders of the Storm\|Riders of the Storm]] via back entrance; cell blocks cleared; [[Party Members/Tooo-Ah\|Tooo-Ah]] and [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] freed; hidden passage discovered and activated; party sealed inside passage at session end
 
 ### Notes
 

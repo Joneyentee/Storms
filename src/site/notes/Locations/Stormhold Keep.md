@@ -60,7 +60,7 @@ Partially repaired after previous damage. Stone provided by [[Locations/Ulvenora
 - **Overall Commander:** [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (General of the North, Lady of Sylobelle)
 - **General of the Left:** [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (Ser Tessell, Knight of the Storm Riders)
 - **General of the Right:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
-- **Chariot General:** [[Party Members/ToooAh\|ToooAh]]
+- **Chariot General:** [[Party Members/Tooo-Ah\|Tooo-Ah]]
 - **Military Advisor:** [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]] (manages keep in party's absence)
 
 **Resources:**
@@ -85,7 +85,7 @@ Military garrison plus support staff. Small civilian support population.
     - **Overall Commander:** [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (General of the North, Lady of Sylobelle)
     - **General of the Left:** [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]
     - **General of the Right:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
-    - **Chariot General:** [[Party Members/ToooAh\|ToooAh]]
+    - **Chariot General:** [[Party Members/Tooo-Ah\|Tooo-Ah]]
 - **Military Advisor:** [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]]
 - **Knights:** 48 under party command (16 original + 32 Session 26)
 
@@ -112,7 +112,7 @@ Military garrison plus support staff. Small civilian support population.
 - Dwarven writing over door: "Say Friend and enter"
 - Trick: Had to say "friend" in Elvish ("Mellon") not Dwarvish
 - Portal only opened in darkness
-- [[Party Members/ToooAh\|ToooAh]]'s magical tea caused 3-day thunderstorm, darkened sky, enabled portal opening
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]'s magical tea caused 3-day thunderstorm, darkened sky, enabled portal opening
 - [[NPCs/Elincia Flowers\|Elincia Flowers]] (as Lady Alysanne/White Falcon) asked party to investigate with [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]
 - Portal led to underground dungeon where [[NPCs/Professor Gabriel Emms\|Professor Gabriel Emms]] and [[NPCs/Avicia\|Avicia]] transformation ritual occurred
 
@@ -207,7 +207,7 @@ Granted to [[Organisations/Riders of the Storm\|Riders of the Storm]] by [[NPCs/
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (General of the Left, Knight of the Storm Riders)
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (General of the North, Lady of Sylobelle - overall commander)
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (General of the Right)
-- [[Party Members/ToooAh\|ToooAh]] (Chariot General)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] (Chariot General)
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (Sorceress/Warlock)
 
 **Military:**

@@ -17,7 +17,7 @@ Young, fair-featured human male with light blonde hair and a toned, athletic bui
 
 - Operating under alias: **Brother Calen** (clerical cover identity in [[Locations/Thalas'Miriel\|Thalas'Miriel]])
 - Identified the [[Organisations/Riders of the Storm\|Riders of the Storm]] by name before meeting them; approached [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] unprompted during [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]]'s sermon
-- Offered to help rescue [[Party Members/ToooAh\|ToooAh]] from the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] garrison in exchange for help finding [[NPCs/Clara\|Clara]]
+- Offered to help rescue [[Party Members/Tooo-Ah\|Tooo-Ah]] from the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] garrison in exchange for help finding [[NPCs/Clara\|Clara]]
 - [[NPCs/Clara\|Clara]] is his primary motivation; the relationship appears to be more than collegial despite their vows of celibacy
 - Briefed party that High Commander [[NPCs/Darius Kain\|Darius Kain]] had turned the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] against the Crown - numbers dwindling, gates shut, behaviour erratic
 - Confirmed (S38) that his mentor found a site almost identical to the [[Organisations/Ember Vein\|Ember Vein]] underground complex in the chasms beneath [[Locations/Neverwinter\|Neverwinter]] - was notably calm in the chamber while freed knights were visibly bewildered (party Insight checks DC 15, all passed)

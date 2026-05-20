@@ -60,7 +60,7 @@
 
 1. [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]
 2. [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
-3. [[Party Members/ToooAh\|ToooAh]]
+3. [[Party Members/Tooo-Ah\|Tooo-Ah]]
 4. Khorrak
 5. [[Party Members/Elvva Beltavar\|Elvva Beltavar]]
 
@@ -84,7 +84,7 @@
 - Second attack: 10 (miss)
 - Fire Bolt went between Khorrak's legs, hit wall
 
-**Round 1 - [[Party Members/ToooAh\|ToooAh]]'s Turn:**
+**Round 1 - [[Party Members/Tooo-Ah\|Tooo-Ah]]'s Turn:**
 
 - Flew 8 squares (4 squares remaining movement)
 - Positioned behind Khorrak
@@ -92,14 +92,14 @@
 - Attack: Dirty 20 (successful)
 - Damage: 6 bludgeoning
 - Spent 1 Chi point to attempt Stunning Strike (DC 14 Constitution save)
-- Khorrak failed save - **STUNNED until end of [[Party Members/ToooAh\|ToooAh]]'s next turn**
+- Khorrak failed save - **STUNNED until end of [[Party Members/Tooo-Ah\|Tooo-Ah]]'s next turn**
 - Bonus Action: Unarmed strike
 - Attack: 17 (successful)
 - Damage: 5 + 5 + 2 = 12 bludgeoning (gauntlets equipped)
 - Second attack (Extra Attack feature)
 - Attack: 24 (successful)
 - Damage: 8 bludgeoning
-- **Total damage from [[Party Members/ToooAh\|ToooAh]]: 26 bludgeoning**
+- **Total damage from [[Party Members/Tooo-Ah\|Tooo-Ah]]: 26 bludgeoning**
 - Khorrak became **bloodied** (green slime oozing from neck wound)
 
 **Stunned Condition Effects:**
@@ -129,7 +129,7 @@
 **[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s Killing Blow:**
 
 - Beginning of Round 2
-- Still has advantage (Khorrak stunned until end of [[Party Members/ToooAh\|ToooAh]]'s turn)
+- Still has advantage (Khorrak stunned until end of [[Party Members/Tooo-Ah\|Tooo-Ah]]'s turn)
 - Cast Guiding Bolt (2nd level)
 - First roll: Natural 1 + 6 = 7
 - Advantage roll: 10 + 6 = 16 (hit)
@@ -181,7 +181,7 @@
 - Severe headache
 - 3 psychic damage to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
 
-**Round 2 - [[Party Members/ToooAh\|ToooAh]]'s Turn:**
+**Round 2 - [[Party Members/Tooo-Ah\|Tooo-Ah]]'s Turn:**
 
 - Flew up, attacked Khorrak from behind with staff
 - Attack: 19 (successful)
@@ -198,20 +198,20 @@
 - Khorrak failed - did not fall prone
 - Second unarmed strike: 18 to hit (successful)
 - Damage: 3 + 5 + 3 = 11 bludgeoning
-- **Total damage from [[Party Members/ToooAh\|ToooAh]]: 39 bludgeoning**
+- **Total damage from [[Party Members/Tooo-Ah\|Tooo-Ah]]: 39 bludgeoning**
 
 **Round 2 - Khorrak's Turn:**
 
 - Enraged, focused on [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]
-- [[Party Members/ToooAh\|ToooAh]] attacked from behind, Khorrak reacted
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] attacked from behind, Khorrak reacted
 - Turned and swung knife (left hand)
-- Attack on [[Party Members/ToooAh\|ToooAh]]: **Natural 20** (critical hit)
+- Attack on [[Party Members/Tooo-Ah\|Tooo-Ah]]: **Natural 20** (critical hit)
 - Damage: 22 slashing
-- [[Party Members/ToooAh\|ToooAh]] used reaction: Slow Fall (reduce fall damage by 25)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] used reaction: Slow Fall (reduce fall damage by 25)
 - Fell from sky, used wings to regain balance
 - Landed without additional damage
 - Khorrak charged toward [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]
-- [[Party Members/ToooAh\|ToooAh]] already used reaction (cannot take attack of opportunity)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] already used reaction (cannot take attack of opportunity)
 - Right hand swung hammer at [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]
 - Attack: 14 + 6 = 20 (meets AC, hits)
 - Damage: 18 bludgeoning
@@ -231,7 +231,7 @@
 
 **Status After Round 2:**
 
-- [[Party Members/ToooAh\|ToooAh]]: 15/30 HP (bloodied)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: 15/30 HP (bloodied)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Bloodied
 - Khorrak: Bloodied, hexed (-Strength checks), enraged, focused on [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]
 
@@ -272,7 +272,7 @@
 - One attack allowed (DM ruling - not standard rules)
 - Stayed in position
 
-**Round 3 - [[Party Members/ToooAh\|ToooAh]]'s Turn:**
+**Round 3 - [[Party Members/Tooo-Ah\|Tooo-Ah]]'s Turn:**
 
 - Flew to Khorrak's position
 - Attack 1 (unarmed strike): 17 (successful)
@@ -288,15 +288,15 @@
 
 - Used Legendary Action: **"Minotaur's Recall"**
 - "Can perfectly recall any path travelled and instantly move back the same way without expending movement points"
-- Teleported back to previous position (where [[Party Members/ToooAh\|ToooAh]] and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] standing)
+- Teleported back to previous position (where [[Party Members/Tooo-Ah\|Tooo-Ah]] and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] standing)
 - Slammed hammer down (area attack)
-- Both [[Party Members/ToooAh\|ToooAh]] and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] targeted
+- Both [[Party Members/Tooo-Ah\|Tooo-Ah]] and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] targeted
 - Constitution saving throws required
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: 15 + 1 = 16 (failed)
-- [[Party Members/ToooAh\|ToooAh]]: 8 (failed)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: 8 (failed)
 - Both launched 10 feet, knocked prone
 - Damage: 17 bludgeoning each
-- [[Party Members/ToooAh\|ToooAh]] reduced to 0 HP (unconscious, dying)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] reduced to 0 HP (unconscious, dying)
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: 12/35 HP (bloodied)
 - Khorrak sniffed, detected [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s scent
 - Saw [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] through crack between rocks
@@ -331,7 +331,7 @@
 - Used Channel Divinity: Preserve Life
 - "Divide 20 hit points among creatures within 30ft"
 - "Cannot restore creature to more than half its hit point maximum"
-- [[Party Members/ToooAh\|ToooAh]]: 19 HP (brought back from unconscious)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: 19 HP (brought back from unconscious)
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Can only receive 6 HP (half of 35 is 17.5, currently at 12)
 - Actually gave [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] 6 HP: 12 → 18 HP
 - **Concentration checks for being hit:**
@@ -365,7 +365,7 @@
 **Party Recovery:**
 
 - Out of initiative
-- [[Party Members/ToooAh\|ToooAh]] stood up from prone
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] stood up from prone
 - Battle map reset to maze view
 
 **Lifting the Debris:**
@@ -373,7 +373,7 @@
 - Party surrounded large rock/debris crushing [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]
 - Team lift (all party members strong enough together)
 - **Khorrak's remains missing** - green liquid/ooze nowhere to be seen
-- [[Party Members/ToooAh\|ToooAh]] noticed remains had disappeared
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] noticed remains had disappeared
 
 **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s Transformation:**
 
@@ -413,18 +413,18 @@
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Gold coin (accepted - ding sound, didn't disappear)
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Strand of hair (not accepted - went through bowl)
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Tear (accepted)
-- [[Party Members/ToooAh\|ToooAh]]: "Bird poo" (squatted and did bird droppings, accepted)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: "Bird poo" (squatted and did bird droppings, accepted)
 
 **DM Clarification:**
 
-- [[Party Members/ToooAh\|ToooAh]] had already done bird poo in previous session
-- [[Party Members/ToooAh\|ToooAh]] disputed this
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] had already done bird poo in previous session
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] disputed this
 - DM insisted bird poo was previous offering
 - Eventually resolved - poo accepted this time
 
 **Additional Offerings:**
 
-- [[Party Members/ToooAh\|ToooAh]]: Silver coin (not done before, accepted)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Silver coin (not done before, accepted)
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Front page from notebook (ripped out, accepted)
 
 **Seventh Gem Acquired:**
@@ -527,7 +527,7 @@
 - Knowledge, but can't be shared physically
 - Wealth (but what do you gain?)
 
-**[[Party Members/ToooAh\|ToooAh]]'s Ideas:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Ideas:**
 
 - Friendship
 - Love (can't be obtained through strength)
@@ -724,7 +724,7 @@
 **Visit [[Locations/Bane Watcher Citadel\|Bane Watcher Citadel]]** - Status: Active (CRITICAL URGENT)
 
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s sprite manifestation (advanced corruption)
-- Dormant Bane commands need removal ([[Party Members/ToooAh\|ToooAh]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]])
+- Dormant Bane commands need removal ([[Party Members/Tooo-Ah\|Tooo-Ah]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]])
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s psychological curse still active (triggered in combat)
 
 **Secure Eastern Border** - Status: Active (NOT STARTED)
@@ -741,7 +741,7 @@
 **The Bane Influence** - Status: Active (CRITICAL)
 
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Sprite manifestation, overflow risk
-- Dormant commands: [[Party Members/ToooAh\|ToooAh]] (kill [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]), [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (kill [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]])
+- Dormant commands: [[Party Members/Tooo-Ah\|Tooo-Ah]] (kill [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]), [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (kill [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]])
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Psychological curse ("It's your fault") **TRIGGERED THIS SESSION** during combat
 
 **Appoint [[Locations/Sylobelle\|Sylobelle]] Steward** - Status: Active (DELAYED)
@@ -786,7 +786,7 @@
 
 1. [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]
 2. [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
-3. [[Party Members/ToooAh\|ToooAh]]
+3. [[Party Members/Tooo-Ah\|Tooo-Ah]]
 4. Khorrak
 5. [[Party Members/Elvva Beltavar\|Elvva Beltavar]]
 
@@ -794,7 +794,7 @@
 
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Moved directly to Khorrak's face, Guiding Bolt for 14 radiant damage, cast Shield of Faith
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Fire Bolt hit for 8 damage (leg), second Fire Bolt missed (between legs)
-- [[Party Members/ToooAh\|ToooAh]]: Quarterstaff for 6 damage, **Stunning Strike successful** (Khorrak stunned until end of [[Party Members/ToooAh\|ToooAh]]'s next turn), two unarmed strikes for 20 total damage, Khorrak **bloodied**
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Quarterstaff for 6 damage, **Stunning Strike successful** (Khorrak stunned until end of [[Party Members/Tooo-Ah\|Tooo-Ah]]'s next turn), two unarmed strikes for 20 total damage, Khorrak **bloodied**
 - Khorrak: Stunned, lost turn
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Chromatic Orb (acid) with advantage for 21 damage
 
@@ -805,13 +805,13 @@
 - **Resurrected in enraged state** - black fur glowing green, no longer bloodied, roared
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Spiritual Weapon for 8 damage, moved to hide
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: **Attempted Abjure Enemy (Channel Divinity wasted - immune to frightened)**, Fire Bolt **Natural 1** hit rock splashing [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (3 damage) and self (1 damage after resistance), **psychological curse triggered** (3 psychic damage, "It's my fault again!")
-- [[Party Members/ToooAh\|ToooAh]]: Staff for 6 damage, Stunning Strike failed (enraged immunity), unarmed strike for 12 damage, Flurry of Blows (2 unarmed strikes) for 21 total damage - **39 damage total this turn**
-- Khorrak: Swung knife at [[Party Members/ToooAh\|ToooAh]] - **Natural 20 critical hit** for 22 slashing damage, [[Party Members/ToooAh\|ToooAh]] used Slow Fall to avoid fall damage, charged [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and hit with hammer for 18 bludgeoning
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Staff for 6 damage, Stunning Strike failed (enraged immunity), unarmed strike for 12 damage, Flurry of Blows (2 unarmed strikes) for 21 total damage - **39 damage total this turn**
+- Khorrak: Swung knife at [[Party Members/Tooo-Ah\|Tooo-Ah]] - **Natural 20 critical hit** for 22 slashing damage, [[Party Members/Tooo-Ah\|Tooo-Ah]] used Slow Fall to avoid fall damage, charged [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and hit with hammer for 18 bludgeoning
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Hex (4 necrotic, Strength disadvantage), Chromatic Orb for 23 acid - Khorrak **bloodied** again
 
 **Status After Round 2:**
 
-- [[Party Members/ToooAh\|ToooAh]]: 15/30 HP (bloodied)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: 15/30 HP (bloodied)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Bloodied
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Took 4 total damage (1 fire + 3 psychic)
 - Khorrak: Bloodied, hexed, enraged, focused on [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]
@@ -822,14 +822,14 @@
 
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: **Disengaged and grappled Khorrak's groin** - Khorrak **Natural 1** Constitution save, 12 damage total (6 base doubled with Hero Token critical), swung under legs gaining 2 extra movement, squeezed through gap (Athletics 23)
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Lay on Hands healed [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] for 20 HP (to full)
-- [[Party Members/ToooAh\|ToooAh]]: Three unarmed strikes for 31 total bludgeoning damage
-- Khorrak: **Used Legendary Action "Minotaur's Recall"** - teleported back to previous position, slammed hammer down on [[Party Members/ToooAh\|ToooAh]] and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], both failed Constitution saves, both launched 10ft and knocked prone, 17 bludgeoning each, **[[Party Members/ToooAh\|ToooAh]] reduced to 0 HP (unconscious, dying)**, [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] reduced to 12 HP (bloodied), Khorrak threw dagger at [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] through crack for 14 slashing, moved around rocks
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Three unarmed strikes for 31 total bludgeoning damage
+- Khorrak: **Used Legendary Action "Minotaur's Recall"** - teleported back to previous position, slammed hammer down on [[Party Members/Tooo-Ah\|Tooo-Ah]] and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], both failed Constitution saves, both launched 10ft and knocked prone, 17 bludgeoning each, **[[Party Members/Tooo-Ah\|Tooo-Ah]] reduced to 0 HP (unconscious, dying)**, [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] reduced to 12 HP (bloodied), Khorrak threw dagger at [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] through crack for 14 slashing, moved around rocks
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Attack of opportunity missed (roll 5), attempted Chromatic Orb
 
 **Round 4:**
 
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Changed to **Maximilian's Earthen Grasp** (Strength save DC 13 with disadvantage from Hex), Khorrak failed, giant hand grabbed groin area, 8 total damage (6 bludgeoning + 2 necrotic), **Khorrak restrained**
-- [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Squeezed back through gap (Athletics 23), **Channel Divinity: Preserve Life** - 19 HP to [[Party Members/ToooAh\|ToooAh]] (brought back from unconscious), 6 HP to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], dropped Spiritual Weapon concentration (failed check), kept Shield of Faith (passed check)
+- [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Squeezed back through gap (Athletics 23), **Channel Divinity: Preserve Life** - 19 HP to [[Party Members/Tooo-Ah\|Tooo-Ah]] (brought back from unconscious), 6 HP to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], dropped Spiritual Weapon concentration (failed check), kept Shield of Faith (passed check)
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Fire Bolt - **Dirty 20 to hit for 14 fire damage - KILLING BLOW**
 
 **Khorrak's Death:**
@@ -842,14 +842,14 @@
 
 **Final Damage Totals (Approximate):**
 
-- [[Party Members/ToooAh\|ToooAh]]: 96+ bludgeoning damage across both phases (massive damage dealer)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: 96+ bludgeoning damage across both phases (massive damage dealer)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: 32 radiant + 8 force + 12 "grapple" = 52 total
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: 22 fire damage (including killing blow)
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: 44 acid + 4 necrotic (Hex) + 8 (Earthen Grasp) = 56 total
 
 **Party Damage Taken:**
 
-- [[Party Members/ToooAh\|ToooAh]]: 39 total (22 slashing crit + 17 bludgeoning), reduced to 0 HP, healed back to 19 HP
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: 39 total (22 slashing crit + 17 bludgeoning), reduced to 0 HP, healed back to 19 HP
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: 32 total (18 bludgeoning), healed to full by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: 21 total (1 fire + 3 psychic + 17 bludgeoning), bloodied
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: 3 fire damage (friendly fire)
@@ -867,7 +867,7 @@
 
 **Tactical Notes:**
 
-- [[Party Members/ToooAh\|ToooAh]]'s Stunning Strike in Round 1 gave party advantage for entire round (massive)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]'s Stunning Strike in Round 1 gave party advantage for entire round (massive)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s unconventional grapple dealt significant damage and distracted Khorrak
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Earthen Grasp restrained Khorrak at critical moment
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s healing kept [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] in fight
@@ -897,7 +897,7 @@
 
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Gold coin
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Tear
-- [[Party Members/ToooAh\|ToooAh]]: Bird droppings, silver coin
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Bird droppings, silver coin
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Front page from notebook
 
 ### Items Gained
@@ -934,7 +934,7 @@
 
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (Life Cleric 6): New spells, improved Channel Divinity uses
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (Paladin 6): Oath feature, new spells
-- [[Party Members/ToooAh\|ToooAh]] (Monk 6): Evasion, Stillness of Mind, extra Ki points
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] (Monk 6): Evasion, Stillness of Mind, extra Ki points
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (Sorcerer 5/Warlock 1): New spells/features
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (Ranger 6): Ranger Archetype feature, new spells
 
@@ -954,7 +954,7 @@
 - Lay on Hands: 20 HP (significant portion of pool)
 - Multiple Fire Bolts
 
-**[[Party Members/ToooAh\|ToooAh]]:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]:**
 
 - Multiple Ki points (Stunning Strike, Flurry of Blows, Patient Defence/Disengage)
 - Reaction: Slow Fall (used after critical hit)
@@ -1036,11 +1036,11 @@
 
 **Support Role:**
 
-- Channel Divinity saved [[Party Members/ToooAh\|ToooAh]] from death
+- Channel Divinity saved [[Party Members/Tooo-Ah\|Tooo-Ah]] from death
 - Healed [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] back above bloodied
 - Spiritual Weapon added consistent damage
 
-### [[Party Members/ToooAh\|ToooAh]]'s Combat Dominance
+### [[Party Members/Tooo-Ah\|Tooo-Ah]]'s Combat Dominance
 
 **Damage Output:**
 
@@ -1099,10 +1099,10 @@
 
 **Combat Coordination:**
 
-- [[Party Members/ToooAh\|ToooAh]]'s stun enabled party advantage
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]'s stun enabled party advantage
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s healing kept [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] fighting
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Earthen Grasp restrained Khorrak at critical moment
-- [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s Preserve Life saved [[Party Members/ToooAh\|ToooAh]]
+- [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s Preserve Life saved [[Party Members/Tooo-Ah\|Tooo-Ah]]
 
 **Friendly Fire Impact:**
 
@@ -1119,11 +1119,11 @@
 
 **Session 30** - **Khorrak's Two-Phase Resurrection** - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] "killed" Khorrak with Guiding Bolt (18 radiant damage) causing body to fall to knees with life leaving it, eerie green glow appeared throughout body, hand clutched at chest pulling wound closed, large slash healed completely, black fur started glowing green, Khorrak roared and **became enraged**, no longer bloodied, gained advantage on attacks, focused single-mindedly on [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (whoever dealt "killing blow"), party unprepared for two-phase boss mechanics.
 
-**Session 30** - **[[Party Members/ToooAh\|ToooAh]]'s Stunning Strike Opening** - Round 1 of combat, [[Party Members/ToooAh\|ToooAh]] flew behind Khorrak attacking with quarterstaff for 6 damage, spent Chi point attempting Stunning Strike (DC 14), Khorrak failed Constitution save becoming **stunned until end of [[Party Members/ToooAh\|ToooAh]]'s next turn**, entire party gained advantage on attacks, [[Party Members/ToooAh\|ToooAh]] followed with two unarmed strikes dealing 20 additional damage (26 total), Khorrak became bloodied (green slime oozing), stun changed battle momentum immediately giving party dominant Round 1.
+**Session 30** - **[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Stunning Strike Opening** - Round 1 of combat, [[Party Members/Tooo-Ah\|Tooo-Ah]] flew behind Khorrak attacking with quarterstaff for 6 damage, spent Chi point attempting Stunning Strike (DC 14), Khorrak failed Constitution save becoming **stunned until end of [[Party Members/Tooo-Ah\|Tooo-Ah]]'s next turn**, entire party gained advantage on attacks, [[Party Members/Tooo-Ah\|Tooo-Ah]] followed with two unarmed strikes dealing 20 additional damage (26 total), Khorrak became bloodied (green slime oozing), stun changed battle momentum immediately giving party dominant Round 1.
 
 **Session 30** - **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s Curse Triggers in Combat** - Cast Fire Bolt rolling **Natural 1** (critical miss), fire hit rock splashing back onto [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (3 damage) and self (1 damage after fire resistance), immediately heard own voice in head: "Ah, it's my fault again!" with severe headache and 3 psychic damage, curse triggered by friendly fire against [[Party Members/Elvva Beltavar\|Elvva Beltavar]] specifically (same person he failed to save during Session 22 Belendar ambush), demonstrated curse active and dangerous during combat, wasted Channel Divinity moments earlier trying Abjure Enemy on immune target.
 
-**Session 30** - **Khorrak's Legendary Action Surprise** - Round 3 after [[Party Members/ToooAh\|ToooAh]] dealt 31 damage from behind Khorrak, Khorrak used **Legendary Action "Minotaur's Recall"** teleporting back along travelled path without expending movement, appeared directly where [[Party Members/ToooAh\|ToooAh]] and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] standing, slammed hammer down forcing Constitution saves, both failed, both launched 10 feet and knocked prone taking 17 bludgeoning each, **[[Party Members/ToooAh\|ToooAh]] reduced to 0 HP (unconscious, dying)**, [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] bloodied (12/35 HP), party completely surprised by teleportation mechanic.
+**Session 30** - **Khorrak's Legendary Action Surprise** - Round 3 after [[Party Members/Tooo-Ah\|Tooo-Ah]] dealt 31 damage from behind Khorrak, Khorrak used **Legendary Action "Minotaur's Recall"** teleporting back along travelled path without expending movement, appeared directly where [[Party Members/Tooo-Ah\|Tooo-Ah]] and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] standing, slammed hammer down forcing Constitution saves, both failed, both launched 10 feet and knocked prone taking 17 bludgeoning each, **[[Party Members/Tooo-Ah\|Tooo-Ah]] reduced to 0 HP (unconscious, dying)**, [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] bloodied (12/35 HP), party completely surprised by teleportation mechanic.
 
 **Session 30** - **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Forgiveness Demonstration** - Dragon asked riddle about forgiveness requiring demonstration not just words, dragon said "Show me" with claw extended, [[Party Members/Elvva Beltavar\|Elvva Beltavar]] turned to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: "I forgive you for killing me that one time. It's not your fault anymore. I no longer blame you for my death," referring to Session 22 Belendar ambush where [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] unable to save her, [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] responded: "I'm so glad. Factually incorrect, but I'm so glad," dragon's stone face glowed blue brighter and brighter, shed single tear landing in [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s hand forming Dragon's Tear gem, walls started disappearing as vision ended, genuine character growth solving puzzle.
 
@@ -1144,7 +1144,7 @@
 **Party Status:**
 
 - All members awake in separate locations
-- [[Locations/Stormhold Keep\|Stormhold Keep]]: [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]], [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], [[Party Members/ToooAh\|ToooAh]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]
+- [[Locations/Stormhold Keep\|Stormhold Keep]]: [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]], [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], [[Party Members/Tooo-Ah\|Tooo-Ah]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]
 - [[Locations/Belendar\|Belendar]]: [[Party Members/Elvva Beltavar\|Elvva Beltavar]]
 - All **Level 6** with new abilities
 - Long rest completed (dream counted as sleep)
@@ -1183,7 +1183,7 @@
     
     - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s sprite manifestation (advanced corruption, overflow risk)
     - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s psychological curse **triggered in combat this session**
-    - Dormant Bane commands: [[Party Members/ToooAh\|ToooAh]] (kill [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]), [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (kill [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]])
+    - Dormant Bane commands: [[Party Members/Tooo-Ah\|Tooo-Ah]] (kill [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]), [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (kill [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]])
     - Training needed for Bane abilities
     - Increasingly urgent after curse trigger
 3. **Rally the North** - TIME-SENSITIVE
@@ -1328,7 +1328,7 @@
 
 - **Citadel Leadership** - Need to arrange visit urgently for [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s treatment
 - **Trainers** - Bane ability training needed
-- **Command Removal Specialists** - Dormant commands in [[Party Members/ToooAh\|ToooAh]] and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]
+- **Command Removal Specialists** - Dormant commands in [[Party Members/Tooo-Ah\|Tooo-Ah]] and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]
 
 **[[Locations/Sylobelle\|Sylobelle]] Investigation:**
 
@@ -1368,8 +1368,8 @@
 - **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]**: Bane corruption critical, possesses Dragon's Tear
 - **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]**: Curse triggered in combat, needs Citadel visit
 - **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]**: New Warg ability untested, player absent
-- **[[Party Members/ToooAh\|ToooAh]]**: Dormant command (kill [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]), needs removal
-- **[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]**: Target of [[Party Members/ToooAh\|ToooAh]]'s dormant command
+- **[[Party Members/Tooo-Ah\|Tooo-Ah]]**: Dormant command (kill [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]), needs removal
+- **[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]**: Target of [[Party Members/Tooo-Ah\|Tooo-Ah]]'s dormant command
 
 **Tactical Considerations:**
 

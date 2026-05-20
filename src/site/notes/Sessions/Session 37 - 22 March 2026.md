@@ -13,9 +13,9 @@
 
 ### The Cathedral - A Whispered Offer
 
-Half an hour into the sermon, [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] slips quietly out of the cathedral pew to look for [[Party Members/ToooAh\|ToooAh]], drawing only a few disapproving tutting sounds from nearby worshippers.
+Half an hour into the sermon, [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] slips quietly out of the cathedral pew to look for [[Party Members/Tooo-Ah\|Tooo-Ah]], drawing only a few disapproving tutting sounds from nearby worshippers.
 
-Meanwhile, [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] is still seated next to the young monk from the previous session - the one the party had taken to calling "herb monk" owing to the bag of herbs he'd been sorting. As Odonia leaves, the monk leans close and whispers that [[Party Members/ToooAh\|ToooAh]] was taken to the garrison, and that the front entrance offers no hope of a quiet entry. He then delivers a far more surprising line: _"I assume you are Ser Tessell Highfrost... and part of the Riders of the Storm?"_ He introduces himself as **Brother Calen**, and offers to help rescue [[Party Members/ToooAh\|ToooAh]] - in exchange for help finding someone he knows inside the garrison. He suggests they leave while the congregation is distracted by the sermon.
+Meanwhile, [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] is still seated next to the young monk from the previous session - the one the party had taken to calling "herb monk" owing to the bag of herbs he'd been sorting. As Odonia leaves, the monk leans close and whispers that [[Party Members/Tooo-Ah\|Tooo-Ah]] was taken to the garrison, and that the front entrance offers no hope of a quiet entry. He then delivers a far more surprising line: _"I assume you are Ser Tessell Highfrost... and part of the Riders of the Storm?"_ He introduces himself as **Brother Calen**, and offers to help rescue [[Party Members/Tooo-Ah\|Tooo-Ah]] - in exchange for help finding someone he knows inside the garrison. He suggests they leave while the congregation is distracted by the sermon.
 
 Tessell arranges to meet outside and the group reunites with [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] in the street. [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] makes a passing comment that it would be a shame if the delegation the [[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]] is sending to [[Locations/Neverwinter\|Neverwinter]] were to go missing on its way.
 
@@ -35,15 +35,15 @@ The person he wants rescued is a 16-year-old girl named **Clara**, a priestess-i
 
 ---
 
-### ToooAh in the Cell - Ser Alric Vayne
+### Tooo-Ah in the Cell - Ser Alric Vayne
 
-While the party schemes in Calen's quarters, [[Party Members/ToooAh\|ToooAh]] is dealing with her own situation. Stripped of her weapons, gauntlets, and darts, she is in a stone cell approximately ten feet cubed. The air smells of mildew and rust, and screams echo down the corridors.
+While the party schemes in Calen's quarters, [[Party Members/Tooo-Ah\|Tooo-Ah]] is dealing with her own situation. Stripped of her weapons, gauntlets, and darts, she is in a stone cell approximately ten feet cubed. The air smells of mildew and rust, and screams echo down the corridors.
 
 In the cell directly opposite sits a gaunt, sharp-eyed man - evidently malnourished and bearing marks of a beating. He speaks first: _"You're not with the rebels. That means you're either unlucky or useful."_ He introduces himself as **Ser Alric Vayne**, second in command of the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] until recently - imprisoned for approximately three weeks for siding with the Crown.
 
-[[Party Members/ToooAh\|ToooAh]] introduces herself and the [[Organisations/Riders of the Storm\|Riders of the Storm]], explaining their mission to unite the north in favour of the Crown Princess. Alric confirms that High Commander **Darius Kain** turned the Order against the monarchy before news of the High King's death had even reached the town. Multiple members have been killed, gone missing, or imprisoned. His summary is blunt and angry: _"This isn't a rebellion. This is rot. Something is wearing this Order like a mask."_ He believes Darius to be part of a secret cult and warns that people taken into this garrison seldom come back out again.
+[[Party Members/Tooo-Ah\|Tooo-Ah]] introduces herself and the [[Organisations/Riders of the Storm\|Riders of the Storm]], explaining their mission to unite the north in favour of the Crown Princess. Alric confirms that High Commander **Darius Kain** turned the Order against the monarchy before news of the High King's death had even reached the town. Multiple members have been killed, gone missing, or imprisoned. His summary is blunt and angry: _"This isn't a rebellion. This is rot. Something is wearing this Order like a mask."_ He believes Darius to be part of a secret cult and warns that people taken into this garrison seldom come back out again.
 
-The two attempt to hatch an escape plan. Alric has spent three weeks trying - the best he has managed is rattling the lock. [[Party Members/ToooAh\|ToooAh]] explores her cell thoroughly (Investigation: 5), establishing that the bars are solid, the walls are stone masonry, and no amount of talon-scraping will avail her. She decides to feign unconsciousness and wait for her companions.
+The two attempt to hatch an escape plan. Alric has spent three weeks trying - the best he has managed is rattling the lock. [[Party Members/Tooo-Ah\|Tooo-Ah]] explores her cell thoroughly (Investigation: 5), establishing that the bars are solid, the walls are stone masonry, and no amount of talon-scraping will avail her. She decides to feign unconsciousness and wait for her companions.
 
 ---
 
@@ -73,23 +73,23 @@ Further along the corridor, Tessell peers around the corner using his small mirr
 
 Tessell then steps up to the door. It is solid, with a barred window. He peers through, then ducks underneath the window to look from the other side with his mirror. Inside: a man is chained to the wall - legs bound, arms above him, facing away - while three guards in [[Organisations/Order of the Silver Lantern\|Silver Lantern]] colours work him over with whips and assorted implements. Seated at a desk, watching, is a figure in different armour entirely: brown and gold, bearing the royal arms of [[Locations/Odessia\|Odessia]] - but rendered in the wrong colours. Where the correct heraldry is green and gold, this crest is blue and silver.
 
-[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] argues they should lock the door and come back for the prisoner once they have [[Party Members/ToooAh\|ToooAh]]. [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] agrees. Using his **permanent lockpicks**, he locks the door - failing his stealth check (4+1=5) as he does so, though the screaming inside apparently masks the noise. The party moves on.
+[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] argues they should lock the door and come back for the prisoner once they have [[Party Members/Tooo-Ah\|Tooo-Ah]]. [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] agrees. Using his **permanent lockpicks**, he locks the door - failing his stealth check (4+1=5) as he does so, though the screaming inside apparently masks the noise. The party moves on.
 
 ---
 
-### Finding ToooAh - The Cell Block
+### Finding Tooo-Ah - The Cell Block
 
-Two more guards stand outside the entrance to [[Party Members/ToooAh\|ToooAh]]'s cell block. Tessell whistles again. The first guard walks around the corner and Calen seizes him - hand over mouth, pulls him back, presents him to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], who kills him. Tessell makes another distressed sound (Performance: 17). The second guard follows and Calen grabs him too - but this time the clank of the sword against the stone wall echoes sharply down the corridor.
+Two more guards stand outside the entrance to [[Party Members/Tooo-Ah\|Tooo-Ah]]'s cell block. Tessell whistles again. The first guard walks around the corner and Calen seizes him - hand over mouth, pulls him back, presents him to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], who kills him. Tessell makes another distressed sound (Performance: 17). The second guard follows and Calen grabs him too - but this time the clank of the sword against the stone wall echoes sharply down the corridor.
 
 The guard manages to shout one word - _"Alarm!"_ - before [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] finishes him.
 
-Inside the cell block, guards rush in towards [[Party Members/ToooAh\|ToooAh]], who is lying motionless on the floor. One of them throws a bucket of cold water over her (Constitution save: 18 - she doesn't flinch). As one guard enters the cell to check on her and gives her a few kicks, [[Party Members/ToooAh\|ToooAh]] springs up. She lands a punch and delivers a **Flurry of Blows** - a hook and an uppercut - taking down the guard. Across the corridor, **Ser Alric Vayne** hauls himself to the bars of his cell and seizes the last guard from behind, buying [[Party Members/ToooAh\|ToooAh]] the moment she needs.
+Inside the cell block, guards rush in towards [[Party Members/Tooo-Ah\|Tooo-Ah]], who is lying motionless on the floor. One of them throws a bucket of cold water over her (Constitution save: 18 - she doesn't flinch). As one guard enters the cell to check on her and gives her a few kicks, [[Party Members/Tooo-Ah\|Tooo-Ah]] springs up. She lands a punch and delivers a **Flurry of Blows** - a hook and an uppercut - taking down the guard. Across the corridor, **Ser Alric Vayne** hauls himself to the bars of his cell and seizes the last guard from behind, buying [[Party Members/Tooo-Ah\|Tooo-Ah]] the moment she needs.
 
-[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] calls out into the cell block: _"ToooAh - we're here to get you."_
+[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] calls out into the cell block: _"Tooo-Ah - we're here to get you."_
 
-**Initiative:** ToooAh (23) · Calen · Elik'r · Tessell (9) · Odonia (6).
+**Initiative:** Tooo-Ah (23) · Calen · Elik'r · Tessell (9) · Odonia (6).
 
-ToooAh tears through the guard in her cell in four strikes, two landing (11 and 9 damage). She takes his longsword and hands it to Ser Alric. Calen reports more are coming. The main combat takes place in the corridor between the cell block and the guard/break room, as reinforcements arrive.
+Tooo-Ah tears through the guard in her cell in four strikes, two landing (11 and 9 damage). She takes his longsword and hands it to Ser Alric. Calen reports more are coming. The main combat takes place in the corridor between the cell block and the guard/break room, as reinforcements arrive.
 
 [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] uses his **Dragon Breath** (15-foot fire cone, DC 12 Dex), catching three incoming guards - two fail and take 12 fire damage, one succeeds and takes 6. [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] casts **Spiritual Guardians** and advances around the corner into the corridor, catching all three guards in the 15-foot emanation - all three fail their Wisdom saves (DC 14) and take 10 damage each, killing the two already scorched. He attempts **Spiritual Weapon** against the remaining guard but misses. [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] slides through [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s legs (Acrobatics: 18) to get into position, but runs out of meaningful actions. [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] drives his longsword through the remaining guard's chest and finishes him.
 
@@ -111,12 +111,12 @@ Odonia briefly attempts to intimidate a fresh wave of incoming guards (Intimidat
 
 [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] investigates the guard room - a break area with a weapons rack. He finds:
 
-- [[Party Members/ToooAh\|ToooAh]]'s confiscated belongings - staff, gauntlets, darts, and equipment - all in a bag
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]'s confiscated belongings - staff, gauntlets, darts, and equipment - all in a bag
 - Silver Lantern banners defaced with the same green symbol he spotted on the corridor wall
 - An unfinished journal on the desk (clearly written by whoever fled up the stairs at the sound of the thunderclap)
 - **11 silver and 3 copper pieces**
 
-He returns [[Party Members/ToooAh\|ToooAh]]'s belongings. [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] takes the journal. Spare weapons from the room are distributed to the freed prisoners.
+He returns [[Party Members/Tooo-Ah\|Tooo-Ah]]'s belongings. [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] takes the journal. Spare weapons from the room are distributed to the freed prisoners.
 
 ---
 
@@ -125,7 +125,7 @@ He returns [[Party Members/ToooAh\|ToooAh]]'s belongings. [[Party Members/Lady O
 Tessell discovers a second, smaller cell block beyond the guard room. Four of ten cells are occupied:
 
 - An elderly couple, frail and close to death, who ask to be left and urge the others to go
-- A one-armed man in plain clothing who insists he was unjustly imprisoned; [[Party Members/ToooAh\|ToooAh]] unlocks his cell with some scepticism
+- A one-armed man in plain clothing who insists he was unjustly imprisoned; [[Party Members/Tooo-Ah\|Tooo-Ah]] unlocks his cell with some scepticism
 - An empty cell - on the straw mattress, a **lock of golden hair**, and **specks of blood** across the floor
 
 Clara was presumably here - though what has happened to her is unknown.
@@ -134,7 +134,7 @@ Clara was presumably here - though what has happened to her is unknown.
 
 ### The Symbol - A Hidden Passage
 
-Ser Alric Vayne, having recovered the garrison keys and freed his men, tells [[Party Members/ToooAh\|ToooAh]] he intends to head back through the rear entrance to attempt a rescue of the man still locked in the torture chamber. He passes her the location of a safehouse in [[Locations/Thalas'Miriel\|Thalas'Miriel]] where surviving loyal members of the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] have been gathering.
+Ser Alric Vayne, having recovered the garrison keys and freed his men, tells [[Party Members/Tooo-Ah\|Tooo-Ah]] he intends to head back through the rear entrance to attempt a rescue of the man still locked in the torture chamber. He passes her the location of a safehouse in [[Locations/Thalas'Miriel\|Thalas'Miriel]] where surviving loyal members of the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] have been gathering.
 
 Footsteps thunder on the staircase above. Fighting sounds - steel and shouting - echo from further down the corridor. There is no time. The party retreats to the green symbol.
 
@@ -167,7 +167,7 @@ The party stands in silence at the top of a passage that goes further down than 
 
 ## Quest Updates
 
-- [[Quests/Quests - Active#Rally the North\|Secure ToooAh]] - **Completed (partial):** [[Party Members/ToooAh\|ToooAh]] retrieved from her cell. Party now trapped deeper in the garrison via hidden passage - not yet free of the building.
+- [[Quests/Quests - Active#Rally the North\|Secure Tooo-Ah]] - **Completed (partial):** [[Party Members/Tooo-Ah\|Tooo-Ah]] retrieved from her cell. Party now trapped deeper in the garrison via hidden passage - not yet free of the building.
 - [[Quests/Quests - Active#Rally the North\|Quests - Active#Rally the North]] - **Active:** Ser Alric Vayne confirmed as a potential Crown ally within [[Locations/Thalas'Miriel\|Thalas'Miriel]]. Safehouse location obtained for surviving loyal [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] members.
 - [[Quests/Quests - Active#Rally the North\|Counter Vaelorian's Delegation]] - **Active:** No direct progress this session; still a ticking clock.
 
@@ -179,9 +179,9 @@ The party stands in silence at the top of a passage that goes further down than 
 
 **Encounter 2 - Corridor Guards outside Torture Room (2 × Silver Lantern guards)** Resolved without formal initiative. Tessell whistles; Calen grabs first guard and presents to Elik'r (killed). Tessell makes a distressed sound (Performance: 17; DM rolls two consecutive Natural 1s); Calen grabs second guard and presents to Tessell, who knocks him out with the blunt side of his handaxe.
 
-**Encounter 3 - ToooAh's Cell Block (3–4 × Silver Lantern guards)**
+**Encounter 3 - Tooo-Ah's Cell Block (3–4 × Silver Lantern guards)**
 
-- [[Party Members/ToooAh\|ToooAh]] defeats one guard unarmed (four strikes, two landing: 11 + 9 damage)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] defeats one guard unarmed (four strikes, two landing: 11 + 9 damage)
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] kills one with a double longsword slash (X-cut)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] uses Spiritual Guardians (10 damage to all three, killing two) and attempts Spiritual Weapon (miss)
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] finishes the last guard with Twin Blades of the Serpent (dual stab; 9 + 7 damage)
@@ -191,7 +191,7 @@ The party stands in silence at the top of a passage that goes further down than 
 
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] Dragon Breath (fire cone, DC 12): two take 12, one takes 6 fire damage
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] Spiritual Guardians (10 to all in range), Spiritual Weapon (miss)
-- [[Party Members/ToooAh\|ToooAh]] wing darts while flying: two hit, 13 damage each; Flurry of Blows on one guard: 12 + 10 damage (knocked unconscious)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] wing darts while flying: two hit, 13 damage each; Flurry of Blows on one guard: 12 + 10 damage (knocked unconscious)
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] slides through Elik'r's legs (Acrobatics 18) - bonus action only, Intimidation attempt (9) has no effect
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] Thunderous Smite (2nd level): +12 thunder damage; DC 13 Con save required by all within range - several fail and are stunned one round
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] takes 17 piercing/slashing damage from two flanking guards
@@ -201,7 +201,7 @@ The party stands in silence at the top of a passage that goes further down than 
 
 ## Loot & Rewards
 
-- [[Party Members/ToooAh\|ToooAh]]'s confiscated equipment - staff, gauntlets, darts, all items restored
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]'s confiscated equipment - staff, gauntlets, darts, all items restored
 - **Unfinished journal** - taken from guard room desk; written by unknown Silver Lantern (possibly Darius Kain or a subordinate); left unfinished when writer fled upstairs
 - **Defaced Silver Lantern banners** - marked with the green cult symbol; noted but not taken
 - **11 silver pieces, 3 copper pieces** - found in guard room

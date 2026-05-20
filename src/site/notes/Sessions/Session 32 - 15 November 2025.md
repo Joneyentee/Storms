@@ -36,7 +36,7 @@
 
 **Conversation:**
 
-- [[NPCs/Captain Mara Veylan\|Captain Mara Veylan]] asked [[Party Members/ToooAh\|ToooAh]] what kind of bird she is - mentioned birds are considered lucky
+- [[NPCs/Captain Mara Veylan\|Captain Mara Veylan]] asked [[Party Members/Tooo-Ah\|Tooo-Ah]] what kind of bird she is - mentioned birds are considered lucky
 - This broke the ice and they agreed to travel together as far as [[Locations/Crossroads Inn\|Crossroads Inn]]
 - Iron Finch Company hired by the Dukedom of [[Locations/Neverwinter\|Neverwinter]] as mercenaries
 - Showed party a scroll from [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] of [[Locations/Neverwinter\|Neverwinter]] calling mercenaries to arms
@@ -197,11 +197,11 @@
 
 ---
 
-### ToooAh's Card Game Disaster
+### Tooo-Ah's Card Game Disaster
 
 **Attempting to Learn:**
 
-- [[Party Members/ToooAh\|ToooAh]] tried to work out how to play the card game
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] tried to work out how to play the card game
 - Rolled **Natural 1** on Perception
 
 **The Game:**
@@ -230,7 +230,7 @@
 
 **Effects:**
 
-**[[Party Members/ToooAh\|ToooAh]] - Honeyglaze Crescendo:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]] - Honeyglaze Crescendo:**
 
 - For one hour: **MUST uncontrollably sing everything she wants to say**
 
@@ -392,7 +392,7 @@
 
 **Magical Pastry Effects (Temporary):**
 
-- [[Party Members/ToooAh\|ToooAh]]: Must sing everything (1 hour)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Must sing everything (1 hour)
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Translucent, squeaks like rubber toy (1 hour)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Choir sound when casting (until long rest)
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Sassy Mage Hand (1 hour)
@@ -458,7 +458,7 @@
 - Established potential mercenary contact
 - Choir effect when casting spells (humorous)
 
-**[[Party Members/ToooAh\|ToooAh]]:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]:**
 
 - Broke ice with [[NPCs/Captain Mara Veylan\|Captain Mara Veylan]] (birds are lucky)
 - Failed spectacularly at card game (Natural 1 Perception)
@@ -531,7 +531,7 @@
 
 1. **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] passed out drunk** in back of cart at journey start (player arrived late to session)
     
-2. **[[NPCs/Captain Mara Veylan\|Captain Mara Veylan]]'s bird question** to [[Party Members/ToooAh\|ToooAh]] breaking the ice ("What kind of bird are you? Birds are lucky!")
+2. **[[NPCs/Captain Mara Veylan\|Captain Mara Veylan]]'s bird question** to [[Party Members/Tooo-Ah\|Tooo-Ah]] breaking the ice ("What kind of bird are you? Birds are lucky!")
     
 3. **[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s rejected introduction** - [[NPCs/Captain Rhyla Garron\|Captain Rhyla Garron]] ignoring his speech and demanding arm wrestle instead
     
@@ -545,13 +545,13 @@
     
 8. **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s triple Natural 20 streak** - three Nat 20s across two boxing matches, dominating tournament
     
-9. **[[Party Members/ToooAh\|ToooAh]]'s card game fail** - Natural 1 Perception, sits down to play without knowing rules, loses immediately
+9. **[[Party Members/Tooo-Ah\|Tooo-Ah]]'s card game fail** - Natural 1 Perception, sits down to play without knowing rules, loses immediately
     
 10. **[[NPCs/Bramble Porridgepot\|Bramble Porridgepot]]'s pastry warning** - "I made these as trial and **some may explode!**"
     
 11. **The pastry effects chaos**:
     
-    - [[Party Members/ToooAh\|ToooAh]] must sing everything
+    - [[Party Members/Tooo-Ah\|Tooo-Ah]] must sing everything
     - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] squeaking like rubber toy while translucent
     - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s magical choir "ahhh"
     - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s sassy defiant Mage Hand
@@ -631,7 +631,7 @@
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Curse triggered (20 psychic, Frightened), squeaking/translucent (1 hour)
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Bareknuckle champion, sassy Mage Hand (1 hour)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Arm wrestling victor, choir effect (until long rest)
-- [[Party Members/ToooAh\|ToooAh]]: Must sing (1 hour), lost card game
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Must sing (1 hour), lost card game
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: Started journey passed out drunk, jam/cream covered (1 hour)
 
 **Political Intelligence:**

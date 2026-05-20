@@ -21,10 +21,10 @@
 
 - Party split to investigate the vision's meaning:
     - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] and [[Party Members/Elvva Beltavar\|Elvva Beltavar]] went to meet [[NPCs/Elincia Flowers\|Elincia Flowers]]
-    - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and [[Party Members/ToooAh\|ToooAh]] went to [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]]
+    - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and [[Party Members/Tooo-Ah\|Tooo-Ah]] went to [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]]
     - [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] stayed at pavilion
 
-### Crown Princess Meeting ([[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] & [[Party Members/ToooAh\|ToooAh]])
+### Crown Princess Meeting ([[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] & [[Party Members/Tooo-Ah\|Tooo-Ah]])
 
 - Discussed the vision and threat to the king
 - Princess doesn't know who [[NPCs/Thalas\|Thalas]] is, but believes Thalas is **a woman, not a man**
@@ -34,7 +34,7 @@
     3. [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] (surprising inclusion)
 - Princess revealed mercenaries bearing **orange and blue colours** entering the city (Alvar's conspiracy colours)
 - Princess cryptically stated [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] is "performing a task on my behalf" but refused to elaborate
-- Princess immediately ordered 10 guards posted around the king, plus 5 specifically for the bird (ToooAh)
+- Princess immediately ordered 10 guards posted around the king, plus 5 specifically for the bird (Tooo-Ah)
 - [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]] appeared when summoned
 
 ### White Falcon Meeting ([[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] & [[Party Members/Elvva Beltavar\|Elvva Beltavar]])
@@ -62,12 +62,12 @@
 
 ### Ser Silvar's Mansion Burned
 
-- [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and [[Party Members/ToooAh\|ToooAh]] discovered [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]]'s mansion on fire
+- [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and [[Party Members/Tooo-Ah\|Tooo-Ah]] discovered [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]]'s mansion on fire
 - Major-domo found in back garden, critically wounded with lacerations and glass embedded (jumped from window)
-- [[Party Members/ToooAh\|ToooAh]] stabilized him with Cure Wounds
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] stabilized him with Cure Wounds
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s squire caught up, relayed news of town square ambush
 - Charred servant remains found inside mansion
-- [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and [[Party Members/ToooAh\|ToooAh]] brought wounded major-domo to tavern hideout
+- [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and [[Party Members/Tooo-Ah\|Tooo-Ah]] brought wounded major-domo to tavern hideout
 
 ### Underground Hideout
 
@@ -82,13 +82,13 @@
 ### Active This Session
 
 - [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] - Led defense, executed devastating hammer combo, knocked out and rescued [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
-- [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] - Met with [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]/[[Party Members/ToooAh\|ToooAh]], ordered royal guards deployed, fought in town square, executed prisoners by drowning
+- [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] - Met with [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]/[[Party Members/Tooo-Ah\|Tooo-Ah]], ordered royal guards deployed, fought in town square, executed prisoners by drowning
 - [[NPCs/Elincia Flowers\|Elincia Flowers]] - Met with [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]/[[Party Members/Elvva Beltavar\|Elvva Beltavar]], provided evidence scroll, accompanied by mysterious man
 - **Silverleaf** - Knight/guard who fought in town square as reinforcement (played by Paul).
 - [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]] - Briefly appeared when Princess summoned him
 - **Mysterious Cloaked Man** - Purple robes with gold embroidery, ornate gold cane, called White Falcon "My Queen," disappeared via unknown magic (not invisibility)
 - **Tavern Barman** - Knows [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]], operates secret hideout entrance
-- **Ser Silvar's Major-domo** - Critically wounded, jumped from window during mansion attack, stabilized by [[Party Members/ToooAh\|ToooAh]]
+- **Ser Silvar's Major-domo** - Critically wounded, jumped from window during mansion attack, stabilized by [[Party Members/Tooo-Ah\|Tooo-Ah]]
 
 ### Deceased This Session
 
@@ -101,7 +101,7 @@
 ## Locations Visited
 
 - **[[Locations/Belendar\|Belendar]] - Jousting Arena Pavilions** - Where vision occurred, party's temporary base
-- **[[Locations/Belendar\|Belendar]] - Royal Palace** - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and [[Party Members/ToooAh\|ToooAh]] met [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]]
+- **[[Locations/Belendar\|Belendar]] - Royal Palace** - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and [[Party Members/Tooo-Ah\|Tooo-Ah]] met [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]]
 - **[[Locations/Belendar\|Belendar]] - Town Square** - Central fountain, ambush location, public execution site
 - **[[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]]'s Mansion** - Burned down, servants killed
 - **Secret Tavern Hideout** - Underground basement accessed via trapdoor behind bar
@@ -119,7 +119,7 @@
 - **Prevent King's Assassination** - Status: Active (URGENT - FAILED Session 23)
     
     - Vision warned of imminent attempt
-    - Princess deployed 10 guards to king, 5 to [[Party Members/ToooAh\|ToooAh]]
+    - Princess deployed 10 guards to king, 5 to [[Party Members/Tooo-Ah\|Tooo-Ah]]
     - Timeline unclear but described as "very soon"
 - **Identify "The Vessel"** - Status: Active
     
@@ -182,7 +182,7 @@ Session 22 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] - Strang
 
 Session 22 - Party (Planning) - Spent extended time debating what to do after the vision, with multiple false starts about going to feast vs investigating. Eventually split up despite "number one rule of D&D: always split the party."
 
-Session 22 - [[Party Members/ToooAh\|ToooAh]] - Changed her magical armour into a random summery dress with individually colored flowers (green, purple, gold, blue) plus wings before meeting the [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]], explaining "You can't have the same outfit twice when meeting the Princess."
+Session 22 - [[Party Members/Tooo-Ah\|Tooo-Ah]] - Changed her magical armour into a random summery dress with individually colored flowers (green, purple, gold, blue) plus wings before meeting the [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]], explaining "You can't have the same outfit twice when meeting the Princess."
 
 Session 22 - Mysterious Cloaked Man - Addressed [[NPCs/Elincia Flowers\|Elincia Flowers]] as "My Queen" before disappearing into the crowd using unknown magic that even [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (as experienced sorcerer) couldn't identify as any known invisibility spell.
 
@@ -226,7 +226,7 @@ Session 22 - [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Eve
 - Where to keep party safe until assassination prevented
 - How to attend feast (if at all) without being targets
 - Informing Guy's family
-- Tournament Day 2 semifinals - [[Party Members/ToooAh\|ToooAh]] vs [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] vs unknown
+- Tournament Day 2 semifinals - [[Party Members/Tooo-Ah\|Tooo-Ah]] vs [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] vs unknown
 
 ---
 ## DM Notes

@@ -61,7 +61,7 @@ Estate of [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]] prominent elf knight a
 - Burned in coordinated attack simultaneous with town square ambush
 - Multiple servants killed in fire
 - Major-domo barely escaped by jumping from window (found with severe lacerations and embedded glass)
-- Smoke plumes visible from distance when [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and [[Party Members/ToooAh\|ToooAh]] arrived
+- Smoke plumes visible from distance when [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and [[Party Members/Tooo-Ah\|Tooo-Ah]] arrived
 - Roof collapsed, building beyond saving
 - Party's possessions presumably destroyed (except items carried to joust)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s chest with gold coins was stored here (status unknown, likely destroyed)
@@ -101,7 +101,7 @@ Estate of [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]] prominent elf knight a
 ### Appearances
 
 - [[Sessions/Session 21 - 23 February 2025\|Session 21 - 23 February 2025]] - Party stayed here during tournament
-- [[Sessions/Session 22 - 15 March 2025\|Session 22 - 15 March 2025]] - Destroyed by fire during coordinated attack. [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and [[Party Members/ToooAh\|ToooAh]] arrived to find it burning, rescued major-domo from garden
+- [[Sessions/Session 22 - 15 March 2025\|Session 22 - 15 March 2025]] - Destroyed by fire during coordinated attack. [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and [[Party Members/Tooo-Ah\|Tooo-Ah]] arrived to find it burning, rescued major-domo from garden
 
 ### Notes
 

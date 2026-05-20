@@ -160,7 +160,7 @@ Wood elf wizard, age 32, with emerald eyes, white hair, and copper-tinged skin. 
     
     - Sea battle, ship ran aground on volcanic island
     - Party chased by 100+ dwarves through mountain
-    - Set log trap in valley (ToooAh stayed behind to trigger)
+    - Set log trap in valley (Tooo-Ah stayed behind to trigger)
     - Navigated underground corridors and defeated gargoyle statues
     - **THE HORN INCIDENT:** Attempted to climb statue to reach horn instead of using Mage Hand - fell and took damage - [[Party Members/Ser Pas Rata\|Ser Pas Rata]] climbed successfully and **BLEW THE HORN** - released [[NPCs/The Bane\|The Bane]] into the world
     - Escaped as mountain/island erupted into volcano
@@ -175,7 +175,7 @@ Wood elf wizard, age 32, with emerald eyes, white hair, and copper-tinged skin. 
     - "Door into the mountain" fixation (ongoing campaign joke)
     - Overthinking simple solutions (Mage Hand vs climbing)
     - Single decision (failed climb) led to campaign's main crisis
-- **[[Sessions/Session 31 - 18 October 2025\|Session 31 - 18 October 2025]]** - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] encountered him via magical tea portal (rolled 43 on [[Party Members/ToooAh\|ToooAh]]'s magical tea). Portal opened to dark library room where Joneyentee was "researching." [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] stepped through, found books and Joneyentee through next door, was instantly ejected from portal with d6 psychic damage. Brief encounter, no conversation. Current location and research subject unknown.
+- **[[Sessions/Session 31 - 18 October 2025\|Session 31 - 18 October 2025]]** - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] encountered him via magical tea portal (rolled 43 on [[Party Members/Tooo-Ah\|Tooo-Ah]]'s magical tea). Portal opened to dark library room where Joneyentee was "researching." [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] stepped through, found books and Joneyentee through next door, was instantly ejected from portal with d6 psychic damage. Brief encounter, no conversation. Current location and research subject unknown.
     
 
 ## Relationships

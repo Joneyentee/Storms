@@ -21,7 +21,7 @@ Male human, bald with heavy moustache. Leader of [[Organisations/Iron Finch Comp
 
 ## Session 32 Encounter
 
-Met party on road to [[Locations/Thalas'Miriel\|Thalas'Miriel]]. Asked [[Party Members/ToooAh\|ToooAh]] "What kind of bird are you? Birds are lucky!" which broke the ice. Showed party scroll from [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] calling mercenaries to arms (no payment details listed). Traveled together to [[Locations/Crossroads Inn\|Crossroads Inn]] as comrades.
+Met party on road to [[Locations/Thalas'Miriel\|Thalas'Miriel]]. Asked [[Party Members/Tooo-Ah\|Tooo-Ah]] "What kind of bird are you? Birds are lucky!" which broke the ice. Showed party scroll from [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] calling mercenaries to arms (no payment details listed). Traveled together to [[Locations/Crossroads Inn\|Crossroads Inn]] as comrades.
 
 ## Relationships
 

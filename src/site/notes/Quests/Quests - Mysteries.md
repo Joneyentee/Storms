@@ -83,7 +83,7 @@
 - Why does the seraph say "Kill them all" to Tessell and "Release" to Elik'r?
 - Is the seraph the same entity as [[NPCs/The Bane\|The Bane]], or a separate ancient power? (See [The Seraph - Separate Entity?](https://claude.ai/chat/c0d9ca2d-2d42-4f40-b6bc-5e3021ceab18#the-seraph--separate-entity))
 - Who created the cult symbol, and how did they know Tessell - or someone like him - would come?
-- Is this connected to the dormant Bane command [[Party Members/ToooAh\|ToooAh]] carries (kill Tessell)?
+- Is this connected to the dormant Bane command [[Party Members/Tooo-Ah\|Tooo-Ah]] carries (kill Tessell)?
 
 **Related:** [The Bane](Quests - Active.md#the-bane) | [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] | [[Locations/Silver Lantern Garrison - Hidden Passage\|Silver Lantern Garrison - Hidden Passage]] | [The Seraph - Separate Entity?](https://claude.ai/chat/c0d9ca2d-2d42-4f40-b6bc-5e3021ceab18#the-seraph--separate-entity)
 
@@ -235,7 +235,7 @@ The complex has been fully explored, the cult eliminated, and the ritual chamber
 - Is tattoo permanent magical change?
 - Will ability develop further?
 
-**Evidence:** Green ooze pattern matches other Bane events (ToooAh's Scorching Ray, Elvva's petrification, skeletal soldier's green light departure). Tattoo constantly shifts forms.
+**Evidence:** Green ooze pattern matches other Bane events (Tooo-Ah's Scorching Ray, Elvva's petrification, skeletal soldier's green light departure). Tattoo constantly shifts forms.
 
 **Related:** [The Bane](Quests - Active.md#the-bane) | [Visit Citadel](Quests - Active.md#visit-bane-watcher-citadel)
 
@@ -295,7 +295,7 @@ The complex has been fully explored, the cult eliminated, and the ritual chamber
 - Will grant magical items after Winter Realm? (Session 27 precedent: 4 items)
 - How to prevent future interventions?
 
-**Session 35 Update:** ToooAh returned with [[General Files/Homebrew#Horn of the Winter Gale\|Horn of the Winter Gale]] after winning snowman sculpture competition against Fizwidget (Natural 20 vs Natural 1). Liora Emberveil's fate remains unknown.
+**Session 35 Update:** Tooo-Ah returned with [[General Files/Homebrew#Horn of the Winter Gale\|Horn of the Winter Gale]] after winning snowman sculpture competition against Fizwidget (Natural 20 vs Natural 1). Liora Emberveil's fate remains unknown.
 
 **Threat Assessment:** PATTERN CONFIRMED (Session 33) - Second intervention establishes he will return repeatedly. Targets party during mission-critical moments. Unpredictable timing. Far beyond normal gnome. Could threaten Stormhold Keep while party away. Conventional defenses useless against reality warping.
 

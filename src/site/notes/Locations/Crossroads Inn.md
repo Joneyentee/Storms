@@ -105,7 +105,7 @@ Long-standing inn at strategic crossroads. Traditional halfling hospitality. Fam
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] won bareknuckle boxing championship (defeated [[NPCs/Lyria Swiftstep\|Lyria Swiftstep]], [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]])
 - [[NPCs/Bramble Porridgepot\|Bramble Porridgepot]]'s trial pastries caused magical chaos
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] arm-wrestled [[NPCs/Captain Rhyla Garron\|Captain Rhyla Garron]] ("Red Viper")
-- [[Party Members/ToooAh\|ToooAh]] failed spectacularly at card game (Natural 1 Perception)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] failed spectacularly at card game (Natural 1 Perception)
 - Party accepted Spud Quest from [[NPCs/Tansy Porridgepot\|Tansy Porridgepot]]
 - Discovered [[Locations/Moth Queen Cavern\|Moth Queen Cavern]] entrance following potato trail
 

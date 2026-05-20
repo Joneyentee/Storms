@@ -10,7 +10,7 @@
 
 ## Key Events
 
-- **[[Party Members/ToooAh\|ToooAh]] returned from [[Locations/Fizwidget's Winter Realm\|Fizwidget's Winter Realm]]** after winning snowman sculpture competition (Natural 20 vs Natural 1)
+- **[[Party Members/Tooo-Ah\|Tooo-Ah]] returned from [[Locations/Fizwidget's Winter Realm\|Fizwidget's Winter Realm]]** after winning snowman sculpture competition (Natural 20 vs Natural 1)
 - Received **[[General Files/Homebrew#Horn of the Winter Gale\|Horn of the Winter Gale]]** as reward from [[NPCs/Fizwidget Spindleflash\|Fizwidget Spindleflash]]
 - Party departed [[Locations/Crossroads Inn\|Crossroads Inn]] heading east towards [[Locations/Thalas'Miriel\|Thalas'Miriel]] (cathedral town)
 - **[[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]** (the minstrel from Session 34) joined the party on the road
@@ -27,7 +27,7 @@
 - **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]** - Present, driving supply cart
 - **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]** - Present, mounted on celestial warhorse, **knocked unconscious during combat** (0 HP)
 - **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]** - **Unconscious in cart throughout session** (severe hangover from 26 drinks in Session 34)
-- **[[Party Members/ToooAh\|ToooAh]]** - Returned from [[Locations/Fizwidget's Winter Realm\|Fizwidget's Winter Realm]], flying above party during travel
+- **[[Party Members/Tooo-Ah\|Tooo-Ah]]** - Returned from [[Locations/Fizwidget's Winter Realm\|Fizwidget's Winter Realm]], flying above party during travel
 
 **New Companion:**
 
@@ -37,13 +37,13 @@
 
 ## NPCs Encountered
 
-- **[[NPCs/Fizwidget Spindleflash\|Fizwidget Spindleflash]]** - Challenged [[Party Members/ToooAh\|ToooAh]] to snowman sculpture competition in [[Locations/Fizwidget's Winter Realm\|Winter Realm]], lost (Natural 1), banished her back with gift
+- **[[NPCs/Fizwidget Spindleflash\|Fizwidget Spindleflash]]** - Challenged [[Party Members/Tooo-Ah\|Tooo-Ah]] to snowman sculpture competition in [[Locations/Fizwidget's Winter Realm\|Winter Realm]], lost (Natural 1), banished her back with gift
 - **[[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]** - Human bard (same person as "Unnamed Minstrel" from Session 34)
     - Appearance: Very posh and pretty, blonde hair, maroon shirt with gold inlays, cowboy-style hat with long feather, carries multiple instruments
     - Personality: Lordly, theatrical, mischievous, claims to be "sensation around entire kingdom"
     - Abilities: Can pull items from hat, performed 2-turn bardic ability creating portal to teleport allies
     - Jumped from tree branch onto party's cart, announced he was travelling same direction
-    - Used Healing Word (1st level) on [[Party Members/ToooAh\|ToooAh]] during combat (14 HP restored)
+    - Used Healing Word (1st level) on [[Party Members/Tooo-Ah\|Tooo-Ah]] during combat (14 HP restored)
     - Used portal ability to teleport [[Party Members/Ser Tessell Highfrost\|Tessell]] away from surrounded position
 
 **Enemy Forces (Ambush):**
@@ -94,14 +94,14 @@
 
 - **Orc War Boss** (leader, blank initiative marker)
     
-    - Threw javelin at [[Party Members/ToooAh\|ToooAh]] (critical hit, [[Party Members/ToooAh\|ToooAh]] deflected 16 damage, took 4 slashing)
+    - Threw javelin at [[Party Members/Tooo-Ah\|Tooo-Ah]] (critical hit, [[Party Members/Tooo-Ah\|Tooo-Ah]] deflected 16 damage, took 4 slashing)
     - Dual attacks, hit [[Party Members/Ser Tessell Highfrost\|Tessell]] for 11 damage
     - Led ambush with shout "Kill them!" in gruff voice
 - **Goblin Shaman** (initiative marker "1", skull-topped staff)
     
     - Cast lightning bolt (100ft line, 5ft wide, 34 damage halved to 17 for all who saved)
-    - Hit [[Party Members/ToooAh\|ToooAh]], [[Party Members/Lady Odonia of Galantri\|Odonia]], and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
-    - Cast firebolt at [[Party Members/ToooAh\|ToooAh]] for 8 fire damage
+    - Hit [[Party Members/Tooo-Ah\|Tooo-Ah]], [[Party Members/Lady Odonia of Galantri\|Odonia]], and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
+    - Cast firebolt at [[Party Members/Tooo-Ah\|Tooo-Ah]] for 8 fire damage
     - **Special ability: Redirect** - can swap places with any goblin within 15ft as reaction when hit
 - **Goblin Warriors** (multiple, various weapons)
     
@@ -116,25 +116,25 @@
 
 - Wide forest path with a few rocks providing half-cover positions (+2 AC)
 - Forest setting with trees
-- Party dismounted for battle (except [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] on celestial warhorse): [[Party Members/Lady Odonia of Galantri\|Odonia]] with cart, [[Party Members/Ser Tessell Highfrost\|Tessell]] with elk, [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] on cart, [[Party Members/ToooAh\|ToooAh]] flying 15ft above
+- Party dismounted for battle (except [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] on celestial warhorse): [[Party Members/Lady Odonia of Galantri\|Odonia]] with cart, [[Party Members/Ser Tessell Highfrost\|Tessell]] with elk, [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] on cart, [[Party Members/Tooo-Ah\|Tooo-Ah]] flying 15ft above
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] unconscious in covered cart
 
 **Combat Highlights:**
 
-**Initiative Order:** [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] (21, Natural 20), [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (17), [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (11), [[Party Members/ToooAh\|ToooAh]] (8), [[Party Members/Lady Odonia of Galantri\|Odonia]] (6), enemies
+**Initiative Order:** [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] (21, Natural 20), [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (17), [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (11), [[Party Members/Tooo-Ah\|Tooo-Ah]] (8), [[Party Members/Lady Odonia of Galantri\|Odonia]] (6), enemies
 
 **Round 1:**
 
 - Two goblins rushed from ambush positions
 - Goblin hit [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] for 1 damage (Shepherd's Pie negated 5 damage)
 - Goblin hit [[Party Members/Ser Tessell Highfrost\|Tessell]] for 9 slashing damage
-- Orc war boss threw javelin at [[Party Members/ToooAh\|ToooAh]] (Natural 20), [[Party Members/ToooAh\|ToooAh]] used Deflect Missiles reaction (reduced damage by 16), took 4 slashing as glancing blow
-- Goblin shaman cast lightning bolt (100ft line) hitting [[Party Members/ToooAh\|ToooAh]], [[Party Members/Lady Odonia of Galantri\|Odonia]], and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
+- Orc war boss threw javelin at [[Party Members/Tooo-Ah\|Tooo-Ah]] (Natural 20), [[Party Members/Tooo-Ah\|Tooo-Ah]] used Deflect Missiles reaction (reduced damage by 16), took 4 slashing as glancing blow
+- Goblin shaman cast lightning bolt (100ft line) hitting [[Party Members/Tooo-Ah\|Tooo-Ah]], [[Party Members/Lady Odonia of Galantri\|Odonia]], and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
     - All three passed Dexterity saves (DC unknown)
-    - [[Party Members/ToooAh\|ToooAh]]: 22 save (halved 34 to 17 damage, dropped to 12 HP from 33 max)
+    - [[Party Members/Tooo-Ah\|Tooo-Ah]]: 22 save (halved 34 to 17 damage, dropped to 12 HP from 33 max)
     - [[Party Members/Lady Odonia of Galantri\|Odonia]]: 24 save (halved to 17 damage)
     - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: 17 save (halved to 17 damage)
-- [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] cast Healing Word (1st level) on [[Party Members/ToooAh\|ToooAh]] for 14 HP (brought to 26 HP)
+- [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] cast Healing Word (1st level) on [[Party Members/Tooo-Ah\|Tooo-Ah]] for 14 HP (brought to 26 HP)
 - [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] began playing "rock ballad" on lute (2-turn ability, "boss music", aggressive head-banging tempo)
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] used Trampling Charge on goblin (DC 14 Strength save, goblin passed with 15, not knocked prone)
     - Dealt 11 bludgeoning damage to goblin
@@ -142,9 +142,9 @@
     - Made second attack for 10 damage, killed goblin
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] cast Guiding Bolt (missed)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] cast Shield of Faith on self as bonus action (+2 AC, now AC 20)
-- [[Party Members/ToooAh\|ToooAh]] attacked archer goblin
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] attacked archer goblin
     - Hit for 10 damage with first unarmed strike
-    - **Note: [[Party Members/ToooAh\|ToooAh]] incorrectly used Flurry of Blows multiple times - to be clarified with DM next session**
+    - **Note: [[Party Members/Tooo-Ah\|Tooo-Ah]] incorrectly used Flurry of Blows multiple times - to be clarified with DM next session**
     - Eventually killed archer goblin with multiple strikes including Natural 20 (25 damage)
 - [[Party Members/Lady Odonia of Galantri\|Odonia]] shot at goblin shaman with longbow (Natural 1 miss, second shot Natural 20)
     - Killed archer with arrow through eye (11 damage) - "spun around on knee, arrow through eye and out other side"
@@ -160,7 +160,7 @@
     - Goblin charged forward after [[Party Members/Elik'r Stormswallow\|Elik'r]] fell
 - Goblin slashed at [[Party Members/Ser Tessell Highfrost\|Tessell]], deflected by shield
 - Orc war boss attacked [[Party Members/Ser Tessell Highfrost\|Tessell]] twice (first blocked, second hit for 11 damage)
-- Goblin shaman cast firebolt at [[Party Members/ToooAh\|ToooAh]] for 8 fire damage (taking cover behind rock, leaned over to aim)
+- Goblin shaman cast firebolt at [[Party Members/Tooo-Ah\|Tooo-Ah]] for 8 fire damage (taking cover behind rock, leaned over to aim)
 - [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] completed 2-turn ability: "And away we go"
     - Created portal with circular lute strum
     - Grabbed [[Party Members/Ser Tessell Highfrost\|Tessell]] and pulled him through portal
@@ -172,9 +172,9 @@
     - Brought [[Party Members/Elik'r Stormswallow\|Elik'r]] to 23 HP
     - [[Party Members/Elik'r Stormswallow\|Elik'r]] revived
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] cast Spiritual Weapon as bonus action (missed with 11 to hit)
-- [[Party Members/ToooAh\|ToooAh]] attacked goblin shaman
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] attacked goblin shaman
     - Shaman used reaction ability to swap places with nearby sword/shield goblin
-    - [[Party Members/ToooAh\|ToooAh]] hit swapped goblin instead with fast punches (43 damage total across multiple strikes)
+    - [[Party Members/Tooo-Ah\|Tooo-Ah]] hit swapped goblin instead with fast punches (43 damage total across multiple strikes)
     - Killed swapped goblin
 - [[Party Members/Lady Odonia of Galantri\|Odonia]]'s turn
     - Moved forward, attacked ensnared goblin with Twin Blades of the Serpent (short swords)
@@ -188,7 +188,7 @@
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Unconscious in cart (hangover, not combat injury)
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Conscious at 23/46 HP (just revived by [[Party Members/Ser Tessell Highfrost\|Tessell]])
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Standing, damaged, Shield of Faith active
-- [[Party Members/ToooAh\|ToooAh]]: Flying, damaged (18/33 HP)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Flying, damaged (18/33 HP)
 - [[Party Members/Lady Odonia of Galantri\|Odonia]]: Engaged with ensnared goblin
 - [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]: Behind rock with [[Party Members/Ser Tessell Highfrost\|Tessell]] (teleported via portal), portal ability used
 
@@ -207,7 +207,7 @@
 
 ## Loot & Rewards
 
-**[[General Files/Homebrew#Horn of the Winter Gale\|Horn of the Winter Gale]]** (received by [[Party Members/ToooAh\|ToooAh]] from [[NPCs/Fizwidget Spindleflash\|Fizwidget Spindleflash]])
+**[[General Files/Homebrew#Horn of the Winter Gale\|Horn of the Winter Gale]]** (received by [[Party Members/Tooo-Ah\|Tooo-Ah]] from [[NPCs/Fizwidget Spindleflash\|Fizwidget Spindleflash]])
 
 - Long carved horn from long-dead ice beast
 - Once per long rest: Action to blow horn
@@ -255,7 +255,7 @@
 
 ## Character Development
 
-### ToooAh - Artistic Triumph
+### Tooo-Ah - Artistic Triumph
 
 - Defeated [[NPCs/Fizwidget Spindleflash\|Fizwidget Spindleflash]] at his own game (snowman sculpture competition)
 - Created masterpiece "perfect swan" ice sculpture using talons
@@ -269,7 +269,7 @@
 - Theatrical, lordly personality with mischievous edge
 - Claims to be famous throughout kingdom
 - Demonstrated powerful bardic magic:
-    - Healing Word (restored 14 HP to [[Party Members/ToooAh\|ToooAh]])
+    - Healing Word (restored 14 HP to [[Party Members/Tooo-Ah\|Tooo-Ah]])
     - 2-turn portal ability (teleported [[Party Members/Ser Tessell Highfrost\|Tessell]] to safety)
 - Confidently inserted himself into party's travels
 - Playing "rock ballad" / "boss music" during combat
@@ -317,7 +317,7 @@
 
 **Mechanical Clarifications Needed:**
 
-- [[Party Members/ToooAh\|ToooAh]]'s Flurry of Blows usage (used bonus action multiple times incorrectly - to be resolved with DM)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]'s Flurry of Blows usage (used bonus action multiple times incorrectly - to be resolved with DM)
 - Magical pastry duration (received Session 34 evening, 24-hour effects - still active?)
 
 **Active Magical Effects:**

@@ -10,7 +10,7 @@
 
 ## Description
 
-16 years old (apparent age) with long, lilac-coloured hair. **Rightful heir to the throne of Odessia** - legitimate daughter of the High King's second son and his wife Verona, both of whom officially died at sea centuries ago. Transformed into a doll as protection when their ship was attacked. **Found by [[Party Members/ToooAh\|ToooAh]] in a chest on a smuggler boat during early campaign side quest** - ToooAh kept the doll not knowing its significance. Brought back to life through ritual performed by [[NPCs/Elincia Flowers\|Elincia Flowers]] and conspirators, with memories wiping. Currently under protection in [[Locations/Belendar\|Belendar]], training with [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]. Adopted by [[Party Members/ToooAh\|ToooAh]].
+16 years old (apparent age) with long, lilac-coloured hair. **Rightful heir to the throne of Odessia** - legitimate daughter of the High King's second son and his wife Verona, both of whom officially died at sea centuries ago. Transformed into a doll as protection when their ship was attacked. **Found by [[Party Members/Tooo-Ah\|Tooo-Ah]] in a chest on a smuggler boat during early campaign side quest** - Tooo-Ah kept the doll not knowing its significance. Brought back to life through ritual performed by [[NPCs/Elincia Flowers\|Elincia Flowers]] and conspirators, with memories wiping. Currently under protection in [[Locations/Belendar\|Belendar]], training with [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]. Adopted by [[Party Members/Tooo-Ah\|Tooo-Ah]].
 
 **Magical Talent (Session 26):** [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] assessed her abilities as rivaling [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]]'s talent. Natural affinity described as "in her blood" - hasn't seen student like her since the Princess. Exceptional potential confirmed.
 
@@ -18,11 +18,11 @@
 
 ## The Doll Discovery (Early Campaign)
 
-**How ToooAh Found Her:**
+**How Tooo-Ah Found Her:**
 
 - Party took side quest to clear smugglers from woods north/north-east of [[Locations/Canathalas\|Canathalas]]
 - Found captured/ransacked boat at smuggler camp
-- [[Party Members/ToooAh\|ToooAh]] discovered a doll in a chest
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] discovered a doll in a chest
 - Decided to keep the doll (not knowing its significance)
 - This was the transformed [[NPCs/Avicia\|Avicia]] - protected as doll for centuries
 
@@ -32,13 +32,13 @@
 - [[Locations/Sylobelle\|Sylobelle]] raided - [[NPCs/Ryvenien Berg\|Ryvenien Berg]] murdered (pinned to wall with spear)
 - Doll had already been moved/stolen before raid (ended up with smugglers)
 - Professor Emms created cover story: "missing daughter Kendara Elley Aloison"
-- Party searched for fictional child while ToooAh unknowingly had what everyone sought
+- Party searched for fictional child while Tooo-Ah unknowingly had what everyone sought
 
 **The Irony:**
 
 - Party had the doll the entire time during "Kendara" quest
 - Conspirators killed Professor and Ryvenien trying to find it
-- ToooAh carried what would become the rightful heir, not knowing
+- Tooo-Ah carried what would become the rightful heir, not knowing
 - Eventually conspirators performed ritual to transform doll → child
 
 ---
@@ -83,7 +83,7 @@
 - Age: 12 (apparent) - but centuries old, aging rapidly from doll transformation
 - Physical: Long lilac-coloured hair (purple hair runs in royal family female line)
 - Origin: Transformed into doll for protection when ship attacked at sea
-- **Discovery:** Found by [[Party Members/ToooAh\|ToooAh]] in chest on smuggler boat (early campaign side quest near [[Locations/Canathalas\|Canathalas]])
+- **Discovery:** Found by [[Party Members/Tooo-Ah\|Tooo-Ah]] in chest on smuggler boat (early campaign side quest near [[Locations/Canathalas\|Canathalas]])
 - **Transformation:** Underground atrium ritual - [[NPCs/Elincia Flowers\|Elincia Flowers]] and hooded conspirators sacrificed minions in three magic circles to give doll life
 - **Performers:** [[NPCs/Elincia Flowers\|Elincia Flowers]] (as Thalas/Black Knight), two hooded figures
 - **Witnesses:** [[Organisations/Riders of the Storm\|Riders of the Storm]] arrived mid-ritual, fought to stop it but transformation completed
@@ -92,7 +92,7 @@
 
 ### Current Situation
 
-- Adopted by: [[Party Members/ToooAh\|ToooAh]]
+- Adopted by: [[Party Members/Tooo-Ah\|Tooo-Ah]]
 - Training with: [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] ([[Locations/Belendar\|Belendar]] Mage's Tower)
 - Location: [[Locations/Belendar\|Belendar]] (safe, presumed at Mage's Tower or Castle)
 - **Educational Decision Pending (Session 26):** Continue mage training vs accompany party north
@@ -127,7 +127,7 @@
 - Exceptional talent requiring proper guidance
 - Safety concerns during ongoing conflict
 
-**[[Party Members/ToooAh\|ToooAh]]'s Parental Concern:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Parental Concern:**
 
 - Asked [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] about continuing education
 - Weighing magical development vs safety with party
@@ -144,7 +144,7 @@
 - Rightful heir's safety during civil war
 - Potentially "the vessel" (Bane vision target)
 - Exceptional magical talent needs development
-- [[Party Members/ToooAh\|ToooAh]]'s parental protective instincts
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]'s parental protective instincts
 - Party keeping her identity secret from Princess
 
 ---
@@ -159,7 +159,7 @@
 
 ### Guardians & Teachers
 
-- Adopted parent: [[Party Members/ToooAh\|ToooAh]] (found her as doll on smuggler boat, showing parental concern Session 26)
+- Adopted parent: [[Party Members/Tooo-Ah\|Tooo-Ah]] (found her as doll on smuggler boat, showing parental concern Session 26)
 - Former protectors (deceased): [[NPCs/Professor Gabriel Emms\|Professor Gabriel Emms]] (died protecting doll's secret), [[NPCs/Ryvenien Berg\|Ryvenien Berg]] (murdered while guarding doll)
 - Trainer: [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] (assessed talent Session 26)
 - Protected by: Party members (know her secret)
@@ -176,9 +176,9 @@
 
 ## Appearances
 
-- **Early Campaign (Session unspecified)** - Found by [[Party Members/ToooAh\|ToooAh]] as a doll in a chest on smuggler boat during side quest to clear smugglers from woods near [[Locations/Canathalas\|Canathalas]]. ToooAh kept the doll not knowing its significance. This doll was the transformed royal heir, protected for centuries.
+- **Early Campaign (Session unspecified)** - Found by [[Party Members/Tooo-Ah\|Tooo-Ah]] as a doll in a chest on smuggler boat during side quest to clear smugglers from woods near [[Locations/Canathalas\|Canathalas]]. Tooo-Ah kept the doll not knowing its significance. This doll was the transformed royal heir, protected for centuries.
     
-- **Early Campaign (Session unspecified)** - Underground atrium ritual scene: Party arrived to find [[NPCs/Professor Gabriel Emms\|Professor Gabriel Emms]] dying (last words: "They took the doll"). In next chamber, [[NPCs/Elincia Flowers\|Elincia Flowers]] (as Thalas/Black Knight) and two hooded figures performing transformation ritual. Three magic circles on floor - doll (that ToooAh had found) in centre circle. Minions sacrificed in other circles, their souls going into doll. Party fought to stop ritual but transformation completed. Doll became child - Avicia. Three conspirators disappeared, leaving the newly-transformed child.
+- **Early Campaign (Session unspecified)** - Underground atrium ritual scene: Party arrived to find [[NPCs/Professor Gabriel Emms\|Professor Gabriel Emms]] dying (last words: "They took the doll"). In next chamber, [[NPCs/Elincia Flowers\|Elincia Flowers]] (as Thalas/Black Knight) and two hooded figures performing transformation ritual. Three magic circles on floor - doll (that Tooo-Ah had found) in centre circle. Minions sacrificed in other circles, their souls going into doll. Party fought to stop ritual but transformation completed. Doll became child - Avicia. Three conspirators disappeared, leaving the newly-transformed child.
     
 - [[Sessions/Session 18 - 2 November 2024\|Session 18 - 2 November 2024]] - Seen in Bane Watcher shared vision as small figure on palace balcony with High King and father, later on boat turning pursuing ship to stone
     
@@ -186,7 +186,7 @@
     
 - [[Sessions/Session 24 - 4 May 2025\|Session 24 - 4 May 2025]] - True identity revealed by [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]], learned she is royal heir (mouth agape, eyes wide), left protected at tavern during palace mission
     
-- **[[Sessions/Session 26 - 16 July 2025\|Session 26 - 16 July 2025]]** - Magical talent assessed by [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] as rivaling [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]], "natural affinity - in her blood." [[Party Members/ToooAh\|ToooAh]] inquired about education options. Educational decision pending: continue mage training vs accompany party north.
+- **[[Sessions/Session 26 - 16 July 2025\|Session 26 - 16 July 2025]]** - Magical talent assessed by [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] as rivaling [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]], "natural affinity - in her blood." [[Party Members/Tooo-Ah\|Tooo-Ah]] inquired about education options. Educational decision pending: continue mage training vs accompany party north.
     
 
 ---
@@ -248,7 +248,7 @@
 
 - Rightful heir creates succession crisis
 - Party sworn to secrecy (dramatic irony)
-- [[Party Members/ToooAh\|ToooAh]]'s parental stakes (protecting heir)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]'s parental stakes (protecting heir)
 - "The vessel" connection (double danger)
 - Exceptional magical talent (future power)
 

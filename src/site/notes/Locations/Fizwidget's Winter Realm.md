@@ -114,7 +114,7 @@ Magical winter-themed pocket dimension created by [[NPCs/Fizwidget Spindleflash\
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
-- [[Party Members/ToooAh\|ToooAh]]
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]
 - [[Party Members/Liora Emberveil\|Liora Emberveil]] (introduced within realm)
 
@@ -134,7 +134,7 @@ Magical winter-themed pocket dimension created by [[NPCs/Fizwidget Spindleflash\
 
 ## Appearances
 
-- **[[Sessions/Session 33 - 26 December 2025\|Session 33 - 26 December 2025]]** - Party teleported to realm en route to [[Locations/Moth Queen Cavern\|Moth Queen Cavern]]. Age regressed to teenagers, stripped of equipment. Completed four challenges: frozen lake escape (Elvva surfed Elik'r's back, Liora Misty Stepped, ice cracking pursuit), 10th Annual Husky Games sled race (Odonia/Liora won 1st, Elik'r/Elvva 2nd, ToooAh/Tessell 3rd, firebolt set sled on fire, Liora's branch somersault), Jack Frost's magical pastries (random 1-hour effects), snowball tournament 3v3 (Team 1 won: ToooAh, Liora, Elik'r). Session ended before realm departure.
+- **[[Sessions/Session 33 - 26 December 2025\|Session 33 - 26 December 2025]]** - Party teleported to realm en route to [[Locations/Moth Queen Cavern\|Moth Queen Cavern]]. Age regressed to teenagers, stripped of equipment. Completed four challenges: frozen lake escape (Elvva surfed Elik'r's back, Liora Misty Stepped, ice cracking pursuit), 10th Annual Husky Games sled race (Odonia/Liora won 1st, Elik'r/Elvva 2nd, Tooo-Ah/Tessell 3rd, firebolt set sled on fire, Liora's branch somersault), Jack Frost's magical pastries (random 1-hour effects), snowball tournament 3v3 (Team 1 won: Tooo-Ah, Liora, Elik'r). Session ended before realm departure.
 
 ---
 

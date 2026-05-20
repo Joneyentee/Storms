@@ -51,7 +51,7 @@
 - Filled blood threshold for his magical sword
 - Attuned to his cloak, learning its capabilities
 
-**[[Party Members/ToooAh\|ToooAh]]:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]:**
 
 - Attuned to her ring
 - Meditated on the highest clifftop
@@ -115,7 +115,7 @@
 - Party visited [[NPCs/Jon Doe\|Jon Doe]]'s house in the centre of town
 - Blood dried at the scene
 - Split floorboards revealed **large canine paw prints**
-- [[Party Members/ToooAh\|ToooAh]] discovered a faintly glowing **red glyph** under the floorboards (unknown origin, couldn't decipher)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] discovered a faintly glowing **red glyph** under the floorboards (unknown origin, couldn't decipher)
 - House showed significant structural damage - cracked walls, collapsed sections
 
 **Witness Interviews:**
@@ -162,9 +162,9 @@
 
 ### [[Locations/Stonereach Cavern\|Stonereach Cavern]] Investigation
 
-**Preparation - [[Party Members/ToooAh\|ToooAh]]'s Magical Tea:**
+**Preparation - [[Party Members/Tooo-Ah\|Tooo-Ah]]'s Magical Tea:**
 
-**[[Party Members/ToooAh\|ToooAh]] (rolled 15):**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]] (rolled 15):**
 
 - For the next hour, whispers and shouts are switched
 - If she tries to whisper, she yells; if she tries to yell, she whispers
@@ -179,8 +179,8 @@
 
 **[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (rolled 69):**
 
-- Chose [[Party Members/ToooAh\|ToooAh]] as target
-- For the next hour, sees [[Party Members/ToooAh\|ToooAh]] naked
+- Chose [[Party Members/Tooo-Ah\|Tooo-Ah]] as target
+- For the next hour, sees [[Party Members/Tooo-Ah\|Tooo-Ah]] naked
 
 **Cavern Discovery:**
 
@@ -211,7 +211,7 @@
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]], [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]], and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] detected wolf's emergence
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Chromatic Orb (Level 2) - 18 damage
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Firebolt - only 2 damage (one hit, one miss)
-- [[Party Members/ToooAh\|ToooAh]]: Dart at disadvantage - 6 damage
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Dart at disadvantage - 6 damage
 - Wolf attempted to grab [[Party Members/Elvva Beltavar\|Elvva Beltavar]] with earthen hand (failed, Strength save 18)
 
 **Wolf's Attack:**
@@ -256,7 +256,7 @@
 
 **Final Kill:**
 
-- [[Party Members/ToooAh\|ToooAh]] took attack of opportunity as wolf burrowed
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] took attack of opportunity as wolf burrowed
 - Attack roll: 19 (hit)
 - Damage: 6 bludgeoning
 - **Described kill:** Grabbed wolf by tail and slammed it against the wall
@@ -295,7 +295,7 @@
 
 **Final Standings:**
 
-1. **[[Party Members/ToooAh\|ToooAh]]** - Winner (bull's eye + middle ring + inner ring)
+1. **[[Party Members/Tooo-Ah\|Tooo-Ah]]** - Winner (bull's eye + middle ring + inner ring)
 2. **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]** - Second (two inner rings + middle ring)
 3. **[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]** - Third (bull's eye + outer ring + miss)
 4. **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]** - Fourth (lucky drunk bull's eye but otherwise poor)
@@ -303,7 +303,7 @@
 
 **Betting:**
 
-- [[Party Members/ToooAh\|ToooAh]] bet 1 silver on herself (won 2 silvers)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] bet 1 silver on herself (won 2 silvers)
 - Originally wanted to bet 10 gold (village couldn't afford it)
 - Planned to donate winnings to rebuilding effort
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] tipped the barkeeper 1 gold upon leaving
@@ -382,11 +382,11 @@
 
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: 18 damage (Chromatic Orb)
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: 2 damage first round, 26 damage second round (fire bolts - half damage due to resistance)
-- [[Party Members/ToooAh\|ToooAh]]: 6 damage (dart), 6 damage (attack of opportunity - killing blow)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: 6 damage (dart), 6 damage (attack of opportunity - killing blow)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: 4 radiant damage (Warding Flare), took 15 piercing damage
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: Warging attempt resulted in attacking [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] for 15 damage, took 26 piercing damage
 
-**Outcome:** Wolf killed by [[Party Members/ToooAh\|ToooAh]]'s attack of opportunity (grabbed by tail, slammed into wall)
+**Outcome:** Wolf killed by [[Party Members/Tooo-Ah\|Tooo-Ah]]'s attack of opportunity (grabbed by tail, slammed into wall)
 
 **Casualties:** None (party members injured but survived)
 
@@ -397,7 +397,7 @@
 - **[[General Files/Homebrew#Dragon's Tear Gem\|Dragon's Tear]] Gem** - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] retained from dream world (unique persistent item, appears as sapphire, contains swirling eerie light, properties unknown)
 - **Mini [[General Files/Homebrew#Steve the Rock\|Steve]]** - Painted rock with face gifted to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] by [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]
 - **Frog** - Purchased by [[Party Members/Elvva Beltavar\|Elvva Beltavar]] from [[NPCs/Seraphine\|Seraphine]]
-- **2 Silver** - [[Party Members/ToooAh\|ToooAh]] won from darts betting (bet 1 silver, won 2)
+- **2 Silver** - [[Party Members/Tooo-Ah\|Tooo-Ah]] won from darts betting (bet 1 silver, won 2)
 - **[[NPCs/Seraphine\|Seraphine]] Recruited** - Druid healer joined [[Locations/Stormhold Keep\|Stormhold Keep]] as apothecary/healer, will serve 732 troops and surrounding villages
 
 ### New Abilities
@@ -411,16 +411,16 @@
 
 - **[[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]'s Reveal:** "Every Bane Watcher has to learn to control their hidden abilities and talents" - explaining the dream vision was intentional training
 - **Mini [[General Files/Homebrew#Steve the Rock\|Steve]]:** [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] gifted [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] a painted rock companion before departing
-- **[[Party Members/ToooAh\|ToooAh]]'s Tea Chaos:** Three different wild effects including whisper/yell switching, portal to [[NPCs/Joneyentee the Unknown\|Joneyentee the Unknown]], and [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] seeing [[Party Members/ToooAh\|ToooAh]] naked for an hour
+- **[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Tea Chaos:** Three different wild effects including whisper/yell switching, portal to [[NPCs/Joneyentee the Unknown\|Joneyentee the Unknown]], and [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] seeing [[Party Members/Tooo-Ah\|Tooo-Ah]] naked for an hour
 - **[[NPCs/Seraphine\|Seraphine]]'s Innocence:** Party cleared her name despite village suspicion - classic "blame the outsider" prejudice
 - **[[NPCs/Seraphine\|Seraphine]]'s Recruitment:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] successfully persuaded her to join [[Locations/Stormhold Keep\|Stormhold Keep]] as healer/apothecary despite initial refusal
 - **Bone Wolf Ritual:** Discovering bones arranged in wolf shape with bleeding earth shrine
 - **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s First Combat Warg:** Successfully warging but rolling odd number (3) meant she attacked her own party members - "I must kill these people" instinct
 - **Drunk Frog Warging:** [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] accidentally warging into a frog during darts game whilst unconscious from drink
-- **[[Party Members/ToooAh\|ToooAh]]'s Kill Description:** Grabbing dire wolf by tail and slamming it into wall for final blow
-- **Victory Dart Game:** [[Party Members/ToooAh\|ToooAh]] won, [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] threw dart out window, [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] hit bull's eye whilst drunk and unconscious
+- **[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Kill Description:** Grabbing dire wolf by tail and slamming it into wall for final blow
+- **Victory Dart Game:** [[Party Members/Tooo-Ah\|Tooo-Ah]] won, [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] threw dart out window, [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] hit bull's eye whilst drunk and unconscious
 - **Mysterious Wolf Rider:** Huge wolf with humanoid rider watching from mountain ridge - clear setup for future encounter
-- **[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s Generosity:** Tipped barkeeper 1 gold despite [[Party Members/ToooAh\|ToooAh]] trying to fleece the poor village
+- **[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s Generosity:** Tipped barkeeper 1 gold despite [[Party Members/Tooo-Ah\|Tooo-Ah]] trying to fleece the poor village
 
 ---
 
@@ -472,5 +472,5 @@
 - **Recruited [[NPCs/Seraphine\|Seraphine]] to [[Locations/Stormhold Keep\|Stormhold Keep]] as healer/apothecary (persuasion 13)**
 - Defeated Earthbound Dire Wolf (earth-magic corrupted); [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s first warg attempt resulted in attacking party
 - Spotted mysterious humanoid wolf rider on huge wolf watching from mountain ridge
-- Celebrated with competitive darts game; [[Party Members/ToooAh\|ToooAh]] won, [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] came last, [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] drunk-warged into frog
+- Celebrated with competitive darts game; [[Party Members/Tooo-Ah\|Tooo-Ah]] won, [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] came last, [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] drunk-warged into frog
 - Party decided to head east to cathedral town, then choose between [[Locations/Neverwinter\|Neverwinter]] (Rally the North) or [[Locations/Bane Watcher Citadel\|Bane Watcher Citadel]] (address corruptions)

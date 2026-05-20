@@ -26,7 +26,7 @@ _No current regional investigations on hold. Thalas'Miriel moved to Active (S36)
 
 **Session 33 Development:** Fizwidget returned for second intervention - created [[Locations/Fizwidget's Winter Realm\|Fizwidget's Winter Realm]] pocket dimension. Intercepted party en route to [[Locations/Moth Queen Cavern\|Moth Queen Cavern]]. Age regressed entire party to teenagers (16-17), replaced equipment with fur coats, suppressed abilities (flight, fire). Created Frostglade village with NPCs (Pip, Palla, Clausonick, Jack Frost). Four challenges completed before session ended. **Pattern established:** Targets party during mission-critical travel (Session 27: post-feast, Session 33: en route to Moth Queen).
 
-**Session 34 Development:** Party escaped Winter Realm with equipment/ages restored. **ToooAh kept as punishment** - returned Session 35 with [[General Files/Homebrew#Horn of the Winter Gale\|Horn of the Winter Gale]] after winning snowman sculpture competition against Fizwidget. Liora Emberveil (temporary companion who appeared in realm) fate unknown - did not return.
+**Session 34 Development:** Party escaped Winter Realm with equipment/ages restored. **Tooo-Ah kept as punishment** - returned Session 35 with [[General Files/Homebrew#Horn of the Winter Gale\|Horn of the Winter Gale]] after winning snowman sculpture competition against Fizwidget. Liora Emberveil (temporary companion who appeared in realm) fate unknown - did not return.
 
 **Why On Hold:** Civil war and northern campaign take priority. Fizwidget disappeared after both interventions - will return (pattern confirmed).
 
@@ -126,7 +126,7 @@ _No current regional investigations on hold. Thalas'Miriel moved to Active (S36)
 
 **Semifinalists (Never Completed):**
 
-- ToooAh vs Co'narr
+- Tooo-Ah vs Co'narr
 - Odonia vs Tharrock the Unyielding
 - General Thailander (+ one more)
 

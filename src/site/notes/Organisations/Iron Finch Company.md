@@ -77,7 +77,7 @@
 
 ### Session 32 Encounter
 
-**Location:** Road to [[Locations/Thalas'Miriel\|Thalas'Miriel]], then [[Locations/Crossroads Inn\|Crossroads Inn]] **Circumstances:** Party caught up to slower covered cart on road **Interaction:** Captain Mara Veylan asked ToooAh "What kind of bird are you? Birds are lucky!" - broke the ice **Outcome:** Traveled together as comrades to Crossroads Inn
+**Location:** Road to [[Locations/Thalas'Miriel\|Thalas'Miriel]], then [[Locations/Crossroads Inn\|Crossroads Inn]] **Circumstances:** Party caught up to slower covered cart on road **Interaction:** Captain Mara Veylan asked Tooo-Ah "What kind of bird are you? Birds are lucky!" - broke the ice **Outcome:** Traveled together as comrades to Crossroads Inn
 
 **Company Details Observed:**
 

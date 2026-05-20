@@ -150,7 +150,7 @@
    - Lady Odonia (General of North - overall command)
    - Ser Tessell (General of Left)
    - Elik'r Stormswallow (General of Right)
-   - ToooAh (Chariot General)
+   - Tooo-Ah (Chariot General)
 4. **Regional Commanders** - Unknown nobles and garrison commanders
 5. **Unit Commanders** - Knights promoted to Commander rank
 
@@ -277,7 +277,7 @@
 **Riders of the Storm:**
 - Ser Tessell Highfrost (General of Left, knighted)
 - Elik'r Stormswallow (General of Right)
-- ToooAh (Chariot General)
+- Tooo-Ah (Chariot General)
 - Elvva Beltavar (commissioned)
 
 **Other Known:**

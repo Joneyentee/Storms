@@ -28,7 +28,7 @@ Tall, very attractive human male bard with theatrical, lordly personality. Wears
 - Posh theatrical personality — lordly yet mischievous
 - **Demonstrated powers:**
     - Enchantment magic (can make entire tavern dance)
-    - Healing Word (restored 14 HP to [[Party Members/ToooAh\|ToooAh]])
+    - Healing Word (restored 14 HP to [[Party Members/Tooo-Ah\|Tooo-Ah]])
     - 2-turn portal ability (teleported [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] to safety in combat)
     - **Bane-powered lute performance** (combat ability — can re-energise or alter the state of a target; used on [[NPCs/Purple Dragonborn\|Purple Dragonborn]] S39)
     - **Bane portal creation** (green-rimmed dimensional gateway; used to depart with wyrm S39)
@@ -67,7 +67,7 @@ Theatrical and lordly with mischievous, roguish edge. Speaks in very posh manner
 **Party Members:**
 
 - Used: [[Organisations/Riders of the Storm\|Riders of the Storm]] (confirmed S39 — engineered their actions to serve his own agenda)
-- Healed: [[Party Members/ToooAh\|ToooAh]] (Healing Word, 14 HP — S35; now understood as incidental to his true purpose)
+- Healed: [[Party Members/Tooo-Ah\|Tooo-Ah]] (Healing Word, 14 HP — S35; now understood as incidental to his true purpose)
 - Rescued: [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (portal teleportation S35)
 
 **Previous Connections:**
@@ -95,7 +95,7 @@ Theatrical and lordly with mischievous, roguish edge. Speaks in very posh manner
 ## Appearances
 
 - **[[Sessions/Session 34 - 25 January 2026\|Session 34 - 25 January 2026]]** - Performed as "Unnamed Minstrel" at [[Locations/Crossroads Inn\|Crossroads Inn]], used enchantment magic to make tavern dance, [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] attempted to join on lute (failed, string snapped on roll of 5), accepted failure graciously
-- **[[Sessions/Session 35 - 8 February 2026\|Session 35 - 8 February 2026]]** - Identity revealed as Lord Pompaduke the Third. Playing lute in tree 100 yards from [[Locations/Crossroads Inn\|Crossroads Inn]], performed alongside [[Party Members/ToooAh\|ToooAh]]'s flute, jumped from tree branch onto party's cart uninvited, introduced himself with theatrical flourish. Joined party heading to [[Locations/Thalas'Miriel\|Thalas'Miriel]]. In combat ambush: rolled Natural 20 initiative, cast Healing Word (1st level) on [[Party Members/ToooAh\|ToooAh]] for 14 HP, began 2-turn portal ability whilst playing "rock ballad"/"boss music", completed portal to teleport [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] to safety behind rock. Nicknamed "Banjo Man" by party.
+- **[[Sessions/Session 35 - 8 February 2026\|Session 35 - 8 February 2026]]** - Identity revealed as Lord Pompaduke the Third. Playing lute in tree 100 yards from [[Locations/Crossroads Inn\|Crossroads Inn]], performed alongside [[Party Members/Tooo-Ah\|Tooo-Ah]]'s flute, jumped from tree branch onto party's cart uninvited, introduced himself with theatrical flourish. Joined party heading to [[Locations/Thalas'Miriel\|Thalas'Miriel]]. In combat ambush: rolled Natural 20 initiative, cast Healing Word (1st level) on [[Party Members/Tooo-Ah\|Tooo-Ah]] for 14 HP, began 2-turn portal ability whilst playing "rock ballad"/"boss music", completed portal to teleport [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] to safety behind rock. Nicknamed "Banjo Man" by party.
 - **[[Sessions/Session 36 - 21 February 2026\|Session 36 - 21 February 2026]]** - Appeared at Cathedral of Gentle Redemption introduced by the abbot as **"Brother Algrim"**, a guest brother from afar. Led morning worship in monk's robes, playing morose music on his lute. **A green Bane-like aura rose visibly from the instrument** — noticed by party, not by congregation. Did not acknowledge the party during the service.
 - **[[Sessions/Session 39 - 18 April 2026\|Session 39 - 18 April 2026]]** - Remained invisible throughout Phase One of the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] boss fight. Appeared mid-combat and played his lute directly at the dragonborn — the Bane-infused performance re-energised him, triggering Phase Two and a psychic roar. Shouted _"Have fun!"_ and vanished before the fallout. Reappeared once the wyrm had risen from the ritual chamber floor; performed his customary bow to the party; announced: _"Thank you, everyone, for completing the task I needed to do. For me."_ Opened a Bane-powered green-rimmed portal, guided the wyrm through it, and departed. **Current whereabouts unknown.**
 

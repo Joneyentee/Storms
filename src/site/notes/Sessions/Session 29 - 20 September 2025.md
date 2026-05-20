@@ -42,15 +42,15 @@
 
 - Party at mirror showing [[Party Members/Elvva Beltavar\|Elvva Beltavar]] sleeping
 - Mirror surface like rippling water
-- [[Party Members/ToooAh\|ToooAh]] put hand through mirror
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] put hand through mirror
 - Green wispy hand appeared over sleeping [[Party Members/Elvva Beltavar\|Elvva Beltavar]] in [[Locations/Belendar\|Belendar]]
-- [[Party Members/ToooAh\|ToooAh]] pulled back - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] dragged through into dream
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] pulled back - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] dragged through into dream
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] believes it's a dream
 
 **Party Reunion:**
 
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: "What did you bring me here for?"
-- [[Party Members/ToooAh\|ToooAh]]: "Well, blame the bird"
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: "Well, blame the bird"
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: "We thought you missed us"
 - Mirror closed behind [[Party Members/Elvva Beltavar\|Elvva Beltavar]]
 
@@ -72,7 +72,7 @@
 - Door behind party closed, covered in ivy and thorns
 - No visible exit or keyhole
 
-**[[Party Members/ToooAh\|ToooAh]]'s Activities:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Activities:**
 
 - Picked flowers to make daisy chain (flower crown)
 - Nature check: 13 (successful)
@@ -88,14 +88,14 @@
 - Rose grew from pedestal with face
 - Rose spoke (only [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] understood): **"Only the one who speaks not, shall gain the prize"**
 - Others heard unintelligible hushing noise
-- [[Party Members/ToooAh\|ToooAh]] tried using rope with loose knot to grab key without touching (didn't work - key magically held to pedestal)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] tried using rope with loose knot to grab key without touching (didn't work - key magically held to pedestal)
 
 **Party Attempts:**
 
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] also grabbed key: 3 piercing damage, same rose message
 - Both understood the riddle but others didn't
 - Small stream/brook flowing near pedestal
-- [[Party Members/ToooAh\|ToooAh]] splashed in water
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] splashed in water
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] and [[Party Members/Elvva Beltavar\|Elvva Beltavar]] rustled through bushes searching for exit
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] pushed through bushes for full minute
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] tried to communicate silently (pulled [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] from bush)
@@ -105,7 +105,7 @@
 
 - Required complete silence from entire party for continuous period
 - Any noise (rustling, splashing, snapping stems, talking) reset timer
-- [[Party Members/ToooAh\|ToooAh]] proposed minute's silence
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] proposed minute's silence
 - Eventually all stood completely still and silent
 - Key rose up on pedestal with glowing halo
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] grabbed key
@@ -154,7 +154,7 @@
 
 - Perception checks revealed symbols on four statues:
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Saw flame symbol
-- [[Party Members/ToooAh\|ToooAh]]: Saw rock/earth symbol
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Saw rock/earth symbol
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Saw gust of air symbol and water symbol
 - Symbols relevant to next puzzle
 
@@ -172,7 +172,7 @@ Two ornate pedestals in centre:
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] approached "To the Depths" door
 - Stone brick protruded with Steve's face
 - Steve (in [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]'s voice): "Oi, bird brain, look at me. I wouldn't go in yet. You're not ready"
-- [[Party Members/ToooAh\|ToooAh]]: "What do I need to be ready?"
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: "What do I need to be ready?"
 - Steve: "Feather-brain! What does it say? Can you not read? To the depths. You don't go into the depths unprepared, do you? Bye bye!"
 - Brick disappeared back into wall
 
@@ -255,7 +255,7 @@ Two ornate pedestals in centre:
 - Inscription (dwarfish): **"Shed something of yours to receive something of mine"**
 - Party offerings:
     - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Copper coin
-    - [[Party Members/ToooAh\|ToooAh]]: Tear and feather
+    - [[Party Members/Tooo-Ah\|Tooo-Ah]]: Tear and feather
     - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Waited initially
     - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: Waited initially
     - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Waited initially
@@ -272,7 +272,7 @@ Two ornate pedestals in centre:
 **First Chamber Offerings:**
 
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Copper coin
-- [[Party Members/ToooAh\|ToooAh]]: Tear and feather
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Tear and feather
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Magical dust
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: Copper coin
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Scale (after anagram solved)
@@ -314,7 +314,7 @@ Two ornate pedestals in centre:
 
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: 4
     
-- [[Party Members/ToooAh\|ToooAh]]: 13
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: 13
     
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: 10
     
@@ -347,7 +347,7 @@ Two ornate pedestals in centre:
     - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: Hair (cut with knife)
     - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Playing card
     - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Blood (pricked finger)
-    - [[Party Members/ToooAh\|ToooAh]]: Tea bag
+    - [[Party Members/Tooo-Ah\|Tooo-Ah]]: Tea bag
 - Dragon breathed lightning bolt (different colour flames)
     
 - Shed tear forming second **gem**
@@ -376,7 +376,7 @@ Two ornate pedestals in centre:
     
 - Party offerings:
     
-    - [[Party Members/ToooAh\|ToooAh]]: Talon clipping
+    - [[Party Members/Tooo-Ah\|Tooo-Ah]]: Talon clipping
     - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Spear (whole spear fit into bowl somehow)
     - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: Eye patch
     - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Candle
@@ -416,7 +416,7 @@ Two ornate pedestals in centre:
     
 - Party offerings:
     
-    - [[Party Members/ToooAh\|ToooAh]]: Singed feather (from [[Sessions/Session 28 - 6 September 2025\|Session 28]] mock battle)
+    - [[Party Members/Tooo-Ah\|Tooo-Ah]]: Singed feather (from [[Sessions/Session 28 - 6 September 2025\|Session 28]] mock battle)
     - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Short bow ("never gonna use")
     - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Arrow of piercing (from Session 1, kept in backpack entire campaign)
     - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Crossbow bolt
@@ -432,7 +432,7 @@ Two ornate pedestals in centre:
 
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: 15
     
-- [[Party Members/ToooAh\|ToooAh]]: 9
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: 9
     
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: 3
     
@@ -459,7 +459,7 @@ Two ornate pedestals in centre:
 
 - Forward at three-way junction
 - Initiative rolls (checking rear positions):
-    - [[Party Members/ToooAh\|ToooAh]]: 12
+    - [[Party Members/Tooo-Ah\|Tooo-Ah]]: 12
     - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: 13
     - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: 16
     - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: 4
@@ -479,7 +479,7 @@ Two ornate pedestals in centre:
     
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: 14
     
-- [[Party Members/ToooAh\|ToooAh]]: 9
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: 9
     
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: 17
     
@@ -490,7 +490,7 @@ Two ornate pedestals in centre:
 - Party offerings:
     
     - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Arrow
-    - [[Party Members/ToooAh\|ToooAh]]: Copper coin
+    - [[Party Members/Tooo-Ah\|Tooo-Ah]]: Copper coin
     - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: Quill
     - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Ration
     - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Piece of nail
@@ -512,7 +512,7 @@ Two ornate pedestals in centre:
 
 Before reaching room (determining who's at front/back while running):
 
-- [[Party Members/ToooAh\|ToooAh]]: 12
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: 12
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: 13
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: 16
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: 4 (Natural 1 + 3)
@@ -522,7 +522,7 @@ Running formation (front to back):
 
 1. [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (front, leading)
 2. [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
-3. [[Party Members/ToooAh\|ToooAh]]
+3. [[Party Members/Tooo-Ah\|Tooo-Ah]]
 4. [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]
 5. [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (rear, daydreaming with PTSD)
 
@@ -534,7 +534,7 @@ Running formation (front to back):
     
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: 14
     
-- [[Party Members/ToooAh\|ToooAh]]: 9
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: 9
     
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: 17
     
@@ -546,7 +546,7 @@ Running formation (front to back):
     - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Blood
     - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: Ration
     - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Piece of cloth
-    - [[Party Members/ToooAh\|ToooAh]]: Piece of cloth (from cape)
+    - [[Party Members/Tooo-Ah\|Tooo-Ah]]: Piece of cloth (from cape)
 - Dragon shed tear forming sixth **gem**
     
 - Ran back out
@@ -556,7 +556,7 @@ Running formation (front to back):
 
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: 15
     
-- [[Party Members/ToooAh\|ToooAh]]: 9
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: 9
     
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: 3
     
@@ -584,7 +584,7 @@ Running formation (front to back):
 - Burst into corridor in front of party
 - **Monstrous-sized beast** (larger than large - affects combat mechanics)
 - Surrounding attacks won't work on him
-- His pace covers more ground than party (even [[Party Members/ToooAh\|ToooAh]] flying at max height, Khorrak level with her)
+- His pace covers more ground than party (even [[Party Members/Tooo-Ah\|Tooo-Ah]] flying at max height, Khorrak level with her)
 
 **Session Ended:**
 
@@ -710,7 +710,7 @@ Running formation (front to back):
 **The Bane Influence** - Status: Active (CRITICAL)
 
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Sprite manifestation, overflow risk
-- Dormant commands: [[Party Members/ToooAh\|ToooAh]] (kill [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]), [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (kill [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]])
+- Dormant commands: [[Party Members/Tooo-Ah\|Tooo-Ah]] (kill [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]), [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (kill [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]])
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Psychological curse ("It's your fault")
 
 ### New Information
@@ -739,7 +739,7 @@ Running formation (front to back):
 
 1. [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (leading)
 2. [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
-3. [[Party Members/ToooAh\|ToooAh]]
+3. [[Party Members/Tooo-Ah\|Tooo-Ah]]
 4. [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]
 5. [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (rear, PTSD distraction)
 
@@ -750,7 +750,7 @@ Running formation (front to back):
 - Blocking corridor ahead
 - Just charged through two walls
 - Pace covers more ground than party movement
-- Can reach [[Party Members/ToooAh\|ToooAh]] even at maximum flight height in corridor
+- Can reach [[Party Members/Tooo-Ah\|Tooo-Ah]] even at maximum flight height in corridor
 
 **Terrain:**
 
@@ -783,7 +783,7 @@ Running formation (front to back):
 **First Chamber (SW Room):**
 
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Copper coin
-- [[Party Members/ToooAh\|ToooAh]]: Tear and feather
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Tear and feather
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Magical dust
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: Copper coin
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Scale
@@ -794,11 +794,11 @@ Running formation (front to back):
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: Hair (cut with knife)
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Playing card
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Blood (pricked finger)
-- [[Party Members/ToooAh\|ToooAh]]: Tea bag
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Tea bag
 
 **Third Chamber (NW Room):**
 
-- [[Party Members/ToooAh\|ToooAh]]: Talon clipping
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Talon clipping
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Spear
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: Eye patch
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Candle
@@ -806,7 +806,7 @@ Running formation (front to back):
 
 **Fourth Chamber (N Room):**
 
-- [[Party Members/ToooAh\|ToooAh]]: Singed feather (from Session 28)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Singed feather (from Session 28)
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Short bow
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Arrow of piercing (from Session 1)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Crossbow bolt
@@ -815,7 +815,7 @@ Running formation (front to back):
 **Fifth Chamber (NE Room):**
 
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Arrow
-- [[Party Members/ToooAh\|ToooAh]]: Copper coin
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Copper coin
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: Quill
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Ration
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Piece of nail
@@ -826,7 +826,7 @@ Running formation (front to back):
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Blood
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: Ration
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Piece of cloth
-- [[Party Members/ToooAh\|ToooAh]]: Piece of cloth (from cape)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Piece of cloth (from cape)
 
 ### Map & Tools
 
@@ -870,7 +870,7 @@ Running formation (front to back):
 - Holds maze map (navigating party through labyrinth)
 - Led group during chase sequences (front position when running)
 
-**[[Party Members/ToooAh\|ToooAh]]:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]:**
 
 - Pulled [[Party Members/Elvva Beltavar\|Elvva Beltavar]] through mirror into dream (put hand through, dragged her in)
 - Tried rope-and-knot to grab key without touching (creative but unsuccessful)
@@ -920,7 +920,7 @@ Running formation (front to back):
 
 ## Memorable Moments
 
-**Session 29** - **Gardens Silence Puzzle** - Party spent approximately 50 minutes real-time trying to solve puzzle requiring complete silence, every member reset 15-second timer at various points: [[Party Members/ToooAh\|ToooAh]] splashing in brook, [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] and [[Party Members/Elvva Beltavar\|Elvva Beltavar]] rustling through bushes, [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] drinking from brook and eating orchid, [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] fighting through bushes for full minute despite [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] trying to communicate silently, [[Party Members/ToooAh\|ToooAh]] "reading" (tearing apart) golden mirror in previous chamber, DM emphasised every sound ("splashing," "slurping," "snapping," "rustling") until [[Party Members/ToooAh\|ToooAh]] finally proposed minute's silence that succeeded.
+**Session 29** - **Gardens Silence Puzzle** - Party spent approximately 50 minutes real-time trying to solve puzzle requiring complete silence, every member reset 15-second timer at various points: [[Party Members/Tooo-Ah\|Tooo-Ah]] splashing in brook, [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] and [[Party Members/Elvva Beltavar\|Elvva Beltavar]] rustling through bushes, [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] drinking from brook and eating orchid, [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] fighting through bushes for full minute despite [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] trying to communicate silently, [[Party Members/Tooo-Ah\|Tooo-Ah]] "reading" (tearing apart) golden mirror in previous chamber, DM emphasised every sound ("splashing," "slurping," "snapping," "rustling") until [[Party Members/Tooo-Ah\|Tooo-Ah]] finally proposed minute's silence that succeeded.
 
 **Session 29** - **Steve's Anagram** - Steve appeared to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] saying [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] gave message he couldn't remember: "after fury sinker," admitting "probably wrong," "close enough," party spent significant time debating if it was anagram or different words ("story," "thinker," "hurry"), [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] rolled Natural 20 Intelligence revealing one word likely correct but party could not solve complete anagram, Steve eventually returned providing answer: "Elik'r! I've remembered! 'Run after the first key!'"
 
@@ -928,11 +928,11 @@ Running formation (front to back):
 
 **Session 29** - **Elemental Scroll Puzzle** - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] worked through combinations trying to match Fire/Wind/Water/Earth to courage/truth/memory/passage, first attempt only got Fire for courage correct, second attempt added Wind for truth, final solution: Fire/courage, Wind/truth, Water/memory, Earth/passage (all writing lit up when correct), scroll revealed maze map with 9 rooms total.
 
-**Session 29** - **Dragon Chamber Offerings** - Party required to give unique offerings at each dragon statue (cannot repeat items across chambers), sacrifices became increasingly creative and desperate: [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] escalating from copper to silver coins when copper stopped working, [[Party Members/ToooAh\|ToooAh]] giving singed feather from previous session's mock battle, [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] donating Arrow of Piercing kept since Session 1, [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] sacrificing eye patch, [[Party Members/Elvva Beltavar\|Elvva Beltavar]] abandoning short bow she'd "never gonna use," [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] eventually resorting to spitting phlegm into bowl, offerings dissolved/melted before dragons shed tears forming gems.
+**Session 29** - **Dragon Chamber Offerings** - Party required to give unique offerings at each dragon statue (cannot repeat items across chambers), sacrifices became increasingly creative and desperate: [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] escalating from copper to silver coins when copper stopped working, [[Party Members/Tooo-Ah\|Tooo-Ah]] giving singed feather from previous session's mock battle, [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] donating Arrow of Piercing kept since Session 1, [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] sacrificing eye patch, [[Party Members/Elvva Beltavar\|Elvva Beltavar]] abandoning short bow she'd "never gonna use," [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] eventually resorting to spitting phlegm into bowl, offerings dissolved/melted before dragons shed tears forming gems.
 
 **Session 29** - **Steve's Warnings to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]** - Only [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] could see/hear Steve appearing in maze walls speaking in [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]'s voice, Steve warned "He's here!" when Khorrak very close (party heard thud and wall shaking with crack appearing where Khorrak tried breaking through), Steve urged "You've got to run quicker," appeared multiple times providing critical information despite [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] not physically present, [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] noted [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] "lied" about never getting past mirror room yet somehow knew to run after first key.
 
-**Session 29** - **[[Party Members/ToooAh\|ToooAh]] Pulls [[Party Members/Elvva Beltavar\|Elvva Beltavar]] Into Dream** - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] asleep in [[Locations/Belendar\|Belendar]] while party at mirror showing her sleeping with water-like rippling surface, [[Party Members/ToooAh\|ToooAh]] put hand through causing green wispy hand to appear over sleeping [[Party Members/Elvva Beltavar\|Elvva Beltavar]], when [[Party Members/ToooAh\|ToooAh]] pulled back [[Party Members/Elvva Beltavar\|Elvva Beltavar]] dragged through into shared dream vision joining party, mirror closed behind her, [[Party Members/Elvva Beltavar\|Elvva Beltavar]] asked "What did you bring me here for?" [[Party Members/ToooAh\|ToooAh]]: "Well, blame the bird."
+**Session 29** - **[[Party Members/Tooo-Ah\|Tooo-Ah]] Pulls [[Party Members/Elvva Beltavar\|Elvva Beltavar]] Into Dream** - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] asleep in [[Locations/Belendar\|Belendar]] while party at mirror showing her sleeping with water-like rippling surface, [[Party Members/Tooo-Ah\|Tooo-Ah]] put hand through causing green wispy hand to appear over sleeping [[Party Members/Elvva Beltavar\|Elvva Beltavar]], when [[Party Members/Tooo-Ah\|Tooo-Ah]] pulled back [[Party Members/Elvva Beltavar\|Elvva Beltavar]] dragged through into shared dream vision joining party, mirror closed behind her, [[Party Members/Elvva Beltavar\|Elvva Beltavar]] asked "What did you bring me here for?" [[Party Members/Tooo-Ah\|Tooo-Ah]]: "Well, blame the bird."
 
 **Session 29** - **Math Errors During Chase** - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] added movement rolls incorrectly twice during chase: calculated movement total as 70 when actual was 60 (17+3+14+9+17=60), occurred twice during frantic chase sequence, DM used stated totals of 70 for gameplay allowing slightly more movement, errors noted for accuracy but didn't significantly impact gameplay or party survival.
 
@@ -956,7 +956,7 @@ Running formation (front to back):
 - Can break through stone walls
 - Moves faster than party even at dash speed
 - Tracks by sound and scent
-- Can reach [[Party Members/ToooAh\|ToooAh]] even at maximum flight height
+- Can reach [[Party Members/Tooo-Ah\|Tooo-Ah]] even at maximum flight height
 - Party formation: [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] at front, [[Party Members/Elvva Beltavar\|Elvva Beltavar]] at rear
 
 **Pending Matters:**

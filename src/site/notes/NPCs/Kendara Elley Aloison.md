@@ -29,7 +29,7 @@
 - No villagers in [[Locations/Sylobelle\|Sylobelle]] recognized the name or description
 - [[NPCs/Ryvenien Berg\|Ryvenien Berg]] did have something entrusted to him - but it was the doll, not a child
 - Professor Emms' last words: "They took the doll" (not "They took my daughter")
-- The doll was found by [[Party Members/ToooAh\|ToooAh]] on smuggler boat (before Professor's quest began)
+- The doll was found by [[Party Members/Tooo-Ah\|Tooo-Ah]] on smuggler boat (before Professor's quest began)
 
 ## Why the Deception?
 
@@ -57,7 +57,7 @@
 4. [[Locations/Sylobelle\|Sylobelle]] raided by [[NPCs/Elincia Flowers\|Elincia Flowers]] (as Black Knight) and Logrin's forces
 5. [[NPCs/Ryvenien Berg\|Ryvenien Berg]] murdered (pinned to wall with spear/pike)
 6. Doll taken/moved (ended up on smuggler boat)
-7. [[Party Members/ToooAh\|ToooAh]] found doll on smuggler boat during party's early side quest
+7. [[Party Members/Tooo-Ah\|Tooo-Ah]] found doll on smuggler boat during party's early side quest
 
 **Party's Involvement:**
 
@@ -87,14 +87,14 @@
 
 **Found By:**
 
-- [[Party Members/ToooAh\|ToooAh]] - Discovered doll on smuggler boat (kept it, not knowing significance)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] - Discovered doll on smuggler boat (kept it, not knowing significance)
 
 ## Related NPCs
 
 - [[NPCs/Professor Gabriel Emms\|Professor Gabriel Emms]] - Created fictional identity
 - [[NPCs/Ryvenien Berg\|Ryvenien Berg]] - Guardian of the doll (murdered)
 - [[NPCs/Avicia\|Avicia]] - What "Kendara" actually was (the transformed doll)
-- [[Party Members/ToooAh\|ToooAh]] - Found and kept the doll
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] - Found and kept the doll
 - [[NPCs/Elincia Flowers\|Elincia Flowers]] - Conspirator who stole/sought the doll
 
 ## Related Quests
@@ -107,7 +107,7 @@
 
 - [[Locations/Sylobelle\|Sylobelle]] - Where cover story was told, raid location
 - Farmhouse near [[Locations/Sylobelle\|Sylobelle]] - Where [[NPCs/Ryvenien Berg\|Ryvenien Berg]] was murdered
-- Smuggler boat - Where [[Party Members/ToooAh\|ToooAh]] actually found the doll
+- Smuggler boat - Where [[Party Members/Tooo-Ah\|Tooo-Ah]] actually found the doll
 - Underground atrium - Where Professor died revealing truth
 
 ## Notes
@@ -117,18 +117,18 @@
 - Shows extent of conspiracy to find/steal the doll
 - Explains why Professor and Ryvenien were killed
 - Reveals how carefully [[NPCs/Avicia\|Avicia]]'s existence was protected
-- Party unknowingly had what conspirators sought (ToooAh's doll)
+- Party unknowingly had what conspirators sought (Tooo-Ah's doll)
 
 **Campaign Significance:**
 
-- Party searching for "missing child" while ToooAh already had the doll
+- Party searching for "missing child" while Tooo-Ah already had the doll
 - Dramatic irony of the quest
 - Professor's deception was necessary protection
 - "Kendara" description perfectly matched transformed [[NPCs/Avicia\|Avicia]]
 
 **Unanswered Questions:**
 
-- Did Professor Emms know ToooAh had found the doll?
+- Did Professor Emms know Tooo-Ah had found the doll?
 - Why didn't Professor tell party truth immediately?
 - How did doll get from Ryvenien's farmhouse to smuggler boat?
 - Who were the smugglers working for?

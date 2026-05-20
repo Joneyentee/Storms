@@ -6,7 +6,7 @@
 
 # Homebrew Rules & Items
 
-## ToooAh's Magical Tea
+## Tooo-Ah's Magical Tea
 
 **Mechanics:** Roll d100 for random effect per serving.
 
@@ -82,11 +82,11 @@
 |Arcane Swirl Pretzel|Mage Hand appears that you can control, but it is sassy and will try to defy you|1 hour|
 |Co'narr's Majestic Hammer|**Pastry erupts** covering you head to toe in jam and cream (can't be wiped off), disadvantage on all Charisma checks and rolls|1 hour|
 
-**Location Feature:** Recurring at [[Locations/Crossroads Inn\|Crossroads Inn]], similar to [[Party Members/ToooAh\|ToooAh]]'s tea mechanic. More pastries likely exist with unknown effects.
+**Location Feature:** Recurring at [[Locations/Crossroads Inn\|Crossroads Inn]], similar to [[Party Members/Tooo-Ah\|Tooo-Ah]]'s tea mechanic. More pastries likely exist with unknown effects.
 
 **Notes:**
 
-- Similar chaos mechanic to ToooAh's tea
+- Similar chaos mechanic to Tooo-Ah's tea
 - Effects heard throughout tavern as other diners consumed pastries (Session 32)
 - Bramble continues experimenting with new recipes
 
@@ -226,7 +226,7 @@
 
 ### Horn of the Winter Gale
 
-**Owner:** [[Party Members/ToooAh\|ToooAh]] | **Source:** [[NPCs/Fizwidget Spindleflash\|Fizwidget Spindleflash]] (Session 35, won snowman sculpture competition)
+**Owner:** [[Party Members/Tooo-Ah\|Tooo-Ah]] | **Source:** [[NPCs/Fizwidget Spindleflash\|Fizwidget Spindleflash]] (Session 35, won snowman sculpture competition)
 
 **Properties:**
 
@@ -368,10 +368,10 @@
 - From unknown sea beast
 - Possible crafting material
 
-**Tales of the Lost Princess (ToooAh):**
+**Tales of the Lost Princess (Tooo-Ah):**
 
 - Small book, series
-- [[Party Members/ToooAh\|ToooAh]] practicing reading
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] practicing reading
 - Possible connection to [[NPCs/Avicia\|Avicia]] mystery
 
 ---
@@ -394,7 +394,7 @@
 
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Nat 20, 20hr sleep
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: 20, ~6hr sleep
-- [[Party Members/ToooAh\|ToooAh]]: 15, 7hr sleep
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: 15, 7hr sleep
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: 13, ~6hr sleep
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: Failed, 5 damage, 4hr sleep (woke first)
 
@@ -474,7 +474,7 @@
 
 **Affected Characters:**
 
-- **[[Party Members/ToooAh\|ToooAh]]:** "Kill [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]"
+- **[[Party Members/Tooo-Ah\|Tooo-Ah]]:** "Kill [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]"
 - **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]:** "Kill [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]"
 - **[[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]:** "Betray the mole"
 
@@ -498,7 +498,7 @@
 
 **Session 24:**
 
-- Enhanced [[Party Members/ToooAh\|ToooAh]]'s Scorching Ray spell
+- Enhanced [[Party Members/Tooo-Ah\|Tooo-Ah]]'s Scorching Ray spell
 - Green glow on hands during casting
 - Spell dealt extra damage
 
@@ -533,7 +533,7 @@
 **Pattern Analysis:**
 
 - Associated with Bane corruption
-- Can enhance abilities (ToooAh)
+- Can enhance abilities (Tooo-Ah)
 - Can trigger conditions (Elvva)
 - Can transform (Odonia)
 - **Can reflect damage (Elvva - 3-strike pattern)**
@@ -556,7 +556,7 @@
 - Made party perform circus acts for 1000 angry gnomes
 - Swapped intimacy partners mid-encounter ([[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] ⟷ [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]])
 - Forced all speech to be sung
-- Removed [[Party Members/ToooAh\|ToooAh]]'s wings temporarily
+- Removed [[Party Members/Tooo-Ah\|Tooo-Ah]]'s wings temporarily
 
 **Magical Rules:**
 
@@ -577,7 +577,7 @@
 
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Iron Circlet (properties unknown)
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: Hide Armour (properties unknown)
-- [[Party Members/ToooAh\|ToooAh]]: Magical Rope (properties unknown)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Magical Rope (properties unknown)
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Founder's Wand (properties unknown)
 
 **Status:** Portal gone, Fizwidget at large, likely to return

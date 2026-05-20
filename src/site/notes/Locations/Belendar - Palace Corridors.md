@@ -244,7 +244,7 @@ Stone corridors with high ceilings, decorative elements typical of royal archite
 - **Multiple Passages** - Interconnecting hallways throughout palace
 - **Throne Room Access** - Corridors lead to double oak doors of throne room
 - **Defensive Positions** - Pillars and architectural features provide cover
-- **High Ceilings** - Allow for aerial movement ([[Party Members/ToooAh\|ToooAh]]'s flight capability)
+- **High Ceilings** - Allow for aerial movement ([[Party Members/Tooo-Ah\|Tooo-Ah]]'s flight capability)
 
 ### Population
 
@@ -269,7 +269,7 @@ Traditional palace corridors normally used for official business, ceremonial pro
 
 Party fought through corridors encountering scattered enemy soldiers:
 
-- [[Party Members/ToooAh\|ToooAh]]: Killed one soldier with acrobatic kicks (rolled 23)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Killed one soldier with acrobatic kicks (rolled 23)
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Killed one soldier with flaming sword cleave (rolled 17)
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: Killed two soldiers with Acid Splash
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Accidentally hit allied soldier with Guiding Bolt (16 radiant damage)

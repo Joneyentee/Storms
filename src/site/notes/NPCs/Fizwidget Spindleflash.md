@@ -22,7 +22,7 @@ Gnome trickster with reality-warping powers. Appears in top hat, flashy posh sui
 
 - **Possible Family Connection:** [[NPCs/Barry\|Barry]] (gnome army leader, shot in eye by Odonia)
 - **Targeted:** [[Organisations/Riders of the Storm\|Riders of the Storm]] (party) - specifically for Odonia's eye-shooting incident
-- **Challenged:** [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]], [[Party Members/ToooAh\|ToooAh]], [[Party Members/Elvva Beltavar\|Elvva Beltavar]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
+- **Challenged:** [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]], [[Party Members/Tooo-Ah\|Tooo-Ah]], [[Party Members/Elvva Beltavar\|Elvva Beltavar]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
 - **Threatened:** [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]] (vision of death), [[NPCs/River\|River]] (temporarily taken)
 
 ### Appearances
@@ -37,7 +37,7 @@ Gnome trickster with reality-warping powers. Appears in top hat, flashy posh sui
 - **Reality Creation:** Entire alternate dimensions with pocket realms (Carnival, Winter Realm with Frostglade village)
 - **Time Manipulation:** Froze time, created temporal loops, controlled perception of duration
 - **Teleportation:** Instant disappearance and reappearance, clicking fingers to vanish, intercepted travelling party
-- **Transmutation:** Turned [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] into duck, removed [[Party Members/ToooAh\|ToooAh]]'s wings, sealed [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s mouth
+- **Transmutation:** Turned [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] into duck, removed [[Party Members/Tooo-Ah\|Tooo-Ah]]'s wings, sealed [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s mouth
 - **Age Regression:** Reverted entire party to teenage years (16-17) whilst maintaining memories and abilities
 - **Illusion/Reality Blend:** Created convincing NPCs (Rachel, Short Jane Goldie, Pip, Palla, Clausonick, Jack Frost), false scenarios
 - **Compulsion:** Forced actions (marriage ceremony, singing, seduction)
@@ -63,7 +63,7 @@ Gnome trickster with reality-warping powers. Appears in top hat, flashy posh sui
 1. **Strongman Bell** ([[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]) - Hammer strike challenge, failed but took temporary HP instead
 2. **Coconut Shy** ([[Party Members/Elvva Beltavar\|Elvva Beltavar]]) - Failed, lost prepared spells (temporary)
 3. **Unstable Bridges** ([[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]) - Succeeded, kept token
-4. **Mirror Maze** ([[Party Members/ToooAh\|ToooAh]]) - Failed, lost wings (temporary)
+4. **Mirror Maze** ([[Party Members/Tooo-Ah\|Tooo-Ah]]) - Failed, lost wings (temporary)
 5. **Hook a Duck** ([[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]) - Failed, [[NPCs/River\|River]] taken (temporary)
 6. **Life and Death Coin Flip** (party vote) - Lost, [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]] shown killed (temporary)
 7. **Arena Performance** (all party) - Succeeded (706/1000 votes), earned back [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]]
@@ -74,7 +74,7 @@ Gnome trickster with reality-warping powers. Appears in top hat, flashy posh sui
 1. **Frozen Lake Escape** - Navigate cracking ice while blizzard pursues from behind
 2. **10th Annual Husky Games** - Three-team sled race down mountain (Winners: [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] & [[Party Members/Liora Emberveil\|Liora Emberveil]])
 3. **Jack Frost's Magical Pastries** - Random effects (Strength buff, brain-freeze, eternal fruitcake, personal blizzard, polar bear companion, perpetual slippiness)
-4. **Snowball Fight Tournament** - 3v3 arena battle (Winners: [[Party Members/ToooAh\|ToooAh]], [[Party Members/Liora Emberveil\|Liora Emberveil]], [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]])
+4. **Snowball Fight Tournament** - 3v3 arena battle (Winners: [[Party Members/Tooo-Ah\|Tooo-Ah]], [[Party Members/Liora Emberveil\|Liora Emberveil]], [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]])
 
 ### Related Quests
 
@@ -91,7 +91,7 @@ Gnome trickster with reality-warping powers. Appears in top hat, flashy posh sui
 ### Related Items
 
 - **Iron Circlet** (given to [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]) - Permanent reward
-- **Magical Rope** (given to [[Party Members/ToooAh\|ToooAh]]) - Permanent reward
+- **Magical Rope** (given to [[Party Members/Tooo-Ah\|Tooo-Ah]]) - Permanent reward
 - **Founder's Wand** (given to [[Party Members/Elvva Beltavar\|Elvva Beltavar]]) - Permanent reward
 - **Hide Armour** (given to [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]) - Permanent reward
 - **Pocket Watch** - Controls time, signature item

@@ -198,7 +198,7 @@ Tessell now keeps the veil tucked into his robes, using it in moments of prayer,
 ### Party Members
 
 - Close ally: [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (now Lady of [[Locations/Sylobelle\|Sylobelle]])
-- Fellow party members: [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], [[Party Members/ToooAh\|ToooAh]], [[Party Members/Elvva Beltavar\|Elvva Beltavar]]
+- Fellow party members: [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], [[Party Members/Tooo-Ah\|Tooo-Ah]], [[Party Members/Elvva Beltavar\|Elvva Beltavar]]
 - **Military Command Structure:** General of the Left under [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s overall command (General of the North)
 
 ### NPCs
@@ -298,7 +298,7 @@ Tessell now keeps the veil tucked into his robes, using it in moments of prayer,
 
 - **Bane Sense:** Can sense [[NPCs/The Bane\|The Bane]]'s presence (currently unfocused - overwhelming jumble of voices)
 - **Shared Vision:** Experienced prophetic dream showing ancient war, purple dragonborn, and mysteries
-- **Targeted:** [[Party Members/ToooAh\|ToooAh]] carries dormant Bane command to kill Tessell (planted Session 23 - CRITICAL THREAT)
+- **Targeted:** [[Party Members/Tooo-Ah\|Tooo-Ah]] carries dormant Bane command to kill Tessell (planted Session 23 - CRITICAL THREAT)
 - **Bane Manifestation (Session 37 - CRITICAL):** [[NPCs/The Bane\|The Bane]] flowed physically from Tessell's palm to activate a green cult symbol on the garrison wall in [[Locations/Thalas'Miriel\|Thalas'Miriel]], opening a hidden passage. He was the only party member able to sense the symbol. Passage sealed behind the party as [[NPCs/The Bane\|The Bane]] retracted into his hand. Significance unknown - connection to this symbol and its cult is unexplained.
 - **Seraph Contact (S38):** Touched an ember fissure in the [[Organisations/Ember Vein\|Ember Vein]] underground complex; the seraph communicated directly - message received: _"Kill them all."_ Notably different from the word delivered to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] ("Release"). The seraph appears to address individual party members differently. Significance unresolved.
 
@@ -329,7 +329,7 @@ Tessell now keeps the veil tucked into his robes, using it in moments of prayer,
 - [[Quests/Quests - Active#Escape Shared Dream Vision\|Quests - Active#Escape Shared Dream Vision]] - Trapped in temple (Session 28)
 - [[Quests/Quests - Active#Rally the North\|Quests - Active#Rally the North]] - General of the Left, Marshal of the North
 - [[Quests/Quests - Active#Secure Eastern Border\|Quests - Active#Secure Eastern Border]] - Military commission
-- [[Quests/Quests - Active#The Bane\|Quests - Active#The Bane]] - Bane Watcher, targeted by ToooAh's dormant command
+- [[Quests/Quests - Active#The Bane\|Quests - Active#The Bane]] - Bane Watcher, targeted by Tooo-Ah's dormant command
 - [[Quests/Quests - Active#Visit Bane Watcher Citadel\|Quests - Active#Visit Bane Watcher Citadel]] - Remove dormant Bane command targeting him
 
 ---

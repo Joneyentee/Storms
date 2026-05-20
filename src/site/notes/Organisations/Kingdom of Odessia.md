@@ -110,7 +110,7 @@
    - Lady Odonia (General of North - overall)
    - Ser Tessell (General of Left)
    - Elik'r Stormswallow (General of Right)
-   - ToooAh (Chariot General)
+   - Tooo-Ah (Chariot General)
 4. Regional commanders (nobles, garrison commanders)
 5. Unit commanders (Knights promoted to Commander)
 

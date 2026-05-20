@@ -89,7 +89,7 @@ Party ate magical cherry cake - rolled D100 for effects:
 - Clothes caught fire (no damage/pain)
 - Lost all non-magical clothing
 - Medal appeared: "Funniest Drunk in the City"
-- Left wearing only magical top ([[Party Members/ToooAh\|ToooAh]]'s previous gift)
+- Left wearing only magical top ([[Party Members/Tooo-Ah\|Tooo-Ah]]'s previous gift)
 - Naked from waist down
 
 **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (97) & [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] (same roll):**
@@ -159,7 +159,7 @@ Party ate magical cherry cake - rolled D100 for effects:
 - Failed completely
 - "Obviously not ginger enough for him" - reference to Elik'r's early sexual encounter with [[NPCs/Yavanna Lightwhisper\|Yavanna Lightwhisper]]
 
-**[[Party Members/ToooAh\|ToooAh]] (91):**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]] (91):**
 
 - Climbed onto table
 - Danced very suggestively
@@ -183,7 +183,7 @@ Party ate magical cherry cake - rolled D100 for effects:
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] hopping/skipping on one boot
 - Headed into woods to hunt boar
 
-**[[Party Members/ToooAh\|ToooAh]]'s Activities:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Activities:**
 
 - Found sprouting magical bean in bag
 - Flew to garden near castle (formerly [[Locations/Ser Silvar Glinnan's Mansion (Destroyed)\|Ser Silvar Glinnan's Mansion (Destroyed)]] burned manse location)
@@ -269,7 +269,7 @@ Athletics checks to reach Princess first:
 
 ### Toadstool Discovery
 
-**[[Party Members/ToooAh\|ToooAh]] at Garden:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]] at Garden:**
 
 After planting bean:
 
@@ -277,15 +277,15 @@ After planting bean:
 - Placed bean in hole
 - Fizwidget appeared sitting on debris (from burned manse)
 - Fizwidget: "I see you're planting the bean I put in your bag. Are you going to water that?"
-- Clicked fingers - watering can appeared in [[Party Members/ToooAh\|ToooAh]]'s hand
-- [[Party Members/ToooAh\|ToooAh]]: "Do you do tea as well?"
+- Clicked fingers - watering can appeared in [[Party Members/Tooo-Ah\|Tooo-Ah]]'s hand
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: "Do you do tea as well?"
 - Fizwidget clicked - tea appeared
 - Smelled tea carefully, drank
 - Tea tasted of apple and ginger
-- [[Party Members/ToooAh\|ToooAh]] watered bean
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] watered bean
 - Great toadstool sprouted immediately
 - Wooden door appeared in toadstool trunk
-- Door perfect size for [[Party Members/ToooAh\|ToooAh]]
+- Door perfect size for [[Party Members/Tooo-Ah\|Tooo-Ah]]
 - Fizwidget: "Before we enter, you might want some friends. Toodaloo!"
 - Clicked and disappeared
 
@@ -344,7 +344,7 @@ After intimate encounter:
 
 [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (still singing): "I've caught a boar. What have you all done?"
 
-**[[Party Members/ToooAh\|ToooAh]]:** "Come and explore the mushroom with me"
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]:** "Come and explore the mushroom with me"
 
 **[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]:** "Not 'what', my dear chap, 'whom'"
 
@@ -355,13 +355,13 @@ After intimate encounter:
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] cast Zone of Truth
 - 10 minute duration
 - Charisma saving throw DC 13
-- Results: [[Party Members/ToooAh\|ToooAh]] (3), [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (11), [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (4), [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (9)
+- Results: [[Party Members/Tooo-Ah\|Tooo-Ah]] (3), [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (11), [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (4), [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (9)
 - [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]: Natural 20 (but would tell truth anyway)
 - All failed except [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]
 
 **Truth Telling:**
 
-- [[Party Members/ToooAh\|ToooAh]] explained bean in bag, toadstool, door
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] explained bean in bag, toadstool, door
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: "Not entirely sure. I tried to seduce the Princess. Then she disappeared. And someone else was there"
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: "Who was that?"
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: "Why don't you ask her?"
@@ -396,7 +396,7 @@ After intimate encounter:
 
 **Second Drink Effects (D100):**
 
-**[[Party Members/ToooAh\|ToooAh]] (28):**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]] (28):**
 
 - Felt urge to burp after drinking
 - Bubbles caused very loud burp
@@ -462,7 +462,7 @@ After intimate encounter:
 - Asked to name potential sidekick
 - Named: "Flossy"
 - Sat at table after companions left
-- Looked at [[Party Members/ToooAh\|ToooAh]]: "I do like birds. I should get one"
+- Looked at [[Party Members/Tooo-Ah\|Tooo-Ah]]: "I do like birds. I should get one"
 - Walked around town
 - Found parrot in shop window
 - Stole parrot
@@ -481,12 +481,12 @@ After intimate encounter:
 Status check:
 
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Married to [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]
-- [[Party Members/ToooAh\|ToooAh]]: Bacon burps
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Bacon burps
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: 1000 gold richer
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Free tavern drinks + stalker (Rachel)
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: Insulting parrot (Flossy)
 
-**[[Party Members/ToooAh\|ToooAh]]'s Insistence:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Insistence:**
 
 - Repeatedly urged party to explore toadstool
 - "Come and explore the mushroom with me"
@@ -505,7 +505,7 @@ Status check:
 
 **Door Appearance to Each Person:**
 
-- [[Party Members/ToooAh\|ToooAh]]: Simple wooden door
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Simple wooden door
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Ornate door with gold trimmings and handles
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Military-style door resembling Arena
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Appeared as kennel/bird cage
@@ -550,7 +550,7 @@ Status check:
 - Door at far end
 - Appears normal-sized to party
 
-**[[Party Members/ToooAh\|ToooAh]]'s Potion:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Potion:**
 
 - Received potion earlier (bottle with arrow pointing up)
 - Note: "A sip will do"
@@ -560,7 +560,7 @@ Status check:
 **Size Change Effect:**
 
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] drank - grew to normal size (party were tiny)
-- [[Party Members/ToooAh\|ToooAh]] drank - grew to normal size
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] drank - grew to normal size
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] drank - grew to normal size
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] drank - grew to normal size
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] drank - grew to normal size
@@ -600,7 +600,7 @@ Status check:
 - Each person saw different threat:
 - [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]]'s face decapitated
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s arm chopped off
-- [[Party Members/ToooAh\|ToooAh]]'s wing severed
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]'s wing severed
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s leg removed
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s eye lost (appropriate to eyepatch)
 - "Should you lose..."
@@ -655,7 +655,7 @@ Status check:
 - Chocolate river below
 - Moving, unstable bridges
 - Must cross three sections with safe zones between
-- Similar to contraption [[Party Members/ToooAh\|ToooAh]] encountered at previous fair
+- Similar to contraption [[Party Members/Tooo-Ah\|Tooo-Ah]] encountered at previous fair
 - Cramped space (difficult to fly)
 
 **[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s Attempt:**
@@ -676,9 +676,9 @@ Status check:
 - Glass maze, reflections everywhere
 - Intelligence checks to navigate
 
-**[[Party Members/ToooAh\|ToooAh]]'s Attempt:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Attempt:**
 
-- Intelligence checks (not [[Party Members/ToooAh\|ToooAh]]'s strength)
+- Intelligence checks (not [[Party Members/Tooo-Ah\|Tooo-Ah]]'s strength)
 - First check: 8 - walked into glass immediately
 - Second check: 14 - walked into another piece of glass
 - Third check: (not recorded) - couldn't find exit or entrance
@@ -687,7 +687,7 @@ Status check:
 
 **Fizwidget's Punishment:**
 
-- [[Party Members/ToooAh\|ToooAh]] felt weird
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] felt weird
 - Looked in mirror - **wings disappearing**
 - Wings faded away completely
 - Left as normal human (no wings, but kept beak)
@@ -731,7 +731,7 @@ Status check:
 - Fizwidget offered chance to win dog back
 - Game: Life and death
 - Party vote required
-- Votes: [[Party Members/ToooAh\|ToooAh]] (nothing to lose), [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (against), [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (for), [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (for), [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (vote unclear)
+- Votes: [[Party Members/Tooo-Ah\|Tooo-Ah]] (nothing to lose), [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (against), [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (for), [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (for), [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (vote unclear)
 - Decided to flip coin
 - Coin flip: Tails (lost)
 
@@ -746,14 +746,14 @@ Status check:
 
 ### Attempted Attack on Fizwidget
 
-**[[Party Members/ToooAh\|ToooAh]]'s Action:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Action:**
 
 - Attempted to punch Fizwidget
 - Attack roll: 8
 - Fizwidget spun theatrically
 - Attack missed completely, hit floor
 
-**[[Party Members/ToooAh\|ToooAh]]'s Offer:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Offer:**
 
 - "Wait, one second. Reverse what you have done. Bring us back [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]]. And all the stuff you have taken from us. And I will owe you a favour"
 - Fizwidget rejected offer
@@ -850,10 +850,10 @@ Status check:
 - Lion jumped through hoop
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] riding on back
 
-**[[Party Members/ToooAh\|ToooAh]]'s Action:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Action:**
 
 - Flew to lion
-- As lion landed after hoop, [[Party Members/ToooAh\|ToooAh]] kicked it in face
+- As lion landed after hoop, [[Party Members/Tooo-Ah\|Tooo-Ah]] kicked it in face
 - Acrobatics: 30 (critical success - rolled dirty 20)
 - Kicked lion, pulled [[Party Members/Elvva Beltavar\|Elvva Beltavar]] off
 - Caught [[Party Members/Elvva Beltavar\|Elvva Beltavar]] in mid-air
@@ -872,13 +872,13 @@ Status check:
 - Torch caught fire, fell on straw-lined arena floor
 - Straw started burning
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] let go of rope, falling
-- [[Party Members/ToooAh\|ToooAh]] had kicked lion (successfully caught [[Party Members/Elvva Beltavar\|Elvva Beltavar]])
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] had kicked lion (successfully caught [[Party Members/Elvva Beltavar\|Elvva Beltavar]])
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] fired two arrows randomly overhead
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s lute still out of tune
 
 **Second Round:**
 
-**[[Party Members/ToooAh\|ToooAh]]'s Action:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Action:**
 
 - Lion leaping at her face after kick
 - Backward somersault away
@@ -902,7 +902,7 @@ Status check:
 
 **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s Action:**
 
-- Jumped onto lion's back (after [[Party Members/ToooAh\|ToooAh]] kicked it)
+- Jumped onto lion's back (after [[Party Members/Tooo-Ah\|Tooo-Ah]] kicked it)
 - Attempted to ride around arena waving
 - Animal Handling: (exact roll not recorded but successful)
 
@@ -917,7 +917,7 @@ Status check:
 
 **Second Round Results:**
 
-- [[Party Members/ToooAh\|ToooAh]] successfully kicked lion
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] successfully kicked lion
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] jumped on lion's back
 - Lion flipped backward from kick
 - Lion landed on top of [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]
@@ -1012,7 +1012,7 @@ Status check:
 
 - Party appeared outside toadstool (back at manse garden)
 - All back to normal conditions
-- [[Party Members/ToooAh\|ToooAh]]'s wings restored
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]'s wings restored
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s spells restored
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s mouth restored
 - Manse still burned down (not restored)
@@ -1028,14 +1028,14 @@ Status check:
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: 6
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: 5
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: 6
-- [[Party Members/ToooAh\|ToooAh]]: 3
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: 3
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: 2
 
 **Presents Distributed:**
 
 - Fizwidget clicked - four presents appeared
 - One to [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]
-- One to [[Party Members/ToooAh\|ToooAh]]
+- One to [[Party Members/Tooo-Ah\|Tooo-Ah]]
 - One to [[Party Members/Elvva Beltavar\|Elvva Beltavar]]
 - One remaining between [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (both rolled 6)
 
@@ -1044,7 +1044,7 @@ Status check:
 - Fizwidget: "You decide, who's is it?"
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: "You can have it"
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: "Already have a cape and a shield, you have it"
-- [[Party Members/ToooAh\|ToooAh]]: "Why don't you just open it up then decide?"
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: "Why don't you just open it up then decide?"
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: "I'm having it"
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: "She can have it unless I want it, and I'll trade"
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] took present
@@ -1063,7 +1063,7 @@ Status check:
 - Magical in nature
 - Properties unknown
 
-### ToooAh - Magical Rope
+### Tooo-Ah - Magical Rope
 
 **Description:**
 
@@ -1117,7 +1117,7 @@ Status check:
 - Dog's status - **Ambiguous** (possibly alive)
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s 1000 gold - **Status unclear**
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s 68 gold loss - **Status unclear**
-- [[Party Members/ToooAh\|ToooAh]]'s 11 gold from dancing - **Status unclear**
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]'s 11 gold from dancing - **Status unclear**
 
 ---
 
@@ -1246,7 +1246,7 @@ Status check:
 **The Bane Influence** - Status: Active (CRITICAL)
 
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Sprite manifestation, overflow risk
-- Dormant commands: [[Party Members/ToooAh\|ToooAh]] (kill [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]), [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (kill [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]), [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] (betray the mole)
+- Dormant commands: [[Party Members/Tooo-Ah\|Tooo-Ah]] (kill [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]), [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (kill [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]), [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] (betray the mole)
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Psychological curse ("It's your fault")
 
 ### Mysteries
@@ -1263,7 +1263,7 @@ Status check:
 **Magical Items Properties** - Status: Active
 
 - Iron circlet ([[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]) - unknown abilities
-- Magical rope ([[Party Members/ToooAh\|ToooAh]]) - unknown abilities
+- Magical rope ([[Party Members/Tooo-Ah\|Tooo-Ah]]) - unknown abilities
 - Founder's Wand ([[Party Members/Elvva Beltavar\|Elvva Beltavar]]) - unknown abilities
 - Hide armour ([[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]) - unknown abilities
 
@@ -1328,7 +1328,7 @@ Status check:
 **Mirror Maze Challenge:**
 
 - Opponent: Glass maze (Intelligence required)
-- Participant: [[Party Members/ToooAh\|ToooAh]]
+- Participant: [[Party Members/Tooo-Ah\|Tooo-Ah]]
 - Result: Failure (lost in maze)
 - Consequence: Lost wings (temporary - reversed)
 
@@ -1369,7 +1369,7 @@ Status check:
 
 - **Iron Circlet** - Simple iron band, magical properties unknown
 
-**[[Party Members/ToooAh\|ToooAh]]:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]:**
 
 - **Magical Rope** - Glimmering rope, can wear as mountaineering rope, properties unknown
 
@@ -1391,7 +1391,7 @@ Status check:
 
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: +1000 gold (gambling winnings)
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: -136 gold (servant tips)
-- [[Party Members/ToooAh\|ToooAh]]: +11 gold (table dancing)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: +11 gold (table dancing)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Unknown (pirate recruitment, singing performances)
 
 **Resolution Needed:** Verify if gold changes persisted after reality reset
@@ -1429,7 +1429,7 @@ Status check:
 **Temporary Effects (All Reversed):**
 
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Nakedness, spell loss
-- [[Party Members/ToooAh\|ToooAh]]: Wing loss, bacon burps
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Wing loss, bacon burps
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: Mouth removal, duck transformation, insulting parrot
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Marriage, singing compulsion, testicle injury
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Seduction ability, pirate recruitment
@@ -1468,7 +1468,7 @@ Status check:
 - General of the North
 - Dormant Bane command (kill [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]])
 
-**[[Party Members/ToooAh\|ToooAh]]:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]:**
 
 - Chariot General
 - Dormant Bane command (kill [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]])
@@ -1484,7 +1484,7 @@ Status check:
 
 **Session 27** - **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]** - Lost all clothing when magical cake made skin catch fire (no damage), left completely naked when [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] and [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] stole remaining magical top after knocking her unconscious, had intimate encounter with Ser Roland Steelhart while naked ("30 seconds later. It was quick"), later won 1000 gold gambling when Fizwidget magically changed dice to double sixes despite [[Party Members/Elvva Beltavar\|Elvva Beltavar]] refusing to cheat.
 
-**Session 27** - **[[Party Members/ToooAh\|ToooAh]]** - Lost wings completely in mirror maze challenge, kicked lion in face mid-jump during arena performance (critical success), bacon-flavoured burps for 24 hours, received magical rope as reward, repeatedly urged party to explore toadstool throughout evening.
+**Session 27** - **[[Party Members/Tooo-Ah\|Tooo-Ah]]** - Lost wings completely in mirror maze challenge, kicked lion in face mid-jump during arena performance (critical success), bacon-flavoured burps for 24 hours, received magical rope as reward, repeatedly urged party to explore toadstool throughout evening.
 
 **Session 27** - **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] & [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]** - Forced to marry in chapel ceremony after [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] proposed on one knee (both tried to refuse but magically compelled to say yes), rings embedded into skin, went boar hunting while singing everything compulsively, [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] stole [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s boot leaving him hopping on one foot, [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] received kitten "Catness Everclean" that hissed at everyone else.
 
@@ -1539,7 +1539,7 @@ Status check:
 **Magical Item Properties:**
 
 - Iron circlet ([[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]) - requires Identify spell
-- Magical rope ([[Party Members/ToooAh\|ToooAh]]) - requires Identify spell
+- Magical rope ([[Party Members/Tooo-Ah\|Tooo-Ah]]) - requires Identify spell
 - Founder's Wand ([[Party Members/Elvva Beltavar\|Elvva Beltavar]]) - requires Identify spell, name suggests significance
 - Hide armour ([[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]) - requires Identify spell
 - Are there hidden costs or curses?

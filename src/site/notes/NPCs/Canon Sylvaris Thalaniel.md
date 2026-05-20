@@ -21,17 +21,17 @@ Male elf who appears notably youthful even by elven standards, with sharp emeral
 - **Role:** Custodian of the Cathedral's historical and sacred records
 - **Position:** On the dais with [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]] during service (S36)
 - **Allegiance:** Unknown - proximity to [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]] suggests alignment, but unconfirmed
-- **Note:** [[Party Members/ToooAh\|ToooAh]] expressed interest in accessing the Sacred Archives before her arrest
+- **Note:** [[Party Members/Tooo-Ah\|Tooo-Ah]] expressed interest in accessing the Sacred Archives before her arrest
 
 ### Relationships
 
 - **Stands with:** [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]], [[NPCs/Sister Elowen Maris\|Sister Elowen Maris]]
 - **Cathedral:** Cathedral of Gentle Redemption, [[Locations/Thalas'Miriel\|Thalas'Miriel]]
-- **Interest from:** [[Party Members/ToooAh\|ToooAh]] (wanted to access the Sacred Archives)
+- **Interest from:** [[Party Members/Tooo-Ah\|Tooo-Ah]] (wanted to access the Sacred Archives)
 
 ### Appearances
 
-- **[[Sessions/Session 36 - 21 February 2026\|Session 36 - 21 February 2026]]** - Observed standing on the dais during morning service at the Cathedral of Gentle Redemption. Not heard to speak. [[Party Members/ToooAh\|ToooAh]] noted his role as Keeper of the Sacred Archives and expressed intent to visit before being arrested.
+- **[[Sessions/Session 36 - 21 February 2026\|Session 36 - 21 February 2026]]** - Observed standing on the dais during morning service at the Cathedral of Gentle Redemption. Not heard to speak. [[Party Members/Tooo-Ah\|Tooo-Ah]] noted his role as Keeper of the Sacred Archives and expressed intent to visit before being arrested.
 
 ### Related Quests
 

@@ -177,7 +177,7 @@ Princess suspects [[NPCs/Thalas\|Thalas]] could be one of three people (Session 
     - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: **General of the North** (overall command)
     - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: **General of the Left**
     - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: **General of the Right**
-    - [[Party Members/ToooAh\|ToooAh]]: **Chariot General**
+    - [[Party Members/Tooo-Ah\|Tooo-Ah]]: **Chariot General**
 - Granted **636+ troop reinforcements** (200 archers, 32 knights+squires, 420 footmen)
 - Authorized **war chest access** (treasury spending for northern campaign)
 - Gave symbolic ornate golden sashes to all party members

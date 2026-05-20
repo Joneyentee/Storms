@@ -15,10 +15,10 @@
 
 |Character|Player|Class|Key Info|
 |---|---|---|---|
-|**Ser Tessell Highfrost**|Paul|Life Cleric 6|Knight of Storm Riders, General of the Left, permanent scar, targeted by dormant Bane command (ToooAh), Bane manifested physically through palm (S37), **seraph contact via ember fissure - "Kill them all" (S38)**|
+|**Ser Tessell Highfrost**|Paul|Life Cleric 6|Knight of Storm Riders, General of the Left, permanent scar, targeted by dormant Bane command (Tooo-Ah), Bane manifested physically through palm (S37), **seraph contact via ember fissure - "Kill them all" (S38)**|
 |**Lady Odonia of Galantri**|Annie|Ranger 6|Lady of Sylobelle, Royal Advisor, General of the North, **Warg ability (even/odd control)**, dormant Bane command (kill Co'narr)|
 |**Elik'r Stormswallow**|Kieran|Paladin 6|Age 17, dragonborn, General of the Right, curse active (3 psychic when harming Elvva), missing pinky finger (S34), Mini Steve, **family crest on ancient purple dragonborn statue (S38 - CRITICAL)**|
-|**ToooAh**|Joy|Monk 6|Aarakocra, Chariot General, brews magical teas, adopted Avicia, Horn of Winter Gale (S35), Ring of Intuition (S31); **killed Darius Kain (S38)**|
+|**Tooo-Ah**|Joy|Monk 6|Aarakocra, Chariot General, brews magical teas, adopted Avicia, Horn of Winter Gale (S35), Ring of Intuition (S31); **killed Darius Kain (S38)**|
 |**Elvva Beltavar**|Shannon|Sorc 5/Lock 1|Age 217, drow, main DPS, **CRITICAL Bane corruption (Dragon's Breath now green Bane flame S36)**, Dragon's Tear gem, Wand of Dusk Veil (S36); **teleported to underground chamber by Ember Vein Envoy (S38); full party reunited**|
 
 **Former Member:** Ser Pas Rata (Deceased ~1 month ago)  
@@ -53,7 +53,7 @@
 **Bane Corruption (Progressive):**
 
 - **Elvva:** CRITICAL - **Dragon's Breath now manifesting as green Bane flame (S36)**, corruption spreading beyond arcane spells to innate draconic nature; reflection pattern confirmed S34 (3rd Wisdom fail = full reflection); Dragon's Tear gem
-- **ToooAh:** Dormant command (kill Tessell), **returned from Fizwidget's Winter Realm S35 with Horn of the Winter Gale**
+- **Tooo-Ah:** Dormant command (kill Tessell), **returned from Fizwidget's Winter Realm S35 with Horn of the Winter Gale**
 - **Odonia:** Dormant command (kill Co'narr), **Warg ability (even/odd control mechanic revealed Session 31)**
 - **Patriarch Siegfried:** Dormant command (betray the mole), pure good confirmed (Divine Sense)
 - **Elik'r:** Psychological curse active - 3 psychic damage when harming Elvva, voice: "It's your fault again!"; **seraph contact - received "Release" (S38); family crest on Purple Dragonborn statue**
@@ -77,7 +77,7 @@
 
 - **Crown Princess Eilrora Everglade** - Ruler, Eagle faction, on throne, commissioned party
 - **Eldrin Oakenhart** - Chief Advisor (right hand), survived battle, pure good confirmed
-- **Avicia** - **RIGHTFUL HEIR** (High King's granddaughter via second son), age 12, adopted by ToooAh, identity SECRET, magical prodigy
+- **Avicia** - **RIGHTFUL HEIR** (High King's granddaughter via second son), age 12, adopted by Tooo-Ah, identity SECRET, magical prodigy
 - **Co'narr 'Banewatcher' Hyborian** - Goliath Barbarian 7'8", Bane Watcher, **departed for Nolunia Session 31**, has kitten
 - **Patriarch Siegfried Wildner** - Evocation leader lvl 11+, pure good confirmed, teaching Avicia, knows secret
 - **General Thailander Oakwood** - Commanding palace defense, pure good confirmed
@@ -106,7 +106,7 @@
 
 ### Active Threats (Immediate)
 
-- **Fizwidget Spindleflash** - 2nd intervention complete (S33-34), party escaped Winter Realm, **permanent consequences: ToooAh whereabouts unknown, Liora Emberveil fate unknown**, pattern confirmed (targets during mission-critical travel)
+- **Fizwidget Spindleflash** - 2nd intervention complete (S33-34), party escaped Winter Realm, **permanent consequences: Tooo-Ah whereabouts unknown, Liora Emberveil fate unknown**, pattern confirmed (targets during mission-critical travel)
 - **Elincia Flowers** - TRIPLE IDENTITY REVEALED (Thalas/Lady Alysanne/White Falcon Knight), escaped via fire teleportation, promised "war has only just begun"
 - **Humanoid Wolf Rider** - Confirmed female orc, giant Frost Wolf mount, dual axes; **first direct combat S36**; serves Zorn; warned party "He'll be coming for you all shortly"
 - **Zorn** - **NEW S36**: Name only; implied commander of orc/goblin forces; imminent threat declared by orc rider; identity unknown
@@ -122,7 +122,7 @@
 - **Ser Anfalen** - Former Lord of Sylobelle, stripped of lands, declared for Falcon
 - **High Luminary Aelthir Vaelorian** - **NEW S36**: 482-year-old elf, head of Cathedral of Gentle Redemption, Thalas'Miriel; actively organising Falcon's northern campaign; commands Order of the Silver Lantern
 - **Ember Vein Envoy (unnamed)** - **NEW S38**: Senior [[Organisations/Ember Vein\|Ember Vein]] figure; phasing (immune to physical attacks); animated Purple Dragonborn; addressed party directly; teleported Elvva; restored party to full strength; at large; agenda unknown
-- **Darius Kain** - ~~ACTIVE~~ **DECEASED (S38)** - killed by [[Party Members/ToooAh\|ToooAh]]; confirmed [[Organisations/Ember Vein\|Ember Vein]] Third Vein operative
+- **Darius Kain** - ~~ACTIVE~~ **DECEASED (S38)** - killed by [[Party Members/Tooo-Ah\|Tooo-Ah]]; confirmed [[Organisations/Ember Vein\|Ember Vein]] Third Vein operative
 - Duke Vallandor Firebloom, Baron Roderick Stonewall, Ser Tristan Blackwood (conspirators)
 
 ### Major Threats (Long-term)
@@ -162,7 +162,7 @@
 
 - **Eagle vs Falcon Civil War** - CRITICAL: Kingdom 50/50 split, Elincia escaped, Ser Alvar leading southern army
 - **The Bane** - CRITICAL: Elvva's corruption advanced, Elik'r's curse active combat threat, dormant commands in party, world-ending threat
-- **Avicia's Education Decision** - MEDIUM: ToooAh must choose (Patriarch, party, or Citadel)
+- **Avicia's Education Decision** - MEDIUM: Tooo-Ah must choose (Patriarch, party, or Citadel)
 
 ### COMPLETED (Session 31)
 
@@ -226,7 +226,7 @@
 
 - Avicia is rightful heir (only party + Patriarch + Princess + Eldrin know)
 - Odonia made assassination arrangement with Princess (meta-knowledge - party unaware except Odonia)
-- Dormant Bane commands in ToooAh/Odonia/Patriarch (party aware)
+- Dormant Bane commands in Tooo-Ah/Odonia/Patriarch (party aware)
 - Elvva's corruption CRITICAL (sprite manifestation, overflow risk)
 - **Calen Thorne identity confirmed (S38):** "Brother Calen" is [[NPCs/Calen Thorne\|Calen Thorne]], bastard son of [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]; his mentor knew of the Neverwinter equivalent site; brief green glow observed on him in the underground complex
 - **Elik'r's family crest on ancient statue (S38 - CRITICAL):** The [[NPCs/Purple Dragonborn\|Purple Dragonborn]]'s armour bears Elik'r's family crest; connection to his bloodline entirely unknown
@@ -236,7 +236,7 @@
 
 **KEY RELATIONSHIPS:**
 
-- ToooAh adopted Avicia (enormous stakes, education decision pending)
+- Tooo-Ah adopted Avicia (enormous stakes, education decision pending)
 - Elik'r connected to Purple Dragonborn (calls his name from ancient past)
 - Yavanna had relations with Elik'r (unaware of connection to Alvar)
 - Barry/gnome army seek revenge on Odonia (shot in eye)
@@ -277,8 +277,8 @@
 
 **Military:**
 
-- 732 troops + 1 healer: 200 archers (ToooAh), 16 knights + 16 squires (Elik'r), 500 footmen (Tessell, Elvva & Odonia), Seraphine (healer/apothecary S31)
-- Ranks: Odonia (General of North), Tessell (General of Left), Elik'r (General of Right), ToooAh (Chariot General)
+- 732 troops + 1 healer: 200 archers (Tooo-Ah), 16 knights + 16 squires (Elik'r), 500 footmen (Tessell, Elvva & Odonia), Seraphine (healer/apothecary S31)
+- Ranks: Odonia (General of North), Tessell (General of Left), Elik'r (General of Right), Tooo-Ah (Chariot General)
 - Authority: Promote subordinates, execute traitors, negotiate for Princess
 
 **Financial:**
@@ -310,13 +310,13 @@
 **Utility/Mystery:**
 
 - **Wand of Dusk Veil (Elvva)** - **Session 36** (380 gp, attuned) - 6 charges; Disguise Self (1), Silent Image (1), Darkness (2); Veil Step (cast Darkness, move 10ft without OA)
-- **Ring of Intuition (ToooAh)** - **Session 31** (attuned, confirmed S36) - once per long rest, advantage on Intelligence saves and skill checks
-- **Horn of Winter Gale (ToooAh)** - **Session 35** (won from Fizwidget) - once per long rest, 30ft cone, DC 15 Con, 4d8 cold + prone on fail
+- **Ring of Intuition (Tooo-Ah)** - **Session 31** (attuned, confirmed S36) - once per long rest, advantage on Intelligence saves and skill checks
+- **Horn of Winter Gale (Tooo-Ah)** - **Session 35** (won from Fizwidget) - once per long rest, 30ft cone, DC 15 Con, 4d8 cold + prone on fail
 - Iron Circlet (Tessell) - **Session 27**, properties unknown
 - Permanent Lockpicks (Tessell) - locks anything, cannot unlock
 - Psychic Link Rings (Tessell & Elik'r)
-- Magical Tea Bags (ToooAh) - d100 effects (**NEW TABLE Session 31** - 100 individual effects not paired ranges)
-- Magical Rope (ToooAh) - **Session 27**, properties unknown
+- Magical Tea Bags (Tooo-Ah) - d100 effects (**NEW TABLE Session 31** - 100 individual effects not paired ranges)
+- Magical Rope (Tooo-Ah) - **Session 27**, properties unknown
 - Founder's Wand (Elvva) - **Session 27**, properties unknown
 - **Mini Steve (Elik'r)** - **Session 31** painted rock, parting gift from Co'narr (sentimental, not magical)
 - Hide Armour (Odonia) - **Session 27**, properties unknown
@@ -325,7 +325,7 @@
 
 - Wyvern's diary (Elvva) - death certificates for party (dates blank except Pas Rata's accurate)
 - Balthazar's book of names (Odonia) - many crossed out, party listed
-- Tales of the Lost Princess (ToooAh) - connection to Avicia?
+- Tales of the Lost Princess (Tooo-Ah) - connection to Avicia?
 - Massive iridescent scale (Elik'r) - unknown sea beast
 - Evidence scroll (Elik'r) - handed to Princess Session 26
 
@@ -339,7 +339,7 @@
 ## Homebrew Abilities
 
 - **Odonia's Warg** - **Gained Session 30**, warg into creatures 30ft, **even/odd control mechanic (Session 31)**, shifting tattoo (wolf/eagle/serpent)
-- **ToooAh's Tea** - d100 random effects (**NEW TABLE Session 31**: 100 individual effects, not paired ranges)
+- **Tooo-Ah's Tea** - d100 random effects (**NEW TABLE Session 31**: 100 individual effects, not paired ranges)
 - **Bramble's Pastries** - Random magical effects (Crossroads Inn)
 - **Bane Sense** - All party initiated Session 18, currently unfocused (needs Citadel training)
 
@@ -348,7 +348,7 @@
 ## Key Historical Events
 
 - **Session 1-2 (Early Campaign):** Sea battle, island exploration, **Joneyentee failed climb → Pas Rata blew horn → Bane released** (volcano erupted, dragon flew away), escaped to Canathalas (Joneyentee stayed on ship, Paul switched to Tessell), Canathalas tournament (Tessell won archery with sideways bow, Pas Rata won joust and knighted, Odonia shot gnome in eye), cleared bandit castle (Stormhold Keep acquired via White Falcon quest), Professor Emms quest (doll transformed into Avicia), Ulvenora negotiations (stone supply secured, orc quest completed)
-- **Sessions 3-5:** Canathalas courier and smuggler missions (ToooAh found doll), Sylobelle tournament (Elik'r won archery), Sylobelle attack + castle recon (Professor Emms quest, Ryvenien murdered)
+- **Sessions 3-5:** Canathalas courier and smuggler missions (Tooo-Ah found doll), Sylobelle tournament (Elik'r won archery), Sylobelle attack + castle recon (Professor Emms quest, Ryvenien murdered)
 - **Sessions 6-8:** Castle clearing (Stormhold Keep), portal dungeon, Thalas encounter, Avicia transformation ritual, White Falcon rewards (castle deed), Ulvenora negotiations (stone supply, orc quest)
 - **Sessions 9-14:** Travel to Belendar, Grand Tournament (Tessell won dancing and chariot race despite Emperor Drakenhart cheating with grappling hook - imprisoned, Co'narr surprisingly third in dancing)
 - **Sessions 15-17:** **Elvva joins party** (Shannon's first session), warehouse investigation (hooded figures, four-faction war note, blue/white liveries, coded gate correspondence signed 'B'), riverside shack quest (skeleton with Eagle crest, Elvva poisoned), **four-gate siege of Belendar** (party defended Silverdew Crossing, Balthazar Thornwood wyvern killed by Odonia - city hero)
@@ -364,11 +364,11 @@
 - **Session 31:** Sylobelle murders solved (Earthbound Dire Wolf defeated, earth shrine with Orcish runes discovered), Lady Isolde appointed mayor, Seraphine recruited as healer, Steve mystery resolved (Co'narr's Bane Watcher training), Odonia's Warg control mechanics revealed (even/odd), Humanoid Wolf Rider spotted on ridge, Co'narr departed for Nolunia, party heading east to cathedral town
 - **Session 32:** Encountered Iron Finch Company + Crimson Pike (both hired by Duke Alaric Thorne, heading to Neverwinter), stopped at Crossroads Inn, Elvva won bareknuckle boxing championship (triple Nat 20 streak), Elik'r's curse escalated (20 psychic + Frightened state), accepted Spud Quest, discovered Moth Queen Cavern entrance with "Glory to the Moth Queen" inscription
 - **Session 33:** **CANON SIDE QUEST** - Fizwidget's 2nd intervention (Winter Realm, pattern confirmed), party teleported en route to Moth Queen Cavern, regressed to teenagers, Liora Emberveil appeared (temporary companion), completed winter challenges
-- **Session 34:** Escaped Fizwidget's Winter Realm (ages/equipment restored), ToooAh kept as punishment (whereabouts unknown), Liora Emberveil did not return (fate unknown), defeated Moth Queen (revealed as transformed Oswick Porridgepot), Elvva's Bane corruption reflection pattern confirmed (3rd Wisdom fail = 32 damage), Spud Quest completed, **Elik'r cut off pinky finger drunk-carving potato girlfriend for Steve (Nat 1)**, at Crossroads Inn
-- **Session 35:** ToooAh returned from Fizwidget's Winter Realm with Horn of the Winter Gale (won snowman sculpture competition), Lord Pompaduke the Third joined party (minstrel identity revealed), ambushed by goblin warband led by orc war boss on road to Thalas'Miriel, Elik'r knocked unconscious and revived by Tessell, combat ongoing at session end
-- **Session 36:** Goblin warband defeated; female orc rider on Frost Wolf attacked and warned about "Zorn" (first named); party arrived Thalas'Miriel; tea effects (24 hrs); Lord Pompaduke led worship as "Brother Algrim" (Bane aura from lute); High Luminary Vaelorian announced Neverwinter delegation; Elvva purchased Wand of Dusk Veil; Odonia visited Order smithy; ToooAh arrested stealing from collection basket, detained at Order of Silver Lantern garrison (cliffhanger)
-- **Session 37:** ToooAh rescued; Darius Kain confirmed as cult-aligned High Commander; Ser Alric Vayne (Crown loyalist, former second in command) freed alongside ~8 Silver Lanterns; Calen Thorne (as "Brother Calen") aided infiltration; Clara's cell found empty with bloodstains; The Bane flowed physically from Tessell's palm to activate hidden cult symbol - party entered hidden passage below garrison
-- **Session 38:** Party explored [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]]; identified cult as [[Organisations/Ember Vein\|Ember Vein]] (ancient seraph-containment organisation); [[NPCs/Darius Kain\|Darius Kain]] killed by [[Party Members/ToooAh\|ToooAh]]; [[NPCs/Calen Thorne\|Calen Thorne]] identity confirmed; [[NPCs/Clara\|Clara]] rescued from ritual table; [[Party Members/Elvva Beltavar\|Elvva Beltavar]] teleported in by [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]]; [[NPCs/Purple Dragonborn\|Purple Dragonborn]] animated from ancient statue bearing Elik'r's family crest; boss encounter unresolved (cliffhanger)
+- **Session 34:** Escaped Fizwidget's Winter Realm (ages/equipment restored), Tooo-Ah kept as punishment (whereabouts unknown), Liora Emberveil did not return (fate unknown), defeated Moth Queen (revealed as transformed Oswick Porridgepot), Elvva's Bane corruption reflection pattern confirmed (3rd Wisdom fail = 32 damage), Spud Quest completed, **Elik'r cut off pinky finger drunk-carving potato girlfriend for Steve (Nat 1)**, at Crossroads Inn
+- **Session 35:** Tooo-Ah returned from Fizwidget's Winter Realm with Horn of the Winter Gale (won snowman sculpture competition), Lord Pompaduke the Third joined party (minstrel identity revealed), ambushed by goblin warband led by orc war boss on road to Thalas'Miriel, Elik'r knocked unconscious and revived by Tessell, combat ongoing at session end
+- **Session 36:** Goblin warband defeated; female orc rider on Frost Wolf attacked and warned about "Zorn" (first named); party arrived Thalas'Miriel; tea effects (24 hrs); Lord Pompaduke led worship as "Brother Algrim" (Bane aura from lute); High Luminary Vaelorian announced Neverwinter delegation; Elvva purchased Wand of Dusk Veil; Odonia visited Order smithy; Tooo-Ah arrested stealing from collection basket, detained at Order of Silver Lantern garrison (cliffhanger)
+- **Session 37:** Tooo-Ah rescued; Darius Kain confirmed as cult-aligned High Commander; Ser Alric Vayne (Crown loyalist, former second in command) freed alongside ~8 Silver Lanterns; Calen Thorne (as "Brother Calen") aided infiltration; Clara's cell found empty with bloodstains; The Bane flowed physically from Tessell's palm to activate hidden cult symbol - party entered hidden passage below garrison
+- **Session 38:** Party explored [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]]; identified cult as [[Organisations/Ember Vein\|Ember Vein]] (ancient seraph-containment organisation); [[NPCs/Darius Kain\|Darius Kain]] killed by [[Party Members/Tooo-Ah\|Tooo-Ah]]; [[NPCs/Calen Thorne\|Calen Thorne]] identity confirmed; [[NPCs/Clara\|Clara]] rescued from ritual table; [[Party Members/Elvva Beltavar\|Elvva Beltavar]] teleported in by [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]]; [[NPCs/Purple Dragonborn\|Purple Dragonborn]] animated from ancient statue bearing Elik'r's family crest; boss encounter unresolved (cliffhanger)
 
 ---
 
@@ -376,7 +376,7 @@
 
 **Session 38:**
 
-- Darius Kain (High Commander, Order of the Silver Lantern; [[Organisations/Ember Vein\|Ember Vein]] Third Vein operative; killed by [[Party Members/ToooAh\|ToooAh]])
+- Darius Kain (High Commander, Order of the Silver Lantern; [[Organisations/Ember Vein\|Ember Vein]] Third Vein operative; killed by [[Party Members/Tooo-Ah\|Tooo-Ah]])
 
 **Session 34:**
 
@@ -428,7 +428,7 @@
 - **Tessell Highfrost** (NOT Tess, Tessa, Tessel, Tessle, Tessell Highforth, Tesil, Tesel)
 - **Odonia** (NOT Adonia, Odessia - that's the kingdom, Odona, Adona)
 - **Co'narr 'Banewatcher' Hyborian** (NOT Connor, Konar, Conar, Kar, Conor, Kona)
-- **ToooAh** (three O's - NOT Toa, Tower, Tooa, Towa)
+- **Tooo-Ah** (three O's - NOT Toa, Tower, Tooa, Towa)
 - **Elik'r Stormswallow** (apostrophe after k - NOT Elir, Alex, Alek, Alec, Eli, Alecate, Elicker, Elector, Eleky)
 - **Elvva Beltavar** (two v's - NOT Elvis, Elver, Elva, Elvor, Beltevar)
 - **Liora Emberveil** (NOT Liara, Lira, Ember Veil) - **S33 TEMPORARY**
@@ -484,4 +484,4 @@
 ---
 
 **DM:** Ant  
-**Players:** Paul (Tessell), Annie (Odonia), Kieran (Elik'r), Joy (ToooAh), Shannon (Elvva)
+**Players:** Paul (Tessell), Annie (Odonia), Kieran (Elik'r), Joy (Tooo-Ah), Shannon (Elvva)

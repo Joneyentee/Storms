@@ -13,7 +13,7 @@
 
 ## Description
 
-Elven cathedral town in the forest of Mirel'thiel, central [[Locations/Odessia\|Odessia]], northeast of [[Locations/Stormhold Keep\|Stormhold Keep]]. Religious centre built around the Cathedral of Gentle Redemption, dedicated to Ilmater (old god of healing, suffering, endurance). Dominated by blue/silver Falcon faction banners throughout. Actively hostile to the Crown - leadership confirmed organising military and political support for the Flowers rebellion. Party arrived S36 and are currently operating here under an uneasy, undetected presence. [[Party Members/ToooAh\|ToooAh]] currently detained at the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] garrison.
+Elven cathedral town in the forest of Mirel'thiel, central [[Locations/Odessia\|Odessia]], northeast of [[Locations/Stormhold Keep\|Stormhold Keep]]. Religious centre built around the Cathedral of Gentle Redemption, dedicated to Ilmater (old god of healing, suffering, endurance). Dominated by blue/silver Falcon faction banners throughout. Actively hostile to the Crown - leadership confirmed organising military and political support for the Flowers rebellion. Party arrived S36 and are currently operating here under an uneasy, undetected presence. [[Party Members/Tooo-Ah\|Tooo-Ah]] currently detained at the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] garrison.
 
 ## Geography
 
@@ -33,8 +33,8 @@ Elven cathedral town in the forest of Mirel'thiel, central [[Locations/Odessia\|
 
 ## Key Features
 
-- **[[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]]** - Dedicated to Ilmater; silver-white lantern atop tower visible from forest road; home of the Dawn Choir; site of morning services; [[Party Members/ToooAh\|ToooAh]] arrested here S36
-- **[[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]]** - Knightly order; blue plate armour, lantern crest; own garrison and smithy within town; currently holding [[Party Members/ToooAh\|ToooAh]]
+- **[[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]]** - Dedicated to Ilmater; silver-white lantern atop tower visible from forest road; home of the Dawn Choir; site of morning services; [[Party Members/Tooo-Ah\|Tooo-Ah]] arrested here S36
+- **[[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]]** - Knightly order; blue plate armour, lantern crest; own garrison and smithy within town; currently holding [[Party Members/Tooo-Ah\|Tooo-Ah]]
 - **Magical curio shop** - Unnamed; [[Party Members/Elvva Beltavar\|Elvva Beltavar]] purchased Wand of Dusk Veil here (380 gp); other items browsed (S36)
 - **Monk-run halfway house** - Party's long rest location on arrival (S36); unnamed
 - **Falcon banners** - Blue/silver throughout town; alignment is public and overt
@@ -66,7 +66,7 @@ Long-standing cathedral town. Religious centre for concept of "Gentle Redemption
 
 **Active Complications (S36 cliffhanger):**
 
-- [[Party Members/ToooAh\|ToooAh]] **detained** at [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] garrison after stealing from cathedral collection basket
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] **detained** at [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] garrison after stealing from cathedral collection basket
 - Party must retrieve her without triggering town-wide hostility
 - Delegation to [[Locations/Neverwinter\|Neverwinter]] must be countered before it departs
 
@@ -126,7 +126,7 @@ Long-standing cathedral town. Religious centre for concept of "Gentle Redemption
 
 - [[Sessions/Session 28 - 6 September 2025\|Session 28 - 6 September 2025]] - [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]] briefed party: Cathedral town confirmed siding with rebels ([[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]], Falcon Faction). Located northeast of [[Locations/Stormhold Keep\|Stormhold Keep]] on route to Neverwinter, making it strategic obstacle for Rally the North mission. Party mission order: Investigate after [[Locations/Sylobelle\|Sylobelle]] disappearances resolved.
     
-- [[Sessions/Session 36 - 21 February 2026\|Session 36 - 21 February 2026]] - Party arrived after defeating goblin warband ambush on the road. Long rest at monk-run halfway house. Party split: Elvva visited curio shop (purchased Wand of Dusk Veil, 380 gp); Odonia visited [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] smithy (three magic longswords viewed, all unaffordable); Tessell, Elik'r, ToooAh attended cathedral morning service. [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]] delivered politically charged sermon, called for mobilisation of knights, announced delegation to Neverwinter. [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] led worship as "Brother Algrim." Odonia's Primeval Awareness detected two unknown creature types near the cathedral. [[Party Members/ToooAh\|ToooAh]] attempted to steal from collection basket, was caught, and detained by [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] guards - session cliffhanger.
+- [[Sessions/Session 36 - 21 February 2026\|Session 36 - 21 February 2026]] - Party arrived after defeating goblin warband ambush on the road. Long rest at monk-run halfway house. Party split: Elvva visited curio shop (purchased Wand of Dusk Veil, 380 gp); Odonia visited [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] smithy (three magic longswords viewed, all unaffordable); Tessell, Elik'r, Tooo-Ah attended cathedral morning service. [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]] delivered politically charged sermon, called for mobilisation of knights, announced delegation to Neverwinter. [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] led worship as "Brother Algrim." Odonia's Primeval Awareness detected two unknown creature types near the cathedral. [[Party Members/Tooo-Ah\|Tooo-Ah]] attempted to steal from collection basket, was caught, and detained by [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] guards - session cliffhanger.
     
 
 ## Notes

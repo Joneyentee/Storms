@@ -156,7 +156,7 @@ Former wolf den near [[Locations/Sylobelle\|Sylobelle]] that became site of eart
 
 ## Appearances
 
-- **[[Sessions/Session 31 - 18 October 2025\|Session 31 - 18 October 2025]]** - [[NPCs/Seraphine\|Seraphine]] informed party about cavern as former wolf den. Party investigated before confronting Earthbound Dire Wolf. Found human, elf, and animal bones stripped bare and arranged in wolf shape on floor. Discovered broken shrine with "EARTH" written in glowing red Orcish runes - shrine appeared to be bleeding. [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] cast Mending on shrine to repair it. Upon repair, wolf's howl echoed through cavern. Party exited and confronted Earthbound Dire Wolf in battle outside. After defeating wolf, cavern collapsed and became inaccessible. [[Party Members/ToooAh\|ToooAh]] brewed magical teas before entering (various effects including whisper/yell switch, portal to [[NPCs/Joneyentee the Unknown\|Joneyentee the Unknown]], seeing [[Party Members/ToooAh\|ToooAh]] naked).
+- **[[Sessions/Session 31 - 18 October 2025\|Session 31 - 18 October 2025]]** - [[NPCs/Seraphine\|Seraphine]] informed party about cavern as former wolf den. Party investigated before confronting Earthbound Dire Wolf. Found human, elf, and animal bones stripped bare and arranged in wolf shape on floor. Discovered broken shrine with "EARTH" written in glowing red Orcish runes - shrine appeared to be bleeding. [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] cast Mending on shrine to repair it. Upon repair, wolf's howl echoed through cavern. Party exited and confronted Earthbound Dire Wolf in battle outside. After defeating wolf, cavern collapsed and became inaccessible. [[Party Members/Tooo-Ah\|Tooo-Ah]] brewed magical teas before entering (various effects including whisper/yell switch, portal to [[NPCs/Joneyentee the Unknown\|Joneyentee the Unknown]], seeing [[Party Members/Tooo-Ah\|Tooo-Ah]] naked).
 
 ## Notes
 
@@ -183,7 +183,7 @@ Former wolf den near [[Locations/Sylobelle\|Sylobelle]] that became site of eart
 - Party readied actions as wolf emerged
 - Wolf abilities: Burrow, Earth Spike, Earthen Hand Grab, Earth's Blessing (resistance when bloodied)
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] attempted warg (rolled 3 - partial control, attacked [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]])
-- [[Party Members/ToooAh\|ToooAh]] killed wolf (grabbed tail, slammed into wall)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] killed wolf (grabbed tail, slammed into wall)
 - Green wisp emerged from dying wolf (earth magic leaving body)
 - Wolf's colouration changed from earthen green/brown to standard grey
 - Lost all earth magic upon death

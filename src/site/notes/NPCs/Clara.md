@@ -33,7 +33,7 @@ A 16-year-old human girl and priestess-in-training at the [[Locations/Cathedral 
 
 ### Related Quests
 
-- [[Quests/Quests - Active#Extract ToooAh\|Quests - Active#Extract ToooAh]] (adjacent - her cell discovered during ToooAh's rescue)
+- [[Quests/Quests - Active#Extract Tooo-Ah\|Quests - Active#Extract Tooo-Ah]] (adjacent - her cell discovered during Tooo-Ah's rescue)
 
 ### Related Locations
 

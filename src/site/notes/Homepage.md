@@ -58,7 +58,7 @@ Post-combat, the party looted the chamber (sealed scroll from [[NPCs/Darius Kain
 |[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]|Paul|Life Cleric 6|Knight of Storm Riders, General of the Left; Bane manifested through palm (S37); seraph said "Kill them all" (S38)|
 |[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]|Annie|Ranger 6|Lady of Sylobelle, General of the North, Warg ability|
 |[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]|Kieran|Paladin 6|General of the Right; active curse; missing pinky; **Stormswallow longsword + family banner acquired (S39)**|
-|[[Party Members/ToooAh\|ToooAh]]|Joy|Monk 6|Chariot General, adopted [[NPCs/Avicia\|Avicia]]; killed [[NPCs/Darius Kain\|Darius Kain]] (S38)|
+|[[Party Members/Tooo-Ah\|Tooo-Ah]]|Joy|Monk 6|Chariot General, adopted [[NPCs/Avicia\|Avicia]]; killed [[NPCs/Darius Kain\|Darius Kain]] (S38)|
 |[[Party Members/Elvva Beltavar\|Elvva Beltavar]]|Shannon|Sorc 5/Lock 1|Main DPS, **CRITICAL Bane corruption**; Coin of Fate (S39)|
 
 **Travelling with party:** [[NPCs/Calen Thorne\|Calen Thorne]] (identity confirmed S38; bastard son of [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]; considering Ducal claim S39) · [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] (Crown loyalist Silver Lantern; status post-wyrm unconfirmed S39) **Former Member:** [[Party Members/Ser Pas Rata\|Ser Pas Rata]] (deceased)
@@ -77,7 +77,7 @@ Post-combat, the party looted the chamber (sealed scroll from [[NPCs/Darius Kain
 
 ⚠️ **Neverwinter succession complications** - [[NPCs/Edran Thorne\|Edran Thorne]] (cold, ambitious, effectively in charge); [[NPCs/Marek Thorne\|Marek Thorne]] (returned with mercenary company of unknown origin); unnamed Regent (Professor from abroad) — three power centres to navigate.
 
-⚠️ **Dormant Bane commands** - [[Party Members/ToooAh\|ToooAh]] (kill Tessell), [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (kill Co'narr), [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] (betray the mole).
+⚠️ **Dormant Bane commands** - [[Party Members/Tooo-Ah\|Tooo-Ah]] (kill Tessell), [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (kill Co'narr), [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] (betray the mole).
 
 ⚠️ **Civil war** - Kingdom split 50/50. [[NPCs/Elincia Flowers\|Elincia Flowers]] escaped. [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]] leading southern Falcon army.
 
@@ -99,7 +99,7 @@ Post-combat, the party looted the chamber (sealed scroll from [[NPCs/Darius Kain
 
 **Ongoing:**
 
-- 🔍 **Avicia's Education Decision** - ToooAh must decide her future
+- 🔍 **Avicia's Education Decision** - Tooo-Ah must decide her future
 - 🔍 **Gnome Army Revenge Plot** - [[NPCs/Barry\|Barry]] and his army still tracking party
 - 🔍 **Lord Pompaduke's True Agenda** - confirmed Bane-powered antagonist (S39); goals unknown
 
@@ -123,7 +123,7 @@ Post-combat, the party looted the chamber (sealed scroll from [[NPCs/Darius Kain
 
 ## The Database
 
-**Party:** [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] · [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] · [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] · [[Party Members/ToooAh\|ToooAh]] · [[Party Members/Elvva Beltavar\|Elvva Beltavar]] · [[Party Members/Ser Pas Rata\|Ser Pas Rata]]
+**Party:** [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] · [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] · [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] · [[Party Members/Tooo-Ah\|Tooo-Ah]] · [[Party Members/Elvva Beltavar\|Elvva Beltavar]] · [[Party Members/Ser Pas Rata\|Ser Pas Rata]]
 
 **Reference:** [[General Files/Campaign Reference\|Campaign Reference]] · [[General Files/Memorable Moments\|Memorable Moments]] · [[Quests/Quests - Active\|Quests - Active]] · [[Quests/Quests - Mysteries\|Quests - Mysteries]] · [[General Files/Homebrew\|Homebrew]]
 

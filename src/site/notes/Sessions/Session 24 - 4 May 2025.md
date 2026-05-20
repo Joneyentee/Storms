@@ -19,12 +19,12 @@ Party awakened in underground hideout after [[Sessions/Session 23 - 6 April 2025
 
 **Combat - Underground Tavern:**
 
-- [[Party Members/ToooAh\|ToooAh]] killed two attackers immediately (Dart of Feathers + staff strike, Flurry of Blows)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] killed two attackers immediately (Dart of Feathers + staff strike, Flurry of Blows)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] used Spirit Guardians (15ft radius, 3D8 radiant damage)
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] killed leader with Hex curse - ethereal green hand strangled him
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] provided covering fire from upper level
 - More enemies breached through back door
-- [[Party Members/ToooAh\|ToooAh]] took 22 points damage from multiple hits but party held position
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] took 22 points damage from multiple hits but party held position
 
 ### Royal Family Revelation
 
@@ -64,7 +64,7 @@ Commandeered fishing boat to approach palace from rear:
 
 - Rowed across river successfully (stealth maintained)
 - Climbed palace walls using rope (party struggled with stealth checks)
-- [[Party Members/ToooAh\|ToooAh]] flew up with rope end
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] flew up with rope end
 - Guards initially hostile but convinced party was there to help
 
 ### Palace Rampart Defence
@@ -83,7 +83,7 @@ Arrived at front ramparts to find:
 - Combined archery fire killed approximately 55 enemies approaching with ladders
 - Black Knight pointed at [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]], directing wyvern to attack his position
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] cast Chromatic Orb (96 damage total with [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s arrows)
-- [[Party Members/ToooAh\|ToooAh]] dealt final blow with Scorching Ray (enhanced by green glow)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] dealt final blow with Scorching Ray (enhanced by green glow)
 - First wyvern destroyed - exploded sending gore across ramparts
 - Soldiers gave ragged cheer
 - Two more wyverns approaching party's position
@@ -166,24 +166,24 @@ Arrived at front ramparts to find:
 
 ### Tavern Hideout Defence
 
-**Participants:** [[Party Members/ToooAh\|ToooAh]], [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]], [[Party Members/Elvva Beltavar\|Elvva Beltavar]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
+**Participants:** [[Party Members/Tooo-Ah\|Tooo-Ah]], [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]], [[Party Members/Elvva Beltavar\|Elvva Beltavar]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
 
 **Enemies:** Multiple hooded attackers in orange/blue colours, one heavily armoured leader
 
 **Key Moments:**
 
-- [[Party Members/ToooAh\|ToooAh]] killed two enemies in opening round (Dart of Feathers + staff strike, Flurry of Blows finishing second)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] killed two enemies in opening round (Dart of Feathers + staff strike, Flurry of Blows finishing second)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] activated Spirit Guardians (15ft radius, 3D8 radiant) - multiple enemies died entering aura
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] used Hex with killing blow - ethereal green hand strangled leader
 - Green wisp emerged from body briefly (observed by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]])
-- [[Party Members/ToooAh\|ToooAh]] surrounded by three enemies, took 22 damage from multiple hits but survived
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] surrounded by three enemies, took 22 damage from multiple hits but survived
 - Large barrel blocking attempt failed - barrel immovable/attached
 - More enemies continuing to breach through back door
 
 **Casualties:**
 
 - Multiple attackers killed by party
-- [[Party Members/ToooAh\|ToooAh]] injured (22 damage taken)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] injured (22 damage taken)
 - [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] holding door position injured
 
 ### Palace Ramparts Defence
@@ -204,7 +204,7 @@ Arrived at front ramparts to find:
 - Combined archery killed ~55 ladder-carrying enemies
 - Black Knight pointed at [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]], directing wyvern attack
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Chromatic Orb + [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s arrows dealt 96 damage to wyvern
-- [[Party Members/ToooAh\|ToooAh]]'s Scorching Ray (enhanced by mysterious green glow) destroyed first wyvern
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]'s Scorching Ray (enhanced by mysterious green glow) destroyed first wyvern
 - Wyvern exploded, covering area in gore
 
 **Current Situation:**
@@ -220,7 +220,7 @@ Arrived at front ramparts to find:
 
 ### Injuries & Conditions
 
-**[[Party Members/ToooAh\|ToooAh]]:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]:**
 
 - Took 22 points damage from multiple hits in tavern
 - Current condition: Bloodied but functional
@@ -282,7 +282,7 @@ Arrived at front ramparts to find:
 ---
 ## Memorable Moments
 
-**Session 24** - [[Party Members/ToooAh\|ToooAh]] - Opened session by immediately killing two enemies in first round: landed on attacker with staff strike caving in helmet, followed by Flurry of Blows neck-snapping second enemy. Session 24 kill count: Impressive.
+**Session 24** - [[Party Members/Tooo-Ah\|Tooo-Ah]] - Opened session by immediately killing two enemies in first round: landed on attacker with staff strike caving in helmet, followed by Flurry of Blows neck-snapping second enemy. Session 24 kill count: Impressive.
 
 **Session 24** - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] - Cast Hex curse with dramatic kill - ethereal green hand appeared, strangled heavily-armoured leader, body crumpled as green wisp briefly emerged (observed by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]).
 
@@ -292,9 +292,9 @@ Arrived at front ramparts to find:
 
 **Session 24** - Party (Planning) - Extended debate about how to reach palace: considered horse charges, flying, darkness spells, and flipping tables before settling on "just take a boat."
 
-**Session 24** - [[Party Members/ToooAh\|ToooAh]] - Scorching Ray spell enhanced by mysterious green glow (similar to Bane influence?), destroyed siege wyvern in spectacular explosion of gore covering ramparts.
+**Session 24** - [[Party Members/Tooo-Ah\|Tooo-Ah]] - Scorching Ray spell enhanced by mysterious green glow (similar to Bane influence?), destroyed siege wyvern in spectacular explosion of gore covering ramparts.
 
-**Session 24** - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] & [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] - Guards demanded explanation for climbing palace walls. [[Party Members/ToooAh\|ToooAh]] immediately responded "King's business" prompting guard reply: "The king's dead" creating awkward situation requiring [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] to recover with explanation.
+**Session 24** - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] & [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] - Guards demanded explanation for climbing palace walls. [[Party Members/Tooo-Ah\|Tooo-Ah]] immediately responded "King's business" prompting guard reply: "The king's dead" creating awkward situation requiring [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] to recover with explanation.
 
 **Session 24** - The Party - Successfully infiltrated palace via river boat while major battle raged at front gate. Stealth rolls ranged from 12 to 22 but group succeeded in avoiding detection.
 
@@ -317,7 +317,7 @@ Arrived at front ramparts to find:
 
 - [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]'s condition - can he be saved?
 - [[NPCs/Avicia\|Avicia]]'s safety at tavern hideout - is she truly "the vessel"?
-- Green glow enhancement on [[Party Members/ToooAh\|ToooAh]]'s spell - Bane influence or other power?
+- Green glow enhancement on [[Party Members/Tooo-Ah\|Tooo-Ah]]'s spell - Bane influence or other power?
 - Black Knight's identity - one of four Black Knights, connection to [[NPCs/Thalas\|Thalas]]?
 - Elincia Flowers/White Falcon's current location and plans
 - [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]] and Gwendolyn Lightfoot's locations during assault
@@ -386,7 +386,7 @@ High King Everglade
 ### Green Glow Mystery
 
 - Appeared on [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Hex kill in tavern (green wisp from body)
-- Appeared enhancing [[Party Members/ToooAh\|ToooAh]]'s Scorching Ray on ramparts
+- Appeared enhancing [[Party Members/Tooo-Ah\|Tooo-Ah]]'s Scorching Ray on ramparts
 - Similar to Bane's green colouration but assisting party?
 - May relate to [[Sessions/Session 23 - 6 April 2025\|Session 23]] Bane encounter/resurrection
 - Bears monitoring - could be corruption or unexpected benefit

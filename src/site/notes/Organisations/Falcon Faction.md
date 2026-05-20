@@ -512,7 +512,7 @@
 **Black Knight (Warhammer):**
 
 - Broke through throne room door
-- Attempted to punch ToooAh (stopped mysteriously mid-air)
+- Attempted to punch Tooo-Ah (stopped mysteriously mid-air)
 - Departed in brownish light
 - Different teleportation method again
 

@@ -44,9 +44,9 @@ Monstrous-sized minotaur in full armour, towering over party members. Immortalis
 - **Pursuit duration:** Chased party through six dragon chambers across Session 29
 - **Wall breaking:** Smashed through two walls to cut off escape routes
 - **Combat damage taken:** Approximately 200+ total damage across both phases
-- **Key vulnerabilities:** Acid damage effective ([[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Chromatic Orb), bludgeoning damage ([[Party Members/ToooAh\|ToooAh]]'s unarmed strikes)
-- **Stunning Strike:** Worked in Phase 1 ([[Party Members/ToooAh\|ToooAh]] stunned for one round), failed in Phase 2 (enraged immunity)
-- **Critical hits:** Natural 20 on [[Party Members/ToooAh\|ToooAh]] (22 slashing damage forcing her to 0 HP)
+- **Key vulnerabilities:** Acid damage effective ([[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Chromatic Orb), bludgeoning damage ([[Party Members/Tooo-Ah\|Tooo-Ah]]'s unarmed strikes)
+- **Stunning Strike:** Worked in Phase 1 ([[Party Members/Tooo-Ah\|Tooo-Ah]] stunned for one round), failed in Phase 2 (enraged immunity)
+- **Critical hits:** Natural 20 on [[Party Members/Tooo-Ah\|Tooo-Ah]] (22 slashing damage forcing her to 0 HP)
 
 ### Transformation Trigger
 
@@ -64,7 +64,7 @@ Monstrous-sized minotaur in full armour, towering over party members. Immortalis
 
 - **Killed by:** [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (Phase 1), [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (Phase 2)
 - **Primary target (Phase 2):** [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (enraged focus)
-- **Wounded:** [[Party Members/ToooAh\|ToooAh]] (critical hit, reduced to 0 HP), [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (18 bludgeoning)
+- **Wounded:** [[Party Members/Tooo-Ah\|Tooo-Ah]] (critical hit, reduced to 0 HP), [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (18 bludgeoning)
 - **Crushed:** [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (falling debris when crashed through wall)
 - **Warned about:** Steve (appeared to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] multiple times: "He's here!", "Run quicker!")
 - **Connected statues:** Seraphine of the Bladed Veil, Grulg Stonehide, Vaelrix the Flame-Bound Draconic, Nara the Grave Caller, Tolden Emberfist (five other legendary warriors immortalised in Hall of Statues, remained dormant - only first gem awakened Khorrak)
@@ -73,7 +73,7 @@ Monstrous-sized minotaur in full armour, towering over party members. Immortalis
 
 - **[[Sessions/Session 29 - 20 September 2025\|Session 29 - 20 September 2025]]:** Awakened when party took first gem from SW dragon chamber. Pursued party through labyrinth as they collected six more gems, footsteps growing progressively louder and faster. Smashed through two stone walls to intercept escape routes. Session ended blocking corridor with combat imminent.
     
-- **[[Sessions/Session 30 - 28 September 2025\|Session 30 - 28 September 2025]]:** Combat commenced at session start. Two-phase boss battle with resurrection mechanic after Phase 1 death. Phase 1: Stunned by [[Party Members/ToooAh\|ToooAh]], became bloodied, killed by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s Guiding Bolt. Resurrected in green glow with enraged state targeting [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]. Phase 2: Immune to stunning/frightening, used Legendary Action teleportation, dealt critical hit to [[Party Members/ToooAh\|ToooAh]] reducing her to 0 HP, restrained by [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Earthen Grasp, finally killed by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s Fire Bolt. Body disintegrated into green ooze that disappeared and seeped under rock transforming [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (granting Warg ability).
+- **[[Sessions/Session 30 - 28 September 2025\|Session 30 - 28 September 2025]]:** Combat commenced at session start. Two-phase boss battle with resurrection mechanic after Phase 1 death. Phase 1: Stunned by [[Party Members/Tooo-Ah\|Tooo-Ah]], became bloodied, killed by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s Guiding Bolt. Resurrected in green glow with enraged state targeting [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]. Phase 2: Immune to stunning/frightening, used Legendary Action teleportation, dealt critical hit to [[Party Members/Tooo-Ah\|Tooo-Ah]] reducing her to 0 HP, restrained by [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Earthen Grasp, finally killed by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s Fire Bolt. Body disintegrated into green ooze that disappeared and seeped under rock transforming [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (granting Warg ability).
     
 
 ### Related Quests

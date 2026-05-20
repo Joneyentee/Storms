@@ -54,7 +54,7 @@
 - Demonstrated Archfey/god-level powers:
     - Reality manipulation (created alternate dimension)
     - Time control (pocket watch, freeze time)
-    - Transformations (turned Odonia into duck, removed ToooAh's wings)
+    - Transformations (turned Odonia into duck, removed Tooo-Ah's wings)
     - Teleportation (instant disappearance/reappearance)
     - Pocket dimension creation (carnival realm)
     - Thousands of gnome "family members" in carnival
@@ -297,7 +297,7 @@
 **Transformation:**
 
 - Turned Odonia into duck
-- Removed ToooAh's wings
+- Removed Tooo-Ah's wings
 - Sealed Odonia's mouth (skin over)
 - Size manipulation (miniaturization)
 - Compelled actions (marriage, singing, seduction)
@@ -360,7 +360,7 @@
 **Magical Items Given:**
 
 - Iron Circlet (Tessell)
-- Magical Rope (ToooAh)
+- Magical Rope (Tooo-Ah)
 - Founder's Wand (Elvva)
 - Hide Armour (Odonia)
 - Properties unknown - reward, payment, or trap?

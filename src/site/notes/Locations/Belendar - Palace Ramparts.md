@@ -103,16 +103,16 @@ Ancient fortifications protecting royal palace, predating current conflict. Desi
 - Engaged in wyvern elimination per [[NPCs/General Thailander Oakwood\|General Thailander Oakwood]]'s orders
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] rallied 20 archers with dramatic speech: "It is your God's duty to show you mercy, but it is mine to send you to him"
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] dealt 96 damage with Chromatic Orb to wyvern
-- [[Party Members/ToooAh\|ToooAh]] destroyed first wyvern with enhanced Scorching Ray (green glow)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] destroyed first wyvern with enhanced Scorching Ray (green glow)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] set own cape on fire during Sacred Flame casting
 
 ### Party Actions - Session 25
 
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] **petrified** after Scorching Ray (green glow + trauma vision of burning village)
-- [[Party Members/ToooAh\|ToooAh]] knocked soldier off rampart creating ladder cascade (dislodged two ladders, killed multiple)
-- [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] flame breath + [[Party Members/ToooAh\|ToooAh]]'s boulder killed ~50 soldiers (approximately 25 allied, 25 enemy) - **failed to warn allied troops**
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] knocked soldier off rampart creating ladder cascade (dislodged two ladders, killed multiple)
+- [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] flame breath + [[Party Members/Tooo-Ah\|Tooo-Ah]]'s boulder killed ~50 soldiers (approximately 25 allied, 25 enemy) - **failed to warn allied troops**
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] took 19 piercing damage (arrow to spine area)
-- [[Party Members/ToooAh\|ToooAh]] took 9 piercing damage (arrow whilst flying)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] took 9 piercing damage (arrow whilst flying)
 - Wyvern tail slam shock wave - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] face-planted but recovered with shield roll
 - Party departed for throne room leaving defense to reinforcements
 
@@ -185,7 +185,7 @@ Ancient fortifications protecting royal palace, predating current conflict. Desi
 ## Appearances
 
 - [[Sessions/Session 24 - 4 May 2025\|Session 24 - 4 May 2025]] - Party arrived via river infiltration, engaged in wyvern defense. [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] rallied archers with speech, combined archery killed ~55 ladder-carriers. First wyvern destroyed by party (covered ramparts in gore). Black Knight directed second wyvern toward [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]. Two more wyverns approaching at session end.
-- [[Sessions/Session 25 - 14 June 2025\|Session 25 - 14 June 2025]] - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] petrified after enhanced Scorching Ray (green glow + trauma vision). [[Party Members/ToooAh\|ToooAh]] knocked soldier off rampart (ladder cascade). [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s flame breath killed ~50 soldiers including ~25 allied troops (failed to warn). Combined arrow volley: [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] took 19 damage, [[Party Members/ToooAh\|ToooAh]] took 9 damage. [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] arrived riding elk, destroyed second wyvern with single beam spell. [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] engaged enemy rear. Party departed for throne room. Two wyverns remain active.
+- [[Sessions/Session 25 - 14 June 2025\|Session 25 - 14 June 2025]] - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] petrified after enhanced Scorching Ray (green glow + trauma vision). [[Party Members/Tooo-Ah\|Tooo-Ah]] knocked soldier off rampart (ladder cascade). [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s flame breath killed ~50 soldiers including ~25 allied troops (failed to warn). Combined arrow volley: [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] took 19 damage, [[Party Members/Tooo-Ah\|Tooo-Ah]] took 9 damage. [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] arrived riding elk, destroyed second wyvern with single beam spell. [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] engaged enemy rear. Party departed for throne room. Two wyverns remain active.
 
 ---
 
@@ -215,4 +215,4 @@ Ancient fortifications protecting royal palace, predating current conflict. Desi
 - **Friendly Fire Incident:** ~25 allied casualties from [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s flame breath may affect future palace cooperation and reputation
 - **[[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]'s Power:** Single-spell wyvern destruction suggests significant power level increase post-resurrection (Session 23)
 - **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Petrification:** Green glow on spells + trauma triggers = complete mental shutdown, ongoing Bane influence escalating
-- **Green Glow Enhancement:** Appeared on [[Party Members/ToooAh\|ToooAh]]'s spell (Session 24) and [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s spell (Session 25), unpredictable effects (enhancement vs petrification)
+- **Green Glow Enhancement:** Appeared on [[Party Members/Tooo-Ah\|Tooo-Ah]]'s spell (Session 24) and [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s spell (Session 25), unpredictable effects (enhancement vs petrification)

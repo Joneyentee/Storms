@@ -35,7 +35,7 @@ _For standard D&D 5E rules, see [[General Files/Game Mechanics - Reference\|Game
 |---|---|---|---|
 |[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]|Natural 20|Survived easily|20 hours|
 |[[Party Members/Elvva Beltavar\|Elvva Beltavar]]|20|Survived easily|~6 hours|
-|[[Party Members/ToooAh\|ToooAh]]|15|Survived with difficulty|7 hours|
+|[[Party Members/Tooo-Ah\|Tooo-Ah]]|15|Survived with difficulty|7 hours|
 |[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]|13|Struggled but survived|~6 hours|
 |[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]|Failed|Took 5 damage|4 hours|
 
@@ -137,7 +137,7 @@ _For standard D&D 5E rules, see [[General Files/Game Mechanics - Reference\|Game
 
 **Affected Characters:**
 
-- [[Party Members/ToooAh\|ToooAh]]: "Kill [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]"
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: "Kill [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]"
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: "Kill [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]"
 - [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]: "Betray the mole"
 
@@ -260,7 +260,7 @@ _For standard D&D 5E rules, see [[General Files/Game Mechanics - Reference\|Game
 - Can enhance sword with dragon breath (fire damage)
 - Player: Kieran
 
-**[[Party Members/ToooAh\|ToooAh]]** - Monk
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]** - Monk
 
 - HP: 33 | AC: 18
 - Aarakocra (flight 50ft)

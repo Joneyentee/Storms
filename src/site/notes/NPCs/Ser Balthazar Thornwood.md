@@ -42,7 +42,7 @@ Man who could transform into a wyvern. Killed by [[Organisations/Riders of the S
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Massive iridescent scale from unknown sea beast
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: Book with many names (mostly crossed out), includes party members
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Set of lockpicks (can permanently lock anything, cannot unlock)
-- [[Party Members/ToooAh\|ToooAh]]: Small book "Tales of the Lost Princess" (author unknown)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Small book "Tales of the Lost Princess" (author unknown)
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Diary revealing darkest secrets, death certificates
 
 ---

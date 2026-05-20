@@ -30,7 +30,7 @@ Introduced by Pip and Palla alongside Clausonick. Jack Frost served each party m
 1. **Yeti Fetti Cupcake** (blue-frosted, fluffy sprinkles) - [[Party Members/Liora Emberveil\|Liora Emberveil]] - +10 Strength for 1 hour
 2. **Icicle Éclair of Intense Brain-Freeze** - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] - Disadvantage on Intelligence, 25% wrong cantrip, shouts "DRAGONS ARE VEGETARIANS!" randomly, whispers "You're worth it" to nearest person
 3. **Fruitcake of Eternal Re-gifting** - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] - Must constantly eat reappearing fruitcake or attack nearest person
-4. **Blizzard Bagel** - [[Party Members/ToooAh\|ToooAh]] - Personal snowstorm (+10 Intimidation, -10 Stealth, -5 Dex/Perception, reduced hearing)
+4. **Blizzard Bagel** - [[Party Members/Tooo-Ah\|Tooo-Ah]] - Personal snowstorm (+10 Intimidation, -10 Stealth, -5 Dex/Perception, reduced hearing)
 5. **Pretzel of Polar Pact** - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] - Shoulder polar bear companion (offers advice, needs compliments, cries if ignored)
 6. **Croissant of Perpetual Slippiness** - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] - Disadvantage Acrobatics/Sleight of Hand, slides 10ft extra, constantly drops items
 

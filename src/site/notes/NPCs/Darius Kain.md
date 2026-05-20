@@ -6,7 +6,7 @@
 ---
 
 **Faction:** Antagonist 
-**Status:** Deceased (S38 - killed by [[Party Members/ToooAh\|ToooAh]]) 
+**Status:** Deceased (S38 - killed by [[Party Members/Tooo-Ah\|Tooo-Ah]]) 
 **Race:** Human 
 **Class:** Unknown (military) 
 **Tags:** #npc/antagonist #npc/military #npc/cult-leader #npc/deceased
@@ -40,11 +40,11 @@ High Commander of the [[Organisations/Order of the Silver Lantern\|Order of the 
 ### Appearances
 
 - [[Sessions/Session 37 - 22 March 2026\|Session 37 - 22 March 2026]] - Named and described by [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] and [[NPCs/Brother Calen\|Brother Calen]]; not encountered directly; possibly the brown-and-gold figure observed watching a torture session through the garrison door window
-- [[Sessions/Session 38 - 6 April 2026\|Session 38 - 6 April 2026]] - Encountered directly in the ritual chamber of the [[Organisations/Ember Vein\|Ember Vein]] underground complex; confirmed as [[Organisations/Ember Vein\|Ember Vein]] operative and commander of the corrupted Silver Lanterns; killed by [[Party Members/ToooAh\|ToooAh]] with a two-handed quarterstaff blow to the head
+- [[Sessions/Session 38 - 6 April 2026\|Session 38 - 6 April 2026]] - Encountered directly in the ritual chamber of the [[Organisations/Ember Vein\|Ember Vein]] underground complex; confirmed as [[Organisations/Ember Vein\|Ember Vein]] operative and commander of the corrupted Silver Lanterns; killed by [[Party Members/Tooo-Ah\|Tooo-Ah]] with a two-handed quarterstaff blow to the head
 
 ### Related Quests
 
-- [[Quests/Quests - Active#Extract ToooAh\|Quests - Active#Extract ToooAh]]
+- [[Quests/Quests - Active#Extract Tooo-Ah\|Quests - Active#Extract Tooo-Ah]]
 - [[Quests/Quests - Active#Rally the North\|Quests - Active#Rally the North]]
 
 ### Related Locations

@@ -99,7 +99,7 @@
 ### Party Members
 
 - **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]** - Husky race partner (1st place winners), offered piggyback across frozen lake
-- **[[Party Members/ToooAh\|ToooAh]]** - Snowball tournament teammate (Team 1 victors)
+- **[[Party Members/Tooo-Ah\|Tooo-Ah]]** - Snowball tournament teammate (Team 1 victors)
 - **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]** - Snowball tournament teammate (Team 1 victors)
 - **General Party** - Quickly integrated, accepted without suspicion
 
@@ -179,7 +179,7 @@ Did not participate in Grand Tournament (not present for Sessions 19-21)
 
 **Running Jokes:**
 
-- "Good job team mate" exchange with [[Party Members/ToooAh\|ToooAh]] after snowball victory
+- "Good job team mate" exchange with [[Party Members/Tooo-Ah\|Tooo-Ah]] after snowball victory
 
 ---
 ## Appearances

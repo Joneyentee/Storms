@@ -19,9 +19,9 @@ Party continued defence from [[Sessions/Session 24 - 4 May 2025\|Session 24]]:
 - Spell triggered traumatic flashback - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] **temporarily petrified** mid-combat
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] rolled natural 20 on wisdom save, snapped out of petrification before reaching throne room
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s flame breath killed approximately 25 allied soldiers and enemies
-- [[Party Members/ToooAh\|ToooAh]]'s boulder drop killed additional soldiers (friendly fire)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]'s boulder drop killed additional soldiers (friendly fire)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] rallied archers, took 19 piercing damage from arrow volley
-- [[Party Members/ToooAh\|ToooAh]] took 9 piercing damage from arrows
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] took 9 piercing damage from arrows
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] burned incoming arrows with flame breath
 
 ### Battlefield Assessment
@@ -54,9 +54,9 @@ Party decided to abandon ramparts for throne room:
 
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] used Lay on Hands on [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (25 HP restored)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] cast Prayer of Healing (10 minute ritual)
-- [[Party Members/ToooAh\|ToooAh]] made magical tea - swapped clothing/armour with [[Party Members/Elvva Beltavar\|Elvva Beltavar]] for one hour
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] made magical tea - swapped clothing/armour with [[Party Members/Elvva Beltavar\|Elvva Beltavar]] for one hour
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] cannot take action first combat round (tea effect)
-- [[Party Members/ToooAh\|ToooAh]] attempted to carry temporarily petrified [[Party Members/Elvva Beltavar\|Elvva Beltavar]], but she recovered (natural 20 save) before reaching throne room
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] attempted to carry temporarily petrified [[Party Members/Elvva Beltavar\|Elvva Beltavar]], but she recovered (natural 20 save) before reaching throne room
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] attempted to move but fell (failed acrobatics) - 1 bludgeoning damage
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] successfully rolled through fall
 - Wyvern tail slam created shockwave - both knocked down
@@ -65,7 +65,7 @@ Party decided to abandon ramparts for throne room:
 
 Fighting through castle to throne room:
 
-- [[Party Members/ToooAh\|ToooAh]]: Acrobatics check (15+8=23) - cartwheels, flips, killed two enemies with staff strikes
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Acrobatics check (15+8=23) - cartwheels, flips, killed two enemies with staff strikes
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Athletics check (13) - cleaved through multiple enemies with flaming sword
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Acid Splash killed one enemy
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Cast Guiding Bolt at ally (mistaken identity) - **16 radiant damage to friendly soldier**
@@ -94,7 +94,7 @@ Party burst through double doors:
 **Initiative Order:**
 
 1. [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (19)
-2. [[Party Members/ToooAh\|ToooAh]] (19)
+2. [[Party Members/Tooo-Ah\|Tooo-Ah]] (19)
 3. [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (14)
 4. [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (14) - cannot act first round (tea effect), recovered from temporary petrification
 5. [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (6)
@@ -112,13 +112,13 @@ Party burst through double doors:
 - 11 damage each - both looking bloodied
 - Positioned behind pillar for cover
 
-**[[Party Members/ToooAh\|ToooAh]]:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]:**
 
 - Flew up, launched 3 Dart of Feathers
 - Rolls: 27 hit, 14 hit, 11 missed
 - 6 damage + 7 damage to two soldiers
 - Attempted staff strike on third soldier
-- Enemy grabbed staff, slammed [[Party Members/ToooAh\|ToooAh]] to ground (10 bludgeoning damage)
+- Enemy grabbed staff, slammed [[Party Members/Tooo-Ah\|Tooo-Ah]] to ground (10 bludgeoning damage)
 - Failed Strength save (7) - barely kept footing
 - Spent ki point for Flurry of Blows
 - Rolls: 21 hit, 24 hit
@@ -136,7 +136,7 @@ Party burst through double doors:
 **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]:**
 
 - **Cannot act** (tea effect - first combat round restriction)
-- Wearing [[Party Members/ToooAh\|ToooAh]]'s clothing/armour
+- Wearing [[Party Members/Tooo-Ah\|Tooo-Ah]]'s clothing/armour
 
 **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]:**
 
@@ -153,7 +153,7 @@ Party burst through double doors:
 - Two moved to engage [[Party Members/Elvva Beltavar\|Elvva Beltavar]]
 - First attack: 13 slashing damage ([[Party Members/Elvva Beltavar\|Elvva Beltavar]] looking bloodied)
 - Second attack: Dodged
-- Four surrounded [[Party Members/ToooAh\|ToooAh]]
+- Four surrounded [[Party Members/Tooo-Ah\|Tooo-Ah]]
 - One hit for 8 piercing damage
 - Two engaged [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: All attacks blocked with shield
@@ -181,7 +181,7 @@ Party burst through double doors:
 
 ### Round Two
 
-**[[Party Members/ToooAh\|ToooAh]]:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]:**
 
 - Surrounded by three soldiers (fourth killed)
 - Punched left soldier (19 hit, 6 damage + 5 = 11 total)
@@ -206,7 +206,7 @@ Party burst through double doors:
 
 **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]:**
 
-- Shot bloodied soldier [[Party Members/ToooAh\|ToooAh]] had wounded
+- Shot bloodied soldier [[Party Members/Tooo-Ah\|Tooo-Ah]] had wounded
 - Roll: 17 hit for 10 damage - **killed** (arrow through throat)
 - Shot second bloodied soldier
 - Roll: 19 hit for 10 damage - soldier badly wounded, hanging on
@@ -231,7 +231,7 @@ Party burst through double doors:
 **Additional Soldiers:**
 
 - Moved to engage party members
-- Four attacked [[Party Members/ToooAh\|ToooAh]] before disengage
+- Four attacked [[Party Members/Tooo-Ah\|Tooo-Ah]] before disengage
 - Attacks all missed or blocked
 
 ### Current Battlefield Status (End of Session)
@@ -239,7 +239,7 @@ Party burst through double doors:
 **Party Status:**
 
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Bloodied, disengaged from combat
-- [[Party Members/ToooAh\|ToooAh]]: Moderate damage, flying 15 ft up
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Moderate damage, flying 15 ft up
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Moderate damage, near [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]]
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Light damage, flaming sword active
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: Undamaged, behind pillar
@@ -284,7 +284,7 @@ Party burst through double doors:
 - **[[NPCs/High King Everglade\|High King Everglade]]** - Body on throne, sword through neck (killed [[Sessions/Session 23 - 6 April 2025\|Session 23]])
 - Multiple Royal Guards (bodies throughout throne room)
 - Approximately 25 allied soldiers (killed by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s flame breath - friendly fire)
-- Additional soldiers killed by [[Party Members/ToooAh\|ToooAh]]'s boulder
+- Additional soldiers killed by [[Party Members/Tooo-Ah\|Tooo-Ah]]'s boulder
 - One friendly soldier (16 radiant damage from [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s misfired Guiding Bolt)
 
 ---
@@ -324,14 +324,14 @@ Party burst through double doors:
     - Temporary petrification = new manifestation of Bane corruption (self-resolving with wisdom save)
     - Recovered naturally after natural 20 wisdom save
     - [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] recovered with unexplained power increase
-    - Dormant commands still planted in [[Party Members/ToooAh\|ToooAh]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]
+    - Dormant commands still planted in [[Party Members/Tooo-Ah\|Tooo-Ah]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]
 
 ### New Information
 
 - **Mysterious Skull-Faced Man** - Purple robes, gold cane, skull face visible, watching throne room battle, has not engaged
 - **Unknown Axe Fighter** - Kidnapped [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] previously, massive magical axe, ornate black armour, watching throne room battle, has not engaged
 - **[[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]'s Recovery** - Unexplained return to consciousness with increased power, destroyed wyvern with single beam spell
-- **Friendly Fire Casualties** - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s flame breath killed ~25 allies, [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] hit ally with Guiding Bolt, [[Party Members/ToooAh\|ToooAh]]'s boulder killed soldiers
+- **Friendly Fire Casualties** - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s flame breath killed ~25 allies, [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] hit ally with Guiding Bolt, [[Party Members/Tooo-Ah\|Tooo-Ah]]'s boulder killed soldiers
 - **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Petrification** - New Bane corruption manifestation, triggered by green glow during spell casting
 
 ---
@@ -347,9 +347,9 @@ Party burst through double doors:
 - **Recovered** - rolled natural 20 wisdom save, snapped out easily
 - Duration: Several minutes (ramparts to gatehouse)
 - Currently bloodied (13 slashing damage taken in throne room combat)
-- Wearing [[Party Members/ToooAh\|ToooAh]]'s clothing (tea effect, one hour duration)
+- Wearing [[Party Members/Tooo-Ah\|Tooo-Ah]]'s clothing (tea effect, one hour duration)
 
-**[[Party Members/ToooAh\|ToooAh]]:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]:**
 
 - 19 points damage total (9 piercing arrows, 10 bludgeoning slam)
 - Currently flying 15 ft up
@@ -419,13 +419,13 @@ Session 25 – [[Party Members/Elvva Beltavar\|Elvva Beltavar]] – Cast Aganazz
 
 **Session 25** - [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] - **RECOVERED** from death-like state, riding elk, cast devastating beam spell destroying remaining wyvern completely. Unexplained power increase.
 
-**Session 25** - [[Party Members/ToooAh\|ToooAh]] - Magical tea swapped clothing/armour with [[Party Members/Elvva Beltavar\|Elvva Beltavar]] for one hour, compelled to insult her as "puny eye patch wearing wyvern," prevented from acting first combat round.
+**Session 25** - [[Party Members/Tooo-Ah\|Tooo-Ah]] - Magical tea swapped clothing/armour with [[Party Members/Elvva Beltavar\|Elvva Beltavar]] for one hour, compelled to insult her as "puny eye patch wearing wyvern," prevented from acting first combat round.
 
 **Session 25** - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] - Kicked throne room doors open (Strength 17), fell through dramatically. Later misfired Guiding Bolt at ally, dealing 16 radiant damage to friendly soldier.
 
 **Session 25** - Party (Tactical) - Carried petrified [[Party Members/Elvva Beltavar\|Elvva Beltavar]] through combat zones and castle corridors to throne room rather than abandoning her.
 
-**Session 25** - [[Party Members/ToooAh\|ToooAh]] - Enemy grabbed staff mid-strike, slammed to ground (10 bludgeoning damage), barely kept footing. Recovered with Flurry of Blows kill - staff strike caving helmet and killing soldier.
+**Session 25** - [[Party Members/Tooo-Ah\|Tooo-Ah]] - Enemy grabbed staff mid-strike, slammed to ground (10 bludgeoning damage), barely kept footing. Recovered with Flurry of Blows kill - staff strike caving helmet and killing soldier.
 
 **Session 25** - [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] - Arrived in rage mode with white bandage patches, charging enemy rear with Castle soldier reinforcements.
 
@@ -447,7 +447,7 @@ Session 25 – [[Party Members/Elvva Beltavar\|Elvva Beltavar]] – Cast Aganazz
 - [[NPCs/Thalas\|Thalas]] barely damaged despite party efforts
 - High King's body on throne - sword through neck
 - [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]'s unexplained recovery and power increase
-- Dormant Bane commands in [[Party Members/ToooAh\|ToooAh]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]
+- Dormant Bane commands in [[Party Members/Tooo-Ah\|Tooo-Ah]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]
 - Civil war raging outside throne room
 - Lightning barrier failing, enemy forces pouring in
 

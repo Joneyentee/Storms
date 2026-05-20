@@ -85,10 +85,10 @@ Letter received from steward reporting reconstruction progress:
 ---
 ## Round 1 Results
 
-**[[Party Members/ToooAh\|ToooAh]] vs Lady Sarafina Moonwhisper**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]] vs Lady Sarafina Moonwhisper**
 
-- **Tilt 1:** [[Party Members/ToooAh\|ToooAh]] unhorsed her immediately (5 points)
-- **Result: [[Party Members/ToooAh\|ToooAh]] WINS**
+- **Tilt 1:** [[Party Members/Tooo-Ah\|Tooo-Ah]] unhorsed her immediately (5 points)
+- **Result: [[Party Members/Tooo-Ah\|Tooo-Ah]] WINS**
 
 **[[Party Members/Elvva Beltavar\|Elvva Beltavar]] vs Ser Califor Windrider**
 
@@ -123,11 +123,11 @@ Letter received from steward reporting reconstruction progress:
 ---
 ## Round 2 Results
 
-**[[Party Members/ToooAh\|ToooAh]] vs [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]]**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]] vs [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]]**
 
-- Tilt 2: [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]] hit [[Party Members/ToooAh\|ToooAh]] in head (NAT 20 power) - Constitution save passed
-- **Tilt 3:** [[Party Members/ToooAh\|ToooAh]] unhorsed [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]]
-- **Result: [[Party Members/ToooAh\|ToooAh]] WINS**
+- Tilt 2: [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]] hit [[Party Members/Tooo-Ah\|Tooo-Ah]] in head (NAT 20 power) - Constitution save passed
+- **Tilt 3:** [[Party Members/Tooo-Ah\|Tooo-Ah]] unhorsed [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]]
+- **Result: [[Party Members/Tooo-Ah\|Tooo-Ah]] WINS**
 
 **[[Party Members/Elvva Beltavar\|Elvva Beltavar]] vs [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]]**
 
@@ -156,11 +156,11 @@ Letter received from steward reporting reconstruction progress:
 ---
 ## Round 3 Results
 
-**[[Party Members/ToooAh\|ToooAh]] vs Silverleaf**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]] vs Silverleaf**
 
 - **Tilt 1:** Silverleaf's lance caught wrong elk antler, completely mishandled
-- [[Party Members/ToooAh\|ToooAh]] unhorsed him
-- **Result: [[Party Members/ToooAh\|ToooAh]] WINS - ADVANCES TO SEMIFINALS (DAY 2)**
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] unhorsed him
+- **Result: [[Party Members/Tooo-Ah\|Tooo-Ah]] WINS - ADVANCES TO SEMIFINALS (DAY 2)**
 
 **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] vs [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]]
 
@@ -192,7 +192,7 @@ Letter received from steward reporting reconstruction progress:
 
 **Confirmed Matches:**
 
-1. **[[Party Members/ToooAh\|ToooAh]]** vs **[[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]**
+1. **[[Party Members/Tooo-Ah\|Tooo-Ah]]** vs **[[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]**
 2. **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]** vs **Tharrock**
 
 Plus two NPC matches.
@@ -208,7 +208,7 @@ Plus two NPC matches.
 
 **Tournament:**
 
-- [[Party Members/ToooAh\|ToooAh]] and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] in semifinals
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] in semifinals
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]], [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], [[Party Members/Elvva Beltavar\|Elvva Beltavar]] eliminated respectably
 - [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] revealed as the Eagle Knight to entire tournament
 
@@ -232,7 +232,7 @@ Plus two NPC matches.
 
 **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]** - Defeated the **[[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]]** in jousting after the Princess publicly revealed her identity as the Eagle Knight to the shocked crowd. Immediately dismounted to help the Princess up and walked her off together.
 
-**[[Party Members/ToooAh\|ToooAh]]** - Dominated Round 1 by unhorsing opponent instantly, then advanced through every round, now in semifinals against [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]].
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]** - Dominated Round 1 by unhorsing opponent instantly, then advanced through every round, now in semifinals against [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]].
 
 **[[NPCs/Duke Vallandor Firebloom\|Duke Vallandor Firebloom]]** vs **[[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]** - After Duke led 4-0 hitting [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] in head twice, [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] removed his helmet for Tilt 3 and rolled two natural 20s to absolutely demolish the Duke. Crowd went wild.
 

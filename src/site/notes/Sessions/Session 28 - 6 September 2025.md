@@ -26,7 +26,7 @@ Party assembled with new military forces:
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: General of the North, Lady of [[Locations/Sylobelle\|Sylobelle]]
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: General of the Left, Knight of the Storm Riders
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: General of the Right
-- [[Party Members/ToooAh\|ToooAh]]: Chariot General
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Chariot General
 
 **New Tasks Summary:**
 
@@ -39,7 +39,7 @@ Party assembled with new military forces:
 
 **Group roll for departure:**
 
-- [[Party Members/ToooAh\|ToooAh]]: Athletics 21 - successful flyover of troops
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Athletics 21 - successful flyover of troops
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Cast firebolt for flourish - Natural 1, caught cape on fire, took 1 HP damage (halved, rounded up)
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: 8 - attempted to stand on horse, wobbled, sat back down waving
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Tried to control elk - rolled 5 total, elk moving side to side
@@ -95,13 +95,13 @@ Party assembled with new military forces:
 
 **[[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]]'s Recommendation:** Ser Oldric (solid choice with proven experience)
 
-**[[Party Members/ToooAh\|ToooAh]]'s Suggestion:** Hold local election to see who people want
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Suggestion:** Hold local election to see who people want
 
 **Decision:** Postponed - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] wants to interview all three knights and potentially create trials
 
 ### Evening Activities (Individual Choices)
 
-**[[Party Members/ToooAh\|ToooAh]]:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]:**
 
 - Went hunting (Survival check)
 - Natural 1 (plus 6 = 7)
@@ -138,7 +138,7 @@ Party assembled with new military forces:
 
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: 7
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: 15
-- [[Party Members/ToooAh\|ToooAh]]: 11
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: 11
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: 16
 
 **Effect:**
@@ -236,7 +236,7 @@ Party assembled with new military forces:
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (overall commander)
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]
-- [[Party Members/ToooAh\|ToooAh]]
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]
 - Bob the Whipping Boy (banner carrier for [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]])
 
 **Special Rules:**
@@ -259,7 +259,7 @@ Party assembled with new military forces:
 **Party Troop Assignments:**
 
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: 100 archers
-- [[Party Members/ToooAh\|ToooAh]]: 50 infantry, 4 knights
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: 50 infantry, 4 knights
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: 150 infantry, 4 knights
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Overall command (no specific troops), Bob with banner
 
@@ -273,7 +273,7 @@ Party assembled with new military forces:
 - Bob holding banner
 - Sipping whiskey, watching
 
-**[[Party Members/ToooAh\|ToooAh]]'s Action:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Action:**
 
 - Performance check for rallying speech
 - "Fight well or starve!" (referencing failed mouse hunt)
@@ -312,8 +312,8 @@ Party assembled with new military forces:
 
 1. Ser Oldric the Stalwart
 2. [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (18)
-3. [[Party Members/ToooAh\|ToooAh]] (14)
-4. [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (14 - rolled higher die than [[Party Members/ToooAh\|ToooAh]])
+3. [[Party Members/Tooo-Ah\|Tooo-Ah]] (14)
+4. [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (14 - rolled higher die than [[Party Members/Tooo-Ah\|Tooo-Ah]])
 5. [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]
 6. [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (10)
 
@@ -321,7 +321,7 @@ Party assembled with new military forces:
 
 - Ser Oldric's right flank marched forward
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] moved infantry forward
-- [[Party Members/ToooAh\|ToooAh]] moved forward, rallied troops (gained 1 temporary HP each within radius)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] moved forward, rallied troops (gained 1 temporary HP each within radius)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] used Thaumaturgy (booming voice): "Today we face our equal in number, but never in courage! Show them what heroes can do. Charge!"
 - Effect: Forced nearby units to dash forward (used their actions)
 
@@ -341,7 +341,7 @@ Party assembled with new military forces:
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] had forced her to use action (dash)
 - Could only move 3 squares
 - Complained about lack of action available
-- Moved toward [[Party Members/ToooAh\|ToooAh]]'s position for mutual support
+- Moved toward [[Party Members/Tooo-Ah\|Tooo-Ah]]'s position for mutual support
 
 **Key Tactical Moments Recorded:**
 
@@ -350,7 +350,7 @@ Party assembled with new military forces:
 - Knights took casualties but damaged enemy formation
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s archers attempted volleys (rolled poorly: 5 and 1)
 - Arrows fell short, didn't reach targets
-- [[Party Members/ToooAh\|ToooAh]]'s cavalry charge obliterated section: 22 enemy casualties
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]'s cavalry charge obliterated section: 22 enemy casualties
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] attempted to shove [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (athletics check: 10 vs 22)
 - Bounced off 300lb dragonborn harmlessly
 - Bob hid under [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s cloak
@@ -388,7 +388,7 @@ Party assembled with new military forces:
 
 ### Afternoon Activities (Recreation)
 
-**[[Party Members/ToooAh\|ToooAh]]:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]:**
 
 - Offered to write letter to Avicia ("You'll see her in a week")
 - Decided to go fishing
@@ -411,7 +411,7 @@ Party assembled with new military forces:
 
 - Torn between attuning to circlet or going fishing
 - Chose fishing (for wisdom training)
-- Casually listened to [[Party Members/ToooAh\|ToooAh]] and [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]]'s tactics discussion
+- Casually listened to [[Party Members/Tooo-Ah\|Tooo-Ah]] and [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]]'s tactics discussion
 - "Don't mind me, just looking for Bob"
 - Gained 2 hours toward wisdom training
 
@@ -422,7 +422,7 @@ Party assembled with new military forces:
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: 11
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: 2
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: 19
-- [[Party Members/ToooAh\|ToooAh]]: 17
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: 17
 
 **Vision Trigger:**
 
@@ -463,7 +463,7 @@ Party assembled with new military forces:
 - [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]: "That one's Steve, you'll meet him later"
 - Jumped off ledge (disappeared from view)
 
-**[[Party Members/ToooAh\|ToooAh]]'s Flight Test:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Flight Test:**
 
 - Flew down into chasm
 - Kept flying down indefinitely
@@ -474,7 +474,7 @@ Party assembled with new military forces:
 **Party Confusion:**
 
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: "Why haven't we seen [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] come flying past?"
-- [[Party Members/ToooAh\|ToooAh]] tried throwing mirror off ledge later - disappeared
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] tried throwing mirror off ledge later - disappeared
 - Physics not working normally
 
 **Temple Entrance:**
@@ -494,7 +494,7 @@ Party assembled with new military forces:
 **Journey to Steve:**
 
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] followed [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]
-- [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] and [[Party Members/ToooAh\|ToooAh]] stayed on ledge initially
+- [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] and [[Party Members/Tooo-Ah\|Tooo-Ah]] stayed on ledge initially
 - [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]: "Right then, come meet Steve. Grab on. Just jump!"
 - Swan dived off ledge
 - Others jumped after
@@ -581,27 +581,27 @@ Party assembled with new military forces:
 
 **Party Experiments:**
 
-- [[Party Members/ToooAh\|ToooAh]] tried taking mirrors to portal (no effect)
-- [[Party Members/ToooAh\|ToooAh]] "read" (tore apart) golden mirror with talons
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] tried taking mirrors to portal (no effect)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] "read" (tore apart) golden mirror with talons
 - Shards turned to liquid, flowed back, reformed
 - Tried moving floating candles to portal (no effect)
 - Tried burning wooden door with candles (no effect)
-- [[Party Members/ToooAh\|ToooAh]] attempted to wake up (couldn't)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] attempted to wake up (couldn't)
 
 **Mirror Investigation:**
 
 **Perception Checks:**
 
-- [[Party Members/ToooAh\|ToooAh]]: 19
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: 19
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: 21
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: 19
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: 17
 
 **False Reflections Found:**
 
-- [[Party Members/ToooAh\|ToooAh]]: Mirror showing crimson wings (she has white wings)
-- [[Party Members/ToooAh\|ToooAh]]: Mirror showing Fizwidget Spindleflash on shoulder
-- [[Party Members/ToooAh\|ToooAh]]: Mirror showing her winning fishing championship ([[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] won)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Mirror showing crimson wings (she has white wings)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Mirror showing Fizwidget Spindleflash on shoulder
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Mirror showing her winning fishing championship ([[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] won)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Mirror showing him as commander with Princess as wife
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: First mirror showed him as black dragonborn (he's gold)
 
@@ -642,7 +642,7 @@ Party assembled with new military forces:
 **Recording End:**
 
 - Transcript notes people too tired to continue
-- [[Party Members/ToooAh\|ToooAh]] defended finding mirror solution
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] defended finding mirror solution
 - Session paused with door open
 
 ---
@@ -667,7 +667,7 @@ Party assembled with new military forces:
 
 ### Mentioned
 
-**[[NPCs/Avicia\|Avicia]]** - With [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] in [[Locations/Belendar\|Belendar]] for education (stayed behind during session [[Sessions/Session 27 - 26 July 2025\|Session 27]]), [[Party Members/ToooAh\|ToooAh]] considered writing letter
+**[[NPCs/Avicia\|Avicia]]** - With [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] in [[Locations/Belendar\|Belendar]] for education (stayed behind during session [[Sessions/Session 27 - 26 July 2025\|Session 27]]), [[Party Members/Tooo-Ah\|Tooo-Ah]] considered writing letter
 
 **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s Dog** - Confirmed alive at keep (resolved Fizwidget uncertainty from [[Sessions/Session 27 - 26 July 2025\|Session 27]]), being trained by [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (teaching "release" command)
 
@@ -761,7 +761,7 @@ Party assembled with new military forces:
 **The Bane Influence** - Status: Active (CRITICAL)
 
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Sprite manifestation ([[Sessions/Session 26 - 16 July 2025\|Session 26]]), overflow risk
-- Dormant commands: [[Party Members/ToooAh\|ToooAh]] (kill [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]), [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (kill [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]), [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] (betray the mole)
+- Dormant commands: [[Party Members/Tooo-Ah\|Tooo-Ah]] (kill [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]), [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (kill [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]), [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] (betray the mole)
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Psychological curse ("It's your fault")
 - Citadel visit planned for treatment
 
@@ -787,10 +787,10 @@ Party assembled with new military forces:
 
 **Forces - Party Side:**
 
-- 200 infantry ([[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: 150, [[Party Members/ToooAh\|ToooAh]]: 50)
+- 200 infantry ([[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: 150, [[Party Members/Tooo-Ah\|Tooo-Ah]]: 50)
 - 100 archers ([[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]])
-- 8 knights ([[Party Members/ToooAh\|ToooAh]]: 4, [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: 4)
-- Commanders: [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]], [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[Party Members/ToooAh\|ToooAh]]
+- 8 knights ([[Party Members/Tooo-Ah\|Tooo-Ah]]: 4, [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: 4)
+- Commanders: [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]], [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[Party Members/Tooo-Ah\|Tooo-Ah]]
 
 **Forces - [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]]'s Side:**
 
@@ -812,19 +812,19 @@ Party assembled with new military forces:
 
 1. Ser Oldric (first to act)
 2. [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: 18
-3. [[Party Members/ToooAh\|ToooAh]]: 14
+3. [[Party Members/Tooo-Ah\|Tooo-Ah]]: 14
 4. [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: 14 (higher base die)
 5. [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]
 6. [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: 10
 
 **Notable Actions:**
 
-- [[Party Members/ToooAh\|ToooAh]] rallied troops (1 temporary HP each within radius)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] rallied troops (1 temporary HP each within radius)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] used Thaumaturgy (booming voice): "Show them what heroes can do. Charge!" - forced nearby units to dash
 - [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] formed phalanx (shields locked, weapons protruding)
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s cavalry charge vs phalanx (took casualties, damaged enemy)
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s volleys (rolled 5 and 1 - arrows fell short)
-- [[Party Members/ToooAh\|ToooAh]]'s cavalry charge: 22 enemy casualties (obliterated section)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]'s cavalry charge: 22 enemy casualties (obliterated section)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] attempted shove on [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: 10 vs 22 (bounced off harmlessly)
 
 **Result:**
@@ -856,7 +856,7 @@ Party assembled with new military forces:
 
 - 2 hours toward wisdom training (fishing with [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]] tactics discussion)
 
-**[[Party Members/ToooAh\|ToooAh]]:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]:**
 
 - 2 hours toward intelligence training (battle tactics with [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]])
 
@@ -885,7 +885,7 @@ Party assembled with new military forces:
 
 **Session 28** - **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]** - Cape caught fire during parade flourish (Natural 1), took 1 HP damage, mock battle cavalry charge against phalanx, burped fireball after recovery drink, identified marriage ring (psychic emotional link), caught Bob attempting to spook his steed (Perception Natural 20), bounced [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s shove harmlessly (22 vs 10).
 
-**Session 28** - **[[Party Members/ToooAh\|ToooAh]]** - Flew into tree hunting, returned with only mouse (Natural 1 Survival), "Fight well or starve!" rallying speech, cavalry charge obliterated 22 enemies, tested endless chasm loop by flying (discovered portal mechanics), "read" (tore apart) golden mirror with talons, found true reflection mirror solving puzzle.
+**Session 28** - **[[Party Members/Tooo-Ah\|Tooo-Ah]]** - Flew into tree hunting, returned with only mouse (Natural 1 Survival), "Fight well or starve!" rallying speech, cavalry charge obliterated 22 enemies, tested endless chasm loop by flying (discovered portal mechanics), "read" (tore apart) golden mirror with talons, found true reflection mirror solving puzzle.
 
 **Session 28** - **[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]** - Rode elk poorly during parade (rolled 5, moving side to side), overall commander with no troops (completely exposed in battle), attempted to send Bob to spook [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s steed (caught), booming voice forced units to charge, attempted shove on [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (bounced off harmlessly), Bob hid under his cloak.
 
@@ -955,7 +955,7 @@ Party assembled with new military forces:
 - Should [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] interview all three knights?
 - Create trials to test them?
 - Trust [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]]'s recommendation (Ser Oldric)?
-- Consider [[Party Members/ToooAh\|ToooAh]]'s democratic suggestion?
+- Consider [[Party Members/Tooo-Ah\|Tooo-Ah]]'s democratic suggestion?
 
 **Military Concerns:**
 
@@ -976,7 +976,7 @@ Party assembled with new military forces:
 **Magical Items:**
 
 - Iron circlet ([[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]) - still unidentified
-- Magical rope ([[Party Members/ToooAh\|ToooAh]]) - still unidentified
+- Magical rope ([[Party Members/Tooo-Ah\|Tooo-Ah]]) - still unidentified
 - Founder's Wand ([[Party Members/Elvva Beltavar\|Elvva Beltavar]]) - still unidentified
 - Hide armour ([[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]) - still unidentified
 - When will party identify remaining Fizwidget items?

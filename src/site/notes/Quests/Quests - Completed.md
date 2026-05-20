@@ -20,7 +20,7 @@
 
 - Identity confirmed: direct Stormswallow ancestor; motive confirmed: guardian of the wyrm's seal
 - Longsword (dark iron, ember-red veins; properties unidentified) and family banner (purple dragon bound by chains) now with [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
-- Phase 1 ended by [[Party Members/ToooAh\|ToooAh]]'s magical wing darts (32 damage); Phase 2 ended by [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Lightning Chromatic Orb (49 damage)
+- Phase 1 ended by [[Party Members/Tooo-Ah\|Tooo-Ah]]'s magical wing darts (32 damage); Phase 2 ended by [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Lightning Chromatic Orb (49 damage)
 
 **Loose Ends:**
 
@@ -263,14 +263,14 @@
 **All Party:**
 
 - Marshals of the North (commissioned)
-- Military ranks (Elik'r: General of the Right, ToooAh: Chariot General)
+- Military ranks (Elik'r: General of the Right, Tooo-Ah: Chariot General)
 - Castle deed (Stormhold Keep)
 - Golden sashes (ceremonial)
 
 **Troop Reinforcements:** 712 total
 
 - 200 archers (Elvva)
-- 64 knights+squires (Odonia/ToooAh)
+- 64 knights+squires (Odonia/Tooo-Ah)
 - 420 footmen (Elik'r)
 
 **Resources:**
@@ -295,7 +295,7 @@
 
 **Current Status:** Secret known only to party, Patriarch, Princess, Eldrin. Creates succession crisis if revealed.
 
-**Impact:** Avicia likely "the vessel" from Bane vision. Target for Elincia. ToooAh is adoptive parent.
+**Impact:** Avicia likely "the vessel" from Bane vision. Target for Elincia. Tooo-Ah is adoptive parent.
 
 **Related Active:** [Avicia's Education Decision](Quests - Active.md#avicias-education-decision) | [Eagle vs Falcon War](Quests - Active.md#eagle-vs-falcon-faction-war)
 

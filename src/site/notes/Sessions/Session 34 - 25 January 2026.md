@@ -11,7 +11,7 @@
 ## Key Events
 
 - Party returned from [[Locations/Fizwidget's Winter Realm\|Fizwidget's Winter Realm]] to [[Locations/Moth Queen Cavern\|Moth Queen Cavern]] entrance with all equipment restored
-- **[[Party Members/ToooAh\|ToooAh]] and [[Party Members/Liora Emberveil\|Liora Emberveil]] did not return** - [[Party Members/ToooAh\|ToooAh]] kept in realm as "punishment", [[Party Members/Liora Emberveil\|Liora Emberveil]]'s fate unknown
+- **[[Party Members/Tooo-Ah\|Tooo-Ah]] and [[Party Members/Liora Emberveil\|Liora Emberveil]] did not return** - [[Party Members/Tooo-Ah\|Tooo-Ah]] kept in realm as "punishment", [[Party Members/Liora Emberveil\|Liora Emberveil]]'s fate unknown
 - Explored [[Locations/Moth Queen Cavern\|Moth Queen Cavern]] ("The Cavern of the Fluttering Menace")
 - Discovered itchy dust throughout cavern, flesh-like cocoons (1ft tall, wobbling)
 - Found half-eaten root vegetables/potatoes and rotting animal carcasses in main cavern
@@ -33,7 +33,7 @@
 - **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]** - Present, used Ensnaring Strike and ranged attacks
 - **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]** - Present, melee combat, found oil lamp, **cut off pinky finger drunk-carving potato (Nat 1)**
 - **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]** - Present, Bane corruption triggered during combat
-- **[[Party Members/ToooAh\|ToooAh]]** - **ABSENT** (kept in [[Locations/Fizwidget's Winter Realm\|Fizwidget's Winter Realm]] as punishment)
+- **[[Party Members/Tooo-Ah\|Tooo-Ah]]** - **ABSENT** (kept in [[Locations/Fizwidget's Winter Realm\|Fizwidget's Winter Realm]] as punishment)
 
 **Former Temporary Member:**
 - **[[Party Members/Liora Emberveil\|Liora Emberveil]]** - Did not return from realm, fate unknown
@@ -79,7 +79,7 @@
 
 - **Visit [[Locations/Bane Watcher Citadel\|Bane Watcher Citadel]]** - Status: On Hold (Elvva's corruption and Elik'r's curse remain critical)
 
-- **[[Party Members/ToooAh\|ToooAh]]'s Return** - Status: Pending (DM will provide details at start of Session 35)
+- **[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Return** - Status: Pending (DM will provide details at start of Session 35)
 
 ---
 
@@ -196,7 +196,7 @@
 
 ## Memorable Moments
 
-- **Fizwidget's Selective Return** - [[Party Members/ToooAh\|ToooAh]] kept in realm as "punishment", party appeared at [[Locations/Moth Queen Cavern\|Moth Queen Cavern]] entrance with equipment restored
+- **Fizwidget's Selective Return** - [[Party Members/Tooo-Ah\|Tooo-Ah]] kept in realm as "punishment", party appeared at [[Locations/Moth Queen Cavern\|Moth Queen Cavern]] entrance with equipment restored
 - **Elik'r's Pit Trap** - Stepped into hole, floor disappeared beneath him, grabbed onto rock edge (Dexterity save 24)
 - **Elvva's Concentration** - Held readied Fireball through two moth bites and 15 damage, passed both Constitution saves (19 and 25)
 - **Green Fireball Manifestation** - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s held Fireball erupted bright green when finally cast
@@ -252,7 +252,7 @@
 **Cliffhanger:**
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] and [[Party Members/Elvva Beltavar\|Elvva Beltavar]] thrown into same room together while drunk
 - What happens between them overnight?
-- [[Party Members/ToooAh\|ToooAh]]'s return mechanism (DM will explain at session start)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]'s return mechanism (DM will explain at session start)
 
 **To Investigate:**
 - How was [[NPCs/Oswick Porridgepot\|Oswick Porridgepot]] transformed into the Moth Queen? (Bane influence suspected)

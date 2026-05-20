@@ -57,7 +57,7 @@ Long-established cathedral dedicated to Ilmater - an old god associated with hea
 
 Under [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]]'s leadership, the cathedral is actively mobilising [[Locations/Thalas'Miriel\|Thalas'Miriel]]'s knights and organising a delegation to [[Locations/Neverwinter\|Neverwinter]] to persuade [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] to declare for the Falcon faction. This delegation represents a direct counter to the party's Rally the North mission and must be stopped before it departs.
 
-[[Party Members/ToooAh\|ToooAh]] was arrested here in S36 for attempting to steal from the collection basket, and was escorted to the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] garrison - session cliffhanger.
+[[Party Members/Tooo-Ah\|Tooo-Ah]] was arrested here in S36 for attempting to steal from the collection basket, and was escorted to the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] garrison - session cliffhanger.
 
 [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s Primeval Awareness detected two creature types from the standard list present near the cathedral during the service. Their identities are unknown.
 
@@ -115,7 +115,7 @@ Under [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]]'
 
 ### Appearances
 
-- [[Sessions/Session 36 - 21 February 2026\|Session 36 - 21 February 2026]] - Party attended morning service. [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] led worship as "Brother Algrim"; green Bane aura visible from his lute. [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]] delivered political sermon calling for mobilisation and announcing delegation to Neverwinter. [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] detected two creature types via Primeval Awareness. [[Party Members/ToooAh\|ToooAh]] attempted to steal from collection basket, caught (Sleight of Hand 12, Deception 9), arrested by guards, and escorted to [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] garrison.
+- [[Sessions/Session 36 - 21 February 2026\|Session 36 - 21 February 2026]] - Party attended morning service. [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] led worship as "Brother Algrim"; green Bane aura visible from his lute. [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]] delivered political sermon calling for mobilisation and announcing delegation to Neverwinter. [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] detected two creature types via Primeval Awareness. [[Party Members/Tooo-Ah\|Tooo-Ah]] attempted to steal from collection basket, caught (Sleight of Hand 12, Deception 9), arrested by guards, and escorted to [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] garrison.
 
 ---
 
@@ -124,4 +124,4 @@ Under [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]]'
 - The contradiction between Ilmater worship (healing, endurance, mercy) and active political militancy is unexplained and may be significant
 - [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]'s "Brother Algrim" identity here is deeply suspicious - his Bane aura and relationship with Vaelorian are unresolved mysteries
 - Party has not been identified as enemies; cover intact as of S36 end
-- Sacred Archives may hold historically or politically significant material - [[Party Members/ToooAh\|ToooAh]] had expressed intent to request access before her arrest
+- Sacred Archives may hold historically or politically significant material - [[Party Members/Tooo-Ah\|Tooo-Ah]] had expressed intent to request access before her arrest

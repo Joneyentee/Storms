@@ -18,7 +18,7 @@
 
 **Current Objectives:**
 
-- [x] ~~FREE TOOOAH from Order of the Silver Lantern garrison~~ (S37 - rescued)
+- [x] ~~FREE Tooo-Ah from Order of the Silver Lantern garrison~~ (S37 - rescued)
 - [x] ~~ESCAPE hidden passage~~ (S38 - party advanced through into Ember Vein Underground Complex)
 - [x] ~~Retrieve [[Party Members/Elvva Beltavar\|Elvva Beltavar]]~~ (S38 - teleported directly to party by [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]])
 - [x] ~~Resolve boss encounter with [[NPCs/Purple Dragonborn\|Purple Dragonborn]]~~ (S39 - defeated; confirmed Stormswallow ancestor; DECEASED)
@@ -43,7 +43,7 @@
 
 **Session 38 Intelligence - Thalas'Miriel:**
 
-- [[NPCs/Darius Kain\|Darius Kain]] confirmed [[Organisations/Ember Vein\|Ember Vein]] operative (Ash Protocol authorised); killed by [[Party Members/ToooAh\|ToooAh]] in ritual chamber
+- [[NPCs/Darius Kain\|Darius Kain]] confirmed [[Organisations/Ember Vein\|Ember Vein]] operative (Ash Protocol authorised); killed by [[Party Members/Tooo-Ah\|Tooo-Ah]] in ritual chamber
 - [[Organisations/Ember Vein\|Ember Vein]] cult identified - ancient organisation maintaining the slumber of an entity called the seraph via subterranean ember fissures; did not seek to wake it; [[NPCs/Darius Kain\|Darius Kain]] was tasked with silencing outsiders interfering with the western fissure
 - [[NPCs/Calen Thorne\|Calen Thorne]] identity confirmed = [[NPCs/Brother Calen\|Brother Calen]] (alias); his mentor found a near-identical site in chasms beneath [[Locations/Neverwinter\|Neverwinter]]; brief unexplained green glow observed on him after passing through draconic archway
 - [[NPCs/Clara\|Clara]] found alive in ritual chamber; rescued from ritual table by [[NPCs/Calen Thorne\|Calen Thorne]]; status uncertain at session end
@@ -54,7 +54,7 @@
 
 **Session 37 Intelligence - Thalas'Miriel:**
 
-- [[Party Members/ToooAh\|ToooAh]] rescued; [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] freed alongside approximately 8 imprisoned Silver Lanterns; safehouse location shared for surviving loyalists
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] rescued; [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] freed alongside approximately 8 imprisoned Silver Lanterns; safehouse location shared for surviving loyalists
 - Green cult symbol on garrison wall activated exclusively by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] via [[NPCs/The Bane\|The Bane]] - party entered [[Locations/Silver Lantern Garrison - Hidden Passage\|Silver Lantern Garrison - Hidden Passage]]
 - Garrison reinforcements fully alerted (S37); man in torture room locked inside by permanent lockpicks
 
@@ -78,7 +78,7 @@
 
 **Resources:**
 
-- 732 troops + 1 healer (Seraphine): 200 archers (ToooAh), 16 knights + 16 squires (Elik'r), 500 footmen (Elvva, Odonia & Tessell)
+- 732 troops + 1 healer (Seraphine): 200 archers (Tooo-Ah), 16 knights + 16 squires (Elik'r), 500 footmen (Elvva, Odonia & Tessell)
 - War chest (royal treasury access, approval needed for large expenses)
 - Authority to promote, execute traitors, negotiate for Princess
 
@@ -87,7 +87,7 @@
 - Odonia: General of the North
 - Tessell: General of the Left
 - Elik'r: General of the Right
-- ToooAh: Chariot General
+- Tooo-Ah: Chariot General
 
 **Complications:**
 
@@ -151,7 +151,7 @@
 - [ ] Address Elvva's advanced corruption (sprite manifestation, overflow risk)
 - [ ] **Treat Elik'r's psychological curse** (triggered Session 30, active combat threat)
 - [ ] Learn to control Bane Sense (currently overwhelming)
-- [ ] Remove dormant commands (ToooAh, Odonia, Patriarch)
+- [ ] Remove dormant commands (Tooo-Ah, Odonia, Patriarch)
 - [ ] Understand green glow phenomenon
 - [ ] Prevent corruption overflow
 - [ ] **Examine Dragon's Tear gem** (Elvva possesses, unknown properties/Bane connection)
@@ -243,13 +243,13 @@
 - **Elik'r:** Psychological curse **TRIGGERED in combat** - friendly fire on Elvva caused voice "It's your fault again!" with severe headache and 3 psychic damage (demonstrates active combat threat)
 - **Odonia:** Warg ability gained from Khorrak's green ooze transformation (connection to Bane unclear)
 - **Co'narr:** Present corruption (sprite manifestation)
-- **Dormant Commands:** ToooAh ("Kill Tessell"), Odonia ("Kill Co'narr"), Patriarch ("Betray the mole")
+- **Dormant Commands:** Tooo-Ah ("Kill Tessell"), Odonia ("Kill Co'narr"), Patriarch ("Betray the mole")
 
 **Co'narr's Knowledge:** Bane is "the earth itself" (living entity). Can shorten lifespan. Can overflow and take over host. Sprites = normal manifestation.
 
 **Green Glow/Ooze Pattern:**
 
-- Enhanced ToooAh's Scorching Ray (Session 24)
+- Enhanced Tooo-Ah's Scorching Ray (Session 24)
 - Triggered Elvva's temporary petrification (Session 25)
 - Connection to skeletal soldier's green light departure? (Session 26)
 - **Khorrak's green ooze** (Session 30 - disintegrated into green liquid, seeped under rock transforming Odonia)
@@ -279,7 +279,7 @@
 
 **MEDIUM** | [[Locations/Belendar\|Belendar]] with Patriarch
 
-**Decision:** ToooAh must choose where Avicia continues education.
+**Decision:** Tooo-Ah must choose where Avicia continues education.
 
 **Options:**
 
@@ -288,12 +288,12 @@
 - ✅ Natural talent "in her blood" (rivals Princess)
 - ✅ Skilled teacher (Evocation leader lvl 11+)
 - ✅ Safer than war zone
-- ❌ Separated from ToooAh
+- ❌ Separated from Tooo-Ah
 - ❌ Secret vulnerable (Princess/Patriarch know)
 
 **Return to Castle with Party:**
 
-- ✅ ToooAh can protect personally
+- ✅ Tooo-Ah can protect personally
 - ✅ Party ensures safety
 - ❌ War zone dangerous
 - ❌ No formal magical training
@@ -304,7 +304,7 @@
 - ✅ Party visiting anyway (urgent Citadel mission)
 - ✅ Hidden from both factions
 - ❌ Unknown if they teach children
-- ❌ Still separated from ToooAh
+- ❌ Still separated from Tooo-Ah
 
 **Critical Factor:** Avicia is rightful heir (secret). Likely "the vessel" from Bane vision. Elincia failed to retrieve her.
 

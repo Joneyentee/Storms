@@ -12,7 +12,7 @@
 
 **Session 39 - Sixteen Points of Damage** - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] cast Mass Healing Word on the bloodied party and announced each person could have _"sixteen points of damage"_; the DM let the silence stretch before responding: _"Finally — I hit everybody!"_
 
-**Session 39 - I Will Protect Him** - [[Party Members/ToooAh\|ToooAh]] delivered a speech declaring she owed [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] a debt and would protect him with her life, then immediately spent her ki point to disengage and retreated four squares from the fight.
+**Session 39 - I Will Protect Him** - [[Party Members/Tooo-Ah\|Tooo-Ah]] delivered a speech declaring she owed [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] a debt and would protect him with her life, then immediately spent her ki point to disengage and retreated four squares from the fight.
 
 ---
 #### Session 38
@@ -21,7 +21,7 @@
 
 **Session 38 - The Family Crest** - When the illusion hiding the back wall of the ritual chamber fell away, every party member saw an ancient armoured dragonborn statue - but only [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] recognised the family crest on its clasp.
 
-**Session 38 - Soothing Melody** - [[Party Members/ToooAh\|ToooAh]] played her flute to calm [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] as he recovered from 16 points of psychic damage received while touching a Bane fissure; a Performance check of 2 confirmed it was off-key, too loud, and echoing down the stone corridors of a cultist lair.
+**Session 38 - Soothing Melody** - [[Party Members/Tooo-Ah\|Tooo-Ah]] played her flute to calm [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] as he recovered from 16 points of psychic damage received while touching a Bane fissure; a Performance check of 2 confirmed it was off-key, too loud, and echoing down the stone corridors of a cultist lair.
 
 **Session 38 - Friendly Fire** - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] repositioned to get a clear shot at [[NPCs/Darius Kain\|Darius Kain]] and buried her first arrow squarely in [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s shoulder instead; her second shot hit the ceiling.
 
@@ -34,7 +34,7 @@
 
 **Session 37 - The Bane Answers** - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] pressed his hand to a glowing green symbol on the garrison wall and [[NPCs/The Bane\|The Bane]] flowed from his palm into the stonework, sealing the party inside a hidden passage that only he could open.
 
-**Session 37 - The Swallow Brigade** - [[Party Members/ToooAh\|ToooAh]] introduced the party to the second-in-command of the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] as _"The Swallow Brigade"_ before immediately correcting herself; [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] requested that he be allowed to leave.
+**Session 37 - The Swallow Brigade** - [[Party Members/Tooo-Ah\|Tooo-Ah]] introduced the party to the second-in-command of the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] as _"The Swallow Brigade"_ before immediately correcting herself; [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] requested that he be allowed to leave.
 
 ---
 #### Session 36
@@ -45,11 +45,11 @@ Session 36 – **Zorn** – The Humanoid Wolf Rider (spotted twice before but ne
 
 Session 36 – **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Blind Nat 20** – Threw a dagger backwards over her shoulder without looking to pass it to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], missed his hands entirely, and watched it sail on to embed itself in a goblin's face instead.
 
-Session 36 – **[[Party Members/ToooAh\|ToooAh]] Arrested in a Cathedral** – Attempted to steal from the collection basket mid-service, failed both Sleight of Hand and Deception, had guards called on her by the entire congregation, and was physically lifted and escorted to the garrison to end the session.
+Session 36 – **[[Party Members/Tooo-Ah\|Tooo-Ah]] Arrested in a Cathedral** – Attempted to steal from the collection basket mid-service, failed both Sleight of Hand and Deception, had guards called on her by the entire congregation, and was physically lifted and escorted to the garrison to end the session.
 
 Session 36 – **[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s Mounted Archery** – Leapt dramatically onto his elk during a wolf-rider pursuit, fired multiple crossbow shots from horseback, and was only informed afterwards that his elk had been tied to the cart the entire time.
 
-Session 36 – **Elvva's Spoon Hands** – After drinking [[Party Members/ToooAh\|ToooAh]]'s morning tea, became utterly convinced her hands and feet had been replaced with wooden spoons for the next 24 hours.
+Session 36 – **Elvva's Spoon Hands** – After drinking [[Party Members/Tooo-Ah\|Tooo-Ah]]'s morning tea, became utterly convinced her hands and feet had been replaced with wooden spoons for the next 24 hours.
 
 ---
 #### Session 35
@@ -58,7 +58,7 @@ Session 35 – **Lord Pompaduke the Third Joins** – Theatrical bard jumped fro
 
 Session 35 – **Banjo Man** – Party nicknamed [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] "Banjo Man" and "Pompous Banjo Man," with [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] imagining him as gangster DJ with feather cap turned backwards when rapping as "Lord Pompa-Duke."
 
-Session 35 – **DM's Natural 20 Streak** – DM rolled multiple Natural 20s during combat including critical javelin hit on [[Party Members/ToooAh\|ToooAh]] and goblin backstab on [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (18 damage), prompting party to demand his dice tray be taken away.
+Session 35 – **DM's Natural 20 Streak** – DM rolled multiple Natural 20s during combat including critical javelin hit on [[Party Members/Tooo-Ah\|Tooo-Ah]] and goblin backstab on [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (18 damage), prompting party to demand his dice tray be taken away.
 
 ---
 #### Session 34
@@ -88,7 +88,7 @@ Session 33 – **Jack Frost's Magical Pastries** – The Frost Baker served magi
 
 Session 33 – **Husky Sled Race Victory** – [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] and [[Party Members/Liora Emberveil\|Liora Emberveil]] won the 10th Annual Husky Games after their sled caught fire from [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s Firebolt, crossing the finish line whilst [[Party Members/Liora Emberveil\|Liora Emberveil]] simultaneously lobbed snowballs at pursuers and tried to extinguish the flames.
 
-Session 33 – **[[Party Members/ToooAh\|ToooAh]]'s Lake Kick** – Cartwheeled across frozen lake and accidentally kicked [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] in the back of the head mid-cartwheel, dealing 4 damage and causing him to face-plant the ice creating a crack.
+Session 33 – **[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Lake Kick** – Cartwheeled across frozen lake and accidentally kicked [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] in the back of the head mid-cartwheel, dealing 4 damage and causing him to face-plant the ice creating a crack.
 
 Session 33 – **[[Party Members/Liora Emberveil\|Liora Emberveil]]'s Ice Skating Superiority** – Had panic attack with wild Eldritch Blast shooting everywhere, cast Misty Step to escape [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s attempted slap, then smoothly ice-skated past struggling [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] with just a silent look (rolled even/10).
 
@@ -103,7 +103,7 @@ Session 33 – **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s Ne
 ---
 #### Session 32
 
-Session 32 – **[[NPCs/Captain Mara Veylan\|Captain Mara Veylan]]'s Bird Question** – Asked [[Party Members/ToooAh\|ToooAh]] "What kind of bird are you? Birds are lucky!" breaking the ice with [[Organisations/Iron Finch Company\|Iron Finch Company]] and establishing camaraderie on the road to [[Locations/Crossroads Inn\|Crossroads Inn]].
+Session 32 – **[[NPCs/Captain Mara Veylan\|Captain Mara Veylan]]'s Bird Question** – Asked [[Party Members/Tooo-Ah\|Tooo-Ah]] "What kind of bird are you? Birds are lucky!" breaking the ice with [[Organisations/Iron Finch Company\|Iron Finch Company]] and establishing camaraderie on the road to [[Locations/Crossroads Inn\|Crossroads Inn]].
 
 Session 32 – **[[NPCs/Captain Rhyla Garron\|Captain Rhyla Garron]]'s Arm Wrestling Challenge** – Ignored [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s formal introduction as "leader of the [[Organisations/Riders of the Storm\|Riders of the Storm]]" and instead silently offered her arm for an arm wrestle, which [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] eventually won through lucky rolls before she introduced herself as "Red Viper" of [[Organisations/Crimson Pike\|Crimson Pike]].
 
@@ -115,11 +115,11 @@ Session 32 – **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Elbow Reveng
 
 Session 32 – **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Triple Natural 20 Streak** – Rolled three Natural 20s across two boxing matches (two against [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], one against [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]), statistically 0.125% chance, winning entire bareknuckle tournament undefeated.
 
-Session 32 – **[[Party Members/ToooAh\|ToooAh]]'s Card Game Disaster** – Rolled Natural 1 Perception trying to learn card game rules, then sat down to play despite knowing nothing about how to play and lost very quickly.
+Session 32 – **[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Card Game Disaster** – Rolled Natural 1 Perception trying to learn card game rules, then sat down to play despite knowing nothing about how to play and lost very quickly.
 
 Session 32 – **[[NPCs/Bramble Porridgepot\|Bramble Porridgepot]]'s Pastry Warning** – Announced magical trial pastries with cheerful warning "I made these as trial and some may explode!" before distributing plates to every table resulting in chaos throughout tavern.
 
-Session 32 – **The Pastry Chaos** – [[Party Members/ToooAh\|ToooAh]] forced to sing everything for an hour, [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] became translucent and squeaked like rubber toy, [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s spells emit tiny choir "ahhh," [[Party Members/Elvva Beltavar\|Elvva Beltavar]] gained sassy defiant Mage Hand, and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] exploded in jam and cream with disadvantage on Charisma checks.
+Session 32 – **The Pastry Chaos** – [[Party Members/Tooo-Ah\|Tooo-Ah]] forced to sing everything for an hour, [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] became translucent and squeaked like rubber toy, [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s spells emit tiny choir "ahhh," [[Party Members/Elvva Beltavar\|Elvva Beltavar]] gained sassy defiant Mage Hand, and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] exploded in jam and cream with disadvantage on Charisma checks.
 
 Session 32 – **"Glory to the Moth Queen"** – After investigating failing potato crops with insect-sized bites and following trail of potato pieces to cavern entrance, party discovered ominous message etched above: "Glory to the Moth Queen."
 
@@ -130,11 +130,11 @@ Session 31 – **[[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hy
 
 Session 31 – **Mini Steve Gift** – [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] threw [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] a rock with a painted face on it before departing for [[Locations/Nolunia\|Nolunia]], creating "Mini Steve" as a permanent backpack companion.
 
-Session 31 – **[[Party Members/ToooAh\|ToooAh]]'s Tea Portal to [[NPCs/Joneyentee the Unknown\|Joneyentee the Unknown]]** – Rolled 43 on magical tea creating a black portal 10m ahead, stepped through into a dark library room where [[NPCs/Joneyentee the Unknown\|Joneyentee the Unknown]] the wizard was "researching," and was instantly ejected with d6 psychic damage.
+Session 31 – **[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Tea Portal to [[NPCs/Joneyentee the Unknown\|Joneyentee the Unknown]]** – Rolled 43 on magical tea creating a black portal 10m ahead, stepped through into a dark library room where [[NPCs/Joneyentee the Unknown\|Joneyentee the Unknown]] the wizard was "researching," and was instantly ejected with d6 psychic damage.
 
-Session 31 – **[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] Sees [[Party Members/ToooAh\|ToooAh]] Naked** – Rolled 69 on magical tea and chose [[Party Members/ToooAh\|ToooAh]] as target, spending the next hour seeing her completely naked during the entire cave investigation and combat.
+Session 31 – **[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] Sees [[Party Members/Tooo-Ah\|Tooo-Ah]] Naked** – Rolled 69 on magical tea and chose [[Party Members/Tooo-Ah\|Tooo-Ah]] as target, spending the next hour seeing her completely naked during the entire cave investigation and combat.
 
-Session 31 – **[[Party Members/ToooAh\|ToooAh]]'s Whisper-Yell Switch** – Rolled 15 on magical tea causing whispers and shouts to switch for one hour, making her yell when trying to whisper and whisper when trying to yell.
+Session 31 – **[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Whisper-Yell Switch** – Rolled 15 on magical tea causing whispers and shouts to switch for one hour, making her yell when trying to whisper and whisper when trying to yell.
 
 Session 31 – **Bone Wolf Ritual Discovery** – Found human, elf, and animal bones in [[Locations/Stonereach Cavern\|Stonereach Cavern]] stripped bare and deliberately arranged in the shape of a wolf, with a broken shrine bleeding and inscribed with "EARTH" in glowing red Orcish runes.
 
@@ -142,7 +142,7 @@ Session 31 – **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s Me
 
 Session 31 – **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s First Combat Warg Failure** – Attempted to warg into the Earthbound Dire Wolf to help the party but rolled 3 (odd number) on grey die, successfully warging but retaining the wolf's hostile instincts and being compelled to attack [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] with Earth Spikes for 15 damage.
 
-Session 31 – **[[Party Members/ToooAh\|ToooAh]]'s Tail Slam Kill** – Described killing blow by grabbing the Earthbound Dire Wolf by its tail as it tried to burrow away and slamming it against the cavern wall, ending the earth-corrupted threat.
+Session 31 – **[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Tail Slam Kill** – Described killing blow by grabbing the Earthbound Dire Wolf by its tail as it tried to burrow away and slamming it against the cavern wall, ending the earth-corrupted threat.
 
 Session 31 – **Mysterious Wolf Rider Watching** – [[Party Members/Elvva Beltavar\|Elvva Beltavar]] spotted a huge wolf with a humanoid rider on a distant mountain ridge who had been watching the entire battle from afar, then turned and disappeared when noticed.
 
@@ -152,7 +152,7 @@ Session 31 – **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s Wi
 
 Session 31 – **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s Drunk Bull's-Eye** – Despite being drunk and wobbling, spun around whilst falling over and somehow threw her final dart into the bull's-eye (rolled Natural 1 on d4 which became her friend), finishing fourth place overall.
 
-Session 31 – **[[Party Members/ToooAh\|ToooAh]]'s Village Betting Crisis** – Tried to bet 10 gold on herself in the darts game at a recently-raided poor farming village, barkeeper couldn't accept because the entire village didn't have 10 gold between them, eventually settled on 1 silver bet.
+Session 31 – **[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Village Betting Crisis** – Tried to bet 10 gold on herself in the darts game at a recently-raided poor farming village, barkeeper couldn't accept because the entire village didn't have 10 gold between them, eventually settled on 1 silver bet.
 
 ---
 #### Session 30
@@ -161,11 +161,11 @@ Session 30 – **[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'
 
 Session 30 – **Khorrak's Two-Phase Resurrection** – [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s Guiding Bolt "killed" Khorrak causing the body to fall, but an eerie green glow appeared pulling the wound closed, black fur turned green, and Khorrak roared back to life in an enraged state focused single-mindedly on [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]].
 
-Session 30 – **[[Party Members/ToooAh\|ToooAh]]'s Stunning Strike Opening** – Flew behind Khorrak landing quarterstaff strike and spent Chi point for Stunning Strike (DC 14), Khorrak failed save becoming stunned until end of [[Party Members/ToooAh\|ToooAh]]'s next turn, giving entire party advantage and dealing 26 total damage in Round 1 making Khorrak bloodied.
+Session 30 – **[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Stunning Strike Opening** – Flew behind Khorrak landing quarterstaff strike and spent Chi point for Stunning Strike (DC 14), Khorrak failed save becoming stunned until end of [[Party Members/Tooo-Ah\|Tooo-Ah]]'s next turn, giving entire party advantage and dealing 26 total damage in Round 1 making Khorrak bloodied.
 
 Session 30 – **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s Curse Triggers in Combat** – Cast Fire Bolt rolling Natural 1 hitting rock that splashed [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (3 damage), immediately heard own voice "Ah, it's my fault again!" with severe headache and 3 psychic damage, demonstrating curse active and dangerous when accidentally harming [[Party Members/Elvva Beltavar\|Elvva Beltavar]].
 
-Session 30 – **Khorrak's Legendary Action Surprise** – Used Legendary Action "Minotaur's Recall" after [[Party Members/ToooAh\|ToooAh]] dealt 31 damage, teleporting back along travelled path appearing where [[Party Members/ToooAh\|ToooAh]] and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] stood, slammed hammer forcing Constitution saves launching both 10 feet prone for 17 bludgeoning each reducing [[Party Members/ToooAh\|ToooAh]] to 0 HP.
+Session 30 – **Khorrak's Legendary Action Surprise** – Used Legendary Action "Minotaur's Recall" after [[Party Members/Tooo-Ah\|Tooo-Ah]] dealt 31 damage, teleporting back along travelled path appearing where [[Party Members/Tooo-Ah\|Tooo-Ah]] and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] stood, slammed hammer forcing Constitution saves launching both 10 feet prone for 17 bludgeoning each reducing [[Party Members/Tooo-Ah\|Tooo-Ah]] to 0 HP.
 
 Session 30 – **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Forgiveness Demonstration** – Dragon asked riddle about forgiveness requiring demonstration, [[Party Members/Elvva Beltavar\|Elvva Beltavar]] told [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: "I forgive you for killing me that one time. It's not your fault anymore. I no longer blame you for my death," referring to Session 22 when he failed to save her, dragon's eye glowed blue and shed tear forming Dragon's Tear gem.
 
@@ -180,7 +180,7 @@ Session 30 – **Dragon's "Show Me" Response** – After party debated riddle an
 ---
 #### Session 29
 
-Session 29 – **Gardens Silence Puzzle** – Party spent approximately 50 minutes real-time attempting to solve a puzzle requiring complete silence, with every member resetting the 15-second timer through splashing, rustling, eating, talking, or fighting through bushes until [[Party Members/ToooAh\|ToooAh]] finally proposed a minute's silence that succeeded.
+Session 29 – **Gardens Silence Puzzle** – Party spent approximately 50 minutes real-time attempting to solve a puzzle requiring complete silence, with every member resetting the 15-second timer through splashing, rustling, eating, talking, or fighting through bushes until [[Party Members/Tooo-Ah\|Tooo-Ah]] finally proposed a minute's silence that succeeded.
 
 Session 29 – **Steve's Anagram** – Steve appeared only to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] providing the cryptic clue "after fury sinker" that the party debated extensively (considering "story," "thinker," "hurry") until Steve returned with the answer "Run after the first key!" solving the anagram they couldn't crack despite [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s Natural 20 Intelligence check.
 
@@ -190,7 +190,7 @@ Session 29 – **Khorrak's Awakening** – After collecting the first gem from a
 
 Session 29 – **Dragon Chamber Offerings** – Party sacrificed increasingly desperate items across six chambers (starting with coins and flowers, ending with [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] spitting phlegm and party members donating blood and body parts) with [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s copper coin dissolving in the second chamber forcing him to upgrade to silver.
 
-Session 29 – **[[Party Members/ToooAh\|ToooAh]]** – Pulled [[Party Members/Elvva Beltavar\|Elvva Beltavar]] through a water-like mirror portal from [[Locations/Belendar\|Belendar]] into the shared dream vision by putting her hand through, creating a green wispy hand over sleeping [[Party Members/Elvva Beltavar\|Elvva Beltavar]] that dragged her into the dream when [[Party Members/ToooAh\|ToooAh]] withdrew.
+Session 29 – **[[Party Members/Tooo-Ah\|Tooo-Ah]]** – Pulled [[Party Members/Elvva Beltavar\|Elvva Beltavar]] through a water-like mirror portal from [[Locations/Belendar\|Belendar]] into the shared dream vision by putting her hand through, creating a green wispy hand over sleeping [[Party Members/Elvva Beltavar\|Elvva Beltavar]] that dragged her into the dream when [[Party Members/Tooo-Ah\|Tooo-Ah]] withdrew.
 
 Session 29 – **Math Errors During Chase** – [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] incorrectly calculated movement totals as 70 twice when actual totals were 60 (17+3+14+9+17=60) during frantic chase sequences, with DM using the stated incorrect totals allowing slightly more movement distance.
 
@@ -205,7 +205,7 @@ Session 29 – **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantr
 
 Session 28 – [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] – Attempted a flamboyant magical display during a formal parade and accidentally set his own cape on fire (Natural 1), taking 1 HP damage.
 
-Session 28 – [[Party Members/ToooAh\|ToooAh]] – Performed dramatic aerial flyovers above the marching troops (rolled 21), then later collided with a tree while hunting (Natural 1 Survival) and returned dishevelled with only a mouse.
+Session 28 – [[Party Members/Tooo-Ah\|Tooo-Ah]] – Performed dramatic aerial flyovers above the marching troops (rolled 21), then later collided with a tree while hunting (Natural 1 Survival) and returned dishevelled with only a mouse.
 
 Session 28 – [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] – Attempted to stand on her horse during the parade to wave at the crowd but wobbled badly (rolled 8) and had to sit back down.
 
@@ -215,7 +215,7 @@ Session 28 – [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hybo
 
 Session 28 – Bob the Whipping Boy – Carried [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s banner while running behind his elk, fell multiple times (Dexterity 4), nearly betrayed his master to spook [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s steed but was caught by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s Natural 20 Perception, then hid under [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s cloak during battle.
 
-Session 28 – [[Party Members/ToooAh\|ToooAh]] – Obliterated 22 enemy troops with a single devastating cavalry charge during the mock battle, the most successful tactical action of the entire engagement.
+Session 28 – [[Party Members/Tooo-Ah\|Tooo-Ah]] – Obliterated 22 enemy troops with a single devastating cavalry charge during the mock battle, the most successful tactical action of the entire engagement.
 
 Session 28 – [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] – Used Thaumaturgy's booming voice to shout "Show them what heroes can do. Charge!" forcing nearby allied units to dash forward, then attempted to shove [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (rolled 10 vs 22) and bounced off the 300lb dragonborn completely harmlessly.
 
@@ -223,7 +223,7 @@ Session 28 – Party (Tactical) – Soundly defeated in mock battle by [[NPCs/Se
 
 Session 28 – [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] & "Steve" – Introduced party to "Steve" (a boulder with a face) in shared dream vision, had entire conversation doing both voices himself while others initially believed the rock was talking, with [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] later finding the empty cave with only mysterious writing on the wall.
 
-Session 28 – Party (All) – Experienced identical shared dream/vision of temple with mirrors on mountainside ledge over endless chasm, discovered [[Party Members/ToooAh\|ToooAh]] flying in the chasm created an infinite loop, solved mirror puzzle by finding "true reflections" (all touched mirrors turning green simultaneously), and opened doorway but session ended before entering.
+Session 28 – Party (All) – Experienced identical shared dream/vision of temple with mirrors on mountainside ledge over endless chasm, discovered [[Party Members/Tooo-Ah\|Tooo-Ah]] flying in the chasm created an infinite loop, solved mirror puzzle by finding "true reflections" (all touched mirrors turning green simultaneously), and opened doorway but session ended before entering.
 
 ---
 #### Session 27
@@ -236,7 +236,7 @@ Session 27 – **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]** – Lost all
 
 Session 27 – **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] & [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]** – Forced to marry with rings embedding into skin after both tried refusing but were magically compelled to say yes, then went boar hunting while singing everything compulsively with [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] carrying kitten "Catness Everclean."
 
-Session 27 – **[[Party Members/ToooAh\|ToooAh]]** – Lost wings completely in mirror maze after failing Intelligence checks, kicked lion in face during arena performance (dirty 20), and repeatedly urged party to explore magical toadstool throughout evening.
+Session 27 – **[[Party Members/Tooo-Ah\|Tooo-Ah]]** – Lost wings completely in mirror maze after failing Intelligence checks, kicked lion in face during arena performance (dirty 20), and repeatedly urged party to explore magical toadstool throughout evening.
 
 Session 27 – **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]** – Received insulting parrot "Flossy" that called [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s manhood small, transformed into duck and hooked losing [[NPCs/River\|River]], then lost coin flip resulting in vision of [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]] being stabbed through the back.
 
@@ -251,7 +251,7 @@ Session 27 – **[[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hy
 ---
 #### Session 26
 
-Session 26 – [[Party Members/ToooAh\|ToooAh]] – Killed two soldiers with single punches creating dramatic "gong noise" sound effects, then attempted to grab a Black Knight's warhammer through a splintered door hole and was pulled close for a punch that mysteriously stopped mid-air.
+Session 26 – [[Party Members/Tooo-Ah\|Tooo-Ah]] – Killed two soldiers with single punches creating dramatic "gong noise" sound effects, then attempted to grab a Black Knight's warhammer through a splintered door hole and was pulled close for a punch that mysteriously stopped mid-air.
 
 Session 26 – [[NPCs/Thalas\|Thalas]]/Lady Alysanne – Helmet melted away by earlier acid damage revealing her true identity as Elincia Flowers, screamed "This isn't over, the war has only just begun!" before throwing a necrotic dagger at the Princess and escaping via fire teleportation.
 
@@ -273,7 +273,7 @@ Session 26 – [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] �
 
 Session 26 – [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] – Sent 50 gold to Guy's deceased squire's family through [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]] to cover funeral costs and family needs, showing quiet grief and responsibility for the death that occurred during the coordinated attacks.
 
-Session 26 – [[Party Members/ToooAh\|ToooAh]] – Unknowingly acquired a magical sprouting bean planted in her bag during the drunken feast, completely unaware of its presence or properties.
+Session 26 – [[Party Members/Tooo-Ah\|Tooo-Ah]] – Unknowingly acquired a magical sprouting bean planted in her bag during the drunken feast, completely unaware of its presence or properties.
 
 Session 26 – [[Party Members/Elvva Beltavar\|Elvva Beltavar]] – Woke wearing a medal declaring her "funniest drunk in the city" awarded by anonymous bystanders after apparently flashing people during the feast, with no clear memory of the events.
 
@@ -288,7 +288,7 @@ Session 25 – [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] – Fl
 
 Session 25 – [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] – **Recovered** from death-like unconscious state, arrived dramatically on elk mount, destroyed approaching wyvern with single devastating beam spell, and led reinforcements with [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] into enemy rear.
 
-Session 25 – [[Party Members/ToooAh\|ToooAh]] – Drank magical tea that swapped clothing/armour with [[Party Members/Elvva Beltavar\|Elvva Beltavar]] for one hour and compelled her to insult [[Party Members/Elvva Beltavar\|Elvva Beltavar]] as "puny eye patch wearing wyvern," then was slammed to ground by soldier (10 bludgeoning damage) but recovered to kill him with staff strike to head.
+Session 25 – [[Party Members/Tooo-Ah\|Tooo-Ah]] – Drank magical tea that swapped clothing/armour with [[Party Members/Elvva Beltavar\|Elvva Beltavar]] for one hour and compelled her to insult [[Party Members/Elvva Beltavar\|Elvva Beltavar]] as "puny eye patch wearing wyvern," then was slammed to ground by soldier (10 bludgeoning damage) but recovered to kill him with staff strike to head.
 
 Session 25 – [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] – Kicked throne room doors open (Strength 17) and immediately face-planted through them, then misfired Guiding Bolt hitting allied soldier for 16 radiant damage while aiming at [[NPCs/Thalas\|Thalas]].
 
@@ -298,14 +298,14 @@ Session 25 – [[NPCs/Thalas\|Thalas]] – Casually sliced through [[Party Membe
 
 Session 25 – Mysterious Figures – Skull-faced cloaked man (with recognised gold cane) and unknown axe fighter (who previously kidnapped [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]) stood motionless at throne room rear watching the battle unfold without engaging.
 
-Session 25 – [[Party Members/ToooAh\|ToooAh]] & [[NPCs/General Thailander Oakwood\|General Thailander Oakwood]] – [[Party Members/ToooAh\|ToooAh]] casually mentioned plants speaking to her about the battle ("Don't mind me, I'm talking to the plants"), then relayed that "the plants would like a bit more light" on the west side, leaving [[NPCs/General Thailander Oakwood\|General Thailander Oakwood]] completely perplexed looking up at the night sky.
+Session 25 – [[Party Members/Tooo-Ah\|Tooo-Ah]] & [[NPCs/General Thailander Oakwood\|General Thailander Oakwood]] – [[Party Members/Tooo-Ah\|Tooo-Ah]] casually mentioned plants speaking to her about the battle ("Don't mind me, I'm talking to the plants"), then relayed that "the plants would like a bit more light" on the west side, leaving [[NPCs/General Thailander Oakwood\|General Thailander Oakwood]] completely perplexed looking up at the night sky.
 
-Session 25 – [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] & [[NPCs/General Thailander Oakwood\|General Thailander Oakwood]] – After [[Party Members/ToooAh\|ToooAh]]'s plant comments, [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] walked up to the bewildered general, stated "We're doing good," then walked away without further explanation.
+Session 25 – [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] & [[NPCs/General Thailander Oakwood\|General Thailander Oakwood]] – After [[Party Members/Tooo-Ah\|Tooo-Ah]]'s plant comments, [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] walked up to the bewildered general, stated "We're doing good," then walked away without further explanation.
 
 ---
 #### Session 24
 
-Session 24 – [[Party Members/ToooAh\|ToooAh]] – Opened the session by immediately killing two enemies in the first round: landed on one attacker with a staff strike caving in his helmet, followed by Flurry of Blows neck-snapping the second enemy.
+Session 24 – [[Party Members/Tooo-Ah\|Tooo-Ah]] – Opened the session by immediately killing two enemies in the first round: landed on one attacker with a staff strike caving in his helmet, followed by Flurry of Blows neck-snapping the second enemy.
 
 Session 24 – [[Party Members/Elvva Beltavar\|Elvva Beltavar]] – Cast Hex curse with a dramatic kill where an ethereal green hand appeared, strangled a heavily-armoured leader, and [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] observed a green wisp briefly emerge from the corpse.
 
@@ -315,11 +315,11 @@ Session 24 – [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] �
 
 Session 24 – [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] – Revealed [[NPCs/Avicia\|Avicia]]'s true identity as the lost royal heir and rightful successor to the throne, with [[NPCs/Avicia\|Avicia]] herself learning this truth for the first time ("mouth agape, eyes wide").
 
-Session 24 – [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] & [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] – After climbing palace walls, guards demanded explanation; [[Party Members/ToooAh\|ToooAh]] immediately blurted "King's business" prompting the guard's reply "The king's dead," creating an awkward situation requiring [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] to recover.
+Session 24 – [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] & [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] – After climbing palace walls, guards demanded explanation; [[Party Members/Tooo-Ah\|Tooo-Ah]] immediately blurted "King's business" prompting the guard's reply "The king's dead," creating an awkward situation requiring [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] to recover.
 
 Session 24 – The Party – Debated extensively how to reach the palace (horses, flying, darkness spells, flipping tables) before simply settling on "just take a boat" and rowing across the river.
 
-Session 24 – [[Party Members/ToooAh\|ToooAh]] – Destroyed a siege wyvern with Scorching Ray that was mysteriously enhanced by a green glow (similar to Bane influence), causing the creature to explode and cover the ramparts in gore.
+Session 24 – [[Party Members/Tooo-Ah\|Tooo-Ah]] – Destroyed a siege wyvern with Scorching Ray that was mysteriously enhanced by a green glow (similar to Bane influence), causing the creature to explode and cover the ramparts in gore.
 
 ---
 #### Session 23
@@ -334,7 +334,7 @@ Session 23 – [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] �
 
 Session 23 – [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] – Catapulted a boulder at a hellhound for 32 damage, successfully led the party through multiple ethereal planes, then apparently sacrificed himself to resurrect [[Party Members/Elvva Beltavar\|Elvva Beltavar]] and now lies unconscious with no vital signs.
 
-Session 23 – [[Party Members/ToooAh\|ToooAh]] – Shot possessed [[Party Members/Elvva Beltavar\|Elvva Beltavar]] with Dart of Feathers which turned to green mist on impact, had her wings catch fire for 10 damage in the volcanic plane, and unknowingly received a Bane command to kill [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]].
+Session 23 – [[Party Members/Tooo-Ah\|Tooo-Ah]] – Shot possessed [[Party Members/Elvva Beltavar\|Elvva Beltavar]] with Dart of Feathers which turned to green mist on impact, had her wings catch fire for 10 damage in the volcanic plane, and unknowingly received a Bane command to kill [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]].
 
 Session 23 – [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] – Arrived bloodied from fighting [[NPCs/Thalas\|Thalas]] the Black Knight in the throne room during the king's assassination, unknowingly receiving a Bane command to kill [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]].
 
@@ -349,7 +349,7 @@ Session 22 – [[Party Members/Elvva Beltavar\|Elvva Beltavar]] – Died heroica
 
 Session 22 – [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] – Strangled an assassin, lifted him up to stare into his eyes and watch the fear occur, then breathed fire directly into his face while holding him aloft before dropping the burning corpse.
 
-Session 22 – [[Party Members/ToooAh\|ToooAh]] – Changed her magical armour into a random summery dress with individually colored flowers (green, purple, gold, blue) before meeting the [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]], explaining "You can't have the same outfit twice when meeting the Princess."
+Session 22 – [[Party Members/Tooo-Ah\|Tooo-Ah]] – Changed her magical armour into a random summery dress with individually colored flowers (green, purple, gold, blue) before meeting the [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]], explaining "You can't have the same outfit twice when meeting the Princess."
 
 Session 22 – Mysterious Cloaked Man – Addressed [[NPCs/Elincia Flowers\|Elincia Flowers]] as "My Queen" before disappearing into the crowd using unknown magic that even [[Party Members/Elvva Beltavar\|Elvva Beltavar]] couldn't identify as any known spell.
 
@@ -368,7 +368,7 @@ Session 21 – [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] �
 
 Session 21 – [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] – Defeated [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] in jousting after the Princess publicly revealed her identity as the Eagle Knight to the shocked crowd. [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] immediately dismounted to help the Princess up and they walked off together holding both horses.
 
-Session 21 – [[Party Members/ToooAh\|ToooAh]] – Dominated the entire first day of jousting, unhorsing her first opponent instantly and winning every match to advance to the semi-finals where she faces [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]].
+Session 21 – [[Party Members/Tooo-Ah\|Tooo-Ah]] – Dominated the entire first day of jousting, unhorsing her first opponent instantly and winning every match to advance to the semi-finals where she faces [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]].
 
 Session 21 – [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] vs [[NPCs/Duke Vallandor Firebloom\|Duke Vallandor Firebloom]] – After the Duke led 4-0 by hitting [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] in the head twice, [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] removed his helmet for the final tilt and rolled two natural 20s to absolutely demolish the high-ranking Duke. The crowd went wild.
 
@@ -383,14 +383,14 @@ Session 19 – [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] – Ro
 
 Session 19 – [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] – Struggled catastrophically with Tournament of Wits and Wisdom riddles, taking heavy damage. Knocked unconscious by lightning in the third room and, did not complete."
 
-Session 19 – [[Party Members/ToooAh\|ToooAh]] – Overthought the village riddle, calculating hundreds of people (wives × kids × cats × kittens) before realizing only one person was actually going to the village. Took fire damage for wrong answer.
+Session 19 – [[Party Members/Tooo-Ah\|Tooo-Ah]] – Overthought the village riddle, calculating hundreds of people (wives × kids × cats × kittens) before realizing only one person was actually going to the village. Took fire damage for wrong answer.
 
 Session 19 – Party (All) – All tournament competitors, including [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]], mysteriously drugged at royal feast and fell unconscious simultaneously. High perception rolls noticed even the Crown Princess passed out.
 
 ---
 #### Session 18
 
-Session 18 – [[Party Members/ToooAh\|ToooAh]] – Proudly declared increased Intelligence stat, then immediately failed the Intelligence (Religion) check to remember [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]'s bet, rolling only a 7 total. Party laughed at the ironic timing.
+Session 18 – [[Party Members/Tooo-Ah\|Tooo-Ah]] – Proudly declared increased Intelligence stat, then immediately failed the Intelligence (Religion) check to remember [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]'s bet, rolling only a 7 total. Party laughed at the ironic timing.
 
 Session 18 – [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] – Rolled a natural 20 on Constitution save for dragon blood ritual, survived easily, but then slept for 20 hours while rest of party woke up. [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] drew tic-tac-toe on his face and called him "the little girl."
 
@@ -417,7 +417,7 @@ Session ~13 – **[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]
 
 Session ~15 – **[[Party Members/Elvva Beltavar\|Elvva Beltavar]] Joins (Shannon's First Session)** – Shannon joins the campaign as [[Party Members/Elvva Beltavar\|Elvva Beltavar]], introduced at private meeting with Crown Princess, [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]], and the Patriarch. Party immediately given warehouse investigation mission with large gold reward.
 
-Session ~15 – **The Warehouse Stealth Mission** – [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] and [[Party Members/ToooAh\|ToooAh]] successfully infiltrated hooded-figure-guarded warehouse at docks whilst [[Party Members/Elvva Beltavar\|Elvva Beltavar]] created dancing lights distraction on her very first session. Found faction war note ("Leaf Eaters, Dragon, Falcon and Eagle"), blue/white fake royal liveries, arms shipments, and coded correspondence mapping four gates of [[Locations/Belendar\|Belendar]] - signed with ornate 'B' on blue crest paper.
+Session ~15 – **The Warehouse Stealth Mission** – [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] and [[Party Members/Tooo-Ah\|Tooo-Ah]] successfully infiltrated hooded-figure-guarded warehouse at docks whilst [[Party Members/Elvva Beltavar\|Elvva Beltavar]] created dancing lights distraction on her very first session. Found faction war note ("Leaf Eaters, Dragon, Falcon and Eagle"), blue/white fake royal liveries, arms shipments, and coded correspondence mapping four gates of [[Locations/Belendar\|Belendar]] - signed with ornate 'B' on blue crest paper.
 
 Session ~15 – **[[Party Members/Elvva Beltavar\|Elvva Beltavar]] Poisoned by Cactus Plant** – On riverside shack quest to investigate missing people, immediately stung and poisoned by aggressive cactus-type plant during her second ever session. Party carried her back to capital after collecting 500gc reward.
 
@@ -438,9 +438,9 @@ Sessions 16-17 – **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Gal
 
 **Running Ship Aground** – Party won sea battle but couldn't steer ship properly (didn't think to ask surviving crew), ran vessel aground on volcanic island beach, stranding themselves.
 
-**[[Party Members/ToooAh\|ToooAh]]'s Log Trap** – Party set ambush for 100+ pursuing dwarves in high-sided valley, positioned logs/trees on either side, [[Party Members/ToooAh\|ToooAh]] stayed behind to trigger rolling logs onto enemy force below before flying off to rejoin party.
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Log Trap** – Party set ambush for 100+ pursuing dwarves in high-sided valley, positioned logs/trees on either side, [[Party Members/Tooo-Ah\|Tooo-Ah]] stayed behind to trigger rolling logs onto enemy force below before flying off to rejoin party.
 
-**[[Party Members/ToooAh\|ToooAh]]'s Capture & Escape** – During voyage to [[Locations/Canathalas\|Canathalas]], flew over to investigate approaching ships to determine if friendly, completely forgot how to communicate, landed on their deck, was captured, somehow talked way out without learning anything useful, forcing party to change course east.
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Capture & Escape** – During voyage to [[Locations/Canathalas\|Canathalas]], flew over to investigate approaching ships to determine if friendly, completely forgot how to communicate, landed on their deck, was captured, somehow talked way out without learning anything useful, forcing party to change course east.
 
 **The Forgotten Horse** – Short Jane Goldie's captured ship had two horses in hold, party took one when disembarking at [[Locations/Canathalas\|Canathalas]], completely forgot about second horse, ship sailed before they remembered and returned to docks.
 

@@ -21,7 +21,7 @@ After looting the chamber, we interrogated [[NPCs/Calen Thorne\|Calen Thorne]], 
 |[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]|Paul|Life Cleric 6|Chainmail, mace, magical lock picks|
 |[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]|Annie|Ranger 6|Twin Blades of the Serpent, longbow, River (dog)|
 |[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]|Kieran|Paladin of Vengeance 6|Hearts Rend (cursed longsword), **new unnamed longsword (properties unknown)**, greataxe, Stormswallow family banner, Key of the Wrong Door|
-|[[Party Members/ToooAh\|ToooAh]]|Joy|Monk 6|Flight (50ft), Horn of the Winter Gale|
+|[[Party Members/Tooo-Ah\|Tooo-Ah]]|Joy|Monk 6|Flight (50ft), Horn of the Winter Gale|
 |[[Party Members/Elvva Beltavar\|Elvva Beltavar]]|Shannon|Sorcerer 5/Warlock 1|Wand of Dusk Veil, Dragon's Tear gem, Coin of Fate|
 
 **Active Conditions We're Dealing With:**
@@ -30,7 +30,7 @@ After looting the chamber, we interrogated [[NPCs/Calen Thorne\|Calen Thorne]], 
 - **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]** — Bane corruption **CRITICAL**; green glow on offensive spells (third failed Wisdom save = full spell damage reflected back); Dragon's Breath now producing Bane flame; corruption spreading to innate draconic abilities
 - **[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]** — Bane manifested physically through palm (S37); seraph delivered _"Kill them all"_ directly to him (S38); permanent facial scar
 - **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]** — Warg ability (even/odd roll mechanic for control); psychic backlash risk when spirit-bonding with hostile mounts
-- **All Party** — Dormant Bane commands (ToooAh: kill Tessell; Odonia: kill Co'narr; Patriarch Siegfried: betray the mole) — trigger conditions unknown
+- **All Party** — Dormant Bane commands (Tooo-Ah: kill Tessell; Odonia: kill Co'narr; Patriarch Siegfried: betray the mole) — trigger conditions unknown
 
 ---
 

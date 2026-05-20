@@ -26,8 +26,8 @@ The party underwent the Bane Watchers initiation ritual led by [[NPCs/Co'narr 'B
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] attempted to use Prestidigitation to flavor the drink, but [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] stopped him: "Hang on a minute, you wuss... Be a man... dragon... thing"
 - **Constitution saving throws determined unconscious duration** (higher save = longer sleep = deeper integration):
     - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: 4 (slept 4 hours)
-    - [[Party Members/ToooAh\|ToooAh]]: 6 (slept 6 hours total - 2 hours after Odonia)
-    - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: 13 (slept 13 hours total - 7 hours after ToooAh)
+    - [[Party Members/Tooo-Ah\|Tooo-Ah]]: 6 (slept 6 hours total - 2 hours after Odonia)
+    - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: 13 (slept 13 hours total - 7 hours after Tooo-Ah)
     - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: 15 (slept ~15 hours total - couple hours after Elvva)
     - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: 20 (rolled 19+1, slept 20 hours total - longest in party)
 - All party members collapsed immediately after drinking
@@ -39,7 +39,7 @@ All party members experienced the same prophetic dream, though they didn't initi
 
 **Vision 1 - The Original Party:**
 
-- Saw five figures: [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], [[Party Members/ToooAh\|ToooAh]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], a wood elf, and a human
+- Saw five figures: [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], [[Party Members/Tooo-Ah\|Tooo-Ah]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], a wood elf, and a human
 - ([[Party Members/Elvva Beltavar\|Elvva Beltavar]] didn't recognize the wood elf or human; [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] recognized four of them)
 - Scene jumped to show gargoyles with purple glowing eyes (similar to those they'd fought)
 
@@ -84,8 +84,8 @@ All party members experienced the same prophetic dream, though they didn't initi
 Party members woke at different times based on their Constitution saves:
 
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: **4 hours** (first awake, rolled 5 on d20, took 5 necrotic damage)
-- [[Party Members/ToooAh\|ToooAh]]: **6 hours** (2 hours after Odonia, rolled 5 on d20, took 5 necrotic damage)
-- [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: **13 hours** (7 hours after ToooAh, rolled 5 on d20)
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: **6 hours** (2 hours after Odonia, rolled 5 on d20, took 5 necrotic damage)
+- [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: **13 hours** (7 hours after Tooo-Ah, rolled 5 on d20)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: **~15 hours** (couple hours after Elvva, HP checked but fine)
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: **20 hours** (longest sleep, [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] drew tic-tac-toe on his face, rolled 18 on d20 - "Let's see if you die")
 
@@ -155,12 +155,12 @@ Party rolled d100 to determine what each member found on the wyvern Balthazar's 
 - Can permanently lock things that have no lock
 - Once locked with these picks, the lock cannot be opened by any means
 
-**[[Party Members/ToooAh\|ToooAh]] (rolled 93):**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]] (rolled 93):**
 
 - Small pocket-sized book titled "Tales of the Lost Princess"
 - Author unrecognizable
 - Single book (not part of a series)
-- [[Party Members/ToooAh\|ToooAh]] can practice reading with it
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] can practice reading with it
 
 **[[Party Members/Elvva Beltavar\|Elvva Beltavar]] (rolled 100):**
 
@@ -198,7 +198,7 @@ During the week between tournament rounds:
 Party had 6 days until next tournament round:
 
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Helped stonemasons from [[Locations/Ulvenora\|Ulvenora]] with reconstruction
-- [[Party Members/ToooAh\|ToooAh]]: Can now read the book Balthazar dropped
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: Can now read the book Balthazar dropped
 - Party prepared for next tournament round
 
 ---
@@ -424,7 +424,7 @@ Party had 6 days until next tournament round:
 
 - **Magical Lockpicks:** Can permanently lock anything (even things without locks). Cannot unlock anything. Once used, the lock cannot be opened by any means.
 
-**[[Party Members/ToooAh\|ToooAh]]:**
+**[[Party Members/Tooo-Ah\|Tooo-Ah]]:**
 
 - "Tales of the Lost Princess" - small pocket book
 - Part of book series
@@ -441,14 +441,14 @@ Party had 6 days until next tournament round:
 ---
 ## Memorable Moments
 
-### [[Party Members/ToooAh\|ToooAh]]'s Intelligence Joke
+### [[Party Members/Tooo-Ah\|Tooo-Ah]]'s Intelligence Joke
 
 When [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] asked if anyone remembered the bet from earlier:
 
-- [[Party Members/ToooAh\|ToooAh]]'s player: "I've increased my intelligence now!"
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]'s player: "I've increased my intelligence now!"
 - [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]: "Was it a check or religion you decide? Or religion?"
 - Group realizes they both use Intelligence
-- [[Party Members/ToooAh\|ToooAh]]: "They're both the same!"
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: "They're both the same!"
 - Religion check still failed (rolled 7 total)
 - Party laughed at the irony of proudly declaring higher Intelligence then immediately failing
 
@@ -459,13 +459,13 @@ When [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] ask
 - [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] poured the thick, dark brownish-red liquid from his keg
 - Described as "very thick liquid, almost like oil or very thick blood"
 - [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]: "I'm not going to lie to you - it tastes like shit. And it's warm as well."
-- [[Party Members/ToooAh\|ToooAh]] immediately used Minor Illusion (Prestidigitation) to remove the flavor within one cubic foot
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] immediately used Minor Illusion (Prestidigitation) to remove the flavor within one cubic foot
 - Party discussed whether this would work
 - DM: "You said it tastes like rat. Are you telling me the bird's braver than you?"
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: "She doesn't have access to what I have!"
 - Party: "She can fight better than you!"
-- Group Constitution saves began with [[Party Members/ToooAh\|ToooAh]] having removed the taste advantage
-- Despite the preparation, [[Party Members/ToooAh\|ToooAh]] still struggled (rolled 15)
+- Group Constitution saves began with [[Party Members/Tooo-Ah\|Tooo-Ah]] having removed the taste advantage
+- Despite the preparation, [[Party Members/Tooo-Ah\|Tooo-Ah]] still struggled (rolled 15)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] struggled significantly (rolled 13)
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] nearly died (took 5 damage)
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] and [[Party Members/Elvva Beltavar\|Elvva Beltavar]] aced it (both rolled 20)
@@ -528,7 +528,7 @@ When [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] ask
 - Party: nervous laughter
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: "I shot ONE gnome!"
 - Party realizes there's an entire group of vengeful gnomes tracking them
-- [[Party Members/ToooAh\|ToooAh]]: "There's quite a few of them in the bushes!"
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: "There's quite a few of them in the bushes!"
 
 ### The Purple Dragonborn's Plea
 
@@ -543,7 +543,7 @@ When [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] ask
 - Party discussing what this means
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: "Why you specifically?"
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: "I have NO idea!"
-- [[Party Members/ToooAh\|ToooAh]]: "This is concerning!"
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: "This is concerning!"
 - Major mystery established
 - Party now knows there's a massive dragonborn somewhere trapped in stone calling specifically to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
 
@@ -582,7 +582,7 @@ When [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] ask
 - Party: "Wait, WHAT?"
 - Discussion of how powerful this child must be
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: "Who can turn an entire ship to stone?!"
-- [[Party Members/ToooAh\|ToooAh]]: "And why were they being chased?"
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]: "And why were they being chased?"
 - Mystery of small figure's identity and their incredible power
 
 ---
@@ -750,7 +750,7 @@ When [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] ask
 
 **Comedy:**
 
-- [[Party Members/ToooAh\|ToooAh]]'s failed Intelligence joke
+- [[Party Members/Tooo-Ah\|Tooo-Ah]]'s failed Intelligence joke
 - Dragon blood taste test negotiations
 - [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] playing tic-tac-toe on sleeping party member's face
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] sleeping for 20 hours while everyone else woke up
@@ -795,7 +795,7 @@ When [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] ask
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] specifically connected to purple dragonborn mystery
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] has evidence of Balthazar's tracking and party's potential deaths
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] has magical lockpicks with unique properties
-- [[Party Members/ToooAh\|ToooAh]] has mysterious book series to read
+- [[Party Members/Tooo-Ah\|Tooo-Ah]] has mysterious book series to read
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] saw gnomes watching through River's eyes - and she's now city-famous for killing Balthazar
 
 **Political Situation:**

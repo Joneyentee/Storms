@@ -93,7 +93,7 @@ Boxing champion at [[Locations/Crossroads Inn\|Crossroads Inn]]. Forgave [[Party
 
 - Leader: [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (Ser Tessell, General of the Left)
 - Complex relationship: [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (Session 30 - forgave him for failing to save her during Session 22 Belendar ambush, genuine demonstration moved past blame, relationship healing)
-- Fellow party members: [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (Lady of [[Locations/Sylobelle\|Sylobelle]], General of the North), [[Party Members/ToooAh\|ToooAh]] (Chariot General)
+- Fellow party members: [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (Lady of [[Locations/Sylobelle\|Sylobelle]], General of the North), [[Party Members/Tooo-Ah\|Tooo-Ah]] (Chariot General)
 
 ### NPCs
 
@@ -122,7 +122,7 @@ Boxing champion at [[Locations/Crossroads Inn\|Crossroads Inn]]. Forgave [[Party
 **Warehouse Investigation (Session ~15):**
 
 - Party tasked with investigating warehouse at docks - hooded figures and suspicious deliveries
-- **Used Dancing Lights cantrip** to create distraction, allowing [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] and [[Party Members/ToooAh\|ToooAh]] to infiltrate warehouse unnoticed
+- **Used Dancing Lights cantrip** to create distraction, allowing [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] and [[Party Members/Tooo-Ah\|Tooo-Ah]] to infiltrate warehouse unnoticed
 - Party discovered faction war evidence: note about "Leaf Eaters, Dragon, Falcon and Eagle," boxes of blue/white liveries, arms shipments, coded correspondence
 - Large bag of gold offered as reward by Crown Princess
 
@@ -160,7 +160,7 @@ Boxing champion at [[Locations/Crossroads Inn\|Crossroads Inn]]. Forgave [[Party
     
 - **[[Sessions/Session 27 - 26 July 2025\|Session 27 - 26 July 2025]]:** Received Founder's Wand from Fizwidget Spindleflash after completing carnival challenges. Won 1000 gold gambling during magical alternate reality (status unclear after reality reset). Lost all clothing and prepared spells temporarily during Fizwidget's challenges (reversed at reality reset).
     
-- **[[Sessions/Session 29 - 20 September 2025\|Session 29 - 20 September 2025]]:** Pulled into shared dream vision from [[Locations/Belendar\|Belendar]] via mirror portal when [[Party Members/ToooAh\|ToooAh]] reached through showing [[Party Members/Elvva Beltavar\|Elvva Beltavar]] sleeping. Physical body remains in [[Locations/Belendar\|Belendar]] while consciousness joins party in Dream Temple. PTSD distraction significantly affected combat readiness throughout maze exploration (multiple initiative rolls of 3), found at rear of party formation during Khorrak encounter.
+- **[[Sessions/Session 29 - 20 September 2025\|Session 29 - 20 September 2025]]:** Pulled into shared dream vision from [[Locations/Belendar\|Belendar]] via mirror portal when [[Party Members/Tooo-Ah\|Tooo-Ah]] reached through showing [[Party Members/Elvva Beltavar\|Elvva Beltavar]] sleeping. Physical body remains in [[Locations/Belendar\|Belendar]] while consciousness joins party in Dream Temple. PTSD distraction significantly affected combat readiness throughout maze exploration (multiple initiative rolls of 3), found at rear of party formation during Khorrak encounter.
     
 - **[[Sessions/Session 30 - 28 September 2025\|Session 30 - 28 September 2025]]:** In Dream Temple central chamber, solved dragon's riddle requiring demonstration of forgiveness. Told Elik'r: "I forgive you for killing me that one time. It's not your fault anymore. I no longer blame you for my death" - referring to Session 22 Belendar ambush when he failed to save her. Dragon judged forgiveness authentic, eye glowed blue, shed single tear forming **Dragon's Tear gem** (only item from dream that remained upon waking). Major character growth demonstrating ability to let go of blame and move forward. PTSD distraction continued affecting combat performance throughout Khorrak battle. **LEVELLED TO 6** at session end.
     

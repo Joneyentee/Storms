@@ -44,7 +44,7 @@
 - Or suggesting different kingdom/"The Kingdom"?
 
 **Black Knight's Mysterious Stop:**
-- Attempted to punch ToooAh through door
+- Attempted to punch Tooo-Ah through door
 - Punch stopped mid-air mysteriously
 - External force? Self-restraint? Unknown entity?
 - Turned away and departed in brownish light
@@ -217,7 +217,7 @@
 - Unknown combat abilities
 
 **Mysterious Moment:**
-- Grabbed ToooAh through door hole
+- Grabbed Tooo-Ah through door hole
 - Attempted punch with gauntleted hand
 - **Punch stopped mid-air mysteriously**
 - External force? Self-control? Unknown entity intervened?
