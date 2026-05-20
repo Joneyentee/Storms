@@ -2,7 +2,14 @@
 {"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"]}
 ---
 
-<a href="https://youtu.be/vHmnoXX8afc"> <video width="700" autoplay muted playsinline poster="/Images/RotS_Logo.png"> <source src="/Images/intro.mp4" type="video/mp4"> Your browser does not support the video tag. </video> </a>
+<div class="video-container">
+  <a href="https://youtu.be/vHmnoXX8afc" aria-label="Watch intro video on YouTube">
+    <video width="700" autoplay muted playsinline poster="/Images/RotS_Logo.png">
+      <source src="/Images/intro.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </a>
+</div>
 
 ---
 
