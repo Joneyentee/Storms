@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/party-members/elik-r-stormswallow/"}
 ---
 
-![Elik'r.jpeg|300](/img/user/Images/Elik'r.jpeg)
+<a href="/img/user/images/Elik'r.png" target="_blank"><img src="/img/user/images/Elik'r.png" width="300" alt="Elik'r" /></a>
+
 **Player:** Kieran
 **Status:** Active 
 **Race:** Gold Dragonborn
