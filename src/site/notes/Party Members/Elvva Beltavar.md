@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/party-members/elvva-beltavar/"}
 ---
 
-![Elvva.jpeg|300](/img/user/Images/Elvva.jpeg)
+<a href="/Images/Elvva.png" target="_blank"><img src="/Images/Elvva.png" width="300" alt="Elvva" /></a>
+
 **Player:** Shannon
 **Status**: ALIVE (was DECEASED) - resurrected Session 23
 **Race:** Drow Elf
