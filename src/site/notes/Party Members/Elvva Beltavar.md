@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/party-members/elvva-beltavar/"}
 ---
 
-<a href="/Images/Elvva.png" target="_blank"><img src="/Images/Elvva.png" width="300" alt="Elvva" /></a>
+<a href="/img/user/images/Elvva.png" target="_blank"><img src="/img/user/images/Elvva.png" width="300" alt="Elvva" /></a>
 
 **Player:** Shannon
 **Status**: ALIVE (was DECEASED) - resurrected Session 23
