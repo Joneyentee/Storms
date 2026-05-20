@@ -4,8 +4,8 @@
 
 <div class="video-container">
   <a href="https://youtu.be/vHmnoXX8afc" aria-label="Watch intro video on YouTube">
-    <video width="700" autoplay muted playsinline poster="/Images/RotS_Logo.png">
-      <source src="/Images/intro.mp4" type="video/mp4">
+    <video width="700" autoplay muted playsinline poster="/img/user/images/RotS_Logo.png">
+      <source src="/img/user/images/intro.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </a>
