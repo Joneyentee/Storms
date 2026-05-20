@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/party-members/liora-emberveil/"}
 ---
 
-![Liora.png](/img/user/Images/Liora.png)
+<a href="/img/user/images/Liora.png" target="_blank"><img src="/img/user/images/Liora.png" width="300" alt="Liora" /></a>
 
 **Player:** Sofia (Guest)  
 **Status:** TEMPORARY GUEST CHARACTER  
