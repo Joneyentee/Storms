@@ -1,13 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap');
+
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+  /***
+    ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
+    IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
+  ***/
+
+  // --- Fonts ---
+  font-family: 'EB Garamond', Georgia, serif;
+  font-size: 1.05rem;
+  line-height: 1.6;
+
+  h1, h2, h3, h4 {
+    font-family: 'Cinzel', serif;
+    letter-spacing: 0.02em;
+  }
+
+  h1 {
+    border-bottom: 2px solid #8a6d3b;
+    padding-bottom: 0.3em;
+  }
+
+  // --- Links ---
+  a {
+    color: #c9a86a;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(201, 168, 106, 0.4);
+
+    &:hover {
+      color: #e0c08a;
+      border-bottom-color: #e0c08a;
+    }
+  }
+
+  // --- Callouts ---
+  // Warning = amber/gold (threats, dangers)
+  // Tip = teal (session links, helpful notes)
+  // Quote = muted purple (lore/in-character quotes)
+  .callout[data-callout="warning"] {
+    border-left-color: #b8860b;
+    background: rgba(184, 134, 11, 0.08);
+  }
+
+  .callout[data-callout="tip"] {
+    border-left-color: #2e8b8b;
+    background: rgba(46, 139, 139, 0.08);
+  }
+
+  .callout[data-callout="quote"] {
+    border-left-color: #7a5c9e;
+    background: rgba(122, 92, 158, 0.08);
+  }
+
+  // --- Tables ---
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  th {
+    background: rgba(138, 109, 59, 0.15);
+    font-family: 'Cinzel', serif;
+    font-weight: 600;
+    text-align: left;
+  }
+
+  th, td {
+    padding: 0.5em 0.8em;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  // --- Horizontal rules ---
+  hr {
+    border: none;
+    border-top: 1px solid #8a6d3b;
+    opacity: 0.5;
+    margin: 2em 0;
+  }
+
+  // --- Video container polish ---
+  .video-container {
+    margin: 1.5em auto;
+  }
 }
