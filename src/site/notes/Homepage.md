@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"],"dgShowInlineTitle":"false"}
 ---
 
 ![RotS_Banner.png](/img/user/Images/RotS_Banner.png)
