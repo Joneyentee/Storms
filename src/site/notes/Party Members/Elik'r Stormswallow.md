@@ -29,7 +29,6 @@
 |?|?|?|?|?|?|
 
 ---
-
 ## Physical Description
 
 17 years old gold dragonborn, 6'8" tall, 301 lbs. Gold scales, imposing draconic presence. Wears chain mail armour. **Missing pinky finger on left hand** (Session 34 - cut off whilst drunk-carving potato girlfriend for Mini Steve, rolled Natural 1).
@@ -53,7 +52,7 @@ Young gold dragonborn Paladin of Vengeance. Has spirit guide Steve (only he can 
 
 - Greataxe (2H) - 1d12 slashing
 - **Hearts Rend** (longsword, 1H) - 1d8 slashing (versatile 1d10); cursed, attuned; can be enhanced with dragon breath skill to add fire damage; charges via self-inflicted damage - see [[General Files/Homebrew#Hearts Rend\|Homebrew#Hearts Rend]]
-- **Stormswallow Longsword** (1H, unnamed - working title) - dark iron blade threaded with ember-red veins; formerly wielded by the [[NPCs/Purple Dragonborn\|Purple Dragonborn]]; resized to Elik'r's proportions upon transfer (S39); properties unidentified
+- **Stormswallow Longsword** (1H, unnamed - working title) - dark iron blade threaded with ember-red veins; formerly wielded by the [[NPCs/Purple Dragonborn\|Purple Dragonborn]]; resized to Elik'r's proportions upon transfer (S39); **attuned (S40)**; possesses **Ember Wave** - on a successful hit, can slam the blade into the ground as part of the same action to unleash a 10-foot radius wave of fire (DC 14 Dexterity save for half damage); other properties still unidentified
 
 ### Armour
 
@@ -145,6 +144,8 @@ Young gold dragonborn Paladin of Vengeance. Has spirit guide Steve (only he can 
 - **[[Sessions/Session 38 - 6 April 2026\|Session 38 - 6 April 2026]]:** Touched an ember fissure in the [[Organisations/Ember Vein\|Ember Vein]] underground complex; received a psychic vision from the seraph - a wingless wyrm in a cavern of embers saying _"Release,"_ followed by a dragonborn lifting an ember-igniting sword, then **his own family banner burning**. Failed Wisdom saving throw (Natural 1), taking 16 psychic damage. When the [[Ember Vein Envoy\|Ember Vein Envoy]] dropped the illusion concealing the ritual chamber's back wall, Elik'r alone recognised his **family crest on the clasp of the ancient purple dragonborn statue**. The statue was subsequently animated; boss encounter unresolved at session end.
     
 - **[[Sessions/Session 39 - 18 April 2026\|Session 39 - 18 April 2026]]:** Fought the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] across two phases; used Vow of Enmity, Wrathful Smite, Hunter's Mark, and two Thunderous Smites (42 damage in a single turn). The dragonborn, dying at his feet, confirmed the ancestral connection directly: _"You carry my line. And yet you undo my sacrifice."_ Passed Elik'r his longsword (which resized on contact) and gestured to the Stormswallow family banner with a final charge: _"Do what I could not do, for the sake of our family in the world."_ Both the longsword and the banner are now in Elik'r's possession. Also recovered the Key of the Wrong Door from a makeshift office chest in the ritual chamber.
+    
+- **[[Sessions/Session 40 - 25 May 2026\|Session 40 - 25 May 2026]]:** Attuned to the Stormswallow Longsword and discovered its Ember Wave ability. Fought through a zombie ambush at [[Locations/Thalas'Miriel\|Thalas'Miriel]] alongside [[NPCs/Calen Thorne\|Calen Thorne]], using Misty Step (via Cloak of Ethereal Traveller) to reach [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] on a rooftop and engage him directly in melee.
     
 
 ### Character Arc

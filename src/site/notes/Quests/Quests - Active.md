@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/quests/quests-active/"}
 ---
 
-**Session 39** | Marshals of the North | 732 troops | War chest access
+**Session 40** | Marshals of the North | 732 troops | War chest access
 
 > [Index](02 Quests Index.md) | **Active** | [On Hold](Quests - On Hold.md) | [Mysteries](Quests - Mysteries.md)
 
@@ -25,13 +25,21 @@
 - [x] ~~Confirm [[NPCs/Clara\|Clara]]'s status~~ (S39 - safe; conscious; at [[NPCs/Calen Thorne\|Calen Thorne]]'s hovel)
 - [x] ~~Exit the [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]]~~ (S39 - party at Calen's hovel for long rest)
 - [ ] **Read sealed scroll found on [[NPCs/Darius Kain\|Darius Kain]]** (contents unknown; potential orders)
-- [ ] **Establish [[NPCs/Calen Thorne\|Calen Thorne]]'s decision on Ducal claim** (promised answer by morning)
+- [x] ~~Establish [[NPCs/Calen Thorne\|Calen Thorne]]'s decision on Ducal claim~~ (S40 - superseded: Calen joined the party as a travelling member rather than giving a definitive Ducal answer; claim itself remains unresolved)
 - [ ] **Counter Vaelorian's delegation to Neverwinter** before it departs (S36 - ticking clock)
-- [ ] Navigate Thalas'Miriel without breaking party's cover
+- [x] ~~Navigate Thalas'Miriel without breaking party's cover~~ (S40 - moot: cover broken by open combat against a zombie incursion in the town)
+- [ ] **Resolve the zombie incursion at [[Locations/Thalas'Miriel\|Thalas'Miriel]]**, directed by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] (S40 - combat unresolved at session end)
 - [ ] Travel to Neverwinter
 - [ ] Secure Duke Alaric Thorne's allegiance (key to northern support)
 - [ ] Rally undecided nobles before Falcon faction does
 - [ ] Establish defensive positions
+
+**Session 40 Intelligence - Thalas'Miriel:**
+
+- [[NPCs/Calen Thorne\|Calen Thorne]] joined the [[Organisations/Riders of the Storm\|Riders of the Storm]] as a travelling party member, following a negotiation in which the party offered to help him secure the Ducal throne; his formal Ducal decision remains outstanding
+- Town found deserted and overrun by a zombie incursion directed by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] from a rooftop near the town inn
+- [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] garrison found barricaded, now under [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]]'s command following [[NPCs/Darius Kain\|Darius Kain]]'s death; Vayne briefed the party and led reinforcements to their aid as the session ended
+- [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]'s location now confirmed (previously unknown since S39); demonstrated Counterspell and a Hunger of Hadar-style spore effect; silenced and blinded by the party, but the fight remained unresolved at session end
 
 **Session 39 Intelligence - Thalas'Miriel:**
 
@@ -96,7 +104,8 @@
 - **[[NPCs/Calen Thorne\|Calen Thorne]]'s Ducal decision pending** — morning answer promised; his candidacy could reshape Neverwinter approach
 - **[[NPCs/Marek Thorne\|Marek Thorne]] returned with mercenary company** — origin unknown; creates military uncertainty around Neverwinter
 - **Vaelorian's delegation to Neverwinter** — ticking clock, counters party's mission
-- **[[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]'s agenda** — admitted engineering party's actions; location unknown; true allegiance unknown
+- **[[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]'s agenda** — admitted engineering party's actions; **location now confirmed at [[Locations/Thalas'Miriel\|Thalas'Miriel]], directing a zombie incursion (S40)**; true allegiance still unknown
+- **[[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] status confirmed (S40)** — in command of the Silver Lantern garrison, leading reinforcements against [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]
 - Kingdom 50/50 split (Eagle vs Falcon)
 - Elvva's Bane corruption advancing (may need Citadel visit first)
 - Elik'r's curse active combat threat (triggered Session 30)
@@ -321,14 +330,15 @@
 
 ## NEXT SESSION IMMEDIATE PRIORITIES
 
-1. **Receive [[NPCs/Calen Thorne\|Calen Thorne]]'s answer** on the Ducal claim (promised by morning)
+1. **Resolve the fight against [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] and the zombie incursion** at [[Locations/Thalas'Miriel\|Thalas'Miriel]] (S40 cliffhanger)
 2. **Read the sealed scroll** recovered from [[NPCs/Darius Kain\|Darius Kain]]'s body
-3. **Identify the dragonborn's longsword** now in [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s possession (properties unknown)
+3. **Identify the dragonborn's longsword** — Elik'r has now attuned to it and discovered its Ember Wave ability (S40); other properties still unknown
 4. **Counter Vaelorian's delegation to [[Locations/Neverwinter\|Neverwinter]]** — ticking clock
-5. **Determine next move toward [[Locations/Neverwinter\|Neverwinter]]** — [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] and freed Silver Lanterns' status post-wyrm unconfirmed
+5. **Establish [[NPCs/Calen Thorne\|Calen Thorne]]'s formal Ducal claim decision**, now that he has joined the party
+6. **Determine next move toward [[Locations/Neverwinter\|Neverwinter]]**
 
 ---
 
-**Last Updated:** Session 39
+**Last Updated:** Session 40
 
 > [Index](02 Quests Index.md) | **Active** | [On Hold](Quests - On Hold.md) | [Mysteries](Quests - Mysteries.md)

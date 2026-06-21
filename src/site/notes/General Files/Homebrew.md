@@ -137,6 +137,26 @@
 
 ## Magical Items
 
+### Stormswallow Longsword
+
+**Owner:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] | **Type:** Longsword | **Status:** Attuned (S40) | **Source:** Passed by the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] on his death (Session 39)
+
+**Description:** Dark iron blade threaded with ember-red veins; resized to Elik'r's proportions on transfer.
+
+**Properties:**
+
+- Standard longsword (1d8 slashing, versatile 1d10)
+- Attuned to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (S40)
+
+**Ember Wave** _(triggered on a successful hit, S40)_
+
+- On a successful hit, Elik'r can slam the blade into the ground as part of the same action
+- **Effect:** 10-foot radius wave of fire
+- **Saving Throw:** DC 14 Dexterity, half damage on success
+- Other properties not yet identified
+
+---
+
 ### Hearts Rend
 
 **Owner:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] | **Type:** Longsword | **Status:** Cursed, attuned | **Named by:** Elik'r

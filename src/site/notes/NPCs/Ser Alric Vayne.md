@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/np-cs/ser-alric-vayne/"}
 ---
 
-**Faction:** Ally
-**Status:** Active - location unknown (S37)
-**Race:** Human
-**Class:** Unknown (military/knights)
+**Faction:** Ally 
+**Status:** Active - in command of [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] garrison at [[Locations/Thalas'Miriel\|Thalas'Miriel]] (S40) 
+**Race:** Human 
+**Class:** Unknown (military/knights) 
 **Tags:** #npc/ally #npc/military #npc/knights
 
 ---
@@ -23,6 +23,7 @@ Former second in command of the [[Organisations/Order of the Silver Lantern\|Ord
 - Shared location of a Crown loyalist safehouse in [[Locations/Thalas'Miriel\|Thalas'Miriel]] with [[Party Members/Tooo-Ah\|Tooo-Ah]] - surviving loyal members of the Order have been gathering there
 - Freed fellow imprisoned Silver Lanterns (approximately 8 men, all former warriors) using garrison keys
 - Intended to attempt rescue of the unidentified man being tortured in the garrison (S37) via the back entrance; descended into the hidden passage with the party when the situation escalated
+- **Now in command of the Silver Lantern garrison at [[Locations/Thalas'Miriel\|Thalas'Miriel]] (S40)** - found by the party with the garrison barricaded against a zombie incursion; briefed them on the attack and the retreat to the [[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]]; led reinforcements to the party's aid during the fight against [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]
 
 ### Relationships
 
@@ -33,6 +34,7 @@ Former second in command of the [[Organisations/Order of the Silver Lantern\|Ord
 ### Appearances
 
 - [[Sessions/Session 37 - 22 March 2026\|Session 37 - 22 March 2026]] - Met [[Party Members/Tooo-Ah\|Tooo-Ah]] through cell bars; shared intelligence on the Order's corruption and a garrison back-entrance route; freed alongside fellow prisoners; descended into hidden passage with party at session end
+- [[Sessions/Session 40 - 25 May 2026\|Session 40 - 25 May 2026]] - Found in command of the barricaded Silver Lantern garrison at [[Locations/Thalas'Miriel\|Thalas'Miriel]] following a zombie incursion; briefed the party on the attack; led reinforcements to their aid against [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] as the session ended
 
 ### Related Quests
 

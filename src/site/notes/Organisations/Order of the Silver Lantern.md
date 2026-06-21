@@ -3,12 +3,18 @@
 ---
 
 **Type:** Knightly Order (Religious-Military) 
-**Alignment:** Uncertain - leaderless at garrison level; Crown loyalist faction active 
+**Alignment:** Crown loyalist - under [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]]'s command at garrison level (S40) 
 **Base:** [[Locations/Thalas'Miriel\|Thalas'Miriel]] (garrison and smithy) 
 **Founded:** Unknown 
-**Current Status:** Leaderless - [[NPCs/Darius Kain\|Darius Kain]] killed (S38); [[Organisations/Ember Vein\|Ember Vein]] surface apparatus dismantled; Crown loyalist rearguard holding three-staircase junction
+**Current Status:** [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] in command of the garrison (S40), barricaded against a zombie incursion affecting [[Locations/Thalas'Miriel\|Thalas'Miriel]]; [[NPCs/Darius Kain\|Darius Kain]] killed (S38); [[Organisations/Ember Vein\|Ember Vein]] surface apparatus dismantled
 
 ---
+
+## Current Status (Session 40)
+
+- [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] now found in command of the garrison, ending its leaderless status at the local command level
+- Garrison barricaded shut against a zombie incursion overrunning [[Locations/Thalas'Miriel\|Thalas'Miriel]]; Vayne briefed the party and led reinforcements out to their aid against [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]
+- Status of Kain loyalist knights and the three-staircase junction rearguard not addressed this session
 
 ## Current Status (Session 38)
 
@@ -57,7 +63,7 @@
 |Role|Name|Status|
 |---|---|---|
 |**High Commander**|[[NPCs/Darius Kain\|Darius Kain]]|**Deceased (S38)** - killed by [[Party Members/Tooo-Ah\|Tooo-Ah]]; confirmed [[Organisations/Ember Vein\|Ember Vein]] operative|
-|**Former Second in Command**|[[NPCs/Ser Alric Vayne\|Ser Alric Vayne]]|Active (S38) - Crown loyalist; holding three-staircase junction as rearguard|
+|**Former Second in Command, now in command**|[[NPCs/Ser Alric Vayne\|Ser Alric Vayne]]|**Active (S40) - in command of the garrison; Crown loyalist**|
 |**Cathedral authority**|[[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]]|Commands the Order politically; status post-S38 unknown|
 |**Knights (Kain loyalists)**|Unknown (multiple)|Status uncertain - leaderless (S38)|
 |**Knights (Crown loyalists)**|~8 freed members|Active (S38) - rearguard with [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]]|
@@ -82,7 +88,7 @@
 **Related NPCs:**
 
 - [[NPCs/Darius Kain\|Darius Kain]] - High Commander, [[Organisations/Ember Vein\|Ember Vein]] operative; **deceased (S38)**
-- [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] - former second in command, Crown loyalist; holding rearguard (S38)
+- [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] - former second in command, Crown loyalist; **now in command of the garrison (S40)**
 - [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]] - commands the Order politically
 - [[NPCs/Calen Thorne\|Calen Thorne]] - sought access to garrison to find [[NPCs/Clara\|Clara]]; inside underground complex with party (S38)
 - [[NPCs/Clara\|Clara]] - priestess-in-training; rescued from ritual table (S38); status uncertain
@@ -104,8 +110,8 @@
 
 **Open Questions:**
 
-- Can [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]]'s loyalist faction be restored to Crown allegiance and the Order rebuilt?
 - What becomes of the Kain loyalist knights now that [[NPCs/Darius Kain\|Darius Kain]] is dead?
 - Does [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]] know the extent of the [[Organisations/Ember Vein\|Ember Vein]]'s control over the Order?
 - Does the Order have presence beyond [[Locations/Thalas'Miriel\|Thalas'Miriel]]?
 - Who is the unidentified man still locked in the torture room (permanent lockpicks, S37)?
+- What caused the zombie incursion the garrison is now barricaded against (S40)?

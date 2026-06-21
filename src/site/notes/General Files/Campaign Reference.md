@@ -6,7 +6,9 @@
 
 # Campaign Reference - Quick Lookup
 
-**Last Updated:** Session 38 **Campaign:** Riders of the Storm **System:** D&D 5E  
+**Last Updated:** Session 40 
+**Campaign:** Riders of the Storm 
+**System:** D&D 5E  
 **Current Party Level:** 6 (levelled Session 30)
 
 ---
@@ -17,7 +19,7 @@
 |---|---|---|---|
 |**Ser Tessell Highfrost**|Paul|Life Cleric 6|Knight of Storm Riders, General of the Left, permanent scar, targeted by dormant Bane command (Tooo-Ah), Bane manifested physically through palm (S37), **seraph contact via ember fissure - "Kill them all" (S38)**|
 |**Lady Odonia of Galantri**|Annie|Ranger 6|Lady of Sylobelle, Royal Advisor, General of the North, **Warg ability (even/odd control)**, dormant Bane command (kill Co'narr)|
-|**Elik'r Stormswallow**|Kieran|Paladin 6|Age 17, dragonborn, General of the Right, curse active (3 psychic when harming Elvva), missing pinky finger (S34), Mini Steve, **family crest on ancient purple dragonborn statue (S38 - CRITICAL)**|
+|**Elik'r Stormswallow**|Kieran|Paladin 6|Age 17, dragonborn, General of the Right, curse active (3 psychic when harming Elvva), missing pinky finger (S34), Mini Steve, **attuned to Stormswallow Longsword - Ember Wave ability (S40)**|
 |**Tooo-Ah**|Joy|Monk 6|Aarakocra, Chariot General, brews magical teas, adopted Avicia, Horn of Winter Gale (S35), Ring of Intuition (S31); **killed Darius Kain (S38)**|
 |**Elvva Beltavar**|Shannon|Sorc 5/Lock 1|Age 217, drow, main DPS, **CRITICAL Bane corruption (Dragon's Breath now green Bane flame S36)**, Dragon's Tear gem, Wand of Dusk Veil (S36); **teleported to underground chamber by Ember Vein Envoy (S38); full party reunited**|
 
@@ -26,25 +28,24 @@
 
 ---
 
-## Current Situation (Session 38)
+## Current Situation (Session 40)
 
-**Location:** [[Locations/Thalas'Miriel\|Thalas'Miriel]] - inside [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]], ritual chamber (S38 cliffhanger) **Status:** Marshals of the North, 732 troops + Seraphine (at Stormhold Keep); full party reunited (Elvva teleported in by [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] S38) **Mission:** Rally the North - blocked by Thalas'Miriel crisis; immediate encounter unresolved **Crisis:** [[NPCs/Purple Dragonborn\|Purple Dragonborn]] boss encounter unresolved; seraph stirring; civil war nationwide (50/50); Vaelorian's delegation still a ticking clock
+**Location:** [[Locations/Thalas'Miriel\|Thalas'Miriel]] - town centre, mid-battle (S40) **Status:** Marshals of the North, 732 troops + Seraphine (at Stormhold Keep); [[NPCs/Calen Thorne\|Calen Thorne]] joined the party as a travelling member (S40) **Mission:** Rally the North - blocked by zombie incursion at Thalas'Miriel **Crisis:** Town found overrun by a zombie incursion directed by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]; fight unresolved as reinforcements arrived at session end
 
 **Immediate Concerns:**
 
-- **[[NPCs/Purple Dragonborn\|Purple Dragonborn]] boss encounter:** Animated from ancient statue bearing Elik'r's family crest; threat or ally unknown (S38 cliffhanger)
-- **Seraph stirring:** All four pedestals ignited (S38); party confirmed as cause; scale unknown
-- **[[NPCs/Clara\|Clara]] status uncertain:** Last seen on ritual chamber floor after [[NPCs/Calen Thorne\|Calen Thorne]] rescued her from the ritual table
-- **Vaelorian's delegation to Neverwinter:** Ticking clock - counters Rally the North mission directly
-- **[[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]]:** Senior figure of unknown rank; at large; agenda unclear
-- **Elik'r's family crest on ancient statue:** Connection to his bloodline entirely unknown
-- Elvva's Bane corruption CRITICAL (Dragon's Breath now manifesting as green Bane flame S36)
+- **Zombie incursion at [[Locations/Thalas'Miriel\|Thalas'Miriel]]:** Directed by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] from a rooftop; cause unconfirmed; fight ongoing at session end
+- **[[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]:** Location now confirmed (previously unknown S39); silenced and blinded by party but not defeated
+- **[[NPCs/Ser Alric Vayne\|Ser Alric Vayne]]:** Now in command of the barricaded Silver Lantern garrison; led reinforcements to the party's aid
+- **[[NPCs/Calen Thorne\|Calen Thorne]]'s Ducal claim:** Still undecided - joined the party instead of giving a formal answer
+- Sealed scroll from [[NPCs/Darius Kain\|Darius Kain]] still unread
+- Vaelorian's delegation to Neverwinter: Ticking clock - counters Rally the North mission directly
+- Elvva's Bane corruption CRITICAL (Dragon's Breath manifesting as green Bane flame S36)
 - Elik'r's curse active (3 psychic damage when harming Elvva)
 - Eastern Citadel fallen silent (strange creatures attacking)
-- Elincia Flowers escaped (whereabouts unknown)
-- **Zorn:** Named S36 by orc wolf rider; imminent threat declared
+- Wyrm taken by Pompaduke (S39) - no sign of it during this encounter
 
-**Next Steps:** Resolve Purple Dragonborn encounter; confirm Clara's status; exit underground complex; counter Neverwinter delegation
+**Next Steps:** Resolve the fight against Pompaduke and the zombies; read sealed scroll; counter Neverwinter delegation; determine next move toward Neverwinter
 
 ---
 
@@ -92,9 +93,9 @@
 
 ### Support
 
-- **Ser Alric Vayne** - **NEW S37**: Former second in command, Order of the Silver Lantern; Crown loyalist; freed from garrison (S37); holding three-staircase junction as rearguard (S38)
-- **Calen Thorne** - **CONFIRMED S38** (was "Brother Calen"): Combat-trained monk operating under alias; bastard son of [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]; aided garrison infiltration; his mentor found an identical Ember Vein site beneath [[Locations/Neverwinter\|Neverwinter]]; inside underground complex with party (S38)
-- **Lord Pompaduke the Third** - **NEW Session 35**: Human bard companion (enchantment bard, formerly unnamed minstrel at Crossroads Inn), powerful bardic magic including portal creation
+- **Ser Alric Vayne** - **S37**: Former second in command, Order of the Silver Lantern; Crown loyalist; **now in command of the garrison (S40), led reinforcements against Pompaduke**
+- **Calen Thorne** - **JOINED PARTY S40** (was "Brother Calen"): Combat-trained monk; bastard son of [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]; fought alongside party against zombie incursion; Ducal claim still undecided
+- **Lord Pompaduke the Third** - ~~Companion~~ **RECLASSIFIED ANTAGONIST (S39)** - see Key Antagonists
 - Sylobelle: Erland Greystone (mayor/investigator), Sofia (attack survivor), Terry (guard)
 - Squires: Alarin Moonwhisper (Tessell's), ~~Guy~~ (DEAD Session 22), Ser Garet (Elik'r's)
 - Companions: River (Rottweiler), Bob the Whipping Boy
@@ -122,6 +123,7 @@
 - **Ser Anfalen** - Former Lord of Sylobelle, stripped of lands, declared for Falcon
 - **High Luminary Aelthir Vaelorian** - **NEW S36**: 482-year-old elf, head of Cathedral of Gentle Redemption, Thalas'Miriel; actively organising Falcon's northern campaign; commands Order of the Silver Lantern
 - **Ember Vein Envoy (unnamed)** - **NEW S38**: Senior [[Organisations/Ember Vein\|Ember Vein]] figure; phasing (immune to physical attacks); animated Purple Dragonborn; addressed party directly; teleported Elvva; restored party to full strength; at large; agenda unknown
+- **Lord Pompaduke the Third** - **CONFIRMED ANTAGONIST (S39)**; resurfaced directing a zombie incursion at [[Locations/Thalas'Miriel\|Thalas'Miriel]] (S40); silenced and blinded by party, fight unresolved
 - **Darius Kain** - ~~ACTIVE~~ **DECEASED (S38)** - killed by [[Party Members/Tooo-Ah\|Tooo-Ah]]; confirmed [[Organisations/Ember Vein\|Ember Vein]] Third Vein operative
 - Duke Vallandor Firebloom, Baron Roderick Stonewall, Ser Tristan Blackwood (conspirators)
 
@@ -130,29 +132,32 @@
 - **The Bane** - Ancient evil, released by party, corrupting Elvva, dormant commands planted
 - Emperor Vladier Drakonhart - Immortal Draconic Empire ruler, hostile
 - Barry/Larry - Gnome army leader (shot in eye by Odonia), connected to Fizwidget Spindleflash
-- **Purple Dragonborn** - **ANIMATED (S38)** - ancient dragonborn, 12ft tall; bears [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s family crest; ember-veined longsword; boss encounter unresolved
+- **Purple Dragonborn** - ~~ANIMATED (S38)~~ **DEFEATED, DECEASED (S39)** - confirmed Stormswallow ancestor; passed longsword and family banner to Elik'r
 
 ---
 
 ## Key Locations
 
-**Current:** [[Locations/Thalas'Miriel\|Thalas'Miriel]] - inside [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]], ritual chamber (S38 cliffhanger); [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] and freed Silver Lanterns holding three-staircase junction as rearguard **Base:** Stormhold Keep (732 troops + Seraphine, official deed, walls under construction) **Next Destination:** Neverwinter (after resolving Thalas'Miriel)
+**Current:** [[Locations/Thalas'Miriel\|Thalas'Miriel]] - town centre, mid-battle against a zombie incursion (S40); [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] leading Silver Lantern reinforcements **Base:** Stormhold Keep (732 troops + Seraphine, official deed, walls under construction) **Next Destination:** Neverwinter (after resolving Thalas'Miriel)
 
-**Kingdoms:** Odessia (civil war 50/50 split), Nolunia (north), Immortal Draconic Empire (south hostile) **Cities:** Belendar (capital, secured), Neverwinter (northern duchy, first target, Iron Finch + Crimson Pike mercenaries there) **Towns:** Sylobelle (Odonia's seat, Lady Isolde mayor S31), Canathalas (port), Ulvenora (mining), **Thalas'Miriel (current location, Falcon-aligned, Cathedral of Gentle Redemption, Silver Lantern garrison)** **Inns:** Crossroads Inn (Burrow and Barrel Inn, visited S32), Secret Tavern Hideout **Dungeons:** Moth Queen Cavern (cleared S34), Fizwidget's Winter Realm (S33-35, resolved), Challenge Rooms, Underground Roads, Purple Dragonborn's Cavern, Stonereach Cavern (collapsed S31), [[Locations/Silver Lantern Garrison\|Silver Lantern Garrison]] (infiltrated S37, Kain deceased S38), [[Locations/Silver Lantern Garrison - Hidden Passage\|Silver Lantern Garrison - Hidden Passage]] (junction held by Alric Vayne S38), **[[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] (ancient cult site, party inside S38)** **Critical:** Eastern Citadel (gone silent), Bane Watcher Citadel (island in central lake, urgent destination) **Destroyed:** Ser Silvar's Mansion (Session 22)
+**Kingdoms:** Odessia (civil war 50/50 split), Nolunia (north), Immortal Draconic Empire (south hostile) **Cities:** Belendar (capital, secured), Neverwinter (northern duchy, first target, Iron Finch + Crimson Pike mercenaries there) **Towns:** Sylobelle (Odonia's seat, Lady Isolde mayor S31), Canathalas (port), Ulvenora (mining), **Thalas'Miriel (overrun by zombie incursion, S40; Falcon-aligned, Cathedral of Gentle Redemption)** **Inns:** Crossroads Inn (Burrow and Barrel Inn, visited S32), Secret Tavern Hideout **Dungeons:** Moth Queen Cavern (cleared S34), Fizwidget's Winter Realm (S33-35, resolved), Challenge Rooms, Underground Roads, Purple Dragonborn's Cavern, Stonereach Cavern (collapsed S31), [[Locations/Silver Lantern Garrison\|Silver Lantern Garrison]] (**allied, under Ser Alric Vayne's command S40**), [[Locations/Silver Lantern Garrison - Hidden Passage\|Silver Lantern Garrison - Hidden Passage]], **[[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] (ancient cult site, cleared/abandoned S39)** **Critical:** Eastern Citadel (gone silent), Bane Watcher Citadel (island in central lake, urgent destination) **Destroyed:** Ser Silvar's Mansion (Session 22)
 
 ---
 
 ## Critical Quests (Active)
 
-### PRIMARY MISSIONS (Session 38)
+### PRIMARY MISSIONS (Session 40)
 
-- **Resolve Purple Dragonborn Encounter** - **CRITICAL IMMEDIATE**: Boss encounter unresolved (S38 cliffhanger); bearing Elik'r's family crest; threat or ally unknown
-- **Confirm Clara's Status** - **CRITICAL**: Last seen on ritual chamber floor after rescue; status uncertain
-- **Exit Underground Complex** - **HIGH**: Left-hand staircase to [[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]] is known route
+- **Resolve Zombie Incursion at Thalas'Miriel** - **CRITICAL IMMEDIATE**: Fight against [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] and zombies unresolved (S40 cliffhanger)
+- **Read Sealed Scroll** - **HIGH**: Recovered from [[NPCs/Darius Kain\|Darius Kain]]'s body (S39); still unread
 - **Counter Vaelorian's Delegation** - **CRITICAL**: High Luminary organising Neverwinter delegation (ticking clock, counters Rally the North)
-- **Rally the North** - **ACTIVE**: Secure Duke Alaric Thorne (Neverwinter), unite northern nobles for Princess
+- **Rally the North** - **ACTIVE**: Secure Duke Alaric Thorne (Neverwinter), unite northern nobles for Princess; [[NPCs/Calen Thorne\|Calen Thorne]] joined party (S40), Ducal claim still undecided
 - **Visit Bane Watcher Citadel** - CRITICAL-URGENT: Elvva's corruption (Dragon's Breath S36), Elik'r's curse active, dormant commands, Dragon's Tear
 - **Secure Eastern Border** - HIGH: Investigate Eastern Citadel silence, strange creatures attacking
+
+### COMPLETED (Session 39)
+
+- ✅ **Find the Purple Dragonborn** - Defeated; confirmed Stormswallow ancestor; longsword and family banner passed to Elik'r
 
 ### COMPLETED (Session 38)
 
@@ -213,7 +218,7 @@
 - **Eagle Faction** - Crown Princess's forces, controlling Belendar and palace
 - **Falcon Faction** - Elincia/Alvar forces, ~50% kingdom support, southern army; **northern campaign now active via Thalas'Miriel (S36)**
 - **Ember Vein** - **NEW S38**: Ancient containment cult; maintains seraph's slumber via ember fissures; Inner Ember + High Flame at large; [[NPCs/Darius Kain\|Darius Kain]] (Third Vein, deceased); [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] at large
-- **Order of the Silver Lantern** - **S36**: Knightly order, Thalas'Miriel garrison; **leaderless (S38)**; [[NPCs/Darius Kain\|Darius Kain]] deceased; Crown loyalist faction ([[NPCs/Ser Alric Vayne\|Ser Alric Vayne]]) holding rearguard
+- **Order of the Silver Lantern** - **S36**: Knightly order, Thalas'Miriel garrison; **[[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] now in command (S40)**; [[NPCs/Darius Kain\|Darius Kain]] deceased; garrison barricaded against zombie incursion
 - **Iron Finch Company** - **NEW S32**: Professional mercenaries (reliable), Captain Mara Veylan, hired by Duke Alaric Thorne
 - **Crimson Pike** - **NEW S32**: Mercenaries (NO ALLEGIANCES, will switch sides), Captain Rhyla Garron "Red Viper"
 - **Gnome Army** - Barry leads, revenge on Odonia
@@ -304,6 +309,7 @@
 - Infinite Radiant Bow (Odonia) - +1d4 radiant, infinite ammo
 - Twin Blades of the Serpent (Odonia)
 - **Hearts Rend (Elik'r)** - Longsword, cursed, attuned; charges via self-inflicted damage (100 HP total); activates flaming cone (4d10+2) at full charge; named by Elik'r
+- **Stormswallow Longsword (Elik'r)** - **NEW S40, attuned** - ember-veined longsword from the Purple Dragonborn; Ember Wave (10ft radius fire wave on hit, DC 14 Dex half)
 - Basic Jousting Armor (Elvva)
 - Hide Armour (Odonia) - **NEW Session 27**, properties unknown
 
@@ -369,6 +375,8 @@
 - **Session 36:** Goblin warband defeated; female orc rider on Frost Wolf attacked and warned about "Zorn" (first named); party arrived Thalas'Miriel; tea effects (24 hrs); Lord Pompaduke led worship as "Brother Algrim" (Bane aura from lute); High Luminary Vaelorian announced Neverwinter delegation; Elvva purchased Wand of Dusk Veil; Odonia visited Order smithy; Tooo-Ah arrested stealing from collection basket, detained at Order of Silver Lantern garrison (cliffhanger)
 - **Session 37:** Tooo-Ah rescued; Darius Kain confirmed as cult-aligned High Commander; Ser Alric Vayne (Crown loyalist, former second in command) freed alongside ~8 Silver Lanterns; Calen Thorne (as "Brother Calen") aided infiltration; Clara's cell found empty with bloodstains; The Bane flowed physically from Tessell's palm to activate hidden cult symbol - party entered hidden passage below garrison
 - **Session 38:** Party explored [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]]; identified cult as [[Organisations/Ember Vein\|Ember Vein]] (ancient seraph-containment organisation); [[NPCs/Darius Kain\|Darius Kain]] killed by [[Party Members/Tooo-Ah\|Tooo-Ah]]; [[NPCs/Calen Thorne\|Calen Thorne]] identity confirmed; [[NPCs/Clara\|Clara]] rescued from ritual table; [[Party Members/Elvva Beltavar\|Elvva Beltavar]] teleported in by [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]]; [[NPCs/Purple Dragonborn\|Purple Dragonborn]] animated from ancient statue bearing Elik'r's family crest; boss encounter unresolved (cliffhanger)
+- **Session 39:** [[NPCs/Purple Dragonborn\|Purple Dragonborn]] defeated in two-phase boss fight, confirmed as Stormswallow ancestor, passed longsword and family banner to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] before crumbling to dust; [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] revealed he engineered the party's actions, departed via Bane portal with the wyrm; [[NPCs/Calen Thorne\|Calen Thorne]] confirmed identity as Duke Alaric Thorne's bastard son; party took a long rest at Calen's hovel
+- **Session 40:** [[NPCs/Calen Thorne\|Calen Thorne]] joined the party after a negotiation over his Ducal options; [[Locations/Thalas'Miriel\|Thalas'Miriel]] found overrun by a zombie incursion directed by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]; [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] found in command of the barricaded Silver Lantern garrison; [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] attuned to the Stormswallow Longsword and discovered its Ember Wave ability; fight against Pompaduke and the zombies unresolved as reinforcements arrived at session end
 
 ---
 
@@ -411,13 +419,13 @@
 - Ser Pas Rata (Former party, ~1 month ago)
 - Ser Balthazar Thornwood (Wyvern shapeshifter, killed by Odonia)
 
-### Session 38 Immediate Decisions
+### Session 40 Immediate Decisions
 
-1. **Resolve [[NPCs/Purple Dragonborn\|Purple Dragonborn]] encounter** - threat or ally? What is its connection to Elik'r's bloodline?
-2. **Confirm [[NPCs/Clara\|Clara]]'s status** - last seen on ritual chamber floor
-3. **Exit [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]]** - left-hand staircase to [[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]] is known route
-4. **Counter Vaelorian's delegation** to Neverwinter before it departs
-5. **Understand the seraph** - separate entity from [[NPCs/The Bane\|The Bane]]? Party confirmed as cause of its stirring
+1. **Resolve the fight against [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] and the zombie incursion** at [[Locations/Thalas'Miriel\|Thalas'Miriel]]
+2. **Read the sealed scroll** recovered from [[NPCs/Darius Kain\|Darius Kain]]'s body
+3. **Counter Vaelorian's delegation** to Neverwinter before it departs
+4. **Establish [[NPCs/Calen Thorne\|Calen Thorne]]'s formal Ducal claim decision**, now that he has joined the party
+5. **Determine next move toward Neverwinter**
 
 ---
 

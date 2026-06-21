@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/np-cs/calen-thorne/"}
 ---
 
-**Faction:** Circumstantial ally 
+**Faction:** Active party member (S40) 
 **Status:** Active 
 **Race:** Human 
 **Tags:** #npc/unknown #npc/nobles
@@ -27,13 +27,14 @@ Young, fair-featured human male with light blonde hair and a toned, athletic bui
 - S39: Confirmed his father [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] is old and dying; eldest brother [[NPCs/Edran Thorne\|Edran Thorne]] is effectively in charge — wants to preserve what their father built but is cold-hearted and deeply ambitious; middle brother [[NPCs/Marek Thorne\|Marek Thorne]] has returned with a mercenary company of unknown origin
 - S39: The current Regent of [[Locations/Neverwinter\|Neverwinter]] is a Professor from abroad, described as wise and very gaudy, who rose through the ranks after the Duke's condition worsened; name unknown to Calen
 - S39: Considering taking the Ducal title if an opening exists; promised the party an answer by morning
+- **S40: Formally joined the [[Organisations/Riders of the Storm\|Riders of the Storm]] as a travelling party member**, following a negotiation in which the party offered to help him secure the Ducal throne of [[Locations/Neverwinter\|Neverwinter]]; fought alongside the party against a zombie incursion at [[Locations/Thalas'Miriel\|Thalas'Miriel]], taking heavy damage but holding his own with sword and shield
 
 ### Relationships
 
 - Father: [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] (Duke of [[Locations/Neverwinter\|Neverwinter]])
 - Half-brothers: [[NPCs/Edran Thorne\|Edran Thorne]] (legitimate heir, 35), [[NPCs/Marek Thorne\|Marek Thorne]] (legitimate, 24)
 - Sought: [[NPCs/Clara\|Clara]] (priestess-in-training; rescued from ritual table S38; current status uncertain)
-- Aligned with: [[Organisations/Riders of the Storm\|Riders of the Storm]] (current, circumstantial)
+- Aligned with: [[Organisations/Riders of the Storm\|Riders of the Storm]] (joined as party member, S40)
 - Against: [[NPCs/Darius Kain\|Darius Kain]] (deceased S38)
 
 ### Appearances
@@ -42,6 +43,7 @@ Young, fair-featured human male with light blonde hair and a toned, athletic bui
 - [[Sessions/Session 37 - 22 March 2026\|Session 37 - 22 March 2026]] - Identified himself as Brother Calen; offered intelligence on garrison back entrance; demonstrated lethal combat skill during infiltration; descended into hidden passage with party at session end
 - [[Sessions/Session 38 - 6 April 2026\|Session 38 - 6 April 2026]] - Accompanied party through the [[Organisations/Ember Vein\|Ember Vein]] underground complex; revealed his mentor had found a near-identical site beneath [[Locations/Neverwinter\|Neverwinter]]; confirmed [[NPCs/Darius Kain\|Darius Kain]]'s identity on sight; rescued [[NPCs/Clara\|Clara]] from the ritual table mid-combat; pulled back into the chamber by the [[Ember Vein Envoy\|Ember Vein Envoy]] at session end
 - [[Sessions/Session 39 - 18 April 2026\|Session 39 - 18 April 2026]] - Fought in both phases of the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] boss fight; reduced to 1 HP by the psychic roar. Post-combat: acknowledged his true identity to the party; provided intelligence on brothers [[NPCs/Edran Thorne\|Edran Thorne]] and [[NPCs/Marek Thorne\|Marek Thorne]] and on the unnamed Regent; is considering a Ducal claim and promised an answer by morning. Took a long rest with the party at his hovel.
+- [[Sessions/Session 40 - 25 May 2026\|Session 40 - 25 May 2026]] - Agreed to join the party after a breakfast negotiation over options for securing the Ducal throne; fought alongside the party against a zombie ambush at [[Locations/Thalas'Miriel\|Thalas'Miriel]], directed by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]
 
 ### Related Quests
 

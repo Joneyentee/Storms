@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/locations/thalas-miriel/"}
 ---
 
-**Elvish Name:** Thalas'Miriel
-**Common Name:** Tears of the Forest
-**Type:** Town (Cathedral settlement)
-**Region:** Central [[Locations/Odessia\|Odessia]]
-**Status:** Rebel-aligned (Threat)
+**Elvish Name:** Thalas'Miriel 
+**Common Name:** Tears of the Forest 
+**Type:** Town (Cathedral settlement) 
+**Region:** Central [[Locations/Odessia\|Odessia]] 
+**Status:** Overrun - zombie incursion in progress (S40); previously Rebel-aligned (Threat) 
 **Tags:** #location #location/town #location/hostile #location/active-quest
 
 ---
@@ -84,6 +84,13 @@ Long-standing cathedral town. Religious centre for concept of "Gentle Redemption
 - [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] is an armed military presence
 - Party's cover could break at any moment
 
+**Zombie Incursion (S40):**
+
+- Town found deserted and overrun; [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] garrison barricaded shut under [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]]'s command
+- Fast-moving, decayed, bewitched assailants confirmed directed by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] from a rooftop near the town inn
+- Cause of the incursion unconfirmed; fight against Pompaduke and his zombies still ongoing as reinforcements arrived at session end
+- [[NPCs/Calen Thorne\|Calen Thorne]] joined the [[Organisations/Riders of the Storm\|Riders of the Storm]] as a travelling party member during this incident
+
 ## Connections
 
 **Part of:**
@@ -127,6 +134,8 @@ Long-standing cathedral town. Religious centre for concept of "Gentle Redemption
 - [[Sessions/Session 28 - 6 September 2025\|Session 28 - 6 September 2025]] - [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]] briefed party: Cathedral town confirmed siding with rebels ([[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]], Falcon Faction). Located northeast of [[Locations/Stormhold Keep\|Stormhold Keep]] on route to Neverwinter, making it strategic obstacle for Rally the North mission. Party mission order: Investigate after [[Locations/Sylobelle\|Sylobelle]] disappearances resolved.
     
 - [[Sessions/Session 36 - 21 February 2026\|Session 36 - 21 February 2026]] - Party arrived after defeating goblin warband ambush on the road. Long rest at monk-run halfway house. Party split: Elvva visited curio shop (purchased Wand of Dusk Veil, 380 gp); Odonia visited [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] smithy (three magic longswords viewed, all unaffordable); Tessell, Elik'r, Tooo-Ah attended cathedral morning service. [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]] delivered politically charged sermon, called for mobilisation of knights, announced delegation to Neverwinter. [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] led worship as "Brother Algrim." Odonia's Primeval Awareness detected two unknown creature types near the cathedral. [[Party Members/Tooo-Ah\|Tooo-Ah]] attempted to steal from collection basket, was caught, and detained by [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] guards - session cliffhanger.
+    
+- [[Sessions/Session 40 - 25 May 2026\|Session 40 - 25 May 2026]] - Found deserted and overrun by a zombie incursion directed by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] from a rooftop; party (with newly recruited [[NPCs/Calen Thorne\|Calen Thorne]]) fought through waves of zombies near the town inn; [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] garrison found barricaded under [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]]'s command. Battle still ongoing as reinforcements arrived at session end.
     
 
 ## Notes

@@ -2,9 +2,8 @@
 {"dg-publish":true,"permalink":"/np-cs/lord-pompaduke-the-third/"}
 ---
 
-
-**Faction:** Unknown — own agenda (confirmed S39) 
-**Status:** Active — whereabouts unknown (departed via Bane portal S39) 
+**Faction:** Confirmed antagonist — own agenda, Bane-connected 
+**Status:** Active — directing a zombie incursion at [[Locations/Thalas'Miriel\|Thalas'Miriel]] (S40), engaged and partially neutralised (silenced, blinded) by the party; outcome unresolved at session end 
 **Race:** Human 
 **Class:** Bard (College of Enchantment, estimated level 7-9) 
 **Tags:** #npc/unknown #npc/bard #npc/antagonist #npc/performer #npc/powerful-mage
@@ -24,7 +23,7 @@ Tall, very attractive human male bard with theatrical, lordly personality. Wears
 - **Bane aura confirmed Session 36:** Green aura visibly rose from his lute during the cathedral service; party noticed, congregation did not
 - **True agenda revealed Session 39:** Openly admitted to the party that he had engineered the entire sequence of events — including the animation of the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] and the breaking of the wyrm's seal — to serve his own ends: _"Thank you, everyone, for completing the task I needed to do. For me."_ Departed through a Bane-powered portal with the wyrm immediately after
 - **Was invisible during the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] boss fight (S39):** Appeared mid-combat to play his lute; the Bane-infused performance re-energised the dragonborn, triggering Phase Two; shouted _"Have fun!"_ and vanished before the Phase Two psychic roar
-- Human male, tall, very attractive ("pretty boy")
+- **Resurfaced Session 40:** Found directing a zombie incursion at [[Locations/Thalas'Miriel\|Thalas'Miriel]] from a rooftop, playing his lute as "boss music"; demonstrated Counterspell (countered by [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s own Counterspell, allowing her original Fireball through for 42 damage) and a Hunger of Hadar-style spore effect; silenced by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s Silence spell and blinded by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s Warding Flame, shutting down nearly all of his offensive capability; fight still ongoing as reinforcements arrived at session end
 - Posh theatrical personality — lordly yet mischievous
 - **Demonstrated powers:**
     - Enchantment magic (can make entire tavern dance)
@@ -48,6 +47,8 @@ Tall, very attractive human male bard with theatrical, lordly personality. Wears
 - **Healing Word** (1st level minimum) - bonus action healing spell
 - **Portal creation** - 2-turn bardic ability creating dimensional gateway to teleport allies across battlefield
 - **Multi-instrumental mastery** - lute, flute, violin/fiddle, others
+- **Counterspell** (S40) - countered [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Fireball; her own Counterspell in turn countered his, letting the original Fireball through
+- **Hunger of Hadar-style spore effect** (S40) - area effect demonstrated during the [[Locations/Thalas'Miriel\|Thalas'Miriel]] zombie incursion
 - **Magical hat** - can produce items from cowboy hat
 - High Charisma (crowd loves him, theatrical presence)
 - Combat effectiveness (rolled Natural 20 initiative, acts decisively in battle)
@@ -98,6 +99,7 @@ Theatrical and lordly with mischievous, roguish edge. Speaks in very posh manner
 - **[[Sessions/Session 35 - 8 February 2026\|Session 35 - 8 February 2026]]** - Identity revealed as Lord Pompaduke the Third. Playing lute in tree 100 yards from [[Locations/Crossroads Inn\|Crossroads Inn]], performed alongside [[Party Members/Tooo-Ah\|Tooo-Ah]]'s flute, jumped from tree branch onto party's cart uninvited, introduced himself with theatrical flourish. Joined party heading to [[Locations/Thalas'Miriel\|Thalas'Miriel]]. In combat ambush: rolled Natural 20 initiative, cast Healing Word (1st level) on [[Party Members/Tooo-Ah\|Tooo-Ah]] for 14 HP, began 2-turn portal ability whilst playing "rock ballad"/"boss music", completed portal to teleport [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] to safety behind rock. Nicknamed "Banjo Man" by party.
 - **[[Sessions/Session 36 - 21 February 2026\|Session 36 - 21 February 2026]]** - Appeared at Cathedral of Gentle Redemption introduced by the abbot as **"Brother Algrim"**, a guest brother from afar. Led morning worship in monk's robes, playing morose music on his lute. **A green Bane-like aura rose visibly from the instrument** — noticed by party, not by congregation. Did not acknowledge the party during the service.
 - **[[Sessions/Session 39 - 18 April 2026\|Session 39 - 18 April 2026]]** - Remained invisible throughout Phase One of the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] boss fight. Appeared mid-combat and played his lute directly at the dragonborn — the Bane-infused performance re-energised him, triggering Phase Two and a psychic roar. Shouted _"Have fun!"_ and vanished before the fallout. Reappeared once the wyrm had risen from the ritual chamber floor; performed his customary bow to the party; announced: _"Thank you, everyone, for completing the task I needed to do. For me."_ Opened a Bane-powered green-rimmed portal, guided the wyrm through it, and departed. **Current whereabouts unknown.**
+- **[[Sessions/Session 40 - 25 May 2026\|Session 40 - 25 May 2026]]** - Resurfaced at [[Locations/Thalas'Miriel\|Thalas'Miriel]], directing a zombie incursion against the town from a rooftop while playing his lute. Cast Counterspell against [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Fireball, only for her own Counterspell to counter his, letting the original Fireball through for 42 damage. Deployed a Hunger of Hadar-style spore effect. Silenced by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and blinded by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], effectively neutralised for the remainder of the fight. Battle still ongoing as [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] arrived with reinforcements at session end.
 
 ---
 

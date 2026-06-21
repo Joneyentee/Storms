@@ -4,7 +4,7 @@
 
 **Type:** Garrison / Military Fortification 
 **Region:** [[Locations/Thalas'Miriel\|Thalas'Miriel]] 
-**Status:** Hostile - under control of [[NPCs/Darius Kain\|Darius Kain]] 
+**Status:** Allied - under command of [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]], barricaded against zombie incursion (S40) 
 **Tags:** #location #location/keep #location/hostile #location/active-quest
 
 ---
@@ -32,8 +32,8 @@ Silver Lantern knights and squires loyal to [[NPCs/Darius Kain\|Darius Kain]]. C
 
 ### Leadership
 
-- **High Commander:** [[NPCs/Darius Kain\|Darius Kain]] - turned the Order against the Crown; accused of cult affiliation
-- **Former Second in Command:** [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] - imprisoned, subsequently freed (S37)
+- **High Commander:** [[NPCs/Darius Kain\|Darius Kain]] - turned the Order against the Crown; accused of cult affiliation; **deceased (S38)**
+- **Former Second in Command, now in command:** [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] - imprisoned, subsequently freed (S37); **found in command of the garrison (S40), barricaded against a zombie incursion**
 
 ### History
 
@@ -41,7 +41,7 @@ The [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] o
 
 ### Current Situation
 
-Under [[NPCs/Darius Kain\|Darius Kain]]'s control. Multiple guards killed during the [[Organisations/Riders of the Storm\|Riders of the Storm]]' infiltration (S37). Freed prisoners and the party have descended into the hidden passage below. The garrison above was alerted by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s Thunderous Smite - reinforcements were converging on the basement at session end. The man in the torture chamber remains locked inside by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s permanent lockpicks.
+[[NPCs/Darius Kain\|Darius Kain]] is deceased (S38). [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] is now found in command of the garrison, which is barricaded shut against a zombie incursion affecting the wider town of [[Locations/Thalas'Miriel\|Thalas'Miriel]] (S40). Vayne briefed the party on the attack before leading reinforcements out to their aid against [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]].
 
 ### Connections
 
@@ -76,6 +76,7 @@ Under [[NPCs/Darius Kain\|Darius Kain]]'s control. Multiple guards killed during
 
 - [[Sessions/Session 36 - 21 February 2026\|Session 36 - 21 February 2026]] - [[Party Members/Tooo-Ah\|Tooo-Ah]] arrested and escorted here after stealing from the cathedral collection basket; S36 cliffhanger
 - [[Sessions/Session 37 - 22 March 2026\|Session 37 - 22 March 2026]] - Infiltrated by the [[Organisations/Riders of the Storm\|Riders of the Storm]] via back entrance; cell blocks cleared; [[Party Members/Tooo-Ah\|Tooo-Ah]] and [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] freed; hidden passage discovered and activated; party sealed inside passage at session end
+- [[Sessions/Session 40 - 25 May 2026\|Session 40 - 25 May 2026]] - Found barricaded shut, with [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] now in command following [[NPCs/Darius Kain\|Darius Kain]]'s death; briefed the party on a zombie incursion overrunning the town; led reinforcements out to the party's aid against [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] at session end
 
 ### Notes
 

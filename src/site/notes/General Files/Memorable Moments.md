@@ -5,6 +5,20 @@
 ### Quick reference for epic, funny, and significant moments.
 
 ---
+#### Session 40
+
+**Session 40 - General of the Left** - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] bluffed his way through a claim of battle credentials as "Commander of the Riders of the Storm, General of the Left," and the DM's natural 1 for Calen's attempt to see through it left him thoroughly convinced.
+
+**Session 40 - The Sausage Questline** - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] spent his own stored boon persuading [[NPCs/Calen Thorne\|Calen Thorne]] to fetch sausages, only for Calen to rush back moments later reporting that the entire town had vanished.
+
+**Session 40 - We've Got a Herbalist** - The party's attempt to impress [[NPCs/Calen Thorne\|Calen Thorne]] with their military might collapsed into [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] announcing "we've got a herbalist" and [[Party Members/Elvva Beltavar\|Elvva Beltavar]] offering up her long-dead pet frog.
+
+**Session 40 - Countered Right Back** - [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] countered [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Fireball, only for her to counterspell his counterspell, sending the original Fireball through anyway for 42 damage.
+
+**Session 40 - Silenced and Blinded** - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s Silence spell shut down [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]'s spellcasting, and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s Warding Flame blinded him moments later, leaving the antagonist with almost nothing left to fight back with.
+
+---
+#### Session 39
 
 **Session 39 - You Carry My Line** - The [[NPCs/Purple Dragonborn\|Purple Dragonborn]], dying at [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s feet, revealed himself as an ancestor of the Stormswallow bloodline, passed Elik'r his longsword, gestured to the family banner waiting on the wall, and crumbled to stone dust before Elik'r could say a word in return.
 

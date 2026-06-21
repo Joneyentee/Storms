@@ -123,9 +123,11 @@ The complex has been fully explored, the cult eliminated, and the ritual chamber
 
 ### Lord Pompaduke's True Identity
 
-**HIGH** | At large — whereabouts unknown (S39)
+**HIGH** | At large — resurfaced at [[Locations/Thalas'Miriel\|Thalas'Miriel]], directing a zombie incursion (S40)
 
 **S39 Resolution (partial):** [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] revealed his true agenda openly: he engineered the party's actions throughout — including the sequence of events leading to the wyrm's release — for his own ends. His exact words: _"Thank you, everyone, for completing the task I needed to do. For me."_ He then opened a Bane-powered portal and departed with the wyrm. His lute abilities, portal creation, and combat invisibility are all confirmed as Bane-powered. His "Brother Algrim" identity at the cathedral was a cover used to monitor and influence events.
+
+**S40 Development:** Resurfaced at [[Locations/Thalas'Miriel\|Thalas'Miriel]], directing a zombie incursion against the town from a rooftop. Demonstrated new abilities - Counterspell (countered by [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s own Counterspell) and a Hunger of Hadar-style spore effect. Silenced by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and blinded by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], effectively neutralised; the fight remained unresolved as reinforcements arrived at session end. No sign of the wyrm during this encounter.
 
 **Remaining Key Questions:**
 
