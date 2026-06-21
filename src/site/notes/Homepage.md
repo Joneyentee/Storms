@@ -2,14 +2,14 @@
 {"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"]}
 ---
 
-<div class="video-container" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); overflow: hidden; max-width: 700px; margin: 0 auto;"> <a href="https://youtu.be/vHmnoXX8afc" aria-label="Watch intro video on YouTube"> <video width="700" autoplay muted playsinline poster="/img/user/images/RotS_Logo.png"> <source src="/img/user/images/intro.mp4" type="video/mp4"> Your browser does not support the video tag. </video> </a> </div>
+<div class="video-container" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); overflow: hidden; max-width: 700px; margin: 0 auto;"> <iframe width="700" height="394" src="https://www.youtube.com/embed/vHmnoXX8afc" title="Intro video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </div>
 
 ---
 
 > [!tip]**Last Session:** 
 > [[Sessions/Session 40 - 25 May 2026\|Session 40 - 25 May 2026]] - [[NPCs/Calen Thorne\|Calen Thorne]] joined the party, then [[Locations/Thalas'Miriel\|Thalas'Miriel]] turned up overrun by a zombie incursion directed by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]. The fight was still raging - with [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] arriving with reinforcements - when the session ended.
 
-> **[[Session 41 Briefing Document\|Next Session]]**
+> **[[General Files/Next Session Briefing Document\|Next Session]]**
 
 ---
 

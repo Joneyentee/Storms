@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/party-members/tooo-ah/"}
 ---
 
-<a href="/img/user/images/Tooo-Ah.png" target="_blank"><img src="/img/user/images/Tooo-Ah.png" width="300" alt="Tooo-Ah" /></a>
+[![Tooo-Ah.png|300](/img/user/Images/Tooo-Ah.png)](https://swallow-brigade.netlify.app/img/user/images/Tooo-Ah.png)
 
 **Player:** Joy
 **Status:** Active

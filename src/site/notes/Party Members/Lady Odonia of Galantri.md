@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/party-members/lady-odonia-of-galantri/"}
 ---
 
-<a href="/img/user/images/Odonia.png" target="_blank"><img src="/img/user/images/Odonia.png" width="300" alt="Lady Odonia" /></a>
+[![Odonia.png|300](/img/user/Images/Odonia.png)](https://swallow-brigade.netlify.app/img/user/images/Odonia.png)
 
 **Player:** Annie
 **Status:** Active

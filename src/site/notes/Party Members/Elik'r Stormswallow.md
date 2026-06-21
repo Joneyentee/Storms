@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/party-members/elik-r-stormswallow/"}
 ---
 
-<a href="/img/user/images/Elik'r.png" target="_blank"><img src="/img/user/images/Elik'r.png" width="300" alt="Elik'r" /></a>
+[![Elikr.png|300](/img/user/Images/Elikr.png)](https://swallow-brigade.netlify.app/img/user/images/Elikr.png)
 
 **Player:** Kieran
 **Status:** Active 

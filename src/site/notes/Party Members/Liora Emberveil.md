@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/party-members/liora-emberveil/"}
 ---
 
-<a href="/img/user/images/Liora.png" target="_blank"><img src="/img/user/images/Liora.png" width="300" alt="Liora" /></a>
+[![Liora.png|300](/img/user/Images/Liora.png)](https://swallow-brigade.netlify.app/img/user/images/Liora.png)
 
 **Player:** Sofia (Guest)  
 **Status:** TEMPORARY GUEST CHARACTER  

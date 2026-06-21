@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/party-members/ser-tessell-highfrost/"}
 ---
 
-![Tessell.jpeg|300](/img/user/Images/Tessell.jpeg)
+[![Tessell.png|300](/img/user/Images/Tessell.png)](https://swallow-brigade.netlify.app/img/user/images/Tessell.png)
+
 **Player:** Paul
 **Status:** Active
 **Race:** Half-Elf

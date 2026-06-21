@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/party-members/elvva-beltavar/"}
 ---
 
-<a href="/img/user/images/Elvva.png" target="_blank"><img src="/img/user/images/Elvva.png" width="300" alt="Elvva" /></a>
+[![Elvva.png|300](/img/user/Images/Elvva.png)](https://swallow-brigade.netlify.app/img/user/images/Elvva.png)
 
 **Player:** Shannon
 **Status**: ALIVE (was DECEASED) - resurrected Session 23
