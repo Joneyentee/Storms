@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"]}
 ---
 
+![RotS_Banner.png](/img/user/Images/RotS_Banner.png)
+
 <div class="video-container" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); overflow: hidden; max-width: 700px; margin: 0 auto;"> <iframe width="700" height="394" src="https://www.youtube.com/embed/vHmnoXX8afc" title="Intro video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </div>
 
 ---
