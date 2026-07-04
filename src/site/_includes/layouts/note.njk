@@ -67,7 +67,21 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% for imp in dynamics.notes.beforeContent %}
         {% include imp %}
       {% endfor %}
-      {{ content | hideDataview | taggify | link | safe}}
+      {% set noteSummary = summaries[page.filePathStem] %}
+      {% if noteSummary %}
+        <div class="summary-card">
+          <div class="summary-card-label">At a glance</div>
+          <p>{{ noteSummary.summary }}</p>
+        </div>
+        <details class="dossier">
+          <summary><span class="dossier-toggle-label">Full dossier</span></summary>
+          <div class="dossier-content">
+            {{ content | hideDataview | taggify | link | safe}}
+          </div>
+        </details>
+      {% else %}
+        {{ content | hideDataview | taggify | link | safe}}
+      {% endif %}
       {% for imp in dynamics.common.afterContent %}
         {% include imp %}
       {% endfor %}
@@ -91,6 +105,9 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% for imp in dynamics.notes.footer %}
       {% include imp %}
     {% endfor %}
+    {% if noteSummary %}
+      {% include "components/dossierScript.njk" %}
+    {% endif %}
     {%include "components/lucideIcons.njk"%}
     {% if contentClasses and "canvas-page" in contentClasses %}
       {%include "components/canvasScript.njk"%}

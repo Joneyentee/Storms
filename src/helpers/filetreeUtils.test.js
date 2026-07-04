@@ -1,3 +1,5 @@
+import { describe, it, expect } from "vitest";
+
 const { getFileTree } = require("./filetreeUtils");
 
 // Helper to build a minimal note object for testing

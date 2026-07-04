@@ -2,6 +2,13 @@
   publish = "dist"
   command = "npm install && npm run build"
 
+# Persists the summary cache between deploys so only changed notes are
+# re-summarised (see src/helpers/generateSummaries.js).
+[[plugins]]
+  package = "netlify-plugin-cache"
+  [plugins.inputs]
+    paths = [".cache"]
+
 [[redirects]]
   from = "/api/*"
   to = "/.netlify/functions/:splat"

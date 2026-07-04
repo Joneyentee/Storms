@@ -82,4 +82,78 @@ body {
   .video-container {
     margin: 1.5em auto;
   }
+
+  // --- Summary cards ("at a glance" + collapsed full dossier) ---
+  .summary-card {
+    border: 1px solid #8a6d3b;
+    border-left-width: 4px;
+    border-radius: 4px;
+    background: rgba(138, 109, 59, 0.1);
+    padding: 0.9em 1.2em;
+    margin: 1.2em 0 1em;
+
+    .summary-card-label {
+      font-family: 'Cinzel', serif;
+      font-size: 0.8em;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #c9a86a;
+      margin-bottom: 0.4em;
+    }
+
+    p {
+      margin: 0;
+      font-size: 1.08em;
+    }
+  }
+
+  details.dossier {
+    margin: 0 0 1.5em;
+
+    > summary {
+      list-style: none;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 0.6em;
+      padding: 0.6em 1.2em;
+      border: 1px solid rgba(138, 109, 59, 0.6);
+      border-radius: 4px;
+      font-family: 'Cinzel', serif;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      color: #c9a86a;
+
+      &::-webkit-details-marker {
+        display: none;
+      }
+
+      // Chevron, rotates when the dossier is open.
+      &::before {
+        content: "";
+        width: 0.5em;
+        height: 0.5em;
+        border-right: 2px solid #c9a86a;
+        border-bottom: 2px solid #c9a86a;
+        transform: rotate(-45deg);
+        transition: transform 0.15s ease;
+        flex-shrink: 0;
+      }
+
+      &:hover {
+        color: #e0c08a;
+        border-color: #c9a86a;
+        background: rgba(138, 109, 59, 0.1);
+      }
+    }
+
+    &[open] > summary {
+      margin-bottom: 0.5em;
+
+      &::before {
+        transform: rotate(45deg);
+      }
+    }
+  }
 }

@@ -1,0 +1,29 @@
+<script>
+  // Anchor links (sidebar ToC, backlinks, [[Page#Header]] wikilinks) can
+  // target headings hidden inside the collapsed dossier. Open it first so the
+  // browser can scroll to them.
+  (function () {
+    function openDossierForHash() {
+      if (!location.hash) return;
+      var id;
+      try {
+        id = decodeURIComponent(location.hash.slice(1));
+      } catch (e) {
+        return;
+      }
+      var target = document.getElementById(id);
+      if (!target) return;
+      var dossier = target.closest("details.dossier");
+      if (dossier && !dossier.open) {
+        dossier.open = true;
+        target.scrollIntoView();
+      }
+    }
+    window.addEventListener("hashchange", openDossierForHash);
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", openDossierForHash);
+    } else {
+      openDossierForHash();
+    }
+  })();
+</script>
