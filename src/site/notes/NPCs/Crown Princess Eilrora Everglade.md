@@ -35,7 +35,7 @@
 
 ### Current Crisis (Session 23-24)
 - Palace under full siege by Falcon faction forces
-- Father/grandfather assassinated by [[NPCs/Thalas\|Thalas]] in throne room (Session 23)
+- Father/grandfather assassinated in throne room (Session 23)
 - Fought [[NPCs/Thalas\|Thalas]] alongside [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] and [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]
 - Location during palace siege (Session 24): Unknown
 - Leading Eagle faction defense
@@ -60,7 +60,6 @@
 - **[[NPCs/Elincia Flowers\|Elincia Flowers]]** - White Falcon Knight, mother of bastards, leading Falcon faction
 - **[[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]]** - Bastard son of Gaelin, conspiracy leader
 - **Yavanna Lightwhisper** - Bastard daughter of Gaelin, conspirator
-- **[[NPCs/Thalas\|Thalas]]** - Assassinated her grandfather/father
 - **Falcon Faction** - Orange/blue forces besieging palace
 
 ### Suspected Enemies (Her Beliefs)
@@ -72,7 +71,6 @@ Princess suspects [[NPCs/Thalas\|Thalas]] could be one of three people (Session 
 ## Thalas Encounter (Session 23)
 
 **Throne Room Fight:**
-- [[NPCs/Thalas\|Thalas]] assassinated [[NPCs/High King Everglade\|High King Everglade]] in throne room
 - Princess fought [[NPCs/Thalas\|Thalas]] alongside [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] and [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]
 - Unable to prevent grandfather's death
 - Believes [[NPCs/Thalas\|Thalas]] is a **woman** (not male as commonly assumed)
@@ -146,7 +144,7 @@ Princess suspects [[NPCs/Thalas\|Thalas]] could be one of three people (Session 
 - City already unstable with faction tensions
 
 ### Session 23 - King's Assassination
-- Father/grandfather [[NPCs/High King Everglade\|High King Everglade]] assassinated by [[NPCs/Thalas\|Thalas]]
+- Father/grandfather [[NPCs/High King Everglade\|High King Everglade]] assassinated
 - Fought [[NPCs/Thalas\|Thalas]] in throne room alongside allies
 - Unable to prevent assassination
 - Civil war erupted immediately after
@@ -335,7 +333,6 @@ Princess suspects [[NPCs/Thalas\|Thalas]] could be one of three people (Session 
 - [[NPCs/Elincia Flowers\|Elincia Flowers]] - White Falcon Knight, Falcon faction leader
 - [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]] - Bastard cousin, conspiracy leader
 - Yavanna Lightwhisper - Bastard cousin, conspirator
-- [[NPCs/Thalas\|Thalas]] - Assassinated her grandfather
 - Black Knight - Leading palace assault
 
 **Unknown Relations:**

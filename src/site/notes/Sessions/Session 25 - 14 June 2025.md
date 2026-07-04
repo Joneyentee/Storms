@@ -270,7 +270,7 @@ Party burst through double doors:
 ### Active This Session
 
 - **[[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]]** - Fighting [[NPCs/Thalas\|Thalas]] in throne room, heavily injured and bloodied, holding her own but desperate
-- **[[NPCs/Thalas\|Thalas]]** - Black Knight with flaming sword, killed [[NPCs/High King Everglade\|High King Everglade]], currently duelling Princess, barely damaged
+- **[[NPCs/Thalas\|Thalas]]** - Black Knight with flaming sword, currently duelling Princess, barely damaged
 - **[[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]]** - Royal Advisor, slumped against pillar bleeding heavily, dying
 - **Mysterious Cloaked Man** - Purple robes, gold cane (recognised by [[Party Members/Elvva Beltavar\|Elvva Beltavar]] and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]), **skull face visible**, standing at rear watching, has not engaged
 - **Unknown Axe Fighter** - Heavily armoured in ornate black armour, massive magical two-handed axe, kidnapped [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] previously, standing at rear watching, has not engaged

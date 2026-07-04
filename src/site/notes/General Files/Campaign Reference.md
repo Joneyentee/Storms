@@ -362,7 +362,7 @@
 - **Recent:** Party released Bane (horn blown), formed Riders of the Storm, initiated as Bane Watchers
 - **Session 21:** Grand Joust, Crown Princess revealed as Eagle Knight
 - **Session 22:** Coordinated attacks, Elvva killed, Guy killed, mansion burned
-- **Session 23:** High King assassinated by Thalas, Elvva resurrected, civil war erupted, party Level 6, Bane commands planted
+- **Session 23:** High King assassinated, Elvva resurrected, civil war erupted, party Level 6, Bane commands planted
 - **Session 24:** Palace siege, Avicia's identity revealed (secret), wyverns destroyed
 - **Session 25:** Throne room combat, Elvva temporarily petrified (recovered), Patriarch recovered, skull face revealed, ~25 friendly fire casualties
 - **Session 26:** Throne room battle concluded, Elincia's triple identity revealed, escaped via fire, palace secured, two-day reconstruction, formal ceremonies, party commissioned as Marshals of the North with 712 troops, Elvva's sprite manifestation (CRITICAL), civil war confirmed 50/50 nationwide
@@ -406,7 +406,7 @@
 
 **Session 23:**
 
-- High King Everglade (throne room, assassinated by Thalas/Elincia)
+- High King Everglade (throne room, assassinated)
 
 **Session 22:**
 

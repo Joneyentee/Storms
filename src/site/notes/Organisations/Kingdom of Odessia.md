@@ -442,7 +442,7 @@
 - Testing/weakening defenses
 
 ### High King's Assassination (Session 23)
-- [[NPCs/Thalas\|Thalas]] killed High King (sword through neck)
+- High King killed (sword through neck)
 - Civil war erupted immediately
 - Eagle vs Falcon factions formed
 - Kingdom split ~50/50

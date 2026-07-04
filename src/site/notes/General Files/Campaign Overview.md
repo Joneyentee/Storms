@@ -144,7 +144,7 @@ The attacks came from everywhere at once. In the town square, [[NPCs/Guy (Elik'r
 
 The Crown Princess picked up a captured assassin by the collar and drowned him in the town square fountain without breaking her stride. [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] knocked [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] unconscious from behind and carried him away fireman-style, prioritising his survival over his grief.
 
-The High King was assassinated by Thalas. Civil war erupted across [[Locations/Odessia\|Odessia]].
+The High King was assassinated. Civil war erupted across [[Locations/Odessia\|Odessia]].
 
 [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] led the party into the ethereal plane to resurrect [[Party Members/Elvva Beltavar\|Elvva Beltavar]]. What followed was harrowing: the party witnessed every fragment of her traumatic history - her father's death, her captivity and torture, the village she had accidentally burned to ash, the centuries of watching everyone she loved age and die while she remained unchanged. They brought her back.
 

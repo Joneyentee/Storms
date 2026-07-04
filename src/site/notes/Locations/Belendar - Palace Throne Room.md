@@ -48,7 +48,7 @@ The grand throne room of the Odessia royal palace, a magnificent chamber designe
 ## Historical Significance
 
 **Site of Regicide (Session 23):**
-- High King Everglade assassinated by [[NPCs/Thalas\|Thalas]] in this chamber
+- High King Everglade assassinated in this chamber
 - Sword thrust through neck while seated on throne
 - Marks end of his reign and beginning of succession crisis
 - Body remained on throne during subsequent civil war battle (Session 25)
@@ -213,7 +213,7 @@ The grand throne room of the Odessia royal palace, a magnificent chamber designe
 
 ## Appearances
 
-- [[Sessions/Session 23 - 6 April 2025\|Session 23 - 6 April 2025]] - High King Everglade assassinated by Thalas, sword through neck, died on throne
+- [[Sessions/Session 23 - 6 April 2025\|Session 23 - 6 April 2025]] - High King Everglade assassinated, sword through neck, died on throne
 - [[Sessions/Session 25 - 14 June 2025\|Session 25 - 14 June 2025]] - Party arrived to find throne room mid-battle, engaged Thalas and soldiers, Princess heavily injured fighting Thalas, Mysterious Cloaked Man's skull face revealed, Unknown Axe Fighter present, Eldrin dying, combat ongoing (Round 2 completed)
 - **[[Sessions/Session 26 - 16 July 2025\|Session 26 - 16 July 2025]]** - **Thalas's identity revealed**: Helmet melted exposing face as **Elincia Flowers** (same person as Lady Alysanne/White Falcon Knight). Escaped via fire teleportation after throwing necrotic dagger at Princess (intercepted by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]). Battle concluded, all enemies eliminated or fled. **Three days later**: [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] **sat throne for first time**, formal assumption of rulership. Major ceremonies held: [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] elevated to Lady of Sylobelle and Royal Advisor, [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] knighted, [[Organisations/Riders of the Storm\|Riders of the Storm]] commissioned as Marshals of the North with military ranks and 636+ reinforcements.
 

@@ -169,7 +169,6 @@
 
 - Elincia's true motivations unclear
 - Willing to use deception (triple identity)
-- Assassinated High King (Thalas = Elincia)
 - Coordinated complex conspiracy
 - Network believes Elincia is rightful ruler of Odessia
 
@@ -333,7 +332,6 @@
 - Gaelin (first son) died years ago
 - Second son and wife died "at sea" (Avicia survived)
 - High King isolated
-- Planned assassination (Thalas = Elincia)
 
 **Elincia's Triple Identity:**
 
@@ -345,7 +343,7 @@
 
 ### Civil War Outbreak (Session 23)
 
-**Trigger Event:** High King assassinated by Thalas (Elincia)
+**Trigger Event:** High King assassinated
 
 **Initial Faction Split:**
 

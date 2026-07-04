@@ -191,7 +191,6 @@
 
 **What He Likely Didn't Know:**
 - His own granddaughter ([[NPCs/Crown Princess Eilrora Everglade\|Crown Princess]]) ordered his death
-- [[NPCs/Elincia Flowers\|Elincia Flowers]] would assassinate him
 - [[NPCs/Avicia\|Avicia]] survived and is hidden
 - Civil war would erupt immediately after death
 - Palace would be under siege within days
@@ -270,7 +269,7 @@
 - Family tree filled with tragedy and conspiracy
 
 **Personal:**
-- Murdered by [[NPCs/Elincia Flowers\|Elincia Flowers]] after 700+ years
+- Murdered after 700+ years
 - Own granddaughter had ordered his death
 - Failed to secure clear succession
 - Kingdom unstable after his death
@@ -301,7 +300,7 @@
 
 - **[[Sessions/Session 18 - 2 November 2024\|Session 18 - 2 November 2024]]** - Seen alive in Bane Watcher vision (palace balcony with young [[NPCs/Avicia\|Avicia]] and second son)
 - **[[Sessions/Session 19 - 16 November 2024\|Session 19 - 16 November 2024]]** - Announced as ill, absent from feast
-- **[[Sessions/Session 23 - 6 April 2025\|Session 23 - 6 April 2025]]** - **ASSASSINATED by [[NPCs/Elincia Flowers\|Elincia Flowers]] in throne room**, witnessed by Crown Princess, [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], and [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]
+- **[[Sessions/Session 23 - 6 April 2025\|Session 23 - 6 April 2025]]** - **ASSASSINATED in throne room**, witnessed by Crown Princess, [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], and [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]
 
 ## Related Quests
 
@@ -313,7 +312,7 @@
 ## Related NPCs
 
 **Family:**
-- [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] - Granddaughter (ordered his death, but [[NPCs/Elincia Flowers\|Elincia Flowers]] killed him)
+- [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] - Granddaughter (ordered his death)
 - [[NPCs/Avicia\|Avicia]] - Granddaughter (rightful heir, he knew her as child)
 - [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]] - Bastard grandson (leading rebellion)
 - Yavanna Lightwhisper - Bastard granddaughter (conspirator)
@@ -321,7 +320,6 @@
 - Second son - Father of [[NPCs/Avicia\|Avicia]] (deceased "at sea")
 
 **Political:**
-- [[NPCs/Elincia Flowers\|Elincia Flowers]] - His assassin
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] - Witnessed assassination, knows Crown Princess's secret order
 - [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] - Witnessed assassination
 - [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]] - His advisor
@@ -330,7 +328,6 @@
 ## DM Notes
 
 **Major Corrections:**
-- He was **assassinated by [[NPCs/Elincia Flowers\|Elincia Flowers]]** (Session 23), NOT killed by Crown Princess's order
 - Crown Princess is his **granddaughter**, not daughter (Session 24 reveal)
 - His death is **public knowledge** - murder in throne room, not secret illness
 - Two separate death plots: Crown Princess's (never executed) and [[NPCs/Elincia Flowers\|Elincia Flowers]]'s (successful)
@@ -344,7 +341,7 @@
 
 **Player Knowledge:**
 - Players know Crown Princess ordered his death
-- Players know [[NPCs/Elincia Flowers\|Elincia Flowers]] actually killed him
+- Players know [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] actually killed him
 - Players know [[NPCs/Avicia\|Avicia]] is rightful heir (he knew her as child)
 - Crown Princess doesn't know about [[NPCs/Avicia\|Avicia]]
 - Complex web of secrets around his death

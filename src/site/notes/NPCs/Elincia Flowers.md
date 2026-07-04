@@ -87,7 +87,6 @@ Master manipulator playing both sides of Odessia's civil war. As **Lady Alysanne
 ### As Thalas (Black Knight)
 
 - **[[Sessions/Session 18 - 2 November 2024\|Session 18 - 2 November 2024]]** - Possibly involved in [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s father's death (Black Knight with hammer seen walking away in vision)
-- **[[Sessions/Session 23 - 6 April 2025\|Session 23 - 6 April 2025]]** - Assassinated [[NPCs/High King Everglade\|High King Everglade]] in throne room (sword through neck)
 - **[[Sessions/Session 23 - 6 April 2025\|Session 23 - 6 April 2025]]** - Fought [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]
 - **[[Sessions/Session 25 - 14 June 2025\|Session 25 - 14 June 2025]]** - Dueling Princess in throne room, sliced [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s firebolt while fighting
 - **[[Sessions/Session 26 - 16 July 2025\|Session 26 - 16 July 2025]]** - Identity exposed, escaped after wounding Princess and throwing necrotic dagger
@@ -118,7 +117,7 @@ Master manipulator playing both sides of Odessia's civil war. As **Lady Alysanne
 
 **Playing All Sides:**
 
-- As **Thalas**: Assassinated king, blamed by both factions
+- As **Thalas**: Blamed by both factions
 - As **Lady Alysanne/White Falcon**: Led Falcon faction publicly, accused Princess of being Thalas
 - As **Elincia Flowers**: Mother of "legitimate" claimants through Gaelin's line
 - Created civil war by attacking from multiple angles
@@ -260,7 +259,6 @@ Master manipulator playing both sides of Odessia's civil war. As **Lady Alysanne
 
 **Possible Victims:**
 
-- [[NPCs/High King Everglade\|High King Everglade]] - Assassinated by her as Thalas
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s father - Black Knight connection uncertain
 
 ## DM Notes

@@ -289,7 +289,7 @@
 **Session 23 - Resurrection & Revolution:**
 
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] resurrected (necromantic ritual)
-- [[NPCs/High King Everglade\|High King Everglade]] assassinated by [[NPCs/Thalas\|Thalas]]
+- [[NPCs/High King Everglade\|High King Everglade]] assassinated
 - Civil war erupted
 - Bane commands planted (Tooo-Ah, Odonia, Patriarch)
 - **Party leveled to 6**

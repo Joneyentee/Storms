@@ -95,7 +95,7 @@ Initially attempted to win Grand Tournament to gain influence over Kingdom. When
   - Town square ambush targeting [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] and [[Party Members/Elvva Beltavar\|Elvva Beltavar]]
   - [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]]'s mansion burned
   - Multiple casualties including Guy (Elik'r's squire)
-- [[NPCs/High King Everglade\|High King Everglade]] assassinated by [[NPCs/Thalas\|Thalas]] (Session 23)
+- [[NPCs/High King Everglade\|High King Everglade]] assassinated (Session 23)
 - Civil war erupted immediately
 - Tournament abandoned
 - Escalation to full military conflict
@@ -163,7 +163,7 @@ Initially attempted to win Grand Tournament to gain influence over Kingdom. When
 - **Twin sister:** Yavanna Lightwhisper (co-conspirator, whereabouts unknown)
 - **Mother:** [[NPCs/Elincia Flowers\|Elincia Flowers]] (White Falcon Knight, Falcon faction co-leader)
 - **Father:** Gaelin (High King's first son, deceased)
-- **Grandfather:** [[NPCs/High King Everglade\|High King Everglade]] (deceased, assassinated by [[NPCs/Thalas\|Thalas]])
+- **Grandfather:** [[NPCs/High King Everglade\|High King Everglade]] (deceased, assassinated)
 - **Cousins (likely unaware of relationship):**
   - [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] (enemy, besieging her palace)
   - [[NPCs/Avicia\|Avicia]] (rightful heir, hidden - may not know she exists)

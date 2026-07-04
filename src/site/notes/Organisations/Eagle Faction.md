@@ -373,7 +373,7 @@
 
 ### Formation (Session 23)
 
-**Trigger Event:** High King Everglade assassinated by Thalas
+**Trigger Event:** High King Everglade assassinated
 
 **Civil War Outbreak:**
 - Kingdom split into factions
@@ -528,7 +528,6 @@
 - Ser Alvar = bastard (no claim)
 - Elincia Flowers = manipulator/assassin
 - Rebels and traitors
-- Murdered the High King
 
 **Order vs Chaos:**
 - Eagle = stability and peace
