@@ -30,21 +30,33 @@ const SUMMARY_FOLDERS = ["NPCs", "Locations", "Organisations"];
 const MIN_BODY_LENGTH = 600;
 // Very large notes are truncated before being sent for summarisation.
 const MAX_BODY_LENGTH = 60000;
-const MODEL = "claude-haiku-4-5";
+const MODEL = "claude-sonnet-4-5";
 const CONCURRENCY = 4;
 const MAX_RETRIES = 3;
 const API_URL = "https://api.anthropic.com/v1/messages";
 
-const SYSTEM_PROMPT = `You write summary cards for a D&D 5E campaign wiki ("Riders of the Storm").
-Given the full wiki entry for an NPC, location, or organisation, write a 2-3 sentence summary (at most 60 words) covering: who or what this is, and their current status and relevance to the campaign right now.
-Rules:
+const SYSTEM_PROMPT = `You write short "at a glance" summary cards for a D&D 5E campaign wiki ("Riders of the Storm").
+Given the full wiki entry for an NPC, location, or organisation, write a 2-3 sentence summary (at most 60 words) covering who or what this is and their current status and relevance to the campaign right now.
+Accuracy rules - these override everything else:
+- Use ONLY facts stated explicitly in the entry. Never infer, extrapolate, combine facts into new claims, or add anything from outside the entry.
+- Do not state that a character performed an action unless the entry explicitly says they did. A label such as "assassin" or "the Black Knight" is not evidence that they assassinated or killed anyone.
+- If the entry marks something as uncertain, suspected, rumoured, or unknown, preserve that uncertainty with the same hedging.
+- When in doubt, leave it out. A shorter, plainer summary is better than a confident wrong one.
+Style rules:
 - British English.
 - Plain text only: no markdown, no headings, no bullet points, no [[wikilinks]].
-- Lead with the most important fact; prefer the most recent status over history.
-- Do not start with phrases like "This page" or "This entry".`;
+- Lead with the most important fact; prefer the most recent status over older history.
+- Do not begin with "This page", "This entry", or similar.`;
 
 function hashContent(str) {
   return crypto.createHash("sha256").update(str, "utf8").digest("hex");
+}
+
+// The cache key folds in the model and the prompt as well as the note body, so
+// changing either (to improve summary quality) invalidates every cached
+// summary and forces a one-time regeneration on the next build.
+function noteHash(body) {
+  return hashContent(`${MODEL} ${SYSTEM_PROMPT} ${body}`);
 }
 
 /**
@@ -72,7 +84,7 @@ function discoverNotes(notesDir = NOTES_DIR, folders = SUMMARY_FOLDERS) {
         key: `/notes/${folder}/${title}`,
         title,
         body,
-        hash: hashContent(body),
+        hash: noteHash(body),
       });
     }
   }
@@ -229,6 +241,7 @@ module.exports = {
   planGeneration,
   generateSummary,
   hashContent,
+  noteHash,
   run,
   MIN_BODY_LENGTH,
   SUMMARY_FOLDERS,

@@ -6,7 +6,7 @@ import path from "path";
 const {
 	discoverNotes,
 	planGeneration,
-	hashContent,
+	noteHash,
 	run,
 	MIN_BODY_LENGTH,
 } = require("../generateSummaries");
@@ -51,7 +51,7 @@ describe("discoverNotes", () => {
 		expect(notes).toHaveLength(1);
 		expect(notes[0].key).toBe("/notes/NPCs/Elincia Flowers");
 		expect(notes[0].title).toBe("Elincia Flowers");
-		expect(notes[0].hash).toBe(hashContent(notes[0].body));
+		expect(notes[0].hash).toBe(noteHash(notes[0].body));
 	});
 
 	it("skips notes with short bodies", () => {
