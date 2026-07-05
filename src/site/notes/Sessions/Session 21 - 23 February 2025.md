@@ -42,7 +42,7 @@ Letter received from steward reporting reconstruction progress:
 
 1. **Ser Tristan Blackwood** - Notable knight, in tournament
 2. **Baron Roderick Stonewall** - Controls border castle with [[Locations/Immortal Draconic Empire\|Immortal Draconic Empire]]
-3. **Duke Vallandor Firebloom** - Owns all northern territories including [[Locations/Neverwinter\|Neverwinter]] (very high ranking)
+3. **Duke Alaric Thorne** - Owns all northern territories including [[Locations/Neverwinter\|Neverwinter]] (very high ranking)
 
 **Coup Warning:** Princess believes coup is coming - found armour with blue/silver colors (not Odessia's green). Asks [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] for continued vigilance.
 
@@ -141,7 +141,7 @@ Letter received from steward reporting reconstruction progress:
 - Final: 5-2 [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]
 - **Result: [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] WINS**
 
-**[[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] vs [[NPCs/Duke Vallandor Firebloom\|Duke Vallandor Firebloom]]**
+**[[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] vs [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]**
 
 - Duke hit [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] in head twice (4-0)
 - **Tilt 3:** [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] removed helmet, got two NAT 20s, demolished Duke
@@ -234,6 +234,6 @@ Plus two NPC matches.
 
 **[[Party Members/Tooo-Ah\|Tooo-Ah]]** - Dominated Round 1 by unhorsing opponent instantly, then advanced through every round, now in semifinals against [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]].
 
-**[[NPCs/Duke Vallandor Firebloom\|Duke Vallandor Firebloom]]** vs **[[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]** - After Duke led 4-0 hitting [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] in head twice, [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] removed his helmet for Tilt 3 and rolled two natural 20s to absolutely demolish the Duke. Crowd went wild.
+**[[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]** vs **[[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]** - After Duke led 4-0 hitting [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] in head twice, [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] removed his helmet for Tilt 3 and rolled two natural 20s to absolutely demolish the Duke. Crowd went wild.
 
 **Ali (former bandit)** - Cryptically warned [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] about his new gang: "Very powerful people who can keep people alive" with resurrection capabilities. Refused to elaborate: "You're too young... things you're not grown up enough yet for."

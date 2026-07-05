@@ -48,7 +48,7 @@ Ruled by [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] for 8 decades (80 years
 
 **Strategic Priority (Session 26):**
 - **Identified as first target for northern rally** (Eldrin Oakenhart's recommendation)
-- Duke Vallandor Firebloom confirmed as key to uniting north
+- Duke Alaric Thorne confirmed as key to uniting north
 - Biggest settlement in north, centre of region
 - Critical strategic importance for Riders of the Storm's northern campaign
 - Active quest destination (urgent priority)
@@ -92,12 +92,12 @@ Ruled by [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] for 8 decades (80 years
 
 ## Appearances
 
-- **[[Sessions/Session 26 - 16 July 2025\|Session 26 - 16 July 2025]]** - Identified by [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]] as first strategic target for rallying north. Recommended because Duke Vallandor Firebloom is highest-ranking northern noble and Neverwinter is biggest settlement in northern region. Party commissioned to secure alliance as Marshals of the North.
+- **[[Sessions/Session 26 - 16 July 2025\|Session 26 - 16 July 2025]]** - Identified by [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]] as first strategic target for rallying north. Recommended because Duke Alaric Thorne is highest-ranking northern noble and Neverwinter is biggest settlement in northern region. Party commissioned to secure alliance as Marshals of the North.
 
 ## Related Quests
 
 - [[Quests/Quests - Active#Rally the North\|Quests - Active#Rally the North]] - **First strategic target** (Session 26)
-- [[Quests/Quests - Active#Rally the North\|Quests - Active#Rally the North]] - Secure Duke Vallandor Firebloom alliance
+- [[Quests/Quests - Active#Rally the North\|Quests - Active#Rally the North]] - Secure Duke Alaric Thorne alliance
 
 ## Strategic Value
 

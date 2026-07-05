@@ -697,7 +697,7 @@ Party assembled with new military forces:
 
 **Thalas'Miriel** - Cathedral town, siding with rebels, northeast of Stormhold Keep, on route to Neverwinter, dedicated to Ilmater (god of healing)
 
-**Neverwinter** - Duchy, major northern city, ruled by [[NPCs/Duke Vallandor Firebloom\|Duke Vallandor Firebloom]], primary target for Rally the North mission
+**Neverwinter** - Duchy, major northern city, ruled by [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]], primary target for Rally the North mission
 
 **[[Locations/Bane Watcher Citadel\|Bane Watcher Citadel]]** - Island in central lake, mountain range, party plans to visit after gaining northern support
 
@@ -711,7 +711,7 @@ Party assembled with new military forces:
 
 **Rally the North** - Status: Active (NOT STARTED)
 
-- Primary target: Neverwinter ([[NPCs/Duke Vallandor Firebloom\|Duke Vallandor Firebloom]])
+- Primary target: Neverwinter ([[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]])
 - Party appointed Marshals of the North
 - 732 troops under command (712 from [[Locations/Belendar\|Belendar]] + 20 recruited)
 - War chest access granted
@@ -1006,7 +1006,7 @@ Party assembled with new military forces:
 
 **Strategic Targets:**
 
-- **[[NPCs/Duke Vallandor Firebloom\|Duke Vallandor Firebloom]]** - Rules Neverwinter, key to northern strategy
+- **[[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]** - Rules Neverwinter, key to northern strategy
 - **Thalas'Miriel leadership** - Cathedral town declared for rebels
 - **[[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]]** - Leading southern rebellion
 - **[[NPCs/Yavanna Lightwhisper\|Yavanna Lightwhisper]]** - [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]]'s twin, whereabouts unknown

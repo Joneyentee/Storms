@@ -384,7 +384,7 @@ Session 21 – [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]
 
 Session 21 – [[Party Members/Tooo-Ah\|Tooo-Ah]] – Dominated the entire first day of jousting, unhorsing her first opponent instantly and winning every match to advance to the semi-finals where she faces [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]].
 
-Session 21 – [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] vs [[NPCs/Duke Vallandor Firebloom\|Duke Vallandor Firebloom]] – After the Duke led 4-0 by hitting [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] in the head twice, [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] removed his helmet for the final tilt and rolled two natural 20s to absolutely demolish the high-ranking Duke. The crowd went wild.
+Session 21 – [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] vs [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] – After the Duke led 4-0 by hitting [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] in the head twice, [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] removed his helmet for the final tilt and rolled two natural 20s to absolutely demolish the high-ranking Duke. The crowd went wild.
 
 Session 21 – Ali (former bandit leader) – Cryptically warned [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] his new gang has "very powerful people who can keep people alive" with apparent resurrection capabilities, but refused to elaborate: "You're too young... things you're not grown up enough yet for."
 

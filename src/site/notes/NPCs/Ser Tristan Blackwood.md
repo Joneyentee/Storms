@@ -18,7 +18,7 @@ Ser Tristan Blackwood is a notable and skilled knight, though not landed nobilit
 
 #### Relationships
 - **Conspirator with:** [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]]
-- **Fellow conspirators:** [[NPCs/Duke Vallandor Firebloom\|Duke Vallandor Firebloom]], [[NPCs/Baron Roderick Stonewall\|Baron Roderick Stonewall]]
+- **Fellow conspirators:** [[NPCs/Baron Roderick Stonewall\|Baron Roderick Stonewall]]
 - **Enemy:** [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] (opposing faction)
 
 #### Appearances

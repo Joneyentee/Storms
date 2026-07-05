@@ -717,7 +717,7 @@
 
 **Rally the North** - Status: Active (CAN NOW PROCEED)
 
-- Primary target: [[NPCs/Duke Vallandor Firebloom\|Duke Vallandor Firebloom]] (Neverwinter)
+- Primary target: [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] (Neverwinter)
 - 732 troops under command
 - Marshals of the North
 
@@ -1188,7 +1188,7 @@
     - Increasingly urgent after curse trigger
 3. **Rally the North** - TIME-SENSITIVE
     
-    - [[NPCs/Duke Vallandor Firebloom\|Duke Vallandor Firebloom]] (Neverwinter) primary target
+    - [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] (Neverwinter) primary target
     - Thalas'Miriel cathedral town declared for rebels
     - Must secure nobles before Falcon faction does
     - 732 troops under command ready
@@ -1319,7 +1319,7 @@
 
 **Strategic Targets:**
 
-- **[[NPCs/Duke Vallandor Firebloom\|Duke Vallandor Firebloom]]** - Neverwinter ruler, primary Rally the North target, may be persuadable
+- **[[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]** - Neverwinter ruler, primary Rally the North target, may be persuadable
 - **[[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]]** - Leading southern rebellion, whereabouts unknown
 - **[[NPCs/Thalas\|Thalas]]/Elincia Flowers** - Escaped [[Sessions/Session 26 - 16 July 2025\|Session 26]], whereabouts unknown, triple identity revealed
 - **[[NPCs/Yavanna Lightwhisper\|Yavanna Lightwhisper]]** - [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]]'s twin, whereabouts unknown

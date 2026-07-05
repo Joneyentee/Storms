@@ -1161,7 +1161,7 @@ Status check:
 
 **[[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]** - Married to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] during magical reality (never actually happened), given kitten "Catness Everclean," went boar hunting while singing
 
-**[[NPCs/Duke Vallandor Firebloom\|Duke Vallandor Firebloom]]** - Rules Neverwinter, mentioned as highest-ranking noble in northern territories, key strategic target
+**[[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]** - Rules Neverwinter, mentioned as highest-ranking noble in northern territories, key strategic target
 
 ---
 
@@ -1187,7 +1187,7 @@ Status check:
 
 ### Mentioned Locations
 
-**[[Locations/Neverwinter\|Neverwinter]]** - Duchy controlling large northern area, ruled by [[NPCs/Duke Vallandor Firebloom\|Duke Vallandor Firebloom]], primary strategic target
+**[[Locations/Neverwinter\|Neverwinter]]** - Duchy controlling large northern area, ruled by [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]], primary strategic target
 
 **[[Locations/Eastern Citadel\|Eastern Citadel]]** - Gone silent, borders Badlands
 
@@ -1217,7 +1217,7 @@ Status check:
 
 **Rally the North** - Status: Active (NOT STARTED)
 
-- Primary target: Neverwinter (Duke Vallandor Firebloom)
+- Primary target: Neverwinter (Duke Alaric Thorne)
 - Objective: Unite northern territories for Princess
 - Authority: Kill/destroy rebels
 - Forces: 712 troops granted
@@ -1558,7 +1558,7 @@ Status check:
 
 - Should party visit Bane Watcher Citadel before or after Rally the North?
 - How urgent is [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s sprite manifestation treatment?
-- Duke Vallandor Firebloom's current allegiance (Eagle or Falcon)?
+- Duke Alaric Thorne's current allegiance (Eagle or Falcon)?
 - Eastern Citadel silence - investigate or ignore?
 - Troop deployment strategy (all north or split for eastern border)?
 
@@ -1580,7 +1580,7 @@ Status check:
 
 **Strategic Meetings:**
 
-- **Duke Vallandor Firebloom** (Neverwinter) - Primary target for Rally the North, allegiance unknown
+- **Duke Alaric Thorne** (Neverwinter) - Primary target for Rally the North, allegiance unknown
 - **[[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]]** - Strategic advisor, recommended Neverwinter first
 - **[[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]** - Urged Bane Watcher Citadel visit for [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s training
 - **[[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]** - Teaching [[NPCs/Avicia\|Avicia]], education decision needed, dormant Bane command

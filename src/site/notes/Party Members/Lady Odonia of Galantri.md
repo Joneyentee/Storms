@@ -196,7 +196,7 @@
 
 ## Military Command (Session 26)
 
-**Rank:** General of the North (overall command) **Title:** Lady of [[Locations/Sylobelle\|Sylobelle]], Marshal of the North, Royal Advisor **Command Structure:** Overall commander of northern campaign, party generals report to her **Forces:** 636+ reinforcements total (200 archers, 32 knights + squires, 420 footmen) **Mission:** Rally northern territories for [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]], secure eastern border, eliminate rebels **Resources:** War chest access (treasury authorization for campaign expenses) **First Target:** Neverwinter (Duke Vallandor Firebloom) - suggested by [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]]
+**Rank:** General of the North (overall command) **Title:** Lady of [[Locations/Sylobelle\|Sylobelle]], Marshal of the North, Royal Advisor **Command Structure:** Overall commander of northern campaign, party generals report to her **Forces:** 636+ reinforcements total (200 archers, 32 knights + squires, 420 footmen) **Mission:** Rally northern territories for [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]], secure eastern border, eliminate rebels **Resources:** War chest access (treasury authorization for campaign expenses) **First Target:** Neverwinter (Duke Alaric Thorne) - suggested by [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]]
 
 ---
 

@@ -185,7 +185,7 @@ Princess suspects [[NPCs/Thalas\|Thalas]] could be one of three people (Session 
 - Tasked party: Rally northern territories
 - Objective: Secure eastern border
 - Orders: Eliminate rebels in open rebellion
-- [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]] suggestets first target: Neverwinter (Duke Vallandor Firebloom)
+- [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]] suggestets first target: Neverwinter (Duke Alaric Thorne)
 
 **Combat Recovery:**
 

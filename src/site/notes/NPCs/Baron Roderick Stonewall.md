@@ -18,7 +18,7 @@ Baron Roderick Stonewall controls a strategically important castle on the border
 
 #### Relationships
 - **Conspirator with:** [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]]
-- **Fellow conspirators:** [[NPCs/Duke Vallandor Firebloom\|Duke Vallandor Firebloom]], [[NPCs/Ser Tristan Blackwood\|Ser Tristan Blackwood]]
+- **Fellow conspirators:** [[NPCs/Ser Tristan Blackwood\|Ser Tristan Blackwood]]
 - **Enemy:** [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] (opposing faction)
 
 #### Appearances

@@ -124,7 +124,7 @@ The Tournament of Wits and Wisdom followed - five riddle rooms, each one painful
 
 _Sessions 20–21 - Revelations in the Arena_
 
-The Grand Joust. [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] faced Duke Vallandor Firebloom - who led four to zero after striking the goliath in the head twice. Co'narr removed his helmet for the final tilt and rolled two Natural 20s. The Duke was obliterated. The crowd erupted.
+The Grand Joust. [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] faced Duke Alaric Thorne - who led four to zero after striking the goliath in the head twice. Co'narr removed his helmet for the final tilt and rolled two Natural 20s. The Duke was obliterated. The crowd erupted.
 
 [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] unhorsed [[NPCs/Emperor Vladier Drakonhart\|Emperor Vladier Drakonhart]] in a single pass after the Emperor rolled triple ones. The crowd was stunned. [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] defeated the Eagle Knight in the jousting final - only for the Eagle Knight to remove her helmet and reveal herself as [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] herself, before a shocked arena. Odonia immediately dismounted to help the Princess up. They walked off together holding both horses.
 

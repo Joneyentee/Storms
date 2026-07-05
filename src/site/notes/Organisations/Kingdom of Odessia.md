@@ -131,7 +131,7 @@
 **Hierarchy:**
 1. **Monarch** (Crown Princess)
 2. **Dukes/Duchesses** (highest nobles)
-   - Duke Vallandor Firebloom (Neverwinter)
+   - Duke Alaric Thorne (Neverwinter)
    - Duke Alaric Thorne (region unclear)
 3. **Lords/Ladies** (regional rulers)
    - Lady Odonia of Galantri (Sylobelle)
@@ -208,7 +208,7 @@
 - Largest region
 - Majority uncommitted in civil war
 - Key strategic target (Rally the North)
-- Major city: Neverwinter (Duke Vallandor Firebloom)
+- Major city: Neverwinter (Duke Alaric Thorne)
 - Towns: Sylobelle, Ulvenora, others
 
 **Southern Territories:**

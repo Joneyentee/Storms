@@ -39,7 +39,7 @@
 
 - [[Sessions/Session 19 - 16 November 2024\|Session 19 - 16 November 2024]] - Announced Tournament of Wits and Wisdom via magical voice, congratulated completing competitors
 - [[Sessions/Session 25 - 14 June 2025\|Session 25 - 14 June 2025]] - **Found dying in throne room**, slumped against pillar bleeding heavily, has been fighting before party arrival, recognized by [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] as her dance partner/friend, critical condition requiring immediate healing
-- **[[Sessions/Session 26 - 16 July 2025\|Session 26 - 16 July 2025]]** - Survived throne room battle, resumed chief advisor duties (right of throne). Provided strategic guidance: recommended **Neverwinter** as first target (Duke Vallandor Firebloom key to northern strategy). Accepted 50 gold from [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] to deliver to [[NPCs/Guy (Elik'r's Squire)\|Guy (Elik'r's Squire)]]'s family for funeral costs. **Private meeting with [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]** reviewed assassination arrangement - questioned leaving king "undignified" on throne, thanked [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] for service. **Only three people know about assassination:** Princess, Eldrin, [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]. Other party members unaware.
+- **[[Sessions/Session 26 - 16 July 2025\|Session 26 - 16 July 2025]]** - Survived throne room battle, resumed chief advisor duties (right of throne). Provided strategic guidance: recommended **Neverwinter** as first target (Duke Alaric Thorne key to northern strategy). Accepted 50 gold from [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] to deliver to [[NPCs/Guy (Elik'r's Squire)\|Guy (Elik'r's Squire)]]'s family for funeral costs. **Private meeting with [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]** reviewed assassination arrangement - questioned leaving king "undignified" on throne, thanked [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] for service. **Only three people know about assassination:** Princess, Eldrin, [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]. Other party members unaware.
 
 ## Session 26 - Strategic Advisor & Secret Keeper
 
@@ -50,7 +50,7 @@
 
 **Strategic Guidance:**
 - Recommended **Neverwinter** as first target for northern rally
-- Identified Duke Vallandor Firebloom as key to northern strategy
+- Identified Duke Alaric Thorne as key to northern strategy
 - Explained: Neverwinter = biggest settlement in north, centre of region
 - Rationale: Uniting north requires securing highest-ranking northern noble
 

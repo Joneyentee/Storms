@@ -31,7 +31,7 @@ Young pompous knight. **Former** Lord of [[Locations/Sylobelle\|Sylobelle]] and 
 - **Former domain:** [[Locations/Sylobelle\|Sylobelle]] region (stripped of lands after declaring for Falcon)
 - **Succeeded by:** [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (Duchess, now Lady of Sylobelle)
 - Disliked by: Villagers and old lords
-- Co-conspirators: Listed on evidence scroll with Duke Vallandor Firebloom, Baron Roderick Stonewall, Ser Tristan Blackwood
+- Co-conspirators: Listed on evidence scroll with Baron Roderick Stonewall, Ser Tristan Blackwood
 
 ## Timeline
 
@@ -65,7 +65,7 @@ Young pompous knight. **Former** Lord of [[Locations/Sylobelle\|Sylobelle]] and 
 - [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]] - Master, Falcon faction leader
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] - Succeeded him as ruler of Sylobelle
 - [[NPCs/Elincia Flowers\|Elincia Flowers]] - Alvar's mother, Falcon faction founder
-- Co-conspirators: Duke Vallandor Firebloom, Baron Roderick Stonewall, Ser Tristan Blackwood
+- Co-conspirators: Baron Roderick Stonewall, Ser Tristan Blackwood
 
 ## Related Quests
 

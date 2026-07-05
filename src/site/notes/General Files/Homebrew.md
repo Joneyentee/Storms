@@ -378,7 +378,7 @@
 - Handed to Princess Session 26
 - Evidence scroll listed:
     - Anfarlan
-    - Duke Vallandor Firebloom
+    - Duke Alaric Thorne
     - Baron Roderick Stonewall
     - Ser Tristan Blackwood
 - Mark (former member) listed

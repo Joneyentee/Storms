@@ -171,7 +171,6 @@ Initially attempted to win Grand Tournament to gain influence over Kingdom. When
 ### Political Allies
 - **[[NPCs/Elincia Flowers\|Elincia Flowers]]** - Mother, White Falcon Knight, Falcon faction leader
 - **[[NPCs/Ser Anfalen\|Ser Anfalen]]** - Retainer, Lord of [[Locations/Sylobelle\|Sylobelle]]
-- **[[NPCs/Duke Vallandor Firebloom\|Duke Vallandor Firebloom]]** - High-ranking noble conspirator
 - **[[NPCs/Baron Roderick Stonewall\|Baron Roderick Stonewall]]** - Border security conspirator
 - **[[NPCs/Ser Tristan Blackwood\|Ser Tristan Blackwood]]** - Knight conspirator
 - **Black Knight** (unnamed) - Military commander (Session 24)
@@ -450,7 +449,6 @@ Initially attempted to win Grand Tournament to gain influence over Kingdom. When
 
 **Allies:**
 - [[NPCs/Ser Anfalen\|Ser Anfalen]] - Retainer, Lord of Sylobelle
-- [[NPCs/Duke Vallandor Firebloom\|Duke Vallandor Firebloom]] - Conspirator
 - [[NPCs/Baron Roderick Stonewall\|Baron Roderick Stonewall]] - Conspirator
 - [[NPCs/Ser Tristan Blackwood\|Ser Tristan Blackwood]] - Conspirator
 - Black Knight - Commander (possibly himself)

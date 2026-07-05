@@ -210,7 +210,7 @@
 
 **Outcome:** Eldrin survived throne room battle. Recovered during two-day reconstruction. Now serving as Princess's chief advisor (right hand position).
 
-**Strategic Value:** Provided crucial intelligence - recommended Neverwinter (Duke Vallandor Firebloom) as first target for Rally the North. Elik'r's Divine Sense confirmed: Pure good (trustworthy).
+**Strategic Value:** Provided crucial intelligence - recommended Neverwinter (Duke Alaric Thorne) as first target for Rally the North. Elik'r's Divine Sense confirmed: Pure good (trustworthy).
 
 **Related Active:** [Rally the North](Quests - Active.md#rally-the-north)
 

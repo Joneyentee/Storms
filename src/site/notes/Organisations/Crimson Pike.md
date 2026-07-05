@@ -270,8 +270,7 @@
 **Related NPCs:**
 
 - [[NPCs/Captain Rhyla Garron\|Captain Rhyla Garron]] (company leader, "Red Viper")
-- [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] (employer - if not Duke Vallandor)
-- [[NPCs/Duke Vallandor Firebloom\|Duke Vallandor Firebloom]] (employer - if not Duke Alaric)
+- [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] (employer)
 
 **Related Locations:**
 

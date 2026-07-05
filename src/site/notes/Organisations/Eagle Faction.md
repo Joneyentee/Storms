@@ -41,7 +41,7 @@
 - **Northern Territories** - Majority undecided
   - Many nobles uncommitted
   - Strategic focus for Marshals of the North
-  - First target: Neverwinter (Duke Vallandor Firebloom)
+  - First target: Neverwinter (Duke Alaric Thorne)
 
 **Lost:**
 - **Southern Territories** - Under Falcon control
@@ -231,7 +231,7 @@
 - Largely undecided
 
 **Key Northern Locations:**
-- **Neverwinter** - Duke Vallandor Firebloom (uncommitted)
+- **Neverwinter** - Duke Alaric Thorne (uncommitted)
   - Largest northern settlement
   - Center of northern region
   - Highest-ranking northern noble
@@ -287,7 +287,7 @@
 ### Uncommitted Nobles
 
 **Northern Territories:**
-- Duke Vallandor Firebloom (Neverwinter) - **FIRST TARGET**
+- Duke Alaric Thorne (Neverwinter) - **FIRST TARGET**
 - Majority of northern nobles
 - Unknown specific names
 - Strategic focus for rally campaign
@@ -310,7 +310,7 @@
 
 **Approach:**
 1. **Neverwinter First** (Eldrin's recommendation)
-   - Duke Vallandor Firebloom = key to north
+   - Duke Alaric Thorne = key to north
    - Largest settlement, highest-ranking noble
    - Center of northern region
    - Diplomatic or military approach
@@ -744,4 +744,4 @@
 
 **Last Updated:** Session 26
 **Current Status:** Active civil war, ~50% kingdom support, rallying north
-**Next Priority:** Rally Neverwinter (Duke Vallandor Firebloom)
+**Next Priority:** Rally Neverwinter (Duke Alaric Thorne)

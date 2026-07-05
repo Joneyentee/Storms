@@ -112,7 +112,7 @@
 - Strange creatures attacking settlements (see Eastern Border)
 - Time pressure: delays = more Falcon defections
 
-**Key NPCs:** Duke Alaric Thorne (primary target, hired both mercenary companies) | Duke Vallandor Firebloom (also at Neverwinter) | Princess Eilrora | Eldrin Oakenhart (advisor) | Ser Alvar Flowers (enemy)
+**Key NPCs:** Duke Alaric Thorne (primary target, hired both mercenary companies) | Duke Alaric Thorne (also at Neverwinter) | Princess Eilrora | Eldrin Oakenhart (advisor) | Ser Alvar Flowers (enemy)
 
 **Related:** [Secure Eastern Border](https://claude.ai/chat/174466a7-5996-4c2c-acd5-cce0b6b100a7#secure-eastern-border) | [Eagle vs Falcon War](https://claude.ai/chat/174466a7-5996-4c2c-acd5-cce0b6b100a7#eagle-vs-falcon-faction-war) | [Visit Citadel](https://claude.ai/chat/174466a7-5996-4c2c-acd5-cce0b6b100a7#visit-bane-watcher-citadel)
 

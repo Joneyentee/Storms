@@ -348,7 +348,7 @@
 
 ### Active Primary Missions
 
-- **[[Quests/Quests - Active#Rally the North\|Quests - Active#Rally the North]]** - HIGH PRIORITY: Duke Vallandor Firebloom in [[Locations/Neverwinter\|Neverwinter]] is first target
+- **[[Quests/Quests - Active#Rally the North\|Quests - Active#Rally the North]]** - HIGH PRIORITY: Duke Alaric Thorne in [[Locations/Neverwinter\|Neverwinter]] is first target
 - **[[Quests/Quests - Active#Visit Bane Watcher Citadel\|Quests - Active#Visit Bane Watcher Citadel]]** - CRITICAL URGENT: [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s sprite corruption, [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s active curse, examine [[General Files/Homebrew#Dragon's Tear Gem\|Dragon's Tear]] gem
 - **[[Quests/Quests - Active#Secure Eastern Border\|Quests - Active#Secure Eastern Border]]** - HIGH: Investigate Eastern Citadel silence, strange creatures attacking
 
@@ -445,7 +445,7 @@
 ### Party Decision - Choose Next Destination
 
 1. **East to Cathedral Town** (Ilmater cathedral) - then decide:
-    - **North to [[Locations/Neverwinter\|Neverwinter]]** - Rally Duke Vallandor Firebloom (first target for Rally the North)
+    - **North to [[Locations/Neverwinter\|Neverwinter]]** - Rally Duke Alaric Thorne (first target for Rally the North)
     - **East to [[Locations/Bane Watcher Citadel\|Bane Watcher Citadel]]** - Address [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s corruption and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s curse (CRITICAL URGENT)
 2. **East to Eastern Citadel** - Investigate why it's gone silent (HIGH priority)
 

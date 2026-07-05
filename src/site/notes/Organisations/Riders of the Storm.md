@@ -57,12 +57,12 @@
 1. Unite undecided northern nobles under Eagle faction
 2. Secure eastern border (Eastern Citadel fallen silent)
 3. Kill/destroy anyone in open rebellion
-4. First target: Neverwinter ([[NPCs/Duke Vallandor Firebloom\|Duke Vallandor Firebloom]])
+4. First target: Neverwinter ([[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]])
 
 **Strategic Guidance (Eldrin Oakenhart):**
 
 - Neverwinter = center of northern region, biggest settlement
-- Duke Vallandor Firebloom = highest-ranking northern noble
+- Duke Alaric Thorne = highest-ranking northern noble
 - Key to uniting entire north
 - Approach: Diplomatic or military (party's choice)
 
@@ -340,7 +340,7 @@
 **Strategic Assignment:**
 
 - Rally northern territories for Crown Princess
-- First target: Neverwinter (Duke Vallandor Firebloom)
+- First target: Neverwinter (Duke Alaric Thorne)
 - Secure eastern border (Eastern Citadel silent)
 - Kill/destroy anyone in open rebellion
 
@@ -391,7 +391,7 @@
 ### Uncertain Relations
 
 - **Northern Nobles** - Must rally for Crown Princess
-- **[[NPCs/Duke Vallandor Firebloom\|Duke Vallandor Firebloom]]** - First diplomatic/military target
+- **[[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]** - First diplomatic/military target
 - **Eastern Citadel** - Fallen silent, unknown status
 - **Crimson Pike** - Mercenaries (no allegiances)
 
@@ -448,7 +448,7 @@
 ### Tactical Challenges
 
 1. **Troop Deployment:** 732 troops need effective organization
-2. **Neverwinter Approach:** Diplomatic vs military with Duke Vallandor Firebloom
+2. **Neverwinter Approach:** Diplomatic vs military with Duke Alaric Thorne
 3. **Time Management:** Multiple urgent missions (Citadel, rally north, secure east)
 4. **Dual Mission Balance:** Public Marshals duties vs secret Bane hunting
 5. **Formation Discipline:** Mock battle exposed coordination gaps, need training (Session 28)

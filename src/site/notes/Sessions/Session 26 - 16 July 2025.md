@@ -567,7 +567,7 @@ Meeting began filtering out into smaller groups.
 - [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]] recommended starting with Neverwinter
 - Neverwinter = major city on northern coast, centre of region
 - Biggest settlement in north
-- Owned by Duke Vallandor Firebloom
+- Owned by Duke Alaric Thorne
 - Highest-ranking noble in northern territories
 - Key to uniting north
 
@@ -791,7 +791,7 @@ Party rolled percentile for drunken antics (morning-after discoveries):
 
 - **[[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]]** - Leading southern rebellion army, declared enemy, approximately 50% kingdom support
 - **[[NPCs/Yavanna Lightwhisper\|Yavanna Lightwhisper]]** - Twin sister of [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]], whereabouts unknown
-- **[[NPCs/Duke Vallandor Firebloom\|Duke Vallandor Firebloom]]** - Rules Neverwinter (northern major city), key strategic target
+- **[[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]** - Rules Neverwinter (northern major city), key strategic target
 - **[[NPCs/Ser Anfalen\|Ser Anfalen]]** - Former [[Locations/Sylobelle\|Sylobelle]] lord, stripped of lands, declared for [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]]
 - **[[NPCs/Guy (Elik'r's Squire)\|Guy]]** - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s squire, killed [[Sessions/Session 22 - 15 March 2025\|Session 22]], [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] sent 50 gold to family
 
@@ -813,7 +813,7 @@ Party rolled percentile for drunken antics (morning-after discoveries):
 ### Mentioned Locations
 
 - **Bane Watcher Citadel** - Centre of kingdom, island in large lake, mountain range, home of Bane Watcher organisation
-- **Neverwinter** - Major northern city, Duke Vallandor Firebloom's seat, strategic target for rallying north
+- **Neverwinter** - Major northern city, Duke Alaric Thorne's seat, strategic target for rallying north
 - **Eastern Citadel** - Major keep in eastern mountains, fallen silent, guards border with dead lands
 - **Dead Lands** - Eastern territories beyond mountains, orc/troll/minotaur tribes, usually disorganised
 - **[[Locations/Sylobelle\|Sylobelle]]** - Now officially [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s lands as Lady of [[Locations/Sylobelle\|Sylobelle]]
@@ -847,7 +847,7 @@ Active Quests Updated
     - **Quest File:** [[Quests/Quests - Active#Rally the North\|Quests - Active#Rally the North]]
     - Party appointed Marshals of the North
     - Mission: Unite northern territories for Princess
-    - First target: Neverwinter (Duke Vallandor Firebloom)
+    - First target: Neverwinter (Duke Alaric Thorne)
     - Kill/destroy anyone in open rebellion
     - Party given 712+ troops as reinforcements
 
@@ -887,7 +887,7 @@ Active Quests Updated
 - **[[NPCs/Thalas\|Thalas]] = Lady Alysanne = Elincia Flowers** - Same person, helmet melted revealing face, escaped saying "kingdom will be ours"
 - **Eastern Citadel Silent** - Major keep fallen quiet, unusual threat from dead lands
 - **Bane Progression** - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] advanced corruption, sprites manifest, can take over host
-- **Northern Strategy** - Neverwinter key to uniting north, Duke Vallandor Firebloom
+- **Northern Strategy** - Neverwinter key to uniting north, Duke Alaric Thorne
 - **Party Military Status** - Official command of 712+ troops, war chest access, formal military titles
 - **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s Secret** - Assassination arrangement with Princess known only to [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]] and Princess
 - **[[NPCs/Avicia\|Avicia]]'s Talent** - Natural magic affinity rivalling Princess's abilities
@@ -1066,7 +1066,7 @@ Active Quests Updated
 - Strange creatures attacking northern settlements
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Bane corruption **advanced** - sprite manifestation
 - Dormant commands still in [[Party Members/Tooo-Ah\|Tooo-Ah]], [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]
-- Party must rally north starting with Neverwinter (Duke Vallandor Firebloom)
+- Party must rally north starting with Neverwinter (Duke Alaric Thorne)
 - [[NPCs/Avicia\|Avicia]]'s education decision pending
 - [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] urging Citadel visit for Bane training
 - 712+ troops now under party command
@@ -1084,7 +1084,7 @@ Active Quests Updated
 - **Mysterious soldier's escape** - eerie green light (deeper than party's), skeletal voice, who was he?
 - **Black Knight's departure** - brownish light, why did punch stop mid-air?
 - **[[NPCs/Avicia\|Avicia]]'s magical talent** - why so strong? Connection to royal bloodline?
-- **Duke Vallandor Firebloom** - will he support Princess? Negotiate or fight?
+- **Duke Alaric Thorne** - will he support Princess? Negotiate or fight?
 - **Northern nobles** - which haven't declared? Can they be swayed?
 - **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s secret** - when will party learn about assassination arrangement?
 - **Magical bean** - what happens when [[Party Members/Tooo-Ah\|Tooo-Ah]] discovers it? What does it grow?
@@ -1094,7 +1094,7 @@ Active Quests Updated
 - **[[NPCs/Thalas\|Thalas]]/Lady Alysanne/Elincia Flowers** - Escaped, leading conspiracy, "war has only just begun"
 - **[[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]]** - Leading southern army, whereabouts unknown
 - **Yavanna Lightwhisper** - [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]]'s twin, location unknown
-- **Duke Vallandor Firebloom** - Key to northern strategy, rules Neverwinter
+- **Duke Alaric Thorne** - Key to northern strategy, rules Neverwinter
 - **[[NPCs/Avicia\|Avicia]]** - Education decision, identity as heir still secret, magical talent
 - **[[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]** - Urging Citadel visit, has kitten companion
 - **[[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]** - Dormant Bane command, [[NPCs/Avicia\|Avicia]]'s teacher
@@ -1108,7 +1108,7 @@ Active Quests Updated
 ### Immediate Concerns
 
 - **Choose mission order:** Rally north first, or visit Bane Watcher Citadel?
-- **Neverwinter approach:** Diplomatic or military? Duke Vallandor Firebloom's stance?
+- **Neverwinter approach:** Diplomatic or military? Duke Alaric Thorne's stance?
 - **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s corruption:** How urgent is Citadel visit for training/treatment?
 - **Troop integration:** 712+ new soldiers need organisation, training, leadership
 - **Eastern Citadel:** Investigate silence or focus on northern rally?

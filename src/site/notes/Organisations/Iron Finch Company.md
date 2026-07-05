@@ -180,8 +180,7 @@
 **Related NPCs:**
 
 - [[NPCs/Captain Mara Veylan\|Captain Mara Veylan]] (company leader)
-- [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] (employer - if not Duke Vallandor)
-- [[NPCs/Duke Vallandor Firebloom\|Duke Vallandor Firebloom]] (employer - if not Duke Alaric)
+- [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] (employer)
 
 **Related Locations:**
 

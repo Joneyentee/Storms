@@ -691,7 +691,7 @@ Running formation (front to back):
 
 **Rally the North** - Status: Active (NOT STARTED)
 
-- Primary target: [[NPCs/Duke Vallandor Firebloom\|Duke Vallandor Firebloom]] (Neverwinter)
+- Primary target: [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] (Neverwinter)
 - 732 troops under command
 - Must wait until escape from dream
 
@@ -1051,7 +1051,7 @@ Running formation (front to back):
 
 **Strategic Targets:**
 
-- **[[NPCs/Duke Vallandor Firebloom\|Duke Vallandor Firebloom]]** - Neverwinter ruler, primary Rally the North target
+- **[[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]** - Neverwinter ruler, primary Rally the North target
 - **[[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]]** - Leading southern rebellion army
 - **[[NPCs/Thalas\|Thalas]]/Elincia Flowers** - Escaped [[Sessions/Session 26 - 16 July 2025\|Session 26]], whereabouts unknown
 

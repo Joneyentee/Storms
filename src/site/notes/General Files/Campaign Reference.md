@@ -125,7 +125,7 @@
 - **Ember Vein Envoy (unnamed)** - **NEW S38**: Senior [[Organisations/Ember Vein\|Ember Vein]] figure; phasing (immune to physical attacks); animated Purple Dragonborn; addressed party directly; teleported Elvva; restored party to full strength; at large; agenda unknown
 - **Lord Pompaduke the Third** - **CONFIRMED ANTAGONIST (S39)**; resurfaced directing a zombie incursion at [[Locations/Thalas'Miriel\|Thalas'Miriel]] (S40); silenced and blinded by party, fight unresolved
 - **Darius Kain** - ~~ACTIVE~~ **DECEASED (S38)** - killed by [[Party Members/Tooo-Ah\|Tooo-Ah]]; confirmed [[Organisations/Ember Vein\|Ember Vein]] Third Vein operative
-- Duke Vallandor Firebloom, Baron Roderick Stonewall, Ser Tristan Blackwood (conspirators)
+- Baron Roderick Stonewall, Ser Tristan Blackwood (conspirators)
 
 ### Major Threats (Long-term)
 
