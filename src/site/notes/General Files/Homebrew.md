@@ -66,9 +66,7 @@
 
 ## Bramble's Experimental Pastries
 
-**Creator:** [[NPCs/Bramble Porridgepot\|Bramble Porridgepot]] (Cook at [[Locations/Crossroads Inn\|Crossroads Inn]])  
-**Type:** Random magical consumables  
-**Warning:** "I made these as trial and **some may explode!**"
+**Creator:** [[NPCs/Bramble Porridgepot\|Bramble Porridgepot]] (Cook at [[Locations/Crossroads Inn\|Crossroads Inn]]) **Type:** Random magical consumables **Warning:** "I made these as trial and **some may explode!**"
 
 **Mechanics:** Each pastry has a unique magical effect with varying durations.
 
@@ -132,6 +130,20 @@
 - Khorrak's corrupted green ooze seeped under rock to unconscious body
 - Body whisped away in green smoke upon transformation
 - Transformation triggered by: prolonged exposure + vulnerable state + corrupted entity death nearby
+
+---
+
+## Calen Thorne's Ice Blade
+
+**Type:** Innate/class ability (mechanism not yet explained) **Owner:** [[NPCs/Calen Thorne\|Calen Thorne]] **First Used:** Session 41
+
+**Description:** Previously unused ability. Under pressure at low HP, ice swirled around Calen's blade before he drove it into the ground, releasing an eruption of ice that struck all nearby combatants - friend and foe alike - for 34 cold damage, encasing several (including [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] and [[Party Members/Elvva Beltavar\|Elvva Beltavar]]) in ice alongside him.
+
+**Notes:**
+
+- Cleared the zombies present on the battlefield at the time of use
+- Save type/DC and activation cost not confirmed - further use needed to establish full mechanics
+- Class or origin connection to the ability unconfirmed
 
 ---
 
@@ -289,10 +301,10 @@
 
 - **Activation:** Once per long rest — insert into any locked door and turn
 - Roll 1d6:
-    - **1** — Door explodes
-    - **2–3** — Remains locked (no negative consequence)
-    - **4–5** — Opens normally
-    - **6** — Opens to a completely different location (DM's choice)
+- **1** — Door explodes
+- **2–3** — Remains locked (no negative consequence)
+- **4–5** — Opens normally
+- **6** — Opens to a completely different location (DM's choice)
 
 ⚠️ **Note:** Does not override or supersede doors sealed by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s Permanent Lockpicks.
 
@@ -377,10 +389,10 @@
 
 - Handed to Princess Session 26
 - Evidence scroll listed:
-    - Anfarlan
-    - Duke Alaric Thorne
-    - Baron Roderick Stonewall
-    - Ser Tristan Blackwood
+- Anfarlan
+- Duke Vallandor Firebloom
+- Baron Roderick Stonewall
+- Ser Tristan Blackwood
 - Mark (former member) listed
 
 **Massive Iridescent Scale (Elik'r):**

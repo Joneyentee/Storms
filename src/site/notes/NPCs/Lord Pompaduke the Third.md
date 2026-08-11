@@ -3,7 +3,7 @@
 ---
 
 **Faction:** Confirmed antagonist — own agenda, Bane-connected 
-**Status:** Active — directing a zombie incursion at [[Locations/Thalas'Miriel\|Thalas'Miriel]] (S40), engaged and partially neutralised (silenced, blinded) by the party; outcome unresolved at session end 
+**Status:** Active — at large as of Session 41.
 **Race:** Human 
 **Class:** Bard (College of Enchantment, estimated level 7-9) 
 **Tags:** #npc/unknown #npc/bard #npc/antagonist #npc/performer #npc/powerful-mage
@@ -100,6 +100,7 @@ Theatrical and lordly with mischievous, roguish edge. Speaks in very posh manner
 - **[[Sessions/Session 36 - 21 February 2026\|Session 36 - 21 February 2026]]** - Appeared at Cathedral of Gentle Redemption introduced by the abbot as **"Brother Algrim"**, a guest brother from afar. Led morning worship in monk's robes, playing morose music on his lute. **A green Bane-like aura rose visibly from the instrument** — noticed by party, not by congregation. Did not acknowledge the party during the service.
 - **[[Sessions/Session 39 - 18 April 2026\|Session 39 - 18 April 2026]]** - Remained invisible throughout Phase One of the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] boss fight. Appeared mid-combat and played his lute directly at the dragonborn — the Bane-infused performance re-energised him, triggering Phase Two and a psychic roar. Shouted _"Have fun!"_ and vanished before the fallout. Reappeared once the wyrm had risen from the ritual chamber floor; performed his customary bow to the party; announced: _"Thank you, everyone, for completing the task I needed to do. For me."_ Opened a Bane-powered green-rimmed portal, guided the wyrm through it, and departed. **Current whereabouts unknown.**
 - **[[Sessions/Session 40 - 25 May 2026\|Session 40 - 25 May 2026]]** - Resurfaced at [[Locations/Thalas'Miriel\|Thalas'Miriel]], directing a zombie incursion against the town from a rooftop while playing his lute. Cast Counterspell against [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Fireball, only for her own Counterspell to counter his, letting the original Fireball through for 42 damage. Deployed a Hunger of Hadar-style spore effect. Silenced by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and blinded by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], effectively neutralised for the remainder of the fight. Battle still ongoing as [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] arrived with reinforcements at session end.
+- **[[Sessions/Session 41 - 11 July 2026\|Session 41 - 11 July 2026]]** - Concluded the [[Locations/Thalas'Miriel\|Thalas'Miriel]] fight: [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s Radiant Bow destroyed a decoy/illusory form; his true, invisible self had been elsewhere on the battlefield throughout. Bowed and portalled away with "See you at our next chapter!" Reappeared shortly after at a cemetery mausoleum with the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - Unnamed]], the [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]], and the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]]; bowed again and portalled away a second time.
 
 ---
 

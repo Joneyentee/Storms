@@ -6,10 +6,7 @@
 
 # Campaign Reference - Quick Lookup
 
-**Last Updated:** Session 40 
-**Campaign:** Riders of the Storm 
-**System:** D&D 5E  
-**Current Party Level:** 6 (levelled Session 30)
+**Last Updated:** Session 41 **Campaign:** Riders of the Storm **System:** D&D 5E **Current Party Level:** 6 (levelled Session 30)
 
 ---
 
@@ -23,29 +20,28 @@
 |**Tooo-Ah**|Joy|Monk 6|Aarakocra, Chariot General, brews magical teas, adopted Avicia, Horn of Winter Gale (S35), Ring of Intuition (S31); **killed Darius Kain (S38)**|
 |**Elvva Beltavar**|Shannon|Sorc 5/Lock 1|Age 217, drow, main DPS, **CRITICAL Bane corruption (Dragon's Breath now green Bane flame S36)**, Dragon's Tear gem, Wand of Dusk Veil (S36); **teleported to underground chamber by Ember Vein Envoy (S38); full party reunited**|
 
-**Former Member:** Ser Pas Rata (Deceased ~1 month ago)  
-**Fate Unknown:** Liora Emberveil (appeared Fizwidget's Winter Realm S33, did not return S34)
+**Former Member:** Ser Pas Rata (Deceased ~1 month ago) **Fate Unknown:** Liora Emberveil (appeared Fizwidget's Winter Realm S33, did not return S34)
 
 ---
 
-## Current Situation (Session 40)
+## Current Situation (Session 41)
 
-**Location:** [[Locations/Thalas'Miriel\|Thalas'Miriel]] - town centre, mid-battle (S40) **Status:** Marshals of the North, 732 troops + Seraphine (at Stormhold Keep); [[NPCs/Calen Thorne\|Calen Thorne]] joined the party as a travelling member (S40) **Mission:** Rally the North - blocked by zombie incursion at Thalas'Miriel **Crisis:** Town found overrun by a zombie incursion directed by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]; fight unresolved as reinforcements arrived at session end
+**Location:** [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] - mausoleum, mid-combat against the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] (S41) **Status:** Marshals of the North, 732 troops + Seraphine (at Stormhold Keep); zombie incursion at [[Locations/Thalas'Miriel\|Thalas'Miriel]] resolved (S41) **Mission:** Rally the North - now investigating the cemetery source and Dragonclaw Isle **Crisis:** Confronted four Bane-aligned figures at the mausoleum; three escaped/departed, the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] remains fighting
 
 **Immediate Concerns:**
 
-- **Zombie incursion at [[Locations/Thalas'Miriel\|Thalas'Miriel]]:** Directed by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] from a rooftop; cause unconfirmed; fight ongoing at session end
-- **[[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]:** Location now confirmed (previously unknown S39); silenced and blinded by party but not defeated
-- **[[NPCs/Ser Alric Vayne\|Ser Alric Vayne]]:** Now in command of the barricaded Silver Lantern garrison; led reinforcements to the party's aid
-- **[[NPCs/Calen Thorne\|Calen Thorne]]'s Ducal claim:** Still undecided - joined the party instead of giving a formal answer
+- **Unknown Axe Fighter combat unresolved (S41 cliffhanger):** Session ended on the initiative roll
+- **Dragonclaw Isle revealed (S41):** [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] named it as the location of "the other dragon"
+- **Lord Pompaduke's history (S41):** Confirmed cast out of [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]'s order decades ago; escaped twice this session
+- **[[NPCs/Calen Thorne\|Calen Thorne]]'s Ducal claim (S41):** Now confirmed he intends to claim the throne; Silver Lantern backing still undecided
 - Sealed scroll from [[NPCs/Darius Kain\|Darius Kain]] still unread
 - Vaelorian's delegation to Neverwinter: Ticking clock - counters Rally the North mission directly
 - Elvva's Bane corruption CRITICAL (Dragon's Breath manifesting as green Bane flame S36)
 - Elik'r's curse active (3 psychic damage when harming Elvva)
 - Eastern Citadel fallen silent (strange creatures attacking)
-- Wyrm taken by Pompaduke (S39) - no sign of it during this encounter
+- Wyrm taken by Pompaduke (S39) - possibly tied to Dragonclaw Isle (S41)
 
-**Next Steps:** Resolve the fight against Pompaduke and the zombies; read sealed scroll; counter Neverwinter delegation; determine next move toward Neverwinter
+**Next Steps:** Resolve the fight against the Unknown Axe Fighter; investigate the cemetery and Dragonclaw Isle; read sealed scroll; counter Neverwinter delegation; determine next move toward Neverwinter
 
 ---
 
@@ -53,7 +49,7 @@
 
 **Bane Corruption (Progressive):**
 
-- **Elvva:** CRITICAL - **Dragon's Breath now manifesting as green Bane flame (S36)**, corruption spreading beyond arcane spells to innate draconic nature; reflection pattern confirmed S34 (3rd Wisdom fail = full reflection); Dragon's Tear gem
+- **Elvva:** CRITICAL - **Dragon's Breath now manifesting as green Bane flame (S36)**, corruption spreading beyond arcane spells to innate draconic nature; reflection pattern confirmed S34 (3rd Wisdom fail = full reflection); Dragon's Tear gem re-examined without result (S41)
 - **Tooo-Ah:** Dormant command (kill Tessell), **returned from Fizwidget's Winter Realm S35 with Horn of the Winter Gale**
 - **Odonia:** Dormant command (kill Co'narr), **Warg ability (even/odd control mechanic revealed Session 31)**
 - **Patriarch Siegfried:** Dormant command (betray the mole), pure good confirmed (Divine Sense)
@@ -79,7 +75,7 @@
 - **Crown Princess Eilrora Everglade** - Ruler, Eagle faction, on throne, commissioned party
 - **Eldrin Oakenhart** - Chief Advisor (right hand), survived battle, pure good confirmed
 - **Avicia** - **RIGHTFUL HEIR** (High King's granddaughter via second son), age 12, adopted by Tooo-Ah, identity SECRET, magical prodigy
-- **Co'narr 'Banewatcher' Hyborian** - Goliath Barbarian 7'8", Bane Watcher, **departed for Nolunia Session 31**, has kitten
+- **Co'narr 'Banewatcher' Hyborian** - Goliath Barbarian 7'8", Bane Watcher, **departed for Nolunia Session 31**, has kitten; **contacted via Steve stone link, warned against trusting Pompaduke (S41)**
 - **Patriarch Siegfried Wildner** - Evocation leader lvl 11+, pure good confirmed, teaching Avicia, knows secret
 - **General Thailander Oakwood** - Commanding palace defense, pure good confirmed
 - **Seraphine** - **NEW Session 31**: Druid healer/apothecary, recruited to Stormhold Keep, cleared of false accusations
@@ -93,8 +89,8 @@
 
 ### Support
 
-- **Ser Alric Vayne** - **S37**: Former second in command, Order of the Silver Lantern; Crown loyalist; **now in command of the garrison (S40), led reinforcements against Pompaduke**
-- **Calen Thorne** - **JOINED PARTY S40** (was "Brother Calen"): Combat-trained monk; bastard son of [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]; fought alongside party against zombie incursion; Ducal claim still undecided
+- **Ser Alric Vayne** - **S37**: Former second in command, Order of the Silver Lantern; Crown loyalist; **openly in command of the garrison (S41)**
+- **Calen Thorne** - **JOINED PARTY S40** (was "Brother Calen"): Combat-trained monk; bastard son of [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]; **confirmed intent to claim the Ducal throne (S41)**; Silver Lantern backing still needed
 - **Lord Pompaduke the Third** - ~~Companion~~ **RECLASSIFIED ANTAGONIST (S39)** - see Key Antagonists
 - Sylobelle: Erland Greystone (mayor/investigator), Sofia (attack survivor), Terry (guard)
 - Squires: Alarin Moonwhisper (Tessell's), ~~Guy~~ (DEAD Session 22), Ser Garet (Elik'r's)
@@ -111,8 +107,8 @@
 - **Elincia Flowers** - TRIPLE IDENTITY REVEALED (Thalas/Lady Alysanne/White Falcon Knight), escaped via fire teleportation, promised "war has only just begun"
 - **Humanoid Wolf Rider** - Confirmed female orc, giant Frost Wolf mount, dual axes; **first direct combat S36**; serves Zorn; warned party "He'll be coming for you all shortly"
 - **Zorn** - **NEW S36**: Name only; implied commander of orc/goblin forces; imminent threat declared by orc rider; identity unknown
-- **Mysterious Cloaked Man** - Skull face, purple robes, gold cane, called Elincia "My Queen," whereabouts unknown
-- **Unknown Axe Fighter** - Magical 2H axe, kidnapped Tessell previously, whereabouts unknown
+- **Mysterious Cloaked Man** - Skull face (S25; not seen S41, possibly a mask), purple robes, gold cane concealing a sword (S41); **reappeared at a cemetery mausoleum near Thalas'Miriel, cast a necromancy spell, vanished (S41)**
+- **Unknown Axe Fighter** - Magical 2H axe, kidnapped Tessell previously; **reappeared at the same mausoleum, remained to challenge the party to combat - unresolved (S41)**
 - **Mysterious Skeletal Soldier** - Skeletal voice, departed in eerie green light
 - **Black Knight (Warhammer)** - Punch stopped mysteriously mid-air, departed in brownish light
 
@@ -122,14 +118,14 @@
 - **Yavanna Lightwhisper** - Bastard daughter of Gaelin, Alvar's twin, whereabouts unknown, had relations with Elik'r
 - **Ser Anfalen** - Former Lord of Sylobelle, stripped of lands, declared for Falcon
 - **High Luminary Aelthir Vaelorian** - **NEW S36**: 482-year-old elf, head of Cathedral of Gentle Redemption, Thalas'Miriel; actively organising Falcon's northern campaign; commands Order of the Silver Lantern
-- **Ember Vein Envoy (unnamed)** - **NEW S38**: Senior [[Organisations/Ember Vein\|Ember Vein]] figure; phasing (immune to physical attacks); animated Purple Dragonborn; addressed party directly; teleported Elvva; restored party to full strength; at large; agenda unknown
-- **Lord Pompaduke the Third** - **CONFIRMED ANTAGONIST (S39)**; resurfaced directing a zombie incursion at [[Locations/Thalas'Miriel\|Thalas'Miriel]] (S40); silenced and blinded by party, fight unresolved
+- **Ember Vein Envoy (unnamed)** - **NEW S38**: Senior [[Organisations/Ember Vein\|Ember Vein]] figure; phasing (immune to physical attacks); animated Purple Dragonborn; addressed party directly; teleported Elvva; restored party to full strength; **reappeared at cemetery mausoleum, revealed Dragonclaw Isle, departed for Neverwinter (S41)**
+- **Lord Pompaduke the Third** - **CONFIRMED ANTAGONIST (S39)**; **fight at Thalas'Miriel concluded - escaped via decoy, reappeared at cemetery mausoleum, escaped again (S41); confirmed cast out of Co'narr's order decades ago**
 - **Darius Kain** - ~~ACTIVE~~ **DECEASED (S38)** - killed by [[Party Members/Tooo-Ah\|Tooo-Ah]]; confirmed [[Organisations/Ember Vein\|Ember Vein]] Third Vein operative
 - Baron Roderick Stonewall, Ser Tristan Blackwood (conspirators)
 
 ### Major Threats (Long-term)
 
-- **The Bane** - Ancient evil, released by party, corrupting Elvva, dormant commands planted
+- **The Bane** - Ancient evil, released by party, corrupting Elvva, dormant commands planted; **Dragonclaw Isle revealed as first location lead (S41)**
 - Emperor Vladier Drakonhart - Immortal Draconic Empire ruler, hostile
 - Barry/Larry - Gnome army leader (shot in eye by Odonia), connected to Fizwidget Spindleflash
 - **Purple Dragonborn** - ~~ANIMATED (S38)~~ **DEFEATED, DECEASED (S39)** - confirmed Stormswallow ancestor; passed longsword and family banner to Elik'r
@@ -138,22 +134,27 @@
 
 ## Key Locations
 
-**Current:** [[Locations/Thalas'Miriel\|Thalas'Miriel]] - town centre, mid-battle against a zombie incursion (S40); [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] leading Silver Lantern reinforcements **Base:** Stormhold Keep (732 troops + Seraphine, official deed, walls under construction) **Next Destination:** Neverwinter (after resolving Thalas'Miriel)
+**Current:** [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] - mausoleum outside Thalas'Miriel, mid-combat against the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] (S41) **Base:** Stormhold Keep (732 troops + Seraphine, official deed, walls under construction) **Next Destination:** Neverwinter (after resolving the cemetery cliffhanger)
 
-**Kingdoms:** Odessia (civil war 50/50 split), Nolunia (north), Immortal Draconic Empire (south hostile) **Cities:** Belendar (capital, secured), Neverwinter (northern duchy, first target, Iron Finch + Crimson Pike mercenaries there) **Towns:** Sylobelle (Odonia's seat, Lady Isolde mayor S31), Canathalas (port), Ulvenora (mining), **Thalas'Miriel (overrun by zombie incursion, S40; Falcon-aligned, Cathedral of Gentle Redemption)** **Inns:** Crossroads Inn (Burrow and Barrel Inn, visited S32), Secret Tavern Hideout **Dungeons:** Moth Queen Cavern (cleared S34), Fizwidget's Winter Realm (S33-35, resolved), Challenge Rooms, Underground Roads, Purple Dragonborn's Cavern, Stonereach Cavern (collapsed S31), [[Locations/Silver Lantern Garrison\|Silver Lantern Garrison]] (**allied, under Ser Alric Vayne's command S40**), [[Locations/Silver Lantern Garrison - Hidden Passage\|Silver Lantern Garrison - Hidden Passage]], **[[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] (ancient cult site, cleared/abandoned S39)** **Critical:** Eastern Citadel (gone silent), Bane Watcher Citadel (island in central lake, urgent destination) **Destroyed:** Ser Silvar's Mansion (Session 22)
+**Kingdoms:** Odessia (civil war 50/50 split), Nolunia (north), Immortal Draconic Empire (south hostile) **Cities:** Belendar (capital, secured), Neverwinter (northern duchy, first target, Iron Finch + Crimson Pike mercenaries there) **Towns:** Sylobelle (Odonia's seat, Lady Isolde mayor S31), Canathalas (port), Ulvenora (mining), **Thalas'Miriel (zombie incursion resolved S41; Falcon-aligned, Cathedral of Gentle Redemption)** **Inns:** Crossroads Inn (Burrow and Barrel Inn, visited S32), Secret Tavern Hideout **Dungeons:** Moth Queen Cavern (cleared S34), Fizwidget's Winter Realm (S33-35, resolved), Challenge Rooms, Underground Roads, Purple Dragonborn's Cavern, Stonereach Cavern (collapsed S31), [[Locations/Silver Lantern Garrison\|Silver Lantern Garrison]] (**allied, openly under Ser Alric Vayne's command S41**), [[Locations/Silver Lantern Garrison - Hidden Passage\|Silver Lantern Garrison - Hidden Passage]], [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] (ancient cult site, cleared/abandoned S39), **[[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] (NEW S41 - source of the zombie incursion, unresolved confrontation)** **Critical:** Eastern Citadel (gone silent), Bane Watcher Citadel (island in central lake, urgent destination), **Dragonclaw Isle (NEW S41 - unvisited, location of "the other dragon")** **Destroyed:** Ser Silvar's Mansion (Session 22)
 
 ---
 
 ## Critical Quests (Active)
 
-### PRIMARY MISSIONS (Session 40)
+### PRIMARY MISSIONS (Session 41)
 
-- **Resolve Zombie Incursion at Thalas'Miriel** - **CRITICAL IMMEDIATE**: Fight against [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] and zombies unresolved (S40 cliffhanger)
+- **Resolve Combat vs the Unknown Axe Fighter** - **CRITICAL IMMEDIATE**: Cemetery mausoleum confrontation unresolved (S41 cliffhanger)
+- **Investigate the Cemetery & Dragonclaw Isle** - **CRITICAL NEW (S41)**: Source of the zombie incursion; Dragonclaw Isle revealed as location of "the other dragon"
 - **Read Sealed Scroll** - **HIGH**: Recovered from [[NPCs/Darius Kain\|Darius Kain]]'s body (S39); still unread
 - **Counter Vaelorian's Delegation** - **CRITICAL**: High Luminary organising Neverwinter delegation (ticking clock, counters Rally the North)
-- **Rally the North** - **ACTIVE**: Secure Duke Alaric Thorne (Neverwinter), unite northern nobles for Princess; [[NPCs/Calen Thorne\|Calen Thorne]] joined party (S40), Ducal claim still undecided
+- **Rally the North** - **ACTIVE**: Secure Duke Alaric Thorne (Neverwinter), unite northern nobles for Princess; [[NPCs/Calen Thorne\|Calen Thorne]] confirmed intent to claim the Ducal throne (S41), Silver Lantern backing still needed
 - **Visit Bane Watcher Citadel** - CRITICAL-URGENT: Elvva's corruption (Dragon's Breath S36), Elik'r's curse active, dormant commands, Dragon's Tear
 - **Secure Eastern Border** - HIGH: Investigate Eastern Citadel silence, strange creatures attacking
+
+### COMPLETED (Session 41)
+
+- ✅ **Resolve Zombie Incursion at Thalas'Miriel** - [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] driven off via decoy destruction; zombie horde destroyed
 
 ### COMPLETED (Session 39)
 
@@ -166,7 +167,7 @@
 ### ONGOING THREATS
 
 - **Eagle vs Falcon Civil War** - CRITICAL: Kingdom 50/50 split, Elincia escaped, Ser Alvar leading southern army
-- **The Bane** - CRITICAL: Elvva's corruption advanced, Elik'r's curse active combat threat, dormant commands in party, world-ending threat
+- **The Bane** - CRITICAL: Elvva's corruption advanced, Elik'r's curse active combat threat, dormant commands in party, world-ending threat; Dragonclaw Isle lead (S41)
 - **Avicia's Education Decision** - MEDIUM: Tooo-Ah must choose (Patriarch, party, or Citadel)
 
 ### COMPLETED (Session 31)
@@ -179,11 +180,16 @@
 - ✅ **Escape Shared Dream Vision** - Defeated Khorrak, solved forgiveness riddle (Co'narr's Bane Watcher training revealed Session 31)
 - ✅ **Survive Khorrak** - Two-phase boss battle completed
 
+### MYSTERIES (Session 41 Updates)
+
+- **Dragonclaw Isle (NEW):** Revealed as location of "the other dragon" by the Ember Vein Envoy; connection to The Bane unconfirmed
+- **Lord Pompaduke's True Identity:** Confirmed cast out of Co'narr's order decades ago; escaped a second time
+- **Mysterious Figures Network:** First confirmed sighting of Cloaked Man, Axe Fighter, Pompaduke, and Envoy together
+
 ### MYSTERIES (Session 30 Updates)
 
 - **Elincia's Triple Identity:** How maintained three personas? Where is she now?
 - **Mysterious Soldier & Black Knight:** Skeletal voice (green light), warhammer knight (brownish light, stopped punch)
-- **Mysterious Cloaked Man:** Skull face, whereabouts unknown, "My Queen" to Elincia - **Unknown Axe Fighter:** Whereabouts unknown
 - **Fizwidget Spindleflash:** True nature? (Fey/Archfey/deity/wizard?) Will he return? Reality reset complete? Hidden costs to magical items?
 - **Sylobelle Murders:** Who/what causing disappearances? Why bodies missing? - Purple Dragonborn (calls to Elik'r, ancient Bane war)
 - Balthazar's death certificates (Pas Rata ✓, Elvva partial, others pending)
@@ -196,10 +202,7 @@
 
 ## Royal Succession Crisis
 
-**High King Everglade** (Deceased Session 23)  
-├── **Gaelin** (1st son, deceased) → with Elincia Flowers → **Alvar & Yavanna** (bastards, EXCLUDED)  
-├── **Second Son** (deceased "at sea") → with Verona → **AVICIA** (RIGHTFUL HEIR)  
-└── **[Third line]** → **Crown Princess Eilrora** (currently ruling, GRANDDAUGHTER)
+**High King Everglade** (Deceased Session 23) ├── **Gaelin** (1st son, deceased) → with Elincia Flowers → **Alvar & Yavanna** (bastards, EXCLUDED) ├── **Second Son** (deceased "at sea") → with Verona → **AVICIA** (RIGHTFUL HEIR) └── **[Third line]** → **Crown Princess Eilrora** (currently ruling, GRANDDAUGHTER)
 
 **Three-Way Dispute:**
 
@@ -214,11 +217,11 @@
 ## Organizations
 
 - **Riders of the Storm** - Party, **Marshals of the North**, 732 troops + Seraphine (healer), Bane Watchers (all initiated Session 18)
-- **Bane Watchers** - Ancient order hunting The Bane, secret safehouse network, Citadel in central lake
+- **Bane Watchers** - Ancient order hunting The Bane, secret safehouse network, Citadel in central lake; **Pompaduke confirmed cast out of Co'narr's order decades ago (S41)**
 - **Eagle Faction** - Crown Princess's forces, controlling Belendar and palace
 - **Falcon Faction** - Elincia/Alvar forces, ~50% kingdom support, southern army; **northern campaign now active via Thalas'Miriel (S36)**
 - **Ember Vein** - **NEW S38**: Ancient containment cult; maintains seraph's slumber via ember fissures; Inner Ember + High Flame at large; [[NPCs/Darius Kain\|Darius Kain]] (Third Vein, deceased); [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] at large
-- **Order of the Silver Lantern** - **S36**: Knightly order, Thalas'Miriel garrison; **[[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] now in command (S40)**; [[NPCs/Darius Kain\|Darius Kain]] deceased; garrison barricaded against zombie incursion
+- **Order of the Silver Lantern** - **S36**: Knightly order, Thalas'Miriel garrison; **[[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] openly in command (S41)**; [[NPCs/Darius Kain\|Darius Kain]] deceased
 - **Iron Finch Company** - **NEW S32**: Professional mercenaries (reliable), Captain Mara Veylan, hired by Duke Alaric Thorne
 - **Crimson Pike** - **NEW S32**: Mercenaries (NO ALLEGIANCES, will switch sides), Captain Rhyla Garron "Red Viper"
 - **Gnome Army** - Barry leads, revenge on Odonia
@@ -237,7 +240,9 @@
 - **Elik'r's family crest on ancient statue (S38 - CRITICAL):** The [[NPCs/Purple Dragonborn\|Purple Dragonborn]]'s armour bears Elik'r's family crest; connection to his bloodline entirely unknown
 - **Seraph - possible second ancient entity (S38):** The [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] implied the party has caused two separate awakenings: [[NPCs/The Bane\|The Bane]] and the seraph; may be distinct entities or aspects of the same power - unconfirmed
 - **Tessell's Bane connection (S37-S38 - CRITICAL):** The Bane flowed physically from his palm (S37); seraph addressed him specifically with "Kill them all" (S38); only party member who could sense the cult symbol; significance unknown
-- **Lord Pompaduke "Brother Algrim":** Second identity revealed S36; green Bane aura from lute during cathedral service; allegiance unknown
+- **Lord Pompaduke's history (S41 - CRITICAL):** Confirmed by [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] (via Steve) to have been cast out of Co'narr's own order many decades ago
+- **Mysterious Cloaked Man's identity (S41):** Confirmed present at the Session 22 town square ambush; carries a cane concealing a sword; possibly connected to the "Professor Emms" identity Tooo-Ah once handed the doll to (unconfirmed)
+- **Dragonclaw Isle (S41):** First concrete location lead for "the other dragon" since the wyrm was taken by Pompaduke (S39)
 
 **KEY RELATIONSHIPS:**
 
@@ -246,7 +251,7 @@
 - Yavanna had relations with Elik'r (unaware of connection to Alvar)
 - Barry/gnome army seek revenge on Odonia (shot in eye)
 - Co'narr distrusts Crown Princess
-- Elik'r severe guilt (forced to kill Elvva in vision, Guy's death, ~25 friendly fire casualties Session 25)
+- Elik'r severe guilt (forced to strike Elvva in ethereal vision, Guy's death, failed to save Elvva at the Belendar ambush, ~25 friendly fire casualties Session 25)
 - Odonia private meeting with Princess Session 26 (assassination arrangement confirmed)
 
 **STRATEGIC POSITIONS:**
@@ -260,12 +265,7 @@
 
 ## The Bane
 
-**Nature:** Evil incarnate, pure corruption, "the earth itself" (living entity), feeds on chaos  
-**History:** Corrupted dwarves in First Age, imprisoned by dragon gods (one died), released when party blew horn  
-**Current:** Active, strong presence in Belendar, corrupting Elvva (sprite manifestation)  
-**Capabilities:** Plants dormant commands, psychological curses, corrupts magic (green glow), sprite manifestation = advanced corruption, can overflow and take over host, shortens lifespan, **can flow physically through a Bane Watcher's body to activate external Bane-connected structures (S37 - Tessell)**; **seraph may be a separate ancient entity also stirring (S38 - unconfirmed)**  
-**Detection:** Party has Bane Sense (currently unfocused, overwhelming)  
-**Threats:** Elvva's sprite manifestation (CRITICAL), dormant commands, progressive influence, overflow risk
+**Nature:** Evil incarnate, pure corruption, "the earth itself" (living entity), feeds on chaos **History:** Corrupted dwarves in First Age, imprisoned by dragon gods (one died), released when party blew horn **Current:** Active, strong presence in Belendar, corrupting Elvva (sprite manifestation); **Dragonclaw Isle revealed as first location lead (S41)** **Capabilities:** Plants dormant commands, psychological curses, corrupts magic (green glow), sprite manifestation = advanced corruption, can overflow and take over host, shortens lifespan, **can flow physically through a Bane Watcher's body to activate external Bane-connected structures (S37 - Tessell)**; **seraph may be a separate ancient entity also stirring (S38 - unconfirmed)** **Detection:** Party has Bane Sense (currently unfocused, overwhelming) **Threats:** Elvva's sprite manifestation (CRITICAL), dormant commands, progressive influence, overflow risk
 
 **Co'narr's Knowledge (Session 26):**
 
@@ -348,6 +348,7 @@
 - **Tooo-Ah's Tea** - d100 random effects (**NEW TABLE Session 31**: 100 individual effects, not paired ranges)
 - **Bramble's Pastries** - Random magical effects (Crossroads Inn)
 - **Bane Sense** - All party initiated Session 18, currently unfocused (needs Citadel training)
+- **Calen Thorne's Ice Blade** - **NEW S41**: AoE cold burst on weapon strike, hits allies and foes alike; mechanics not fully established
 
 ---
 
@@ -377,6 +378,7 @@
 - **Session 38:** Party explored [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]]; identified cult as [[Organisations/Ember Vein\|Ember Vein]] (ancient seraph-containment organisation); [[NPCs/Darius Kain\|Darius Kain]] killed by [[Party Members/Tooo-Ah\|Tooo-Ah]]; [[NPCs/Calen Thorne\|Calen Thorne]] identity confirmed; [[NPCs/Clara\|Clara]] rescued from ritual table; [[Party Members/Elvva Beltavar\|Elvva Beltavar]] teleported in by [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]]; [[NPCs/Purple Dragonborn\|Purple Dragonborn]] animated from ancient statue bearing Elik'r's family crest; boss encounter unresolved (cliffhanger)
 - **Session 39:** [[NPCs/Purple Dragonborn\|Purple Dragonborn]] defeated in two-phase boss fight, confirmed as Stormswallow ancestor, passed longsword and family banner to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] before crumbling to dust; [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] revealed he engineered the party's actions, departed via Bane portal with the wyrm; [[NPCs/Calen Thorne\|Calen Thorne]] confirmed identity as Duke Alaric Thorne's bastard son; party took a long rest at Calen's hovel
 - **Session 40:** [[NPCs/Calen Thorne\|Calen Thorne]] joined the party after a negotiation over his Ducal options; [[Locations/Thalas'Miriel\|Thalas'Miriel]] found overrun by a zombie incursion directed by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]; [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] found in command of the barricaded Silver Lantern garrison; [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] attuned to the Stormswallow Longsword and discovered its Ember Wave ability; fight against Pompaduke and the zombies unresolved as reinforcements arrived at session end
+- **Session 41:** Zombie incursion at [[Locations/Thalas'Miriel\|Thalas'Miriel]] resolved, [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] escaped via decoy; party rested, then investigated a cemetery source of the incursion; confronted four Bane-aligned figures at a mausoleum - [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] revealed Dragonclaw Isle, Pompaduke escaped again, [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]] cast a necromancy spell and vanished; session ended on an unresolved combat cliffhanger against the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]]
 
 ---
 
@@ -419,13 +421,14 @@
 - Ser Pas Rata (Former party, ~1 month ago)
 - Ser Balthazar Thornwood (Wyvern shapeshifter, killed by Odonia)
 
-### Session 40 Immediate Decisions
+### Session 41 Immediate Decisions
 
-1. **Resolve the fight against [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] and the zombie incursion** at [[Locations/Thalas'Miriel\|Thalas'Miriel]]
-2. **Read the sealed scroll** recovered from [[NPCs/Darius Kain\|Darius Kain]]'s body
-3. **Counter Vaelorian's delegation** to Neverwinter before it departs
-4. **Establish [[NPCs/Calen Thorne\|Calen Thorne]]'s formal Ducal claim decision**, now that he has joined the party
-5. **Determine next move toward Neverwinter**
+1. **Resolve the fight against the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]]** at the cemetery mausoleum
+2. **Investigate Dragonclaw Isle** - location of "the other dragon"
+3. **Read the sealed scroll** recovered from [[NPCs/Darius Kain\|Darius Kain]]'s body
+4. **Counter Vaelorian's delegation** to Neverwinter before it departs
+5. **Formalise [[NPCs/Calen Thorne\|Calen Thorne]]'s Ducal claim** - Silver Lantern backing still needed
+6. **Determine next move toward Neverwinter**
 
 ---
 
@@ -456,6 +459,7 @@
 - **Darius Kain** (NOT Darian, Darrius, Kane, Cain) - **S37; DECEASED S38**
 - **Clara** (no surname confirmed) - **S37**
 - **Ember Vein Envoy (unnamed)** (placeholder until named in-world) - **S38**
+- **Mysterious Cloaked Man** (NOT to be confused with Pompaduke, though both wear ornate attire) - confirmed present at S22 ambush, S41
 
 **Location Names:**
 
@@ -467,6 +471,8 @@
 - **Bane Watcher Citadel** (NOT Bane Watchers Citadel, Banewatcher Citadel)
 - **Thalas'Miriel** (apostrophe - NOT Thalas Miriel, Thalas' Miriel) - **S32**
 - **Ember Vein Underground Complex** (working title until named in-world) - **S38**
+- **Thalas'Miriel Cemetery** (working title until named in-world) - **NEW S41**
+- **Dragonclaw Isle** (unvisited - NOT Dragonclaw Island, Dragon Claw Isle) - **NEW S41**
 
 **Important Terms:**
 
@@ -483,13 +489,8 @@
 
 ## File Structure Quick Reference
 
-**Index Files:** 02 Party Members Index, 02 NPCs Index, 02 Locations Index, 02 Organisations Index, 02 Quests Index  
-**Detail Files:** Individual .md per character/NPC/location/organisation/session  
-**Quest Files:** Quests - Active/On Hold/Mysteries/Completed  
-**Reference:** Homebrew.md, Campaign_Mechanics.md, Game_Mechanics_Reference.md, Lore_and_Worldbuilding.md  
-**Special:** Memorable_Moments.md
+**Index Files:** 02 Party Members Index, 02 NPCs Index, 02 Locations Index, 02 Organisations Index, 02 Quests Index **Detail Files:** Individual .md per character/NPC/location/organisation/session **Quest Files:** Quests - Active/On Hold/Mysteries/Completed **Reference:** Homebrew.md, Campaign_Mechanics.md, Game_Mechanics_Reference.md, Lore_and_Worldbuilding.md **Special:** Memorable_Moments.md
 
 ---
 
-**DM:** Ant  
-**Players:** Paul (Tessell), Annie (Odonia), Kieran (Elik'r), Joy (Tooo-Ah), Shannon (Elvva)
+**DM:** Ant **Players:** Paul (Tessell), Annie (Odonia), Kieran (Elik'r), Joy (Tooo-Ah), Shannon (Elvva)

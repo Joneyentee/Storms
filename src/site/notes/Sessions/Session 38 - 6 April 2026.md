@@ -4,7 +4,7 @@
 
 **Location:** [[Locations/Silver Lantern Garrison - Hidden Passage\|Silver Lantern Garrison - Hidden Passage]] / Ember Vein Underground Complex (new location - file required) **Date In-Game:** Unknown
 
-> **Note:** [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (Shannon) was absent this session. Her character remained seated in the [[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]] until the session's closing moments, when she was pulled into the underground chamber alongside the rest of the party by the [[Ember Vein Envoy\|Ember Vein Envoy]].
+> **Note:** [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (Shannon) was absent this session. Her character remained seated in the [[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]] until the session's closing moments, when she was pulled into the underground chamber alongside the rest of the party by the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - Unnamed]].
 
 ---
 

@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/np-cs/duke-alaric-thorne/"}
 ---
 
-**Faction:** Ally | **Status:** Active **Race:** Human **Tags:** #npc/ally #npc/nobles
+**Faction:** Ally
+**Status:** Active 
+**Race:** Human 
+**Tags:** #npc/ally #npc/nobles
 
 ## Description
 
@@ -26,3 +29,4 @@ Duke of [[Locations/Neverwinter\|Neverwinter]], the largest northern duchy. Old 
 ## Related Quests
 
 - [[Quests/Quests - Active#Rally the North\|Quests - Active#Rally the North]]
+

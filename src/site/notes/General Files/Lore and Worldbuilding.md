@@ -109,6 +109,7 @@
 
 - Released when horn blown (party involved)
 - Active and at large, location unknown
+- **Dragonclaw Isle revealed (S41)** - the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] identified it as the location of "the other dragon"; first concrete location lead since release; connection to The Bane itself implied but unconfirmed
 - Strong presence in [[Locations/Belendar\|Belendar]]
 - Seen in underground dwarven roads
 
@@ -148,6 +149,7 @@
 **Current Status:**
 
 - **The seal is broken (S39)** — the [[NPCs/Purple Dragonborn\|Purple Dragonborn]]'s sacrifice was the active containment mechanism; on his defeat, the wyrm rose from a fissure in the [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] ritual chamber floor and was taken through a Bane-powered portal by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]; current location unknown
+- **Dragonclaw Isle revealed (S41)** - the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] told the party "the other dragon you awakened" is located on Dragonclaw Isle; likely (unconfirmed) refers to this wyrm
 - The [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] in [[Locations/Thalas'Miriel\|Thalas'Miriel]] is now abandoned; the Bane-fire in its fissures extinguished when Pompaduke departed
 - The [[Organisations/Ember Vein\|Ember Vein]] cult's Thalas'Miriel operation is eliminated; whether equivalent sites (e.g., [[Locations/Neverwinter\|Neverwinter]]) remain active is unknown
 - Previously (S38): seraph confirmed stirring; all four pedestals ignited; the party identified as the cause
@@ -158,6 +160,7 @@
 - What is the "old caldera" - where is it, and is it known to the party?
 - What happens if it fully wakes?
 - What does "the sky itself may burn" (from recovered [[Organisations/Ember Vein\|Ember Vein]] letter) mean in practice?
+- Is Dragonclaw Isle the wyrm's current location, the old caldera itself, or something else entirely?
 
 ---
 
@@ -434,7 +437,7 @@ The dragonborn's final words to Elik'r were: _"The seal is weakening. You must f
 
 ---
 
-##honourBane Watchers' Place in Society
+## Bane Watchers' Place in Society
 
 **Historical:** Once honoured, saved world, given resources **Current:** Largely forgotten, seen as paranoid zealots, dismissed as eccentric **Reality:** Were right all along, now desperately needed but lacking resources **Public Perception:** Most don't believe in [[NPCs/The Bane\|The Bane]]
 
@@ -547,9 +550,10 @@ The dragonborn's final words to Elik'r were: _"The seal is weakening. You must f
 
 **Recent History:** Various royal deaths → High King assassinated → Civil war erupts → The Bane released (horn blown) → Riders of the Storm formed and join Bane Watchers
 
-**Current Campaign:** Sessions 1-39, mid-civil war; northern campaign in progress
+**Current Campaign:** Sessions 1-41, mid-civil war; northern campaign in progress
 
 - **Session 27:** Fizwidget's 1st intervention (Carnival Realm)
 - **Session 33:** Fizwidget's 2nd intervention (Winter Realm, pattern confirmed)
 - **Session 38:** Ember Vein cult identified; Darius Kain killed; Purple Dragonborn animated
 - **Session 39:** Purple Dragonborn confirmed as Stormswallow ancestor and defeated; seal broken; wyrm risen and taken by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] via Bane portal — now loose in the world
+- **Session 41:** Dragonclaw Isle revealed as the location of "the other dragon" by the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]]

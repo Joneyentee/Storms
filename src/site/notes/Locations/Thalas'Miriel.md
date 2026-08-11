@@ -6,7 +6,7 @@
 **Common Name:** Tears of the Forest 
 **Type:** Town (Cathedral settlement) 
 **Region:** Central [[Locations/Odessia\|Odessia]] 
-**Status:** Overrun - zombie incursion in progress (S40); previously Rebel-aligned (Threat) 
+**Status:** Zombie incursion resolved (S41) - source traced to a nearby cemetery; previously Rebel-aligned (Threat)
 **Tags:** #location #location/town #location/hostile #location/active-quest
 
 ---
@@ -37,6 +37,7 @@ Elven cathedral town in the forest of Mirel'thiel, central [[Locations/Odessia\|
 - **[[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]]** - Knightly order; blue plate armour, lantern crest; own garrison and smithy within town; currently holding [[Party Members/Tooo-Ah\|Tooo-Ah]]
 - **Magical curio shop** - Unnamed; [[Party Members/Elvva Beltavar\|Elvva Beltavar]] purchased Wand of Dusk Veil here (380 gp); other items browsed (S36)
 - **Monk-run halfway house** - Party's long rest location on arrival (S36); unnamed
+- **The tavern** (unnamed) - barricaded during the zombie incursion; now serving as a makeshift field hospital, run by the squires and roughly 50 sheltering townsfolk (S41)
 - **Falcon banners** - Blue/silver throughout town; alignment is public and overt
 - **Primeval Awareness (S36)** - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] detected two creature types from the standard list present near the cathedral; identities unknown
 
@@ -47,7 +48,7 @@ Primarily elven population. Religious community with cathedral clergy and follow
 ## Leadership
 
 - **[[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]]** - 482-year-old elf; Head of Cathedral of Gentle Redemption; Voice of the Dawn Choir; de facto political leader of the town; actively Falcon-aligned; organising delegation to [[Locations/Neverwinter\|Neverwinter]] (S36)
-- **[[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]]** - Knightly order under cathedral authority; garrison present in town
+- **[[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]]** - Knightly order under cathedral authority; garrison present in town; [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] now openly in command (S41)
 - **[[NPCs/Sister Elowen Maris\|Sister Elowen Maris]]** - Cathedral dais figure; allegiance unknown
 - **[[NPCs/Canon Sylvaris Thalaniel\|Canon Sylvaris Thalaniel]]** - Keeper of the Sacred Archives; allegiance unknown
 
@@ -91,6 +92,13 @@ Long-standing cathedral town. Religious centre for concept of "Gentle Redemption
 - Cause of the incursion unconfirmed; fight against Pompaduke and his zombies still ongoing as reinforcements arrived at session end
 - [[NPCs/Calen Thorne\|Calen Thorne]] joined the [[Organisations/Riders of the Storm\|Riders of the Storm]] as a travelling party member during this incident
 
+**Zombie Incursion Resolved (S41):**
+
+- Fight against [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] and the zombie horde concluded; [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] now openly in command of the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] garrison
+- Source of the incursion traced to a cemetery south-west of town (see [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]])
+- [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] declined to spare any Silver Lanterns to escort the party to the cemetery, citing the town's ongoing defence as priority
+- [[NPCs/Calen Thorne\|Calen Thorne]] confirmed his decision to formally claim the Ducal throne of Neverwinter while resting in the tavern
+
 ## Connections
 
 **Part of:**
@@ -106,6 +114,7 @@ Long-standing cathedral town. Religious centre for concept of "Gentle Redemption
 
 - [[Locations/Stormhold Keep\|Stormhold Keep]] - Southwest
 - Neverwinter - Northeast (along same route)
+- [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] - South-west, roughly under 2 miles
 
 ## Inhabitants
 
@@ -136,6 +145,8 @@ Long-standing cathedral town. Religious centre for concept of "Gentle Redemption
 - [[Sessions/Session 36 - 21 February 2026\|Session 36 - 21 February 2026]] - Party arrived after defeating goblin warband ambush on the road. Long rest at monk-run halfway house. Party split: Elvva visited curio shop (purchased Wand of Dusk Veil, 380 gp); Odonia visited [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] smithy (three magic longswords viewed, all unaffordable); Tessell, Elik'r, Tooo-Ah attended cathedral morning service. [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]] delivered politically charged sermon, called for mobilisation of knights, announced delegation to Neverwinter. [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] led worship as "Brother Algrim." Odonia's Primeval Awareness detected two unknown creature types near the cathedral. [[Party Members/Tooo-Ah\|Tooo-Ah]] attempted to steal from collection basket, was caught, and detained by [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] guards - session cliffhanger.
     
 - [[Sessions/Session 40 - 25 May 2026\|Session 40 - 25 May 2026]] - Found deserted and overrun by a zombie incursion directed by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] from a rooftop; party (with newly recruited [[NPCs/Calen Thorne\|Calen Thorne]]) fought through waves of zombies near the town inn; [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] garrison found barricaded under [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]]'s command. Battle still ongoing as reinforcements arrived at session end.
+    
+- [[Session_41\|Session_41]] - Concluded the zombie incursion battle; party retreated to the tavern (field hospital) for a long rest; traced the incursion's source to a cemetery south-west of town; [[NPCs/Calen Thorne\|Calen Thorne]] confirmed his Ducal claim decision
     
 
 ## Notes

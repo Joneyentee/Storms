@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/locations/stonereach-cavern/"}
 ---
 
-**Type:** Cavern (Former wolf den, ritual site) **Region:** Near [[Locations/Sylobelle\|Sylobelle]], Northwest [[Locations/Odessia\|Odessia]] **Status:** Collapsed (Session 31) **Tags:** #location #location/cavern #location/dungeon #location/mysterious
+**Type:** Cavern (Former wolf den, ritual site) 
+**Region:** Near [[Locations/Sylobelle\|Sylobelle]], Northwest [[Locations/Odessia\|Odessia]] 
+**Status:** Collapsed (Session 31) **Tags:** #location #location/cavern #location/dungeon #location/mysterious
 
 ## Description
 

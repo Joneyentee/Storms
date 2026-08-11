@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/quests/quests-active/"}
 ---
 
-**Session 40** | Marshals of the North | 732 troops | War chest access
+---
+
+**Session 41** | Marshals of the North | 732 troops | War chest access
 
 > [Index](02 Quests Index.md) | **Active** | [On Hold](Quests - On Hold.md) | [Mysteries](Quests - Mysteries.md)
 
@@ -25,14 +27,25 @@
 - [x] ~~Confirm [[NPCs/Clara\|Clara]]'s status~~ (S39 - safe; conscious; at [[NPCs/Calen Thorne\|Calen Thorne]]'s hovel)
 - [x] ~~Exit the [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]]~~ (S39 - party at Calen's hovel for long rest)
 - [ ] **Read sealed scroll found on [[NPCs/Darius Kain\|Darius Kain]]** (contents unknown; potential orders)
-- [x] ~~Establish [[NPCs/Calen Thorne\|Calen Thorne]]'s decision on Ducal claim~~ (S40 - superseded: Calen joined the party as a travelling member rather than giving a definitive Ducal answer; claim itself remains unresolved)
+- [x] ~~Establish [[NPCs/Calen Thorne\|Calen Thorne]]'s decision on Ducal claim~~ (S41 - confirmed he intends to claim the Ducal throne of Neverwinter; formal Silver Lantern backing still undecided)
 - [ ] **Counter Vaelorian's delegation to Neverwinter** before it departs (S36 - ticking clock)
 - [x] ~~Navigate Thalas'Miriel without breaking party's cover~~ (S40 - moot: cover broken by open combat against a zombie incursion in the town)
-- [ ] **Resolve the zombie incursion at [[Locations/Thalas'Miriel\|Thalas'Miriel]]**, directed by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] (S40 - combat unresolved at session end)
+- [x] ~~Resolve the zombie incursion at [[Locations/Thalas'Miriel\|Thalas'Miriel]]~~ (S41 - [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] driven off, zombie horde destroyed)
+- [ ] **Investigate the cemetery source of the zombie incursion** (S41 - located south-west of Thalas'Miriel; confrontation with four Bane-aligned figures unresolved)
+- [ ] **Investigate Dragonclaw Isle** (S41 - revealed as location of "the other dragon")
 - [ ] Travel to Neverwinter
 - [ ] Secure Duke Alaric Thorne's allegiance (key to northern support)
 - [ ] Rally undecided nobles before Falcon faction does
 - [ ] Establish defensive positions
+
+**Session 41 Intelligence - Thalas'Miriel & Cemetery:**
+
+- Battle against [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] and the zombie horde concluded; [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] now openly in command of the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] garrison
+- Party long-rested in the town's tavern (now a field hospital); [[NPCs/Calen Thorne\|Calen Thorne]] confirmed to [[Party Members/Tooo-Ah\|Tooo-Ah]] that he intends to claim the Ducal throne; [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] declined to spare any Silver Lanterns for the cemetery investigation, citing the town's defence as priority
+- [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] contacted [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] via the Steve stone link; Co'narr warned against trusting [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]], revealing he was cast out of Co'narr's order many decades ago
+- A cemetery south-west of town confirmed as the source of the zombie incursion; four Bane-aligned figures found in a clandestine meeting at an old mausoleum: [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]], [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]], [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]], and the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] - first confirmed sighting of all four together
+- [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] revealed "the other dragon you awakened" is located on **Dragonclaw Isle**, then departed for Neverwinter; [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] portalled away a second time; [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]] cast a necromancy spell (four bolts of green Bane light) before vanishing
+- [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] remained and challenged the party to combat - session ended on the initiative roll, unresolved
 
 **Session 40 Intelligence - Thalas'Miriel:**
 
@@ -99,13 +112,13 @@
 
 **Complications:**
 
-- **Wyrm now loose in the world** — taken by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] through a Bane portal (S39); second dragon also unaccounted for; two draconic threats active
+- **Wyrm now loose in the world** — taken by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] through a Bane portal (S39); now believed connected to Dragonclaw Isle (S41)
 - **Sealed scroll from [[NPCs/Darius Kain\|Darius Kain]] unread** — contents unknown; may contain critical intelligence
-- **[[NPCs/Calen Thorne\|Calen Thorne]]'s Ducal decision pending** — morning answer promised; his candidacy could reshape Neverwinter approach
+- **[[NPCs/Calen Thorne\|Calen Thorne]]'s Ducal decision** — confirmed he intends to claim the throne (S41); Silver Lantern backing still undecided
 - **[[NPCs/Marek Thorne\|Marek Thorne]] returned with mercenary company** — origin unknown; creates military uncertainty around Neverwinter
 - **Vaelorian's delegation to Neverwinter** — ticking clock, counters party's mission
-- **[[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]'s agenda** — admitted engineering party's actions; **location now confirmed at [[Locations/Thalas'Miriel\|Thalas'Miriel]], directing a zombie incursion (S40)**; true allegiance still unknown
-- **[[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] status confirmed (S40)** — in command of the Silver Lantern garrison, leading reinforcements against [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]
+- **[[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]'s agenda** — admitted engineering party's actions; escaped twice at [[Locations/Thalas'Miriel\|Thalas'Miriel]] and a nearby cemetery (S41); confirmed cast out of [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]'s order decades ago; true allegiance still unknown
+- **[[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] status confirmed** — openly in command of the Silver Lantern garrison (S41)
 - Kingdom 50/50 split (Eagle vs Falcon)
 - Elvva's Bane corruption advancing (may need Citadel visit first)
 - Elik'r's curse active combat threat (triggered Session 30)
@@ -226,6 +239,11 @@
 
 **CRITICAL** | World-ending threat
 
+**Session 41 Updates:**
+
+- **Dragonclaw Isle revealed** — the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] stated "the other dragon you awakened" is located on Dragonclaw Isle, possibly connected to or near [[NPCs/The Bane\|The Bane]] itself; location not yet visited
+- **[[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]'s history confirmed** — [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] (via the Steve stone link) revealed Pompaduke was cast out of Co'narr's own order many decades ago
+
 **Session 39 Updates:**
 
 - **The wyrm is now loose** — bound for centuries beneath [[Locations/Thalas'Miriel\|Thalas'Miriel]] by the [[NPCs/Purple Dragonborn\|Purple Dragonborn]]'s sacrifice; rose from a fissure in the ritual chamber floor when the dragonborn was defeated; taken through a Bane-powered portal by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]; current location unknown
@@ -266,8 +284,9 @@
 
 **Current Objectives:**
 
-- [ ] **Track/locate the wyrm** (taken by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] via Bane portal S39)
-- [ ] **Determine [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]'s true allegiance and agenda** (Bane-powered abilities confirmed S39)
+- [ ] **Track/locate the wyrm** (taken by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] via Bane portal S39; possibly connected to Dragonclaw Isle S41)
+- [ ] **Investigate Dragonclaw Isle** (S41 - location of "the other dragon")
+- [ ] **Determine [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]'s true allegiance and agenda** (Bane-powered abilities confirmed S39; expelled from Co'narr's order confirmed S41)
 - [ ] Visit Citadel URGENT (see above)
 - [ ] Address Elvva's corruption
 - [ ] **Treat Elik'r's active curse** (combat liability when near Elvva)
@@ -280,7 +299,7 @@
 
 **Strategic Concern:** Civil war chaos feeds Bane. Ultimate threat supersedes civil war but requires Citadel training first. Elik'r's curse creates friendly fire risk in combat.
 
-**Related:** [Visit Citadel](https://claude.ai/chat/174466a7-5996-4c2c-acd5-cce0b6b100a7#visit-bane-watcher-citadel) | [Civil War](https://claude.ai/chat/174466a7-5996-4c2c-acd5-cce0b6b100a7#eagle-vs-falcon-faction-war) | [Dragon's Tear](Quests - Mysteries.md#dragons-tear-significance) | [Odonia's Warg Ability](Quests - Mysteries.md#odonias-warg-ability-origin)
+**Related:** [Visit Citadel](https://claude.ai/chat/174466a7-5996-4c2c-acd5-cce0b6b100a7#visit-bane-watcher-citadel) | [Civil War](https://claude.ai/chat/174466a7-5996-4c2c-acd5-cce0b6b100a7#eagle-vs-falcon-faction-war) | [Dragon's Tear](Quests - Mysteries.md#dragons-tear-significance) | [Odonia's Warg Ability](Quests - Mysteries.md#odonias-warg-ability-origin) | [Dragonclaw Isle](Quests - Mysteries.md#dragonclaw-isle)
 
 ---
 
@@ -330,15 +349,15 @@
 
 ## NEXT SESSION IMMEDIATE PRIORITIES
 
-1. **Resolve the fight against [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] and the zombie incursion** at [[Locations/Thalas'Miriel\|Thalas'Miriel]] (S40 cliffhanger)
+1. **Resolve the fight against the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]]** at the cemetery mausoleum (S41 cliffhanger)
 2. **Read the sealed scroll** recovered from [[NPCs/Darius Kain\|Darius Kain]]'s body
-3. **Identify the dragonborn's longsword** — Elik'r has now attuned to it and discovered its Ember Wave ability (S40); other properties still unknown
+3. **Investigate Dragonclaw Isle** — location of "the other dragon" (S41)
 4. **Counter Vaelorian's delegation to [[Locations/Neverwinter\|Neverwinter]]** — ticking clock
-5. **Establish [[NPCs/Calen Thorne\|Calen Thorne]]'s formal Ducal claim decision**, now that he has joined the party
+5. **Formalise [[NPCs/Calen Thorne\|Calen Thorne]]'s Ducal claim** — Silver Lantern backing still needed
 6. **Determine next move toward [[Locations/Neverwinter\|Neverwinter]]**
 
 ---
 
-**Last Updated:** Session 40
+**Last Updated:** Session 41
 
 > [Index](02 Quests Index.md) | **Active** | [On Hold](Quests - On Hold.md) | [Mysteries](Quests - Mysteries.md)

@@ -29,6 +29,7 @@ Armoured figure wielding two-handed magical axe with black ornate armour more gr
 
 - Previous session (unspecified) - Present during [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s kidnapping
 - [[Sessions/Session 25 - 14 June 2025\|Session 25 - 14 June 2025]] - Watching throne room duel, not engaging
+- **[[Sessions/Session 41 - 11 July 2026\|Session 41 - 11 July 2026]]** - Reappeared as one of four figures at a mausoleum in a cemetery outside [[Locations/Thalas'Miriel\|Thalas'Miriel]], alongside the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - Unnamed]], [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]], and the [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]] - confirms the Session 25 suspected connection to the Mysterious Cloaked Man. Remained after the other three departed and directly challenged the party to combat ("let's see what the famed warriors can do"); still wielding a massive weapon (hammer or axe this time, rather than the two-handed magical axe from S25) and grandiose black/ebony armour. Combat unresolved - session ended on the initiative roll.
 
 #### Related Quests
 

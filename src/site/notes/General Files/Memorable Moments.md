@@ -5,6 +5,19 @@
 ### Quick reference for epic, funny, and significant moments.
 
 ---
+
+#### Session 41
+
+**Session 41 - It's All My Fault** - [[NPCs/Calen Thorne\|Calen Thorne]]'s desperate, unplanned Ice Blade detonation froze and damaged the whole party alongside the horde, nearly killing [[Party Members/Elvva Beltavar\|Elvva Beltavar]] and triggering [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s curse voice once again.
+
+**Session 41 - Sup, Steve?** - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] rang up the Steve stone from a tavern corner with mimed dial-pad noises, only for the heavily-censored voice on the other end to demand a full description of his "big sword" mid-warning.
+
+**Session 41 - Where Be D' Wyrm, Man?** - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] interrogated a clandestine cemetery meeting of Bane-aligned figures entirely in a Jamaican accent.
+
+**Session 41 - Really Like the Dress** - [[Party Members/Tooo-Ah\|Tooo-Ah]] opened negotiations with the mausoleum's assembled figures by asking if they were "the evil bad guy" and complimenting the ethereal woman's dress, on a rolled 4.
+
+---
+
 #### Session 40
 
 **Session 40 - General of the Left** - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] bluffed his way through a claim of battle credentials as "Commander of the Riders of the Storm, General of the Left," and the DM's natural 1 for Calen's attempt to see through it left him thoroughly convinced.

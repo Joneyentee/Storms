@@ -2,29 +2,31 @@
 {"dg-publish":true,"permalink":"/np-cs/mysterious-cloaked-man/"}
 ---
 
-**Faction:** Unknown | **Status:** Active/At Large 
-**Race:** Unknown | **Class:** Unknown (Powerful Magic User) 
+---
+
+**Faction:** Unknown
+**Status:** Active/At Large 
+**Race:** Unknown
+**Class:** Unknown (Powerful Magic User) 
 **Tags:** #npc/unknown #npc/mystery #npc/powerful-mage
 
 ### Description
 
-An enigmatic figure who accompanied [[NPCs/Elincia Flowers\|Elincia Flowers]] during her meeting with [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] in [[Locations/Belendar\|Belendar]] town square. He wears expensive purple robes with gold embroidery and carries an ornate gold cane. Most mysteriously, he addressed the White Falcon as "My Queen" before disappearing into the crowd using magic that even experienced sorcerers couldn't identify. His true identity, allegiance, and capabilities remain unknown. 
-**Skull face visible** beneath hood (Session 25) - not masked but actual skull-like features, suggesting undead, magical transformation, or inhuman nature.
+An enigmatic figure who accompanied [[NPCs/Elincia Flowers\|Elincia Flowers]] during her meeting with [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] in [[Locations/Belendar\|Belendar]] town square (Session 22). He wears expensive purple robes with gold embroidery and carries an ornate gold cane that conceals a sword. Most mysteriously, he addressed the White Falcon as "My Queen" before disappearing into the crowd using magic that even experienced sorcerers couldn't identify. His true identity, allegiance, and capabilities remain unknown. 
+**Skull face visible** beneath hood (Session 25) - not masked but actual skull-like features, suggesting undead, magical transformation, or inhuman nature; no skull face was observed on his Session 41 appearance, so this may be a mask rather than a permanent feature.
 
 ### Key Details
 
-- Wears deep purple robes with gold embroidery around the hem and hood
-- Carries ornate gold cane (similar to cane held by figure in previous ritual ceremony, but different robes)
-- Addressed [[NPCs/Elincia Flowers\|Elincia Flowers]] as "**My Queen**" in public
-- Disappeared using unknown magic - not standard invisibility spell (confirmed by [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s magical detection)
-- May be same figure from earlier ritual ceremony (both had canes, but different robes/appearance)
-- Purple colour suggests wealth and high status (expensive dye)
-- **Skull face** visible (not mask) - raises questions about his nature (undead? transformed? inhuman?)
+- Disappeared using unknown magic - not a standard invisibility spell (confirmed by [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s magical detection)
+- **Session 41:** Confirmed present at the [[Sessions/Session 22 - 15 March 2025\|Session 22 - 15 March 2025]] town square ambush - described by the DM as "the one who was in the town square when Elik'r and Elvva were attacked"
+- **Session 41:** Cast a necromancy spell at a cemetery mausoleum outside [[Locations/Thalas'Miriel\|Thalas'Miriel]], sending four bolts of green Bane light off-map, before vanishing
+- **Session 41 (unconfirmed):** DM stated he "was pretending to be Professor Emms" when [[Party Members/Tooo-Ah\|Tooo-Ah]] handed over the doll - implying an early-campaign encounter, prior to [[NPCs/Professor Gabriel Emms\|Professor Gabriel Emms]]'s death, where this man posed as the professor to receive it. Neither the party nor these notes currently have a record of that scene; needs confirming with the table before treating as settled
 
 ### Relationships
 
 - **Serves/Allied with:** [[NPCs/Elincia Flowers\|Elincia Flowers]] (called her "My Queen")
 - **Possibly same person as:** Unknown hooded figure from ritual ceremony (uncertain)
+- Associates with: [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - Unnamed]], [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]], [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] (all four gathered together, S41)
 
 ### Appearances
 

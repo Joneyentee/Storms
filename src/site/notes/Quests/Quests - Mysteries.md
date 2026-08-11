@@ -2,9 +2,29 @@
 {"dg-publish":true,"permalink":"/quests/quests-mysteries/"}
 ---
 
+---
+
 **Long-term mysteries, ancient secrets, ongoing investigations**
 
 [Index](02 Quests Index.md) | [Active](Quests - Active.md) | [On Hold](Quests - On Hold.md) | **Mysteries**
+
+---
+
+## Session 41 Mysteries
+
+### Dragonclaw Isle
+
+**CRITICAL** | Location unvisited - revealed S41
+
+**Event:** At a cemetery mausoleum outside [[Locations/Thalas'Miriel\|Thalas'Miriel]], the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] told the party "the other dragon you awakened" is located on Dragonclaw Isle, before departing for Neverwinter. [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] noted it "is with the Bane," implying a possible connection or proximity to [[NPCs/The Bane\|The Bane]] itself.
+
+**Key Questions:**
+
+- Is "the other dragon" the wyrm taken by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] (S39), or a separate entity entirely?
+- Is [[NPCs/The Bane\|The Bane]] itself currently located on or near Dragonclaw Isle?
+- Where is Dragonclaw Isle, and how would the party reach it?
+
+**Related:** [The Bane](Quests - Active.md#the-bane) | [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] | [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]
 
 ---
 
@@ -34,9 +54,11 @@
 
 ### Who is the Ember Vein Envoy?
 
-**HIGH** | [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]], S38
+**HIGH** | [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]], S38; cemetery mausoleum near [[Locations/Thalas'Miriel\|Thalas'Miriel]], S41
 
 **Event:** A woman in [[Organisations/Ember Vein\|Ember Vein]] livery was present in the ritual chamber - but was largely immune to physical attacks, could phase in and out of material existence, dropped a permanent illusion concealing the chamber's back wall, animated the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] with a word, teleported [[Party Members/Elvva Beltavar\|Elvva Beltavar]] from the [[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]] to the underground chamber, and restored the entire party to full health and spell slots with a snap of her fingers. She then addressed the party directly, implying she has observed them across at least two separate incidents of "unravelling."
+
+**S41 Development:** Reappeared at a cemetery mausoleum south-west of [[Locations/Thalas'Miriel\|Thalas'Miriel]], alongside [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]], the [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]], and the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] - first confirmed sighting of her with the other three. Revealed the location of Dragonclaw Isle before declaring her side's "time is over here" and departing for Neverwinter.
 
 **Key Questions:**
 
@@ -46,8 +68,9 @@
 - What was the first incident she witnessed - the awakening of [[NPCs/The Bane\|The Bane]] at the campaign's start?
 - How was she able to teleport [[Party Members/Elvva Beltavar\|Elvva Beltavar]] across the town and through solid stone?
 - Why animate the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] and then restore the party to full strength?
+- What is her relationship to [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]], the [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]], and the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] (S41)?
 
-**Related:** [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] | [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] | [[NPCs/Purple Dragonborn\|Purple Dragonborn]] | [The Seraph - Separate Entity?](https://claude.ai/chat/c0d9ca2d-2d42-4f40-b6bc-5e3021ceab18#the-seraph--separate-entity)
+**Related:** [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] | [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] | [[NPCs/Purple Dragonborn\|Purple Dragonborn]] | [The Seraph - Separate Entity?](https://claude.ai/chat/c0d9ca2d-2d42-4f40-b6bc-5e3021ceab18#the-seraph--separate-entity) | [Dragonclaw Isle](https://claude.ai/chat/d4f13236-d20b-42e9-949a-3a4dc8e1f9ba#dragonclaw-isle)
 
 ---
 
@@ -56,6 +79,8 @@
 **LARGELY RESOLVED (S39)** | [[Locations/Thalas'Miriel\|Thalas'Miriel]]
 
 **S39 Resolution:** [[NPCs/Calen Thorne\|Calen Thorne]] confirmed his true identity to the party: bastard son of [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]] of [[Locations/Neverwinter\|Neverwinter]], sent away to remain out of sight. Combat training came from a squire and page background at court, plus further instruction from [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]]. He is considering a Ducal claim and promised the party an answer by morning.
+
+**S41 Update:** Confirmed to [[Party Members/Tooo-Ah\|Tooo-Ah]] that he intends to claim the Ducal throne; declined to elaborate on what prompted the decision.
 
 **Remaining Questions:**
 
@@ -123,11 +148,13 @@ The complex has been fully explored, the cult eliminated, and the ritual chamber
 
 ### Lord Pompaduke's True Identity
 
-**HIGH** | At large — resurfaced at [[Locations/Thalas'Miriel\|Thalas'Miriel]], directing a zombie incursion (S40)
+**HIGH** | At large — escaped a second time at a cemetery mausoleum near [[Locations/Thalas'Miriel\|Thalas'Miriel]] (S41)
 
 **S39 Resolution (partial):** [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] revealed his true agenda openly: he engineered the party's actions throughout — including the sequence of events leading to the wyrm's release — for his own ends. His exact words: _"Thank you, everyone, for completing the task I needed to do. For me."_ He then opened a Bane-powered portal and departed with the wyrm. His lute abilities, portal creation, and combat invisibility are all confirmed as Bane-powered. His "Brother Algrim" identity at the cathedral was a cover used to monitor and influence events.
 
 **S40 Development:** Resurfaced at [[Locations/Thalas'Miriel\|Thalas'Miriel]], directing a zombie incursion against the town from a rooftop. Demonstrated new abilities - Counterspell (countered by [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s own Counterspell) and a Hunger of Hadar-style spore effect. Silenced by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and blinded by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], effectively neutralised; the fight remained unresolved as reinforcements arrived at session end. No sign of the wyrm during this encounter.
+
+**S41 Development:** Fight concluded - his decoy/illusory form was destroyed by [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s Radiant Bow while his true, invisible self was elsewhere on the battlefield; he portalled away with "See you at our next chapter!" Reappeared shortly after at a cemetery mausoleum alongside the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]], the [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]], and the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]]; bowed and portalled away a second time. [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] (via the Steve stone link) warned the party against trusting him, revealing he was cast out of Co'narr's own order many decades ago.
 
 **Remaining Key Questions:**
 
@@ -136,8 +163,9 @@ The complex has been fully explored, the cult eliminated, and the ritual chamber
 - How far back does his manipulation of the party go — did he engineer events before Session 35?
 - Is his "Lord Pompaduke the Third" identity genuine or also a persona?
 - What is his connection to the wider Bane threat?
+- What order was he cast out of, and why (S41)?
 
-**Related:** [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] | [The Bane](Quests - Active.md#the-bane)
+**Related:** [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] | [The Bane](Quests - Active.md#the-bane) | [Mysterious Figures Network](https://claude.ai/chat/d4f13236-d20b-42e9-949a-3a4dc8e1f9ba#mysterious-figures-network)
 
 ---
 
@@ -215,7 +243,7 @@ The complex has been fully explored, the cult eliminated, and the ritual chamber
 - Connection to forgiveness theme?
 - Should party take to Citadel for examination?
 
-**Current Status:** Elvva possesses, properties unknown, unidentified.
+**Current Status:** Elvva possesses, properties unknown, unidentified. **S41:** Re-examined by Elvva (Arcana check failed) - still unable to determine what is enclosed within the gem.
 
 **Related:** [The Bane](Quests - Active.md#the-bane) | [Visit Citadel](Quests - Active.md#visit-bane-watcher-citadel)
 
@@ -424,7 +452,8 @@ The complex has been fully explored, the cult eliminated, and the ritual chamber
 - **Seraph vs The Bane** (S38-39 - are they the same entity or two separate ancient powers woken by the party?)
 - **Elik'r's Stormswallow ancestral charge** (S39 - dragonborn confirmed as ancestor; longsword and banner passed to Elik'r; "do what I could not do" — what does finishing it require?)
 - **The wyrm at large** (S39 - taken by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] via Bane portal; two draconic threats now unaccounted for)
-- **Lord Pompaduke's Bane agenda** (S39 - abilities confirmed Bane-powered; engineered party's actions; ultimate goal unknown)
+- **Lord Pompaduke's Bane agenda** (S39 - abilities confirmed Bane-powered; engineered party's actions; ultimate goal unknown; S41 - confirmed cast out of Co'narr's order)
+- **Dragonclaw Isle** (S41 - revealed as location of "the other dragon"; possible connection to [[NPCs/The Bane\|The Bane]] itself)
 
 **Related Active:** [The Bane](Quests - Active.md#the-bane) | [Visit Citadel](Quests - Active.md#visit-bane-watcher-citadel)
 
@@ -440,6 +469,8 @@ The complex has been fully explored, the cult eliminated, and the ritual chamber
 - **Black Knight (Warhammer)** - Stopped Tessell's punch mid-air (immense strength), departed via **brownish light** portal, different faction?
 - **Unknown Axe Fighter** - Magical 2H axe, kidnapped Tessell previously (Session 22), escaped with others
 
+**S41 Development:** The [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]] and [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] both resurfaced together at a cemetery mausoleum outside [[Locations/Thalas'Miriel\|Thalas'Miriel]], alongside [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] and the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] - the first confirmed sighting of all four together, suggesting some shared network or allegiance. The [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]] was confirmed present at the Session 22 town square ambush (previously only linked to the Session 22 Belendar meeting and Session 25 throne room), was revealed to carry a cane concealing a sword, and cast a necromancy spell (four bolts of green Bane light) before vanishing. The [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] remained afterward and directly challenged the party to combat - unresolved cliffhanger.
+
 **At Large (Not in Throne Room):**
 
 - **Ser Alvar Flowers** - Bastard son of Gaelin, leading southern Falcon army
@@ -453,8 +484,9 @@ The complex has been fully explored, the cult eliminated, and the ritual chamber
 - Who commands overall network?
 - Are cloaked man and skeletal soldier the same person? (both skull-related)
 - Will they return?
+- What is the nature of the alliance between the Cloaked Man, Axe Fighter, Pompaduke, and the Ember Vein Envoy (S41)?
 
-**Related:** [Civil War](Quests - Active.md#eagle-vs-falcon-faction-war)
+**Related:** [Civil War](Quests - Active.md#eagle-vs-falcon-faction-war) | [Lord Pompaduke's True Identity](https://claude.ai/chat/d4f13236-d20b-42e9-949a-3a4dc8e1f9ba#lord-pompadukes-true-identity)
 
 ---
 
@@ -477,6 +509,6 @@ The complex has been fully explored, the cult eliminated, and the ritual chamber
 
 ---
 
-**Last Updated:** Session 39
+**Last Updated:** Session 41
 
 > [Index](02 Quests Index.md) | [Active](Quests - Active.md) | [On Hold](Quests - On Hold.md) | **Mysteries**

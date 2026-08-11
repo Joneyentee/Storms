@@ -23,6 +23,7 @@ A woman of unknown race and origin encountered in the ritual chamber of the [[Or
 - Addressed the party directly at session end, implying she has observed them across multiple separate incidents: _"Twice now I have seen you unravelling that which was never meant to wake"_ - suggesting the awakening of [[NPCs/The Bane\|The Bane]] and the stirring of the seraph are both known to her
 - Speaks of the seraph and ancient entities with authority and clear prior knowledge - her stated goal appears to be containment, not awakening
 - Relationship to the [[Organisations/Ember Vein\|Ember Vein]] hierarchy (Inner Ember, High Flame) is unclear; may be a superior rank or an entirely separate power
+- **Session 41:** Reappeared at a mausoleum in a cemetery outside [[Locations/Thalas'Miriel\|Thalas'Miriel]], alongside [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]], the [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]], and the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] - first confirmed sighting grouping her with the other three; revealed that "the other dragon you awakened" is located on **Dragonclaw Isle**, then declared her side's "time is over here" and departed for Neverwinter
 
 ### Relationships
 
@@ -30,6 +31,7 @@ A woman of unknown race and origin encountered in the ritual chamber of the [[Or
 - Opposed (apparently): [[NPCs/Darius Kain\|Darius Kain]] (operated beneath her in the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]]; her broader agenda appears distinct from his)
 - Animated: [[NPCs/Purple Dragonborn\|Purple Dragonborn]]
 - Observed: [[Organisations/Riders of the Storm\|Riders of the Storm]] (claims to have watched them across at least two significant events)
+- Associates with: [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]], [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]], [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] (confirmed same gathering, S41)
 
 ### Appearances
 
