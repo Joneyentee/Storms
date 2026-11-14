@@ -44,7 +44,7 @@ Port town population with sailors, merchants, dockworkers, and traders. Mixed ra
 
 ## History
 
-Long-standing port town serving western [[Locations/Odessia\|Odessia]]. Strategic trade location. Connected to [[NPCs/Countess Alyssa Crowsbane\|Countess Alyssa Crowsbane]] (also known as White Falcon Knight).
+Long-standing port town serving western [[Locations/Odessia\|Odessia]]. Strategic trade location. Connected to [[NPCs/Countess Alyssa Crowsbane\|Countess Alyssa Crowsbane]], who rules as Countess. (The White Falcon Knight is a different person: [[NPCs/Elincia Flowers\|Elincia Flowers]], who appears as Lady Alysanne.)
 
 **Early Campaign (Session 1-2):**
 
@@ -57,8 +57,8 @@ Long-standing port town serving western [[Locations/Odessia\|Odessia]]. Strategi
 - **Major tournament** hosting archery, melee fighting, and jousting events
 - **Betting allowed:** [[Party Members/Ser Pas Rata\|Ser Pas Rata]] and [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] made significant profits (~4,000 and ~2,000 gold respectively)
 - **Archery:** [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] won despite being crossbow user, used longbow sideways/horizontally, awarded warhorse
-- **Melee:** [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] dominated, beat everyone easily
-- **Melee Incident:** [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] shot gnome ([[NPCs/Barry\|Barry]]) in eye during "friendly" competition, creating vengeful enemy
+- **Melee:** [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] dominated and won; [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] was the last other man standing in the group melee and yielded to him. The party's first round was against two gnomes and was barely won
+- **Melee Incident:** [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] shot gnome ([[NPCs/Barry\|Zorry]]) in eye during "friendly" competition, creating vengeful enemy
 - **Jousting:** [[Party Members/Ser Pas Rata\|Ser Pas Rata]] won tournament with [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] as squire (secret Guidance cantrip), knighted "Ser Pas Rata," armour so battered couldn't remove it
 - **Joust Scandal:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] attempted to steal horse from stables (6'8" dragonborn in armour, no stealth), later disqualified for using Command spell during joust with Tharrock
 - **First meeting with [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]** during tournament events
@@ -98,7 +98,7 @@ Long-standing port town serving western [[Locations/Odessia\|Odessia]]. Strategi
 
 **Nobility:**
 
-- [[NPCs/Countess Alyssa Crowsbane\|Countess Alyssa Crowsbane]] (Countess, also White Falcon Knight)
+- [[NPCs/Countess Alyssa Crowsbane\|Countess Alyssa Crowsbane]] (Countess of Canathalas)
 
 **Ship Captains:**
 
@@ -121,7 +121,7 @@ Long-standing port town serving western [[Locations/Odessia\|Odessia]]. Strategi
 - Major tournament held: archery, melee, jousting
 - First meeting with [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] won archery (sideways bow), awarded warhorse
-- [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] shot [[NPCs/Barry\|Barry]] (gnome) in eye during melee
+- [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] shot [[NPCs/Barry\|Zorry]] (gnome) in eye during melee
 - [[Party Members/Ser Pas Rata\|Ser Pas Rata]] won joust, knighted "Ser Pas Rata"
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] failed horse theft attempt, disqualified from joust
 - Party took one horse, forgot second horse, ship sailed

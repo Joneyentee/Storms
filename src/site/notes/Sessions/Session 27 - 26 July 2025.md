@@ -486,6 +486,12 @@ Status check:
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]: Free tavern drinks + stalker (Rachel)
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: Insulting parrot (Flossy)
 
+**[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s Box (added from the Session 27 transcription, ~01:32 - the box colours are garbled there, so treat the details as approximate):**
+
+- Fizwidget offered [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] two wrapped presents to choose between (he was the only one not compelled to drink)
+- The box he chose held a **bright orange cloak** ("more like a cape to attach onto your arm") - sensed as magical in nature, but its properties were not explained at the time. This is the [[General Files/Homebrew#Cloak of Ethereal Traveller\|Cloak of Ethereal Traveller]]
+- The other box unwrapped into a massively long spear; Fizwidget: "I would have had this if I were you", then flung it down the hall where it evaporated into a wall
+
 **[[Party Members/Tooo-Ah\|Tooo-Ah]]'s Insistence:**
 
 - Repeatedly urged party to explore toadstool
@@ -1089,9 +1095,16 @@ Status check:
 - Magical in nature
 - Properties unknown
 
-### Elik'r Stormswallow
+### Elik'r Stormswallow - Orange Cloak (Cloak of Ethereal Traveller)
 
-**Received:** Nothing (disputed present given to [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]])
+**Description:**
+
+- Bright orange cloak/cape, attaches to the arm
+- Magical in nature
+- Properties unknown at the time (see [[General Files/Homebrew#Cloak of Ethereal Traveller\|Cloak of Ethereal Traveller]] for what it later turned out to do)
+- Received from Fizwidget's two-box choice earlier in the evening (see the feast section above)
+
+**Third-round present:** Nothing - the disputed present (hide armour) went to [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]
 
 ---
 
@@ -1112,7 +1125,7 @@ Status check:
 
 **Effects Permanent:**
 
-- Four magical items (circlet, rope, wand, hide armour) - **Real and kept**
+- Five magical items (circlet, rope, wand, hide armour, plus [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s orange cloak) - **Real and kept**
 - [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]]'s status - **Ambiguous** (possibly alive)
 - Dog's status - **Ambiguous** (possibly alive)
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s 1000 gold - **Status unclear**
@@ -1266,6 +1279,7 @@ Status check:
 - Magical rope ([[Party Members/Tooo-Ah\|Tooo-Ah]]) - unknown abilities
 - Founder's Wand ([[Party Members/Elvva Beltavar\|Elvva Beltavar]]) - unknown abilities
 - Hide armour ([[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]) - unknown abilities
+- Orange cloak ([[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]) - properties not explained in this session (later the Cloak of Ethereal Traveller)
 
 **Treasure Map** - Status: Active
 
@@ -1383,7 +1397,8 @@ Status check:
 
 **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]:**
 
-- Nothing (disputed present given to [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]])
+- **Orange Cloak** (Cloak of Ethereal Traveller) - from Fizwidget's two-box choice at the feast; magical, properties not explained this session
+- Nothing from the third round (disputed present given to [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]])
 
 ### Currency Changes (Status Unclear - Magical Reality)
 
@@ -1591,7 +1606,7 @@ Status check:
 - **[[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]]** - Leading southern rebellion army
 - **Yavanna Lightwhisper** - [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]]'s twin, whereabouts unknown
 - **Mysterious skull-faced man** - Purple robes, gold cane, called Elincia "My Queen"
-- **Unknown axe fighter** - Kidnapped [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] previously
+- **Unknown axe fighter** - Previously caught by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] searching [[NPCs/Countess Alyssa Crowsbane\|Countess Alyssa Crowsbane]]'s bedroom
 
 **Support Network:**
 

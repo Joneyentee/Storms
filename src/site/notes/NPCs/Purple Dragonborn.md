@@ -31,14 +31,14 @@ A massive purple-scaled dragonborn standing approximately twelve feet tall, armo
 ### Relationships
 
 - **Direct ancestor of:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (confirmed S39 — _"You carry my line"_; passed longsword and placed ancestral charge on him)
-- Animated by: [[Ember Vein Envoy\|Ember Vein Envoy]] (S38)
+- Animated by: [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy]] (S38)
 - Connected to: [[Organisations/Ember Vein\|Ember Vein]] underground complex (statue housed there for unknown centuries)
 - Indirectly connected to: the wyrm now in [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]'s possession (his sacrifice was the seal that bound it)
 
 ### Appearances
 
 - [[Sessions/Session 18 - 2 November 2024\|Session 18 - 2 November 2024]] - Seen in Bane Watcher shared vision, screaming [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s name from a state of petrification
-- [[Sessions/Session 38 - 6 April 2026\|Session 38 - 6 April 2026]] - Encountered physically; revealed as an ancient statue in the ritual chamber of the [[Organisations/Ember Vein\|Ember Vein]] underground complex, bearing Elik'r's family crest; animated by the [[Ember Vein Envoy\|Ember Vein Envoy]]; boss encounter beginning at session end
+- [[Sessions/Session 38 - 6 April 2026\|Session 38 - 6 April 2026]] - Encountered physically; revealed as an ancient statue in the ritual chamber of the [[Organisations/Ember Vein\|Ember Vein]] underground complex, bearing Elik'r's family crest; animated by the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy]]; boss encounter beginning at session end
 - [[Sessions/Session 39 - 18 April 2026\|Session 39 - 18 April 2026]] - Fought the party in a two-phase boss fight; revealed as a direct Stormswallow ancestor; confirmed he had sacrificed himself to bind the wyrm beneath the world; defeated by [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Lightning Chromatic Orb (49 damage); passed his longsword to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] and gestured to the family banner; body crumbled to stone dust. **DECEASED.**
 
 ### Related Quests

@@ -21,4 +21,4 @@ Rottweiler companion and combat partner to [[Party Members/Lady Odonia of Galant
 - Companion to: [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]
 
 ## Appearances
-- [[Sessions/Session 18 - 2 November 2024\|Session 18 - 2 November 2024]] - Vision through River's eyes revealed [[NPCs/Barry\|Barry]] and gnome army
+- [[Sessions/Session 18 - 2 November 2024\|Session 18 - 2 November 2024]] - Vision through River's eyes revealed [[NPCs/Barry\|Zorry]] and gnome army

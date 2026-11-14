@@ -10,6 +10,11 @@
 
 ---
 
+## Current Status (Session 42)
+
+- No direct contact this session; [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] remains in [[Locations/Thalas'Miriel\|Thalas'Miriel]] holding the town, having declined to spare knights for the cemetery (S41)
+- One of the four undead champions raised at the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] - the Oathless - wore dark plate on which a lantern emblem had been deliberately scraped away with a blade, suggesting a knight of the Order who fell or was cast out in an earlier age (see [[NPCs/Champions of the Mausoleum\|Champions of the Mausoleum]])
+
 ## Current Status (Session 40)
 
 - [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] now found in command of the garrison, ending its leaderless status at the local command level
@@ -115,3 +120,4 @@
 - Does the Order have presence beyond [[Locations/Thalas'Miriel\|Thalas'Miriel]]?
 - Who is the unidentified man still locked in the torture room (permanent lockpicks, S37)?
 - What caused the zombie incursion the garrison is now barricaded against (S40)?
+- Who was the Oathless, entombed in the cemetery mausoleum with a defaced lantern emblem - and does [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] or the Order's records know of him (S42)?

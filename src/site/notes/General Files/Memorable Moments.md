@@ -6,6 +6,22 @@
 
 ---
 
+#### Session 42
+
+**Session 42 - Retreat** - With the 7'5" [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] standing over a downed [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] ended the boss fight with a single word of Command, and the knight sneered that the party were not worth his time and portalled away.
+
+**Session 42 - The Green Fireball** - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Fireball turned Bane-green as it left her hand and dealt 53 damage, reducing the Veiled Oracle to ash, after the whole table talked her out of flipping the Coin of Fate on it.
+
+**Session 42 - Looking Forward to My Dwarf** - The DM cashed in the disadvantage token to turn [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s successful death save into a failure, prompting Kieran to start saying his goodbyes and eyeing up his backup character.
+
+**Session 42 - Don't Stab the Tree** - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] asked whether the Bane-animated tree could be cured and befriended, then stabbed it anyway, sending its stolen life force back into three of her allies moments after [[Party Members/Elvva Beltavar\|Elvva Beltavar]] warned of exactly that.
+
+**Session 42 - One Square Short** - A lute struck up as the zombies fled, revealing that [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] had been standing invisible beside the fight all along, one square outside the blast of Elvva's Fireball.
+
+**Session 42 - Achiever** - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] opened the session by performing his campaign anthem "Achiever", earned a hero token for it, and spent it on a Turn Undead that routed the entire zombie horde.
+
+---
+
 #### Session 41
 
 **Session 41 - It's All My Fault** - [[NPCs/Calen Thorne\|Calen Thorne]]'s desperate, unplanned Ice Blade detonation froze and damaged the whole party alongside the horde, nearly killing [[Party Members/Elvva Beltavar\|Elvva Beltavar]] and triggering [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s curse voice once again.
@@ -94,7 +110,7 @@ Session 34 – **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s Pi
 
 Session 34 – **The Green Fireball** – [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s held Fireball erupted bright green when finally cast, obliterating two moth minions and marking visible manifestation of Bane corruption.
 
-Session 34 – **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Fatal Victory** – Cast Agonising Scorcher dealing 32 damage to kill Moth Queen, failed third Wisdom save (rolled 5), and green flames reflected full damage back knocking her unconscious at moment of triumph.
+Session 34 – **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Fatal Victory** – Cast Aganazzar's Scorcher dealing 32 damage to kill Moth Queen, failed third Wisdom save (rolled 5), and green flames reflected full damage back knocking her unconscious at moment of triumph.
 
 Session 34 – **The Moth Queen's True Identity** – Defeated boss revealed as transformed [[NPCs/Oswick Porridgepot\|Oswick Porridgepot]] (halfling with crooked nose and missing right hand who disappeared 3 months ago "searching for mythical Garlic Patch").
 
@@ -323,7 +339,7 @@ Session 25 – [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hybo
 
 Session 25 – [[NPCs/Thalas\|Thalas]] – Casually sliced through [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s firebolt with sword while simultaneously duelling [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]], demonstrating exceptional combat skill despite being attacked on multiple fronts.
 
-Session 25 – Mysterious Figures – Skull-faced cloaked man (with recognised gold cane) and unknown axe fighter (who previously kidnapped [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]) stood motionless at throne room rear watching the battle unfold without engaging.
+Session 25 – Mysterious Figures – Skull-faced cloaked man (with recognised gold cane) and unknown axe fighter (whom [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] previously caught searching [[NPCs/Countess Alyssa Crowsbane\|Countess Alyssa Crowsbane]]'s bedroom) stood motionless at throne room rear watching the battle unfold without engaging.
 
 Session 25 – [[Party Members/Tooo-Ah\|Tooo-Ah]] & [[NPCs/General Thailander Oakwood\|General Thailander Oakwood]] – [[Party Members/Tooo-Ah\|Tooo-Ah]] casually mentioned plants speaking to her about the battle ("Don't mind me, I'm talking to the plants"), then relayed that "the plants would like a bit more light" on the west side, leaving [[NPCs/General Thailander Oakwood\|General Thailander Oakwood]] completely perplexed looking up at the night sky.
 
@@ -423,7 +439,7 @@ Session 18 – [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] – Ro
 
 Session 18 – [[Party Members/Elvva Beltavar\|Elvva Beltavar]] – Discovered Balthazar's diary containing death certificates for all current party members (dates blank) and [[Party Members/Ser Pas Rata\|Ser Pas Rata]]'s death certificate dated one month ago, confirming their former companion's death.
 
-Session 18 – [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] – Saw through River the dog's eyes in shared vision and spotted Barry/Larry (the gnome she shot in the eye during early tournament melee) leading a gnome army watching the party from the woods. The gnomes have not forgotten.
+Session 18 – [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] – Saw through River the dog's eyes in shared vision and spotted Zorry (the gnome she shot in the eye during early tournament melee) leading a gnome army watching the party from the woods. The gnomes have not forgotten.
 
 Session 18 – [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] – Petrified purple dragonborn statue from ancient times called out his name specifically: "RELEASE ME, RELEASE ME, ELIK'R STORMSWALLOW!" No one knows why this ancient being knows him.
 
@@ -436,7 +452,7 @@ Session 18 – Party (All) – Experienced shared prophetic vision showing ancie
 ---
 #### Sessions 12-17 (Grand Tournament & Siege of Belendar)
 
-Session ~13 – **[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] Wins Dancing Competition** – Won the Grand Tournament dancing event with [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] placing second and [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] surprising everyone with third place - a 7'8" goliath barbarian placing in a dancing competition.
+Session ~13 – **[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] Wins Dancing Competition** – Won the Grand Tournament dancing event with [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] placing second and [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] surprising everyone with third place - a self-declared 7'8" goliath barbarian placing in a dancing competition.
 
 Session ~13 – **[[NPCs/Emperor Vladier Drakonhart\|Emperor Vladier Drakonhart]]'s Chariot Race Cheating** – Emperor deployed grappling hook and rope during chariot race to drag competitors off course. [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] caught up through luck alone, overtook everyone, caused opponents to crash and won. Emperor subsequently imprisoned, tournament ejected.
 
@@ -481,7 +497,7 @@ Sessions 16-17 – **[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Gal
 
 **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s Joust Disqualification** – Used Command spell with word "feint" during joust with Tharrock (DM interpreted as "faint"), opponent passed out and fell off horse, squire reported him to officials for using magic in chivalrous nation tournament, disqualified despite technically winning.
 
-**[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s Gnome Eye-Shot** – Shot gnome ([[NPCs/Barry\|Barry]]) in the eye with arrow during "friendly" Canathalas tournament melee despite being told it was supposed to be friendly competition, creating vengeful enemy that stalks party.
+**[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s Gnome Eye-Shot** – Shot gnome ([[NPCs/Barry\|Zorry]]) in the eye with arrow during "friendly" Canathalas tournament melee despite being told it was supposed to be friendly competition, creating vengeful enemy that stalks party.
 
 **The Orc Massacre** – Party sent to deal with orcs attacking Ulvenora mining town, found orc family in mountains, at least two party members spoke Orcish fluently and could have attempted communication, never thought to try talking, killed them all instead.
 

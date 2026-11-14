@@ -97,7 +97,7 @@
 - **Serves:** [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] (advisor position, left of throne)
 - **Co-conspirator:** [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]] (knows about assassination arrangement)
 - **Secret Keeper:** Only three people know about High King's assassination arrangement: Odonia, Princess, [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]]
-- **Nemesis:** [[NPCs/Barry\|Barry]] and gnome army (revenge for eye-shooting during tournament)
+- **Nemesis:** [[NPCs/Barry\|Zorry]] and gnome army (revenge for eye-shooting during tournament)
 - **Strategic Advisor:** [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]] (suggested Neverwinter as first target)
 
 ### Locations
@@ -114,7 +114,7 @@
 
 **Early Campaign (Session 2 - Canathalas Tournament):**
 
-- **Shot Gnome in Eye:** During "friendly" Canathalas tournament melee competition, shot gnome ([[NPCs/Barry\|Barry]]) in the eye with arrow despite being told it was supposed to be friendly combat - created vengeful enemy who now leads gnome army stalking party
+- **Shot Gnome in Eye:** During "friendly" Canathalas tournament melee competition, shot gnome ([[NPCs/Barry\|Zorry]]) in the eye with arrow despite being told it was supposed to be friendly combat - created vengeful enemy who now leads gnome army stalking party
 
 **Grand Tournament at Belendar (Sessions ~12-14):**
 
@@ -132,7 +132,7 @@
     
 - Large bag of gold offered as reward by Crown Princess
     
-- [[Sessions/Session 18 - 2 November 2024\|Session 18 - 2 November 2024]] - Survived Bane Watcher initiation, woke first (4 hours). Vision through [[NPCs/River\|River]]'s eyes revealed [[NPCs/Barry\|Barry]] leading gnome army watching party.
+- [[Sessions/Session 18 - 2 November 2024\|Session 18 - 2 November 2024]] - Survived Bane Watcher initiation, woke first (4 hours). Vision through [[NPCs/River\|River]]'s eyes revealed [[NPCs/Barry\|Zorry]] leading gnome army watching party.
     
 - Killed [[NPCs/Ser Balthazar Thornwood\|Ser Balthazar Thornwood]] - Became most famous person in [[Locations/Belendar\|Belendar]]
     
@@ -189,7 +189,7 @@
 
 - **Woke first:** 4 hours (demonstrated toughness - "Hard as bricks like me!" - [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]])
 - **Bane Sense:** Can sense [[NPCs/The Bane\|The Bane]]'s presence (currently unfocused)
-- **Shared Vision:** Saw through [[NPCs/River\|River]]'s eyes, discovered [[NPCs/Barry\|Barry]] and gnome army watching party from woods - major revelation
+- **Shared Vision:** Saw through [[NPCs/River\|River]]'s eyes, discovered [[NPCs/Barry\|Zorry]] and gnome army watching party from woods - major revelation
 - **Carries Dormant Bane Command:** Kill [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] (planted Session 23 - CRITICAL THREAT)
 
 ---
@@ -218,7 +218,7 @@
 
 - Most famous person in [[Locations/Belendar\|Belendar]] (killed wyvern)
 - **Only three people know about High King's assassination arrangement**
-- Being tracked by gnome army led by [[NPCs/Barry\|Barry]]
+- Being tracked by gnome army led by [[NPCs/Barry\|Zorry]]
 - **Session 31:** Appointed [[NPCs/Lady Isolde of the Silver Rose\|Lady Isolde of the Silver Rose]] as mayor of [[Locations/Sylobelle\|Sylobelle]] - decision completed
 - **Session 26:** Major social/political elevation (Lady, General, Advisor) - party members visibly surprised
 - Mysterious bird feathers surrounded her after feast (Session 26 - origin unknown)
@@ -230,7 +230,7 @@
 - [[Quests/Quests - Active#Escape Shared Dream Vision\|Quests - Active#Escape Shared Dream Vision]] - Trapped in temple (Session 28)
 - [[Quests/Quests - Active#Appoint Sylobelle Steward\|Quests - Active#Appoint Sylobelle Steward]] - Must choose between four candidates
 - [[Quests/Quests - Active#Investigate Sylobelle Murders\|Quests - Active#Investigate Sylobelle Murders]] - Fisherman dead, bodies missing
-- [[Quests/Quests - On Hold#Gnome Army Revenge Plot\|Quests - On Hold#Gnome Army Revenge Plot]] - Barry tracking party for eye-shooting
+- [[Quests/Quests - On Hold#Gnome Army Revenge Plot\|Quests - On Hold#Gnome Army Revenge Plot]] - Zorry tracking party for eye-shooting
 - [[Quests/Quests - Active#Rally the North\|Quests - Active#Rally the North]] - General of the North, overall campaign commander
 - [[Quests/Quests - Active#Secure Eastern Border\|Quests - Active#Secure Eastern Border]] - Military commission
 - [[Quests/Quests - Active#The Bane\|Quests - Active#The Bane]] - Bane Watcher, carries dormant command to kill Co'narr

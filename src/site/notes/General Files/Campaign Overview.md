@@ -40,7 +40,7 @@ The party landed at [[Locations/Canathalas\|Canathalas]], a major port on Odessi
 
 [[Party Members/Ser Pas Rata\|Ser Pas Rata]] entered the joust with [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] as his squire. Tessell secretly provided Guidance on every single tilt. Pas Rata won. The duchess formally knighted him "Ser Pas Rata" - though his armour was so battered by that point it had to be cut off.
 
-[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], a human ranger of noble bearing and questionable impulse control, shot a gnome in the eye during the "friendly" melee event. This gnome - known as [[NPCs/Barry\|Barry]] - has not forgotten.
+[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], a human ranger of noble bearing and questionable impulse control, shot a gnome in the eye during the "friendly" melee event. This gnome - known as [[NPCs/Barry\|Zorry]] - has not forgotten.
 
 In between tournaments, the party cleared smugglers from the woods outside Canathalas. [[Party Members/Tooo-Ah\|Tooo-Ah]] discovered a doll in a chest on a captured smuggler boat and decided to keep it. She had no idea what it was. This would matter enormously later.
 
@@ -204,7 +204,7 @@ An inscription above a cavern entrance: "Glory to the Moth Queen."
 
 [[NPCs/Fizwidget Spindleflash\|Fizwidget Spindleflash]] returned. The party was teleported mid-journey to a Winter Realm, regressed to teenagers, and introduced to [[Party Members/Liora Emberveil\|Liora Emberveil]], a temporary companion of considerable acrobatic skill. They completed a husky race (Odonia and Liora's sled was on fire by the finish line), navigated ice skating with varying dignity, and consumed magical pastries with effects including brain-freeze curses, needy shoulder-mounted polar bears, and eternal fruitcake rage. A massive creature with a fin was glimpsed beneath the lake. [[Party Members/Tooo-Ah\|Tooo-Ah]] was retained at the end as punishment for some infraction.
 
-The party returned to fight the Moth Queen, who was revealed to be [[NPCs/Oswick Porridgepot\|Oswick Porridgepot]], a halfling who had disappeared three months ago claiming to search for a mythical Garlic Patch. [[Party Members/Elvva Beltavar\|Elvva Beltavar]] cast Agonising Scorcher for 32 damage, failed her third Wisdom save, and the green flames reflected the full damage back, knocking her unconscious at the moment of victory. The Bane corruption pattern was confirmed.
+The party returned to fight the Moth Queen, who was revealed to be [[NPCs/Oswick Porridgepot\|Oswick Porridgepot]], a halfling who had disappeared three months ago claiming to search for a mythical Garlic Patch. [[Party Members/Elvva Beltavar\|Elvva Beltavar]] cast Aganazzar's Scorcher for 32 damage, failed her third Wisdom save, and the green flames reflected the full damage back, knocking her unconscious at the moment of victory. The Bane corruption pattern was confirmed.
 
 [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], drunk at the Crossroads Inn, attempted to carve a potato girlfriend for Mini Steve. He rolled a Natural 1 on Performance. He cut off his own pinky finger. He was too drunk to notice immediately: "Oh, look, it's gone a funny colour. My fingers are shorter than they were."
 
@@ -266,7 +266,7 @@ The session ended there.
 
 **Zorn:** A name spoken once by a female orc rider on a Frost Wolf. An imminent threat, apparently. Nothing else is known.
 
-**The Gnome Army:** [[NPCs/Barry\|Barry]] has not forgotten his eye. He never will.
+**The Gnome Army:** [[NPCs/Barry\|Zorry]] has not forgotten his eye. He never will.
 
 ---
 

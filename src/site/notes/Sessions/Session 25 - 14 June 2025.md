@@ -82,7 +82,7 @@ Party burst through double doors:
 - **[[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]]** heavily injured, fighting [[NPCs/Thalas\|Thalas]]
 - [[NPCs/Thalas\|Thalas]] (Black Knight, flaming sword) engaged with Princess
 - Mysterious cloaked figure with **visible skull face** - same gold cane from previous encounter
-- Unknown armoured figure with massive magical two-handed axe (kidnapped [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] previously)
+- Unknown armoured figure with massive magical two-handed axe (previously caught by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] searching [[NPCs/Countess Alyssa Crowsbane\|Countess Alyssa Crowsbane]]'s bedroom)
 - Approximately 15 enemy soldiers watching duel
 
 ---
@@ -273,7 +273,7 @@ Party burst through double doors:
 - **[[NPCs/Thalas\|Thalas]]** - Black Knight with flaming sword, currently duelling Princess, barely damaged
 - **[[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]]** - Royal Advisor, slumped against pillar bleeding heavily, dying
 - **Mysterious Cloaked Man** - Purple robes, gold cane (recognised by [[Party Members/Elvva Beltavar\|Elvva Beltavar]] and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]), **skull face visible**, standing at rear watching, has not engaged
-- **Unknown Axe Fighter** - Heavily armoured in ornate black armour, massive magical two-handed axe, kidnapped [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] previously, standing at rear watching, has not engaged
+- **Unknown Axe Fighter** - Heavily armoured in ornate black armour, massive magical two-handed axe, previously caught by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] searching [[NPCs/Countess Alyssa Crowsbane\|Countess Alyssa Crowsbane]]'s bedroom, standing at rear watching, has not engaged
 - **[[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]** - **RECOVERED**, riding elk, cast devastating beam destroying wyvern, arrived with reinforcements
 - **[[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]** - In rage mode, white bandage patches, charging with Castle soldiers, attacking enemy rear
 - **General [[NPCs/General Thailander Oakwood\|General Thailander Oakwood]]** - Commanding gatehouse defence, received reinforcement information
@@ -329,7 +329,7 @@ Party burst through double doors:
 ### New Information
 
 - **Mysterious Skull-Faced Man** - Purple robes, gold cane, skull face visible, watching throne room battle, has not engaged
-- **Unknown Axe Fighter** - Kidnapped [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] previously, massive magical axe, ornate black armour, watching throne room battle, has not engaged
+- **Unknown Axe Fighter** - Previously caught by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] searching [[NPCs/Countess Alyssa Crowsbane\|Countess Alyssa Crowsbane]]'s bedroom, massive magical axe, ornate black armour, watching throne room battle, has not engaged
 - **[[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]'s Recovery** - Unexplained return to consciousness with increased power, destroyed wyvern with single beam spell
 - **Friendly Fire Casualties** - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s flame breath killed ~25 allies, [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] hit ally with Guiding Bolt, [[Party Members/Tooo-Ah\|Tooo-Ah]]'s boulder killed soldiers
 - **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Petrification** - New Bane corruption manifestation, triggered by green glow during spell casting
@@ -431,7 +431,7 @@ Session 25 – [[Party Members/Elvva Beltavar\|Elvva Beltavar]] – Cast Aganazz
 
 **Session 25** - [[NPCs/Thalas\|Thalas]] - Sliced through [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s firebolt with sword while simultaneously duelling [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]], demonstrating exceptional combat skill.
 
-**Session 25** - Mysterious Figures - Skull-faced cloaked man (recognised gold cane) and unknown axe fighter (kidnapped [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] previously) standing motionless at throne room rear, watching battle unfold.
+**Session 25** - Mysterious Figures - Skull-faced cloaked man (recognised gold cane) and unknown axe fighter (previously caught by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] searching [[NPCs/Countess Alyssa Crowsbane\|Countess Alyssa Crowsbane]]'s bedroom) standing motionless at throne room rear, watching battle unfold.
 
 ---
 
@@ -456,7 +456,7 @@ Session 25 – [[Party Members/Elvva Beltavar\|Elvva Beltavar]] – Cast Aganazz
 - **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s temporary petrification** - why did green glow trigger it? Will it happen again? Can wisdom saves always cure it?
 - **[[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]]'s recovery** - what happened during unconsciousness? Source of power increase?
 - **Mysterious skull-faced man** - identity, connection to gold cane, why watching?
-- **Unknown axe fighter** - why kidnapped [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]? Connection to conspiracy?
+- **Unknown axe fighter** - why was he searching [[NPCs/Countess Alyssa Crowsbane\|Countess Alyssa Crowsbane]]'s bedroom when [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] found him? Connection to conspiracy?
 - **Sword in High King's neck** - whose sword? [[NPCs/Thalas\|Thalas]]'s?
 - **Green glow escalation** - petrification new effect, progressive corruption worsening
 - **Dormant Bane commands** - when will they activate?
@@ -472,7 +472,7 @@ Session 25 – [[Party Members/Elvva Beltavar\|Elvva Beltavar]] – Cast Aganazz
 - **[[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]** - in rage mode, attacking enemy rear
 - **[[NPCs/Avicia\|Avicia]]** - location unknown, potentially "the vessel"
 - **Mysterious skull-faced man** - purple robes, gold cane, has not engaged
-- **Unknown axe fighter** - kidnapped [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]], has not engaged
+- **Unknown axe fighter** - previously caught by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] searching [[NPCs/Countess Alyssa Crowsbane\|Countess Alyssa Crowsbane]]'s bedroom, has not engaged
 - **[[NPCs/Thalas\|Thalas]]** - duelling Princess, barely wounded
 - **General [[NPCs/General Thailander Oakwood\|General Thailander Oakwood]]** - commanding gatehouse
 - **Black Knight (Warhammer)** - destroyed lightning barrier mages

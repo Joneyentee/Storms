@@ -497,7 +497,7 @@
 - Magical 2H axe
 - Powerful warrior
 - Watched throne room battle
-- Kidnapped Tessell previously (Sessions ago)
+- Caught by Tessell searching Countess Crowsbane's bedroom (sessions ago)
 - Whereabouts unknown
 
 **Mysterious Skeletal Soldier:**

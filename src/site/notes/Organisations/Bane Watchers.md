@@ -413,7 +413,7 @@ Ability improves with time, training, and experience
 ### Regional Leaders
 
 **Co'narr 'Banewatcher' Hyborian** (Odessia)
-- 7'8" Goliath Barbarian
+- Goliath Barbarian (claims 7'8")
 - Regional leader for Odessia
 - Recovered Session 25
 - Has kitten companion (magical cake effect)

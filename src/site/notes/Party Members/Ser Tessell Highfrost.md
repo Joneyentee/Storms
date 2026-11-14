@@ -82,6 +82,8 @@ With faith tempered by doubt, and compassion stronger than fear, Tessell left th
 
 ### Other Gear
 
+- Signet ring for stamping letters (given to Tessell before Session 18 - from Kieran's notes, exact session unconfirmed)
+
 - Lute (purchased in Belendar - required for The Goddess Song ability)
 - Standard adventuring equipment
 
@@ -243,7 +245,9 @@ Tessell now keeps the veil tucked into his robes, using it in moments of prayer,
     
 - [[Sessions/Session 37 - 22 March 2026\|Session 37 - 22 March 2026]] - [[NPCs/The Bane\|The Bane]] manifested physically through Tessell's palm to activate a hidden green symbol on the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] garrison wall, opening a sealed passage no other party member could sense or trigger. First known instance of [[NPCs/The Bane\|The Bane]] flowing from him in this way. Knocked out a garrison guard with the blunt side of his handaxe (Performance roll to lure guard: 17).
     
-- **[[Sessions/Session 38 - 6 April 2026\|Session 38 - 6 April 2026]]:** Touched an ember fissure in the [[Organisations/Ember Vein\|Ember Vein]] underground complex; received a psychic vision from the seraph - the same wingless wyrm seen by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], but delivering a different message: _"Kill them all."_ Followed by a vision of figures in black and red cloaks and a woman on a ritual table. Failed Wisdom saving throw (dirty 20 insufficient), taking 14 psychic damage. Dropped to zero hit points during combat with [[NPCs/Darius Kain\|Darius Kain]] (fire column, death saving throw Natural 1 - two failures simultaneously); revived by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s Cure Wounds. Restored to full health and spell slots by the [[Ember Vein Envoy\|Ember Vein Envoy]] at session end.
+- **[[Sessions/Session 38 - 6 April 2026\|Session 38 - 6 April 2026]]:** Touched an ember fissure in the [[Organisations/Ember Vein\|Ember Vein]] underground complex; received a psychic vision from the seraph - the same wingless wyrm seen by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], but delivering a different message: _"Kill them all."_ Followed by a vision of figures in black and red cloaks and a woman on a ritual table. Failed Wisdom saving throw (dirty 20 insufficient), taking 14 psychic damage. Dropped to zero hit points during combat with [[NPCs/Darius Kain\|Darius Kain]] (fire column, death saving throw Natural 1 - two failures simultaneously); revived by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s Cure Wounds. Restored to full health and spell slots by the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy]] at session end.
+    
+- **[[Sessions/Session 42 - 17 October 2026\|Session 42 - 17 October 2026]]:** Performed his campaign anthem "Achiever" before play and was awarded a hero token. At the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] mausoleum he was knocked unconscious by the Hollow Blade's necrotic eruption and revived by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], destroyed the Last Huntress with Spiritual Weapon, and passed by a single point a Wisdom save that would have petrified him. **Cast Command ("Retreat") on the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]], who failed the save and portalled away - ending the boss fight.** Spent the hero token on a second Turn Undead that routed the zombie horde.
     
 
 ### Character Arc
@@ -268,7 +272,7 @@ Tessell now keeps the veil tucked into his robes, using it in moments of prayer,
 - **Effect:** Tessell performs a half-hour worship song on his lute. All within earshot receive one free advantage roll on any check/save/hit roll (once used, depleted until following dawn)
 - **At Level 11:** Add +10 to any check/save/hit roll
 - **At Level 15:** Change any check/save/hit roll to a natural 20
-- **Note:** Ability implemented October 2024, not yet used in campaign
+- **Note:** Ability implemented October 2024. **First used in Session 40** (performed for 30 minutes at Calen Thorne's hovel): everyone within 20 feet who heard the whole song gained one stored boon until the following dawn, which gives advantage on one ability check, saving throw or attack roll when expended. Tessell spent his own boon on persuading Calen to fetch sausages
 
 ### Injuries & Scars
 

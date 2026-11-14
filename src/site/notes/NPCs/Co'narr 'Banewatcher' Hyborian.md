@@ -11,7 +11,7 @@
 ---
 ## Description
 
-7'8" tall Goliath barbarian and leader of the [[Organisations/Bane Watchers\|Bane Watchers]]. Led Bane Watcher initiation ritual for party, revealing extensive lore about [[NPCs/The Bane\|The Bane]], dragon gods, and ancient history. Currently competing in tournament to force military alliance contract with kingdom. Has personally seen [[NPCs/The Bane\|The Bane]] in underground dwarven roads.
+Goliath barbarian who claims to be 7'8" tall (the DM has since ruled he is shorter than the 7'5" [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]]) and leader of the [[Organisations/Bane Watchers\|Bane Watchers]]. Led Bane Watcher initiation ritual for party, revealing extensive lore about [[NPCs/The Bane\|The Bane]], dragon gods, and ancient history. Currently competing in tournament to force military alliance contract with kingdom. Has personally seen [[NPCs/The Bane\|The Bane]] in underground dwarven roads.
 
 **Session 26 Addition:** Acquired permanent kitten companion that won't leave his side and hisses at everyone else. Demonstrated advanced Bane knowledge, warned [[Party Members/Elvva Beltavar\|Elvva Beltavar]] about corruption progression, urged party to visit Bane Watcher Citadel for training.
 
@@ -20,7 +20,7 @@
 
 ### Physical & Combat
 - Weapon: 2H Battleaxe
-- Height: 7'8"
+- Height: claims 7'8"; actually under 7'5", as the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] is taller (DM ruling, Session 42)
 - **New Companion (Session 26):** Tiny kitten (clings to him, hisses at others, won't leave)
 
 ### Political Views

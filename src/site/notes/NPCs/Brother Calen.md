@@ -24,7 +24,7 @@ Young, fair-featured human male with light blonde hair and a toned, athletic bui
 - [[NPCs/Clara\|Clara]] is his motivation for entering the garrison; the relationship appears to be more than collegial despite their vows of celibacy
 - Confirmed (S38) that his mentor found a site almost identical to the [[Organisations/Ember Vein\|Ember Vein]] underground complex in the chasms beneath [[Locations/Neverwinter\|Neverwinter]] - he was notably calm in the chamber while the freed knights were visibly bewildered (Insight checks by all party members, DC 15, all passed)
 - A faint green glow was briefly observed circling him after he passed through the draconic archway in the underground complex (S38) - origin and significance unknown
-- Rescued [[NPCs/Clara\|Clara]] from the ritual table mid-combat (S38), carrying her toward the stairs before being pulled back into the chamber by the [[Ember Vein Envoy\|Ember Vein Envoy]] at session end
+- Rescued [[NPCs/Clara\|Clara]] from the ritual table mid-combat (S38), carrying her toward the stairs before being pulled back into the chamber by the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy]] at session end
 
 ### Relationships
 
@@ -37,7 +37,7 @@ Young, fair-featured human male with light blonde hair and a toned, athletic bui
 
 - [[Sessions/Session 36 - 21 February 2026\|Session 36 - 21 February 2026]] - Seated next to [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] during cathedral sermon; noticed listening intently when [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] whispered her plan to leave
 - [[Sessions/Session 37 - 22 March 2026\|Session 37 - 22 March 2026]] - Identified himself as Brother Calen; offered intelligence on garrison back entrance; demonstrated lethal combat skill during infiltration; descended into hidden passage with party at session end
-- [[Sessions/Session 38 - 6 April 2026\|Session 38 - 6 April 2026]] - Accompanied party through the [[Organisations/Ember Vein\|Ember Vein]] underground complex; revealed his mentor had found a near-identical site beneath [[Locations/Neverwinter\|Neverwinter]]; confirmed [[NPCs/Darius Kain\|Darius Kain]]'s identity on sight in the ritual chamber; rescued [[NPCs/Clara\|Clara]] from the ritual table mid-combat; pulled back into the chamber by the [[Ember Vein Envoy\|Ember Vein Envoy]] at session end alongside the rest of the party
+- [[Sessions/Session 38 - 6 April 2026\|Session 38 - 6 April 2026]] - Accompanied party through the [[Organisations/Ember Vein\|Ember Vein]] underground complex; revealed his mentor had found a near-identical site beneath [[Locations/Neverwinter\|Neverwinter]]; confirmed [[NPCs/Darius Kain\|Darius Kain]]'s identity on sight in the ritual chamber; rescued [[NPCs/Clara\|Clara]] from the ritual table mid-combat; pulled back into the chamber by the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy]] at session end alongside the rest of the party
 
 ### Related Quests
 

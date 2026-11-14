@@ -10,6 +10,42 @@
 
 ---
 
+## Session 42 Mysteries
+
+### The Champions of the Mausoleum
+
+**MEDIUM** | Destroyed S42 - identities unknown
+
+**Event:** At the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] mausoleum the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] used [[NPCs/The Bane\|The Bane]] to raise four skeletal champions by title - the Veiled Oracle, the Hollow Blade, the Oathless and the Last Huntress. All four were destroyed. The Oathless wore dark plate on which a lantern emblem had been deliberately scraped away with a blade.
+
+**Key Questions:**
+
+- Who were the four in life, and why were they entombed together outside [[Locations/Thalas'Miriel\|Thalas'Miriel]]?
+- Was the Oathless a knight of the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] - and who defaced his emblem, and when?
+- Did the [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]]'s four bolts of green Bane light (S41) prepare them for raising?
+- Can the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] raise more of them elsewhere?
+- What was the petrifying effect he tried to use on [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]], and is it linked to the campaign's other petrifications?
+
+**Related:** [[NPCs/Champions of the Mausoleum\|Champions of the Mausoleum]] | [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] | [The Bane](Quests - Active.md#the-bane)
+
+---
+
+### Who Performed Avicia's Transformation?
+
+**MEDIUM** | New connection revealed in the S42 recap
+
+**Event:** The DM's Session 42 recap identified the two hooded figures at [[NPCs/Avicia\|Avicia]]'s doll-to-child ritual as the [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]] (casting the incantation; the man [[Party Members/Tooo-Ah\|Tooo-Ah]] believes to be [[NPCs/Professor Gabriel Emms\|Professor Gabriel Emms]]) and the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - Unnamed]] (silent until she said "it is done now" and vanished).
+
+**Key Questions:**
+
+- Why was an [[Organisations/Ember Vein\|Ember Vein]] figure - whose cult claims to contain ancient powers, not wake them - part of [[NPCs/Elincia Flowers\|Elincia Flowers]]'s ritual?
+- Did the Cloaked Man impersonate Professor Emms, and when did Tooo-Ah meet him in that guise?
+- What did the ritual actually achieve beyond restoring Avicia?
+
+**Related:** [[NPCs/Avicia\|Avicia]] | [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]] | [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - Unnamed]] | [Who is the Ember Vein Envoy?](Quests - Mysteries.md#who-is-the-ember-vein-envoy)
+
+---
+
 ## Session 41 Mysteries
 
 ### Dragonclaw Isle
@@ -59,6 +95,8 @@
 **Event:** A woman in [[Organisations/Ember Vein\|Ember Vein]] livery was present in the ritual chamber - but was largely immune to physical attacks, could phase in and out of material existence, dropped a permanent illusion concealing the chamber's back wall, animated the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] with a word, teleported [[Party Members/Elvva Beltavar\|Elvva Beltavar]] from the [[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]] to the underground chamber, and restored the entire party to full health and spell slots with a snap of her fingers. She then addressed the party directly, implying she has observed them across at least two separate incidents of "unravelling."
 
 **S41 Development:** Reappeared at a cemetery mausoleum south-west of [[Locations/Thalas'Miriel\|Thalas'Miriel]], alongside [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]], the [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]], and the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] - first confirmed sighting of her with the other three. Revealed the location of Dragonclaw Isle before declaring her side's "time is over here" and departing for Neverwinter.
+
+**S42 Development:** The DM's recap identified her as the quiet woman present at [[NPCs/Avicia\|Avicia]]'s transformation ritual, who said only "it is done now" before vanishing - so her involvement predates the [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] by a long way. The party still has no name for her.
 
 **Key Questions:**
 
@@ -148,13 +186,15 @@ The complex has been fully explored, the cult eliminated, and the ritual chamber
 
 ### Lord Pompaduke's True Identity
 
-**HIGH** | At large — escaped a second time at a cemetery mausoleum near [[Locations/Thalas'Miriel\|Thalas'Miriel]] (S41)
+**HIGH** | Revealed still at the cemetery mausoleum near [[Locations/Thalas'Miriel\|Thalas'Miriel]] (S42) — confrontation unresolved
 
 **S39 Resolution (partial):** [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] revealed his true agenda openly: he engineered the party's actions throughout — including the sequence of events leading to the wyrm's release — for his own ends. His exact words: _"Thank you, everyone, for completing the task I needed to do. For me."_ He then opened a Bane-powered portal and departed with the wyrm. His lute abilities, portal creation, and combat invisibility are all confirmed as Bane-powered. His "Brother Algrim" identity at the cathedral was a cover used to monitor and influence events.
 
 **S40 Development:** Resurfaced at [[Locations/Thalas'Miriel\|Thalas'Miriel]], directing a zombie incursion against the town from a rooftop. Demonstrated new abilities - Counterspell (countered by [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s own Counterspell) and a Hunger of Hadar-style spore effect. Silenced by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and blinded by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], effectively neutralised; the fight remained unresolved as reinforcements arrived at session end. No sign of the wyrm during this encounter.
 
 **S41 Development:** Fight concluded - his decoy/illusory form was destroyed by [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s Radiant Bow while his true, invisible self was elsewhere on the battlefield; he portalled away with "See you at our next chapter!" Reappeared shortly after at a cemetery mausoleum alongside the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]], the [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]], and the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]]; bowed and portalled away a second time. [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] (via the Steve stone link) warned the party against trusting him, revealing he was cast out of Co'narr's own order many decades ago.
+
+**S42 Development:** His second Session 41 portal exit was a feint. He remained invisible beside the cemetery mausoleum for the whole of the Session 42 battle against the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] and his undead champions - the same trick he used on the rooftops of [[Locations/Thalas'Miriel\|Thalas'Miriel]] - and revealed himself by playing his lute only as the turned zombie horde fled. The DM hinted that he was the one sustaining the horde. Session ended on his reappearance.
 
 **Remaining Key Questions:**
 
@@ -164,6 +204,7 @@ The complex has been fully explored, the cult eliminated, and the ritual chamber
 - Is his "Lord Pompaduke the Third" identity genuine or also a persona?
 - What is his connection to the wider Bane threat?
 - What order was he cast out of, and why (S41)?
+- Why did he stay hidden at the mausoleum rather than leave with the others, and is he the one raising and sustaining the zombie horde (S42)?
 
 **Related:** [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] | [The Bane](Quests - Active.md#the-bane) | [Mysterious Figures Network](https://claude.ai/chat/d4f13236-d20b-42e9-949a-3a4dc8e1f9ba#mysterious-figures-network)
 
@@ -311,12 +352,12 @@ The complex has been fully explored, the cult eliminated, and the ritual chamber
 - Ability suppression (flight, fire magic)
 - Environmental creation (villages, NPCs, creatures)
 - Reality warping at will
-- Claimed avenging cousin/brother (Barry - gnome shot in eye)
+- Claimed avenging cousin/brother (Zorry - gnome shot in eye)
 
 **Questions:**
 
 - Fey, Archfey, or Trickster God?
-- Connection to Barry's gnome army?
+- Connection to Zorry's gnome army?
 - **Why target this party specifically?** (2 interventions during mission-critical travel)
 - **What triggers interventions?** (Pattern: Session 27 post-feast, Session 33 en route to Moth Queen)
 - Were magical item gifts rewards or traps?
@@ -467,9 +508,11 @@ The complex has been fully explored, the cult eliminated, and the ritual chamber
 - **Skull-Faced Cloaked Man** - Purple robes, gold cane, called Elincia "My Queen," skull = actual face or mask? Escaped with group
 - **Skeletal Soldier** - Skeletal/raspy voice, never visible during combat, escaped via eerie **green light** teleportation (possible Bane connection - green matches pattern)
 - **Black Knight (Warhammer)** - Stopped Tessell's punch mid-air (immense strength), departed via **brownish light** portal, different faction?
-- **Unknown Axe Fighter** - Magical 2H axe, kidnapped Tessell previously (Session 22), escaped with others
+- **Unknown Axe Fighter** - Magical 2H axe, previously caught by Tessell searching [[NPCs/Countess Alyssa Crowsbane\|Countess Alyssa Crowsbane]]'s bedroom, escaped with others
 
 **S41 Development:** The [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]] and [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] both resurfaced together at a cemetery mausoleum outside [[Locations/Thalas'Miriel\|Thalas'Miriel]], alongside [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] and the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] - the first confirmed sighting of all four together, suggesting some shared network or allegiance. The [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]] was confirmed present at the Session 22 town square ambush (previously only linked to the Session 22 Belendar meeting and Session 25 throne room), was revealed to carry a cane concealing a sword, and cast a necromancy spell (four bolts of green Bane light) before vanishing. The [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] remained afterward and directly challenged the party to combat - unresolved cliffhanger.
+
+**S42 Development:** The [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] fought the party at the mausoleum and proved to be a wielder of [[NPCs/The Bane\|The Bane]]: he raised four undead champions, drained life force to animate a tree, downed [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] and tried to petrify [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]], before Tessell's Command forced him to withdraw through black-purple flames. He stands about 7'5" in full ebony plate. The DM's recap also tied the [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]] and the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - Unnamed]] to [[NPCs/Avicia\|Avicia]]'s transformation ritual.
 
 **At Large (Not in Throne Room):**
 
@@ -485,6 +528,7 @@ The complex has been fully explored, the cult eliminated, and the ritual chamber
 - Are cloaked man and skeletal soldier the same person? (both skull-related)
 - Will they return?
 - What is the nature of the alliance between the Cloaked Man, Axe Fighter, Pompaduke, and the Ember Vein Envoy (S41)?
+- The Cloaked Man and the Envoy were both at [[NPCs/Avicia\|Avicia]]'s transformation ritual (S42 recap) - how long has this group been working together?
 
 **Related:** [Civil War](Quests - Active.md#eagle-vs-falcon-faction-war) | [Lord Pompaduke's True Identity](https://claude.ai/chat/d4f13236-d20b-42e9-949a-3a4dc8e1f9ba#lord-pompadukes-true-identity)
 
@@ -509,6 +553,6 @@ The complex has been fully explored, the cult eliminated, and the ritual chamber
 
 ---
 
-**Last Updated:** Session 41
+**Last Updated:** Session 42
 
 > [Index](02 Quests Index.md) | [Active](Quests - Active.md) | [On Hold](Quests - On Hold.md) | **Mysteries**

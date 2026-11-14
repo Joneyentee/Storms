@@ -10,6 +10,14 @@
 
 ---
 
+## Current Status (Session 42)
+
+- **Location:** [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]], at the mausoleum, with [[NPCs/Calen Thorne\|Calen Thorne]]; squires, horses and wagon sent back to [[Locations/Thalas'Miriel\|Thalas'Miriel]]
+- **Last action:** Destroyed four Bane-raised undead champions and forced the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] to withdraw; turned a zombie horde
+- **Immediate threat:** [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]], revealed invisible at the mausoleum as the session ended
+- **New in battle:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] planted the Stormswallow Family Banner for the first time (see [[General Files/Homebrew#Stormswallow Family Banner\|Homebrew]])
+- Troops (732 + healer) remain at [[Locations/Stormhold Keep\|Stormhold Keep]]; mission unchanged - see [[General Files/Campaign Reference\|Campaign Reference]] for the current picture
+
 ## Current Status (Session 32)
 
 ### Leadership Structure
@@ -384,7 +392,7 @@
 
 - **[[Organisations/Falcon Faction\|Falcon Faction]]** - [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]], [[NPCs/Elincia Flowers\|Elincia Flowers]]
 - **[[NPCs/The Bane\|The Bane]]** - World-ending threat (Bane Watcher mission)
-- **[[Organisations/Gnome Army\|Gnome Army]]** - Revenge plot (Barry shot by Odonia)
+- **[[Organisations/Gnome Army\|Gnome Army]]** - Revenge plot (Zorry shot by Odonia)
 - **[[Locations/Immortal Draconic Empire\|Immortal Draconic Empire]]** - Emperor holds grudge
 - **[[Organisations/Elincia's Network\|Elincia's Network]]** - Mysterious powerful allies (skull-faced man, etc.)
 
@@ -582,7 +590,7 @@
 - **Elik'r:** Cape caught fire during Belendar parade
 - **Tooo-Ah:** Terminal velocity experiments
 - **Elvva:** Bareknuckle boxing champion
-- **Odonia:** Shot gnome in eye (Barry's revenge)
+- **Odonia:** Shot gnome in eye (Zorry's revenge)
 
 ### Military Reputation
 
@@ -625,7 +633,7 @@
 ### Long-term Threats
 
 - **[[NPCs/The Bane\|The Bane]]:** World-ending evil, strong Belendar presence
-- **[[Organisations/Gnome Army\|Gnome Army]]:** Barry's revenge plot, tracking party
+- **[[Organisations/Gnome Army\|Gnome Army]]:** Zorry's revenge plot, tracking party
 - **[[NPCs/Emperor Vladier Drakonhart\|Emperor Vladier Drakonhart]]:** Personal grudge, hostile empire
 - **Bane Corruption:** Progressive, advancing in Elvva
 - **Dormant Commands:** Could activate (Tooo-Ah, Odonia, Patriarch)

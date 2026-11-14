@@ -100,8 +100,9 @@ _For standard D&D 5E rules, see [[General Files/Game Mechanics - Reference\|Game
     - Wisdom saving throws required during spellcasting with green glow
     - First two failed saves: resisted successfully
     - Third failed save: full spell damage reflected back to caster
-    - Session 34: Failed 3rd Wisdom save (rolled 5), 32 damage from Agonising Scorcher reflected, knocked unconscious
+    - Session 34: Failed 3rd Wisdom save (rolled 5), 32 damage from Aganazzar's Scorcher reflected, knocked unconscious
 - **Escalation (Session 36):** Corruption now manifesting through innate draconic ability (Dragon's Breath), not only arcane spellcasting. Dragon's Breath produced green Bane flame - knocked [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] unconscious. Suggests corruption spreading beyond spellcasting to Elvva's fundamental draconic nature.
+- **Session 42:** The DM had Elvva roll the white die on both of her 3rd-level casts - 6 on Fireball (the flames turned Bane-green) and 2 on Aganazzar's Scorcher ("your Bane seeped through"). No Wisdom save was called for and no damage was reflected on either cast.
 - See [[General Files/Homebrew\|Homebrew]] for full details
 
 **Psychological Curse - Combat Trigger ([[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]):**
@@ -225,6 +226,23 @@ _For standard D&D 5E rules, see [[General Files/Game Mechanics - Reference\|Game
 - Necromantic resurrection possible but extremely dangerous
 - Standard clerical resurrection (when available) generally accepted
 - Party has witnessed consequences firsthand
+
+### Hero Token and Disadvantage Token
+
+- **Hero token:** awarded by the DM for something exceptional at the table (Session 42: [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s player, for performing "Achiever"). Spent to turn a roll in the holder's favour - in Session 42 it made every zombie in range fail its save against Turn Undead
+- **Disadvantage token** ("anti-hero" token): the opposite - handed to the player who has most frustrated the DM or made a particularly bad joke. The DM can call it in at any time to make that player's roll fail or to turn a success into a failure (Session 42: [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s successful death save became a failure)
+
+### Rules Edition
+
+- The table plays a mixture of the 2014 and 2024 versions of D&D 5E, because D&D Beyond does not separate them clearly; the DM has said he is happy with either version of a spell or feature (restated Session 42)
+- Example: [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s Cure Wounds uses the 2024 text (2d8 per spell level), giving 31 HP from a 2nd-level slot in Session 42, while [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s uses the 2014 text (1d8 per level)
+
+### Rulings (Session 42)
+
+- A special ability that makes several attacks (such as [[Party Members/Tooo-Ah\|Tooo-Ah]]'s wing darts) takes the place of the Attack action, so Extra Attack does not apply on top of it; the bonus action is still available
+- Temporary hit points do not bring an unconscious character round
+- Standing from prone costs half movement, not an action
+- Spare the Dying stabilises the target; at this table the character was treated as conscious on 1 HP but still down
 
 ### Milestone Leveling
 

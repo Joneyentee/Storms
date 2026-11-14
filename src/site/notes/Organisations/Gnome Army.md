@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/organisations/gnome-army/"}
 ---
 
-**Type:** Revenge Group / Unknown Organization **Alignment:** Antagonist (to party) **Base:** Woods between [[Locations/Belendar\|Belendar]] and party's castle **Leader:** Barry (or Larry) - One-eyed gnome **Possible Ally/Supporter:** [[NPCs/Fizwidget Spindleflash\|Fizwidget Spindleflash]] (Session 27 - reality-warping gnome) **Current Status:** Active, tracking party movements, **ESCALATED THREAT**
+**Type:** Revenge Group / Unknown Organization **Alignment:** Antagonist (to party) **Base:** Woods between [[Locations/Belendar\|Belendar]] and party's castle **Leader:** Zorry - One-eyed gnome **Possible Ally/Supporter:** [[NPCs/Fizwidget Spindleflash\|Fizwidget Spindleflash]] (Session 27 - reality-warping gnome) **Current Status:** Active, tracking party movements, **ESCALATED THREAT**
 
 ---
 
@@ -12,7 +12,7 @@
 
 |Position|Name|Description|
 |---|---|---|
-|**Leader**|Barry (or Larry)|One-eyed gnome, shot in eye by [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], bandage over eye|
+|**Leader**|Zorry|One-eyed gnome, shot in eye by [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], bandage over eye|
 |**Possible Ally**|[[NPCs/Fizwidget Spindleflash\|Fizwidget Spindleflash]]|Reality-warping gnome, Archfey/god-level powers, "family" connection to Barry|
 
 ### Organization Status
@@ -59,17 +59,17 @@
     - Pocket dimension creation (carnival realm)
     - Thousands of gnome "family members" in carnival
 
-**Evidence of Connection to Barry:**
+**Evidence of Connection to Zorry:**
 
 - Fizwidget mentioned gnome shot in eye by party
-- Referenced cousin/brother (likely Barry/Larry)
-- Revenge motivation matches Barry's plot
+- Referenced cousin/brother (likely Zorry)
+- Revenge motivation matches Zorry's plot
 - Said party "took something from him"
 - Thousands of gnome "family" watching in carnival
 
 **Implications:**
 
-- Barry's gnome army may have Archfey-level support
+- Zorry's gnome army may have Archfey-level support
 - Conventional defenses may be inadequate
 - Can create pocket dimensions, manipulate time, transform enemies
 - Far more dangerous than initially assessed
@@ -80,7 +80,7 @@
 - Fizwidget disappeared after giving magical items
 - Portal to carnival realm vanished
 - Unknown if threat concluded or will return
-- Unclear if Fizwidget will actively support Barry's army
+- Unclear if Fizwidget will actively support Zorry's army
 
 ---
 
@@ -92,11 +92,11 @@
 
 - Early tournament melee event outside [[Locations/Sylobelle\|Sylobelle]]
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] shot gnome in the eye with arrow
-- Gnome survived (Barry/Larry)
+- Gnome survived (Zorry)
 - Eye lost/severely damaged
 - Wears bandage over wounded eye
 
-**Barry's Response:**
+**Zorry's Response:**
 
 - Survived injury
 - Organized group of gnomes
@@ -109,7 +109,7 @@
 **Primary:**
 
 - Revenge for eye injury
-- Personal vendetta (Barry/Larry)
+- Personal vendetta (Zorry)
 - Target: [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (shooter)
 - Possibly entire [[Organisations/Riders of the Storm\|Riders of the Storm]]
 - **Family honour** (Fizwidget's involvement suggests family matter)
@@ -120,7 +120,7 @@
 - Why organize army? (overkill for single injury?)
 - Other grievances beyond eye?
 - Connection to larger faction?
-- **Is Fizwidget actively coordinating with Barry's army?**
+- **Is Fizwidget actively coordinating with Zorry's army?**
 
 ---
 
@@ -135,7 +135,7 @@
 - Woods along party's travel routes
 - Many pairs of eyes visible in bushes
 - Short creatures (confirmed gnomes)
-- Barry/Larry stepped forward with bandage over eye
+- Zorry stepped forward with bandage over eye
 - Watching party movements
 
 **Significance:**
@@ -223,7 +223,7 @@
 - Combat training/equipment?
 - When will they strike?
 - What's the plan?
-- **Will Fizwidget actively support Barry's army?**
+- **Will Fizwidget actively support Zorry's army?**
 - **Are carnival gnomes real beings or manifestations?**
 - **Can Fizwidget trap party in pocket dimension permanently?**
 
@@ -272,7 +272,7 @@
 - **Reality-warping capabilities unprecedented**
 - Could strike at worst moment
 - **Cannot be defended against conventionally**
-- Unknown if Fizwidget will return or support Barry actively
+- Unknown if Fizwidget will return or support Zorry actively
 
 ---
 
@@ -341,7 +341,7 @@
 
 ### Threat to Party
 
-**If Actively Supporting Barry:**
+**If Actively Supporting Zorry:**
 
 - Can trap party in pocket dimension permanently
 - Transform party members into harmless animals
@@ -391,12 +391,12 @@
 
 **Organization:**
 
-- Just Barry's personal vendetta?
+- Just Zorry's personal vendetta?
 - Larger gnome community involved?
 - Connected to other factions?
 - Working alone or with allies?
 - **Is Fizwidget the true leader?**
-- **Relationship between Barry and Fizwidget** (cousin? brother? allies?)
+- **Relationship between Zorry and Fizwidget** (cousin? brother? allies?)
 
 **Goals:**
 
@@ -488,7 +488,7 @@
 
 **Long-term:**
 
-- Diplomatic resolution? (apologize, compensate Barry?)
+- Diplomatic resolution? (apologize, compensate Zorry?)
 - Military solution? (hunt them down?) - **INEFFECTIVE if Fizwidget involved**
 - Ignore and accept risk? - **DANGEROUS given escalation**
 - Deal with after civil war priorities?
@@ -531,7 +531,7 @@
 - Apologize for injury
 - Financial compensation
 - Magical healing for eye?
-- Make peace with Barry
+- Make peace with Zorry
 - **Negotiate with Fizwidget** (if he'll listen)
 
 **Likelihood:** Unknown (haven't attempted) **Risks:** Fizwidget is trickster - may make unfair bargains
@@ -598,9 +598,9 @@
 
 **Related NPCs:**
 
-- Barry/Larry (leader, one-eyed gnome)
+- Zorry (leader, one-eyed gnome)
 - [[NPCs/Fizwidget Spindleflash\|Fizwidget Spindleflash]] (reality-warping gnome, possible ally/family)
-- [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (shot Barry, primary target)
+- [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (shot Zorry, primary target)
 - River (dog who saw them in vision, threatened by Fizwidget)
 
 **Related Locations:**
@@ -625,4 +625,4 @@
 
 ---
 
-**Last Updated:** Session 27 **Current Status:** Active, tracking party, **ESCALATED THREAT** (Fizwidget connection) **Threat Level:** MEDIUM-HIGH - Reality manipulation capabilities, Archfey-level support possible, strike timing unknown, conventional defenses inadequate **Primary Target:** [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (shooter), possibly entire party **Critical Development:** Fizwidget Spindleflash (reality-warping gnome) targeted party Session 27, likely avenging Barry's eye injury, demonstrated Archfey/god-level powers including pocket dimension creation, time control, transformation, teleportation
+**Last Updated:** Session 27 **Current Status:** Active, tracking party, **ESCALATED THREAT** (Fizwidget connection) **Threat Level:** MEDIUM-HIGH - Reality manipulation capabilities, Archfey-level support possible, strike timing unknown, conventional defenses inadequate **Primary Target:** [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (shooter), possibly entire party **Critical Development:** Fizwidget Spindleflash (reality-warping gnome) targeted party Session 27, likely avenging Zorry's eye injury, demonstrated Archfey/god-level powers including pocket dimension creation, time control, transformation, teleportation

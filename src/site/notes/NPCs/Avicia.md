@@ -85,7 +85,7 @@
 - Origin: Transformed into doll for protection when ship attacked at sea
 - **Discovery:** Found by [[Party Members/Tooo-Ah\|Tooo-Ah]] in chest on smuggler boat (early campaign side quest near [[Locations/Canathalas\|Canathalas]])
 - **Transformation:** Underground atrium ritual - [[NPCs/Elincia Flowers\|Elincia Flowers]] and hooded conspirators sacrificed minions in three magic circles to give doll life
-- **Performers:** [[NPCs/Elincia Flowers\|Elincia Flowers]] (as Thalas/Black Knight), two hooded figures
+- **Performers:** [[NPCs/Elincia Flowers\|Elincia Flowers]] (as Thalas/Black Knight), two hooded figures - identified in the Session 42 DM recap as the [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]] (casting the incantation) and the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - Unnamed]] (silent until "it is done now")
 - **Witnesses:** [[Organisations/Riders of the Storm\|Riders of the Storm]] arrived mid-ritual, fought to stop it but transformation completed
 - Memories: Wiped during transformation, beginning to return
 - **Power:** Turned entire pursuing ship to stone as child (incredibly powerful magic)

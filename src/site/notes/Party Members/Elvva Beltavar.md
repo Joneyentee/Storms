@@ -60,6 +60,7 @@ Boxing champion at [[Locations/Crossroads Inn\|Crossroads Inn]]. Forgave [[Party
 ### Weapons
 
 - Unknown (spellcaster)
+- **Veiny two-handed staff** - ember-veined staff that needs attunement (Ant, S40). First mentioned in Session 40; where she got it is not recorded in the transcripts checked (S36 to S39), so the origin is still to be confirmed
 
 ### Armour
 
@@ -166,13 +167,15 @@ Boxing champion at [[Locations/Crossroads Inn\|Crossroads Inn]]. Forgave [[Party
     
 - **[[Sessions/Session 31 - 18 October 2025\|Session 31 - 18 October 2025]]:** Purchased frog from [[NPCs/Seraphine\|Seraphine]]. Spotted huge wolf with humanoid rider watching battle from distant ridge (disappeared when noticed).
     
-- **[[Sessions/Session 34 - 25 January 2026\|Session 34 - 25 January 2026]]:** Bane corruption pattern confirmed during [[Locations/Moth Queen Cavern\|Moth Queen Cavern]] battle. Held Fireball through two moth bites (passed Constitution saves 19 and 25), spell erupted bright green. Later cast Agonising Scorcher dealing 32 damage to Moth Queen but failed third Wisdom save (rolled 5) - green flames reflected full damage back, knocked unconscious at moment of victory. Pattern established: escalating reflection risk with repeated spellcasting failures.
+- **[[Sessions/Session 34 - 25 January 2026\|Session 34 - 25 January 2026]]:** Bane corruption pattern confirmed during [[Locations/Moth Queen Cavern\|Moth Queen Cavern]] battle. Held Fireball through two moth bites (passed Constitution saves 19 and 25), spell erupted bright green. Later cast Aganazzar's Scorcher dealing 32 damage to Moth Queen but failed third Wisdom save (rolled 5) - green flames reflected full damage back, knocked unconscious at moment of victory. Pattern established: escalating reflection risk with repeated spellcasting failures.
     
 - **[[Sessions/Session 36 - 21 February 2026\|Session 36 - 21 February 2026]]:** Purchased [[Party Members/Elvva Beltavar#Magic Items\|Wand of Dusk Veil]] from magical curio shop in [[Locations/Thalas'Miriel\|Thalas'Miriel]] for 380 gp (attuned). Dragon's Breath cast during frost wolf combat manifested as green flame (Bane corruption visible), knocking unconscious an already-wounded [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]. Morning tea left her convinced her hands and feet had been replaced with wooden spoons for 24 hours.
     
-- **[[Sessions/Session 38 - 6 April 2026\|Session 38 - 6 April 2026]]:** Player absent; character remained seated in the [[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]] throughout the session, held in place by an elderly nun with an inexplicable grip. Took 20 psychic damage from the sermon. Teleported directly into the [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] ritual chamber by the [[Ember Vein Envoy (unnamed)\|Ember Vein Envoy (unnamed)]] at session end, reuniting with the full party.
+- **[[Sessions/Session 38 - 6 April 2026\|Session 38 - 6 April 2026]]:** Player absent; character remained seated in the [[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]] throughout the session, held in place by an elderly nun with an inexplicable grip. Took 20 psychic damage from the sermon. Teleported directly into the [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] ritual chamber by the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy (unnamed)]] at session end, reuniting with the full party.
     
 - **[[Sessions/Session 39 - 18 April 2026\|Session 39 - 18 April 2026]]:** Participated in the two-phase [[NPCs/Purple Dragonborn\|Purple Dragonborn]] boss fight. Took 28 points of damage (22 slashing, 6 fire) from the dragonborn's sword and was reduced to 1 HP. Used Misty Step to reposition (bonus action), then delivered the killing blow with a Lightning Chromatic Orb at level three — 49 total damage (23 lightning doubled for vulnerability, plus 3 Hex). Acquired the **Coin of Fate** from a cultist's body during the post-combat investigation.
+    
+- **[[Sessions/Session 42 - 17 October 2026\|Session 42 - 17 October 2026]]:** Dropped to 1 HP by the Last Huntress's necrotic arrows in the opening round at the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] mausoleum. Answered with a Fireball that turned Bane-green as it left her hand - 53 damage including Hex, incinerating the Veiled Oracle; the DM judged it probably the most damage the party has dealt in one hit. Declined to risk the Coin of Fate on it. Stabilised [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] with Spare the Dying, destroyed a line of zombies with Aganazzar's Scorcher, and passed Dragon's Breath to [[NPCs/Calen Thorne\|Calen Thorne]].
     
 
 ### Character Arc
@@ -296,7 +299,8 @@ Main damage dealer for party. 217 years old with extensive life experience. Carr
 - **Session 25:** Green glow on Scorching Ray, temporary petrification triggered
 - **Session 26:** **GREEN SPRITE MANIFESTATION** - visible external sign of corruption
 - **[[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]'s Assessment:** "You're further along than I thought"
-- **Session 34:** **CORRUPTION PATTERN CONFIRMED** - Wisdom saving throws during spellcasting determine reflection risk. First two failures resisted, third failure (rolled 5) caused full spell damage reflection (32 points from Agonising Scorcher). Pattern indicates escalating danger with repeated high-level spellcasting.
+- **Session 34:** **CORRUPTION PATTERN CONFIRMED** - Wisdom saving throws during spellcasting determine reflection risk. First two failures resisted, third failure (rolled 5) caused full spell damage reflection (32 points from Aganazzar's Scorcher). Pattern indicates escalating danger with repeated high-level spellcasting.
+- **Session 42:** Fireball turned Bane-green as it was cast (white die: 6) and the DM noted the Bane "seeped through" her Aganazzar's Scorcher (white die: 2); no damage was reflected on either cast
 - **Warning:** Bane corruption can overflow and take over host, can shorten lifespan
 - **URGENT:** Must visit Bane Watcher Citadel for training before corruption becomes irreversible
 

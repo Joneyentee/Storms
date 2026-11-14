@@ -24,6 +24,7 @@ A woman of unknown race and origin encountered in the ritual chamber of the [[Or
 - Speaks of the seraph and ancient entities with authority and clear prior knowledge - her stated goal appears to be containment, not awakening
 - Relationship to the [[Organisations/Ember Vein\|Ember Vein]] hierarchy (Inner Ember, High Flame) is unclear; may be a superior rank or an entirely separate power
 - **Session 41:** Reappeared at a mausoleum in a cemetery outside [[Locations/Thalas'Miriel\|Thalas'Miriel]], alongside [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]], the [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]], and the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] - first confirmed sighting grouping her with the other three; revealed that "the other dragon you awakened" is located on **Dragonclaw Isle**, then declared her side's "time is over here" and departed for Neverwinter
+- **Session 42 (DM recap):** Identified as the quiet woman present at [[NPCs/Avicia\|Avicia]]'s transformation ritual, who said only "it is done now" before vanishing - placing her alongside [[NPCs/Elincia Flowers\|Elincia Flowers]] and the [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]] long before Session 38. The party still has no name for her. She teleported away from the mausoleum before the Session 42 fight
 
 ### Relationships
 
@@ -32,10 +33,13 @@ A woman of unknown race and origin encountered in the ritual chamber of the [[Or
 - Animated: [[NPCs/Purple Dragonborn\|Purple Dragonborn]]
 - Observed: [[Organisations/Riders of the Storm\|Riders of the Storm]] (claims to have watched them across at least two significant events)
 - Associates with: [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]], [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]], [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] (confirmed same gathering, S41)
+- Present at: [[NPCs/Avicia\|Avicia]]'s transformation ritual (S42 recap)
 
 ### Appearances
 
 - [[Sessions/Session 38 - 6 April 2026\|Session 38 - 6 April 2026]] - Encountered as a combatant in the ritual chamber of the [[Organisations/Ember Vein\|Ember Vein]] underground complex; survived combat, lit all four pedestals via incantation, dropped the illusion concealing the dragonborn statue, addressed the party with a cryptic warning, animated the [[NPCs/Purple Dragonborn\|Purple Dragonborn]], teleported [[Party Members/Elvva Beltavar\|Elvva Beltavar]] into the chamber, and restored the party to full strength before departing
+- [[Sessions/Session 41 - 11 July 2026\|Session 41 - 11 July 2026]] - Reappeared at the cemetery mausoleum outside [[Locations/Thalas'Miriel\|Thalas'Miriel]]; revealed that "the other dragon you awakened" is on Dragonclaw Isle and departed for Neverwinter
+- [[Sessions/Session 42 - 17 October 2026\|Session 42 - 17 October 2026]] - Not present; the DM's recap identified her as the silent woman at [[NPCs/Avicia\|Avicia]]'s transformation ritual
 
 ### Related Quests
 

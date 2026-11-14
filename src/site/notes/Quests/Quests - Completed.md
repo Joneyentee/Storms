@@ -76,7 +76,7 @@
 - [[Locations/Crossroads Inn\|Crossroads Inn]] fields secured, farming can resume
 - [[NPCs/Oswick Porridgepot\|Oswick Porridgepot]]'s fate discovered (kept secret from family)
 - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] kept oil lamp (rubbed out Oswick's name)
-- [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Bane corruption triggered - green Agonising Scorcher reflected 32 damage, knocked unconscious at moment of victory
+- [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Bane corruption triggered - green Aganazzar's Scorcher reflected 32 damage, knocked unconscious at moment of victory
 
 **Loose Ends:**
 

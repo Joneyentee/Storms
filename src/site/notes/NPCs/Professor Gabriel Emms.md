@@ -78,6 +78,7 @@ Worn, bookish/scholarly appearance with combed greying hair and rimmed glasses. 
 - Who were the ritual conspirators?
 - How did they know about the doll?
 - **Session 41 (unconfirmed):** DM implied someone was "pretending to be Professor Emms" during an earlier scene where [[Party Members/Tooo-Ah\|Tooo-Ah]] handed over the doll - possibly the [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]] impersonating him before his death in the atrium. Not yet corroborated by anyone at the table
+- **Session 42:** The DM confirmed the [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]] is the person [[Party Members/Tooo-Ah\|Tooo-Ah]] believes to be Professor Emms, and that he was the one casting the incantation at the doll's transformation ritual
 
 **Cover Story Analysis:**
 

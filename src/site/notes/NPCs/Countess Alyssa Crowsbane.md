@@ -22,11 +22,13 @@ Lady Alyssa Crowsbane, Countess of [[Locations/Canathalas\|Canathalas]], is a ce
 - Lost to [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] in Round 1 (close match, 5-4 score over 3 tilts)
 - Sits with [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]]'s faction group
 - Appears connected to conspiracy faction
+- Her bedroom was searched by the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]]: [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] found him rifling through her drawers before he left through a window (clarified Session 42) - what he was looking for is unknown
 
 ---
 ## Relationships
 
 - **Imprisoned:** [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]
+- **Bedroom searched by:** [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] (purpose unknown)
 - **Sits with/Possible ally:** [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]]
 - **Intimidated by:** [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (Session 21 - after losing to him in tournament)
 

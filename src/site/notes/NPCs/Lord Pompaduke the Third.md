@@ -3,7 +3,7 @@
 ---
 
 **Faction:** Confirmed antagonist — own agenda, Bane-connected 
-**Status:** Active — at large as of Session 41.
+**Status:** Active — revealed still at the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] mausoleum at the end of Session 42; confrontation unresolved.
 **Race:** Human 
 **Class:** Bard (College of Enchantment, estimated level 7-9) 
 **Tags:** #npc/unknown #npc/bard #npc/antagonist #npc/performer #npc/powerful-mage
@@ -24,6 +24,7 @@ Tall, very attractive human male bard with theatrical, lordly personality. Wears
 - **True agenda revealed Session 39:** Openly admitted to the party that he had engineered the entire sequence of events — including the animation of the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] and the breaking of the wyrm's seal — to serve his own ends: _"Thank you, everyone, for completing the task I needed to do. For me."_ Departed through a Bane-powered portal with the wyrm immediately after
 - **Was invisible during the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] boss fight (S39):** Appeared mid-combat to play his lute; the Bane-infused performance re-energised the dragonborn, triggering Phase Two; shouted _"Have fun!"_ and vanished before the Phase Two psychic roar
 - **Resurfaced Session 40:** Found directing a zombie incursion at [[Locations/Thalas'Miriel\|Thalas'Miriel]] from a rooftop, playing his lute as "boss music"; demonstrated Counterspell (countered by [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s own Counterspell, allowing her original Fireball through for 42 damage) and a Hunger of Hadar-style spore effect; silenced by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s Silence spell and blinded by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]'s Warding Flame, shutting down nearly all of his offensive capability; fight still ongoing as reinforcements arrived at session end
+- **Portal exits can be feints (S42):** his Session 41 portal exit from the cemetery mausoleum took him only a short distance; he then stayed invisible beside the mausoleum for the whole of the Session 42 battle - the same trick he used on the rooftops of [[Locations/Thalas'Miriel\|Thalas'Miriel]] - and appears to have been sustaining the zombie horde from hiding
 - Posh theatrical personality — lordly yet mischievous
 - **Demonstrated powers:**
     - Enchantment magic (can make entire tavern dance)
@@ -31,7 +32,7 @@ Tall, very attractive human male bard with theatrical, lordly personality. Wears
     - 2-turn portal ability (teleported [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] to safety in combat)
     - **Bane-powered lute performance** (combat ability — can re-energise or alter the state of a target; used on [[NPCs/Purple Dragonborn\|Purple Dragonborn]] S39)
     - **Bane portal creation** (green-rimmed dimensional gateway; used to depart with wyrm S39)
-    - Sustained invisibility in combat (maintained throughout Phase One of boss fight undetected)
+    - Sustained invisibility in combat (maintained throughout Phase One of boss fight undetected; again for the entire cemetery mausoleum battle, S42)
 - Multi-instrumental virtuoso (lute, flute, violin/fiddle, others)
 - Magical hat (can pull items from it)
 - Regular performer at [[Locations/Crossroads Inn\|Crossroads Inn]] — well-known to patrons
@@ -101,6 +102,7 @@ Theatrical and lordly with mischievous, roguish edge. Speaks in very posh manner
 - **[[Sessions/Session 39 - 18 April 2026\|Session 39 - 18 April 2026]]** - Remained invisible throughout Phase One of the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] boss fight. Appeared mid-combat and played his lute directly at the dragonborn — the Bane-infused performance re-energised him, triggering Phase Two and a psychic roar. Shouted _"Have fun!"_ and vanished before the fallout. Reappeared once the wyrm had risen from the ritual chamber floor; performed his customary bow to the party; announced: _"Thank you, everyone, for completing the task I needed to do. For me."_ Opened a Bane-powered green-rimmed portal, guided the wyrm through it, and departed. **Current whereabouts unknown.**
 - **[[Sessions/Session 40 - 25 May 2026\|Session 40 - 25 May 2026]]** - Resurfaced at [[Locations/Thalas'Miriel\|Thalas'Miriel]], directing a zombie incursion against the town from a rooftop while playing his lute. Cast Counterspell against [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Fireball, only for her own Counterspell to counter his, letting the original Fireball through for 42 damage. Deployed a Hunger of Hadar-style spore effect. Silenced by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and blinded by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], effectively neutralised for the remainder of the fight. Battle still ongoing as [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] arrived with reinforcements at session end.
 - **[[Sessions/Session 41 - 11 July 2026\|Session 41 - 11 July 2026]]** - Concluded the [[Locations/Thalas'Miriel\|Thalas'Miriel]] fight: [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s Radiant Bow destroyed a decoy/illusory form; his true, invisible self had been elsewhere on the battlefield throughout. Bowed and portalled away with "See you at our next chapter!" Reappeared shortly after at a cemetery mausoleum with the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - Unnamed]], the [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]], and the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]]; bowed again and portalled away a second time.
+- **[[Sessions/Session 42 - 17 October 2026\|Session 42 - 17 October 2026]]** - Not seen during the mausoleum battle, and the DM's opening recap implied he had gone. As the turned zombies fled at the end of the session, a lute began to play: he had only appeared to portal away in Session 41 and had been invisible near the mausoleum throughout, one square outside the blast of [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Fireball. Session ended as he revealed himself.
 
 ---
 

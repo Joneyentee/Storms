@@ -18,7 +18,7 @@ Large moth-like creature that led moth swarms stealing potatoes from [[Locations
 - Target: [[Locations/Crossroads Inn\|Crossroads Inn]] potato fields
 - Transformation: Unknown mechanism (Bane corruption suspected, similar to Earthbound Dire Wolf S31)
 - Defeated: Session 34 by [[Organisations/Riders of the Storm\|Riders of the Storm]]
-- Killed by: [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Agonising Scorcher (32 damage)
+- Killed by: [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Aganazzar's Scorcher (32 damage)
 - **Family NOT informed** - [[NPCs/Pippa Porridgepot\|Pippa Porridgepot]] only told moths were killed
 
 ## Relationships

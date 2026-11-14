@@ -4,7 +4,7 @@
 
 ---
 
-**Session 41** | Marshals of the North | 732 troops | War chest access
+**Session 42** | Marshals of the North | 732 troops | War chest access
 
 > [Index](02 Quests Index.md) | **Active** | [On Hold](Quests - On Hold.md) | [Mysteries](Quests - Mysteries.md)
 
@@ -31,12 +31,21 @@
 - [ ] **Counter Vaelorian's delegation to Neverwinter** before it departs (S36 - ticking clock)
 - [x] ~~Navigate Thalas'Miriel without breaking party's cover~~ (S40 - moot: cover broken by open combat against a zombie incursion in the town)
 - [x] ~~Resolve the zombie incursion at [[Locations/Thalas'Miriel\|Thalas'Miriel]]~~ (S41 - [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] driven off, zombie horde destroyed)
-- [ ] **Investigate the cemetery source of the zombie incursion** (S41 - located south-west of Thalas'Miriel; confrontation with four Bane-aligned figures unresolved)
+- [ ] **Investigate the cemetery source of the zombie incursion** (S41 - located south-west of Thalas'Miriel; S42 - four undead champions destroyed and the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] driven off, but [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] revealed still on site and the zombie horde only turned, not destroyed)
 - [ ] **Investigate Dragonclaw Isle** (S41 - revealed as location of "the other dragon")
 - [ ] Travel to Neverwinter
 - [ ] Secure Duke Alaric Thorne's allegiance (key to northern support)
 - [ ] Rally undecided nobles before Falcon faction does
 - [ ] Establish defensive positions
+
+**Session 42 Intelligence - Cemetery Mausoleum:**
+
+- The [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] wields [[NPCs/The Bane\|The Bane]]: he burned a green rune into the ground and raised four undead champions from the mausoleum (see [[NPCs/Champions of the Mausoleum\|Champions of the Mausoleum]]); all four destroyed by the party
+- He drained life force from [[Party Members/Tooo-Ah\|Tooo-Ah]], [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and [[NPCs/Calen Thorne\|Calen Thorne]] to animate the dead white tree, struck down [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], and was then forced to withdraw by Tessell's Command ("Retreat") - undefeated and at large
+- One champion, the Oathless, wore armour with a deliberately defaced lantern emblem - a possible fallen knight of the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]]
+- A zombie horde of elves, half-elves and humans rose around the cemetery and was turned by Tessell; it fled rather than being destroyed
+- [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] had only feigned his Session 41 portal exit - he was invisible beside the mausoleum throughout and revealed himself as the zombies fled; the whole party made a Wisdom save as he did so, with the effect on [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] still to be revealed
+- DM recap: the [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]] and the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - Unnamed]] were both present at [[NPCs/Avicia\|Avicia]]'s transformation ritual
 
 **Session 41 Intelligence - Thalas'Miriel & Cemetery:**
 
@@ -117,7 +126,7 @@
 - **[[NPCs/Calen Thorne\|Calen Thorne]]'s Ducal decision** — confirmed he intends to claim the throne (S41); Silver Lantern backing still undecided
 - **[[NPCs/Marek Thorne\|Marek Thorne]] returned with mercenary company** — origin unknown; creates military uncertainty around Neverwinter
 - **Vaelorian's delegation to Neverwinter** — ticking clock, counters party's mission
-- **[[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]'s agenda** — admitted engineering party's actions; escaped twice at [[Locations/Thalas'Miriel\|Thalas'Miriel]] and a nearby cemetery (S41); confirmed cast out of [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]'s order decades ago; true allegiance still unknown
+- **[[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]'s agenda** — admitted engineering party's actions; escaped at [[Locations/Thalas'Miriel\|Thalas'Miriel]] and feigned a second escape at the cemetery (S41), then revealed still at the mausoleum (S42); confirmed cast out of [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]'s order decades ago; true allegiance still unknown
 - **[[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] status confirmed** — openly in command of the Silver Lantern garrison (S41)
 - Kingdom 50/50 split (Eagle vs Falcon)
 - Elvva's Bane corruption advancing (may need Citadel visit first)
@@ -239,6 +248,13 @@
 
 **CRITICAL** | World-ending threat
 
+**Session 42 Updates:**
+
+- **The [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] is a Bane-wielder** — raised four undead champions through a green Bane rune that the party's Bane Sense felt as a physical pull; the rune drained the champions as it empowered them
+- **Life force can be torn from the living and used to animate the dead** — 10 HP each taken from three of the party to animate a dead tree; when the tree was killed, the stolen force lashed back into the same three as necrotic damage
+- **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s corruption still visible** — Fireball turned Bane-green and the Bane "seeped through" her Aganazzar's Scorcher; no reflection this session
+- **[[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]** appears to have been sustaining the zombie horde from hiding at the mausoleum
+
 **Session 41 Updates:**
 
 - **Dragonclaw Isle revealed** — the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] stated "the other dragon you awakened" is located on Dragonclaw Isle, possibly connected to or near [[NPCs/The Bane\|The Bane]] itself; location not yet visited
@@ -349,7 +365,7 @@
 
 ## NEXT SESSION IMMEDIATE PRIORITIES
 
-1. **Resolve the fight against the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]]** at the cemetery mausoleum (S41 cliffhanger)
+1. **Deal with [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]** at the cemetery mausoleum, and learn what the final Wisdom save did to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (S42 cliffhanger)
 2. **Read the sealed scroll** recovered from [[NPCs/Darius Kain\|Darius Kain]]'s body
 3. **Investigate Dragonclaw Isle** — location of "the other dragon" (S41)
 4. **Counter Vaelorian's delegation to [[Locations/Neverwinter\|Neverwinter]]** — ticking clock
@@ -358,6 +374,6 @@
 
 ---
 
-**Last Updated:** Session 41
+**Last Updated:** Session 42
 
 > [Index](02 Quests Index.md) | **Active** | [On Hold](Quests - On Hold.md) | [Mysteries](Quests - Mysteries.md)

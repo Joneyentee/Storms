@@ -47,7 +47,7 @@ Formerly part of gang with [[NPCs/Logrin the Dwarf\|Logrin the Dwarf]]. Brews ma
 ### Weapons
 
 - Unarmed strikes (monk) - 1d4 + DEX with talons
-- Gauntlets that give +2 to hit
+- Gauntlets that give +2 to hit - studded (extra damage where the knuckles land) and slightly magical. Ant reworked them in Session 23 because the first pair he gave her "didn't work". Kieran's notes record "Too-ah bought new magic gauntlets 230Gp" in the capital (Odessia/Belendar), on the same page as Odonia choosing her bow and Tessell receiving a signet ring - so before Session 18 (Kieran's notes stop there; exact session unconfirmed because his page has no session heading). Ant later reworked them in Session 23
 
 ### Armour
 
@@ -118,6 +118,7 @@ Formerly part of gang with [[NPCs/Logrin the Dwarf\|Logrin the Dwarf]]. Brews ma
 - **[[Sessions/Session 27 - 26 July 2025\|Session 27 - 26 July 2025]]:** Received magical rope from Fizwidget Spindleflash after completing carnival challenges. Lost wings temporarily in mirror maze challenge during magical alternate reality experience (reversed at reality reset).
 - **[[Sessions/Session 35 - 8 February 2026\|Session 35 - 8 February 2026]]:** Returned from [[Locations/Fizwidget's Winter Realm\|Fizwidget's Winter Realm]] after winning snowman sculpture competition against Fizwidget (Natural 20 vs Natural 1). Received [[General Files/Homebrew#Horn of the Winter Gale\|Horn of the Winter Gale]] as reward. Rejoined party en route to [[Locations/Thalas'Miriel\|Thalas'Miriel]].
 - **[[Sessions/Session 36 - 21 February 2026\|Session 36 - 21 February 2026]]:** Ring of Intuition properties formally confirmed. Attempted to Warg into the Frost Wolf during combat with female orc rider - met by rider's spirit in a green-lit spirit realm, punched back for 12 psychic damage. Morning tea compelled her to punch [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]. Caught stealing from the cathedral collection basket at the Cathedral of Gentle Redemption (Sleight of Hand 12, Deception 9 - failed); escorted to the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] garrison by guards to end the session.
+- **[[Sessions/Session 42 - 17 October 2026\|Session 42 - 17 October 2026]]:** Stunned the Oathless with Stunning Strike at the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] mausoleum (32 damage in one turn). Alone failed the Wisdom save against the Hollow Blade's Bane-charged screech and was compelled to attack [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] on her next turn - both attacks missed. Had 10 HP of life force torn from her by the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] to animate a dead tree.
 
 ### Character Arc
 
@@ -131,6 +132,7 @@ Monk with criminal past (gang member) now adventuring hero. Adopted [[NPCs/Avici
 - Talons (unarmed strikes)
 - Known for terminal velocity experiments
 - Learning to read
+- **Wing darts** (used Session 42) - flings three feather darts as a single action, each +8 to hit for 1d4+5; a special ability, so it replaces the Attack action rather than adding to it (bonus action still available)
 - **Military command** (Chariot General, commands 16 knights + squires)
 
 ---

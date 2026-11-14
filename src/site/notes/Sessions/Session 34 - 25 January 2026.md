@@ -136,9 +136,9 @@
 - Exploding moth: 16 fire damage (full)
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s Spiritual Weapon got attack of opportunity as moth exploded
 
-**Final Rounds (Elvva's Agonising Scorcher):**
+**Final Rounds (Elvva's Aganazzar's Scorcher):**
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]] moved to avoid hitting downed [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] with area spell
-- Cast Aganising Scorcher (level 3, 30ft line, 5ft wide)
+- Cast Aganazzar's Scorcher (level 3, 30ft line, 5ft wide)
 - Moth Queen failed Dexterity save (rolled at disadvantage due to Hex, DC 13)
 - Spell started orange, **turned green mid-cast** (Bane corruption)
 - Damage rolls: 5 + 5 + 2 = 12, 40, 30 = **30 damage** before Hex
@@ -150,7 +150,7 @@
 
 **Party Members Downed:**
 - **[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]** - Knocked unconscious by moth minion explosion (failed Constitution save, 16 fire damage)
-- **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]** - Knocked unconscious by own reflected spell (32 damage from Agonising Scorcher, third failed Wisdom save triggered full reflection)
+- **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]** - Knocked unconscious by own reflected spell (32 damage from Aganazzar's Scorcher, third failed Wisdom save triggered full reflection)
 
 **Post-Combat Healing:**
 - [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] used Channel Divinity: Preserve Life (30 HP total split between two unconscious party members, 15 HP each to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] and [[Party Members/Elvva Beltavar\|Elvva Beltavar]])
@@ -201,7 +201,7 @@
 - **Elvva's Concentration** - Held readied Fireball through two moth bites and 15 damage, passed both Constitution saves (19 and 25)
 - **Green Fireball Manifestation** - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s held Fireball erupted bright green when finally cast
 - **Exploding Moths** - One moth self-destructed in 15ft radius, hitting [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
-- **The Reflection** - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s green Agonising Scorcher killed Moth Queen but reflected back 32 damage, knocking her unconscious at moment of victory
+- **The Reflection** - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s green Aganazzar's Scorcher killed Moth Queen but reflected back 32 damage, knocking her unconscious at moment of victory
 - **Oswick's Fate Revealed** - Oil lamp with "Oswick Porridgepot" discovered, Moth Queen confirmed as transformed halfling
 - **Pippa's Cooking** - [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] sampled cooking and took 1 point burning damage from hot garlic
 - **Wooden Spoon Discipline** - [[NPCs/Pippa Porridgepot\|Pippa Porridgepot]] smacked [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] with wooden spoon (1 point damage) for criticising her salt usage
@@ -232,7 +232,7 @@
 **Session 34 Manifestations:**
 1. Held Fireball turned bright green when cast (visual corruption indicator)
 2. Held concentration through two moth bites (Constitution saves 19, 25) - first two Wisdom saves passed
-3. Agonising Scorcher cast successfully with green flames - **third Wisdom save failed (rolled 5)**
+3. Aganazzar's Scorcher cast successfully with green flames - **third Wisdom save failed (rolled 5)**
 4. Green flames reversed direction and engulfed caster - **32 damage reflected (approximately 50% of Moth Queen's HP)**
 5. Knocked unconscious at moment of victory
 

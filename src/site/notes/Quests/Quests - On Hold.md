@@ -20,9 +20,9 @@ _No current regional investigations on hold. Thalas'Miriel moved to Active (S36)
 
 **MEDIUM** | Woods between Belendar and Stormhold Keep | **Session 33 UPDATE**
 
-**Situation:** Barry/Larry (gnome shot in eye by Odonia) leading gnome group. "The gnomes have not forgotten." Harboring grudge.
+**Situation:** Zorry (gnome shot in eye by Odonia) leading gnome group. "The gnomes have not forgotten." Harboring grudge.
 
-**Session 27 Development:** **Fizwidget Spindleflash** (gnome with reality-warping powers) targeted party with deadly challenges in magical pocket dimension. Claimed to be avenging cousin/brother shot in eye. Likely connected to Barry's gnome army. Demonstrated Archfey/god-level powers (created entire alternate reality, controlled time, teleportation, transformations).
+**Session 27 Development:** **Fizwidget Spindleflash** (gnome with reality-warping powers) targeted party with deadly challenges in magical pocket dimension. Claimed to be avenging cousin/brother shot in eye. Likely connected to Zorry's gnome army. Demonstrated Archfey/god-level powers (created entire alternate reality, controlled time, teleportation, transformations).
 
 **Session 33 Development:** Fizwidget returned for second intervention - created [[Locations/Fizwidget's Winter Realm\|Fizwidget's Winter Realm]] pocket dimension. Intercepted party en route to [[Locations/Moth Queen Cavern\|Moth Queen Cavern]]. Age regressed entire party to teenagers (16-17), replaced equipment with fur coats, suppressed abilities (flight, fire). Created Frostglade village with NPCs (Pip, Palla, Clausonick, Jack Frost). Four challenges completed before session ended. **Pattern established:** Targets party during mission-critical travel (Session 27: post-feast, Session 33: en route to Moth Queen).
 
@@ -30,7 +30,7 @@ _No current regional investigations on hold. Thalas'Miriel moved to Active (S36)
 
 **Why On Hold:** Civil war and northern campaign take priority. Fizwidget disappeared after both interventions - will return (pattern confirmed).
 
-**Escalated Threat:** Barry's gnome army may have Fizwidget's support (reality-warping powers, pocket dimensions, deadly challenges). **Two documented interventions confirm pattern.** Far more dangerous than initially assessed. Will return - timing unpredictable.
+**Escalated Threat:** Zorry's gnome army may have Fizwidget's support (reality-warping powers, pocket dimensions, deadly challenges). **Two documented interventions confirm pattern.** Far more dangerous than initially assessed. Will return - timing unpredictable.
 
 **Concern:** May threaten Stormhold Keep while party away in north. Should leave garrison to defend. Fizwidget can create portals anywhere, intercept party at will - conventional defenses may be insufficient.
 
@@ -38,7 +38,7 @@ _No current regional investigations on hold. Thalas'Miriel moved to Active (S36)
 
 - [ ] Assess threat level (escalated from LOW to MEDIUM after Session 27, CONFIRMED after Session 33)
 - [ ] Locate base
-- [ ] Determine Fizwidget's relationship to Barry's army
+- [ ] Determine Fizwidget's relationship to Zorry's army
 - [ ] Negotiate or eliminate
 - [ ] Determine faction allegiance (Eagle/Falcon/independent)
 - [ ] **Identify magical items' properties** (Session 27 gifts - reward or trap? Session 35: Horn of Winter Gale)

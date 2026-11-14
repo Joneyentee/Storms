@@ -147,6 +147,21 @@
 
 ---
 
+## Calen Thorne's Brace
+
+**Type:** Innate/class ability **Owner:** [[NPCs/Calen Thorne\|Calen Thorne]] **First Used:** Session 42
+
+**Description:** Calen sets himself behind an ally who is carrying a shield and braces their back, as soldiers do in a shield wall.
+
+**Effect:** The braced ally gains **+2 AC** for as long as Calen keeps bracing. He has to stay with them to maintain it, and stopped when he moved away to attack.
+
+**Notes:**
+
+- Used on [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] at the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] mausoleum
+- Action cost and any limit on uses not stated
+
+---
+
 ## Magical Items
 
 ### Stormswallow Longsword
@@ -159,6 +174,10 @@
 
 - Standard longsword (1d8 slashing, versatile 1d10)
 - Attuned to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (S40)
+- **+2 weapon** (added to damage rolls in S40; Ant called it an "upgraded sword")
+- Grants Elik'r **fire resistance** (S40, S42)
+- Grants Elik'r **necrotic resistance** (S42 - halved necrotic damage three times at the cemetery mausoleum)
+- *To verify with Ant:* a Session 40 damage roll reads as 1d12+2, and Ant said it is large enough to need two hands - both differ from the 1d8/versatile 1d10 listed above
 
 **Ember Wave** _(triggered on a successful hit, S40)_
 
@@ -169,9 +188,53 @@
 
 ---
 
+### Stormswallow Family Banner
+
+**Owner:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] | **Type:** Battle standard | **Source:** Left to him by the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] (Session 39) | **First Used:** Session 42
+
+**Description:** A purple dragon bound by chains on a long gold and red wooden shaft. The item text reads that it deals no attacks: its power sustains allies and drags down foes within 30 feet when planted or held.
+
+**Activation:** Planted in the ground as a bonus action (Session 42). Radius 30 feet.
+
+**Base Powers:**
+
+- **Chain Wind Hindrance** - enemies within range have their speed reduced by 10 feet (the Session 42 zombies were cut from 15 feet to 5)
+- **Aura of Subjugation** - allies have advantage on attacks against frightened or charmed enemies
+- **Bonded Resolve** - chosen allies within range gain temporary hit points equal to Elik'r's proficiency bonus (3) every turn, handed out at the start of his turn
+
+**Notes:**
+
+- Elik'r chooses which allies benefit from Bonded Resolve
+- Temporary hit points do not revive an unconscious ally (DM ruling, S42)
+- These were described as its "base powers", which suggests there may be more to unlock
+- The banner is a physical object standing in the fight; Kieran noted the zombies might be able to damage it
+
+---
+
+### Cloak of Ethereal Traveller
+
+**Owner:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] | **Source:** [[NPCs/Fizwidget Spindleflash\|Fizwidget Spindleflash]] (Session 27 - Elik'r's pick from two boxes at the toadstool-realm feast) | **Attunement:** Yes (attuned over downtime before Session 31)
+
+**Description:** Bright orange cloak, "more like a cape to attach onto your arm". Elik'r called it his "Mist Form" cloak in S33; named "the Ethereal Traveller" in S36.
+
+**Abilities (as described in S40 and S42):**
+
+- **Misty Step** - once per day, cast as a 2nd-level spell without spending a spell slot
+- **Ethereal Step** - bonus action, lasts 1 minute: phase partially into the ethereal and move through creatures and objects as if they were difficult terrain
+- Ant said in S40 that most of its abilities are bonus actions
+- **Rulings (S42):** the cloak's Misty Step uses his action; Ethereal Step only lets him pass through creatures and objects when *he* moves - attacks against him are not affected
+
+**Notes:**
+
+- Taken along with the party's other gear by Fizwidget at the start of S33 (Ant confirmed the cloak was included)
+- The other box Fizwidget offered held a massively long spear, which he flung away and which vanished
+- Full item-card text not yet checked, so there may be further abilities
+
+---
+
 ### Hearts Rend
 
-**Owner:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] | **Type:** Longsword | **Status:** Cursed, attuned | **Named by:** Elik'r
+**Owner:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] | **Type:** Longsword | **Status:** Cursed, attuned | **Named by:** Elik'r | **Source:** The evil sword that impaled the undead Professor Emms (Session 7, from Kieran's notes); studied in Session 8 (4 glyphs, evocation, flames), attuned in Session 9
 
 **Properties:**
 
@@ -189,7 +252,7 @@
 
 - Triggers a flaming cone attack
 - **Area:** Cone (dimensions unconfirmed)
-- **Damage:** 4d10 + 2
+- **Damage:** 4d10 + 2 (Kieran's early notes say 4d10+3, the fire slash Talas used - to confirm)
 
 ⚠️ **Warning:** At 46 HP max, Elik'r cannot fully charge Hearts Rend in a single encounter. Charging requires sustained self-harm across multiple sessions. The cursed nature of the attunement and any additional drawbacks are not yet fully known.
 
@@ -221,6 +284,8 @@
 - **+1d4 radiant damage** on every hit (confirmed Session 38)
 - Infinite magical arrows - no ammunition tracking
 - No physical arrows required
+- **Table rule (confirmed Session 42):** radiant damage is doubled against undead, and the bow always deals radiant damage, so its hits were doubled against the undead champions at the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]]. This applies to all radiant damage from any source, not just the bow
+- Kieran's notes (which all predate Session 18): Odonia was offered either 15 armoured knights or a "unique longbow" for her investigation, and took the longbow. This is the earlier offer; the bow itself was presented in Session 21 (transcript 00:38, after a d4 roll to pick one of four bows; the DM said it had been offered "in the previous session"), so the Session 21 source above stands. Delivered to her house after the ball
 
 ---
 
@@ -338,6 +403,10 @@
 ⚠️ **Note:** [[NPCs/Darius Kain\|Darius Kain]] was found wearing both rings on the same finger — wearing both yourself provides no benefit.
 
 ---
+
+### Dragon's Tear Gem
+
+**Owner:** [[Party Members/Elvva Beltavar\|Elvva Beltavar]] | **Source:** Dream Temple, Session 30 (see Origin below)
 
 **Properties:**
 
@@ -559,8 +628,15 @@
 - Wisdom saving throws required during spellcasting with green glow
 - First two failed saves: resisted (Constitution saves 19 and 25 while holding Fireball)
 - Third failed save (rolled 5): full spell damage reflected back
-- Agonising Scorcher (32 damage) reflected, knocked unconscious at moment of victory
+- Aganazzar's Scorcher (32 damage) reflected, knocked unconscious at moment of victory
 - Establishes escalating danger pattern with repeated high-level spellcasting
+
+**Session 42:**
+
+- The [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] burned a green Bane rune into the ground; the party's Bane Sense felt it as a physical pull
+- The rune empowered four undead champions and visibly drained them as they used it
+- Life force (10 HP each) was torn from three of the party as green energy and fired into a dead tree, animating it; killing the tree sent the energy back into the same three as 10 necrotic damage each
+- [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Fireball turned green as it was cast; no reflection
 
 **Pattern Analysis:**
 
@@ -595,7 +671,7 @@
 - Complete reality control by Fizwidget
 - Victims aware but compelled to comply
 - Could reverse changes selectively
-- Some items remained real after (4 permanent magical items given)
+- Some items remained real after (5 permanent magical items given)
 
 **Resolution:**
 
@@ -603,7 +679,7 @@
 - Everything from feast onwards revealed as alternate reality
 - DM said "as you're all back to normal"
 - Marriage erased, nakedness erased, deaths prevented
-- But 4 magical items remained real
+- But 5 magical items remained real
 
 **Items Kept:**
 
@@ -611,6 +687,7 @@
 - [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]: Hide Armour (properties unknown)
 - [[Party Members/Tooo-Ah\|Tooo-Ah]]: Magical Rope (properties unknown)
 - [[Party Members/Elvva Beltavar\|Elvva Beltavar]]: Founder's Wand (properties unknown)
+- [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]: Orange cloak, later the [[General Files/Homebrew#Cloak of Ethereal Traveller\|Cloak of Ethereal Traveller]] (his pick from two boxes at the feast; the other box, a very long spear, vanished)
 
 **Status:** Portal gone, Fizwidget at large, likely to return
 

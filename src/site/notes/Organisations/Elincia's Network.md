@@ -18,8 +18,8 @@
 | Name/Title                      | Description                   | Last Seen              | Status                             | File                          |
 | ------------------------------- | ----------------------------- | ---------------------- | ---------------------------------- | ----------------------------- |
 | [[NPCs/Elincia Flowers\|Elincia Flowers]]             | Triple identity leader        | Session 26 throne room | **Escaped via fire teleportation** | [[NPCs/Elincia Flowers\|Elincia Flowers]]           |
-| **Skull-Faced Man**             | Purple robes, gold cane       | Session 24 throne room | Whereabouts unknown                | [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]]    |
-| **Unknown Axe Fighter**         | Magical 2H axe warrior        | Session 24 throne room | Whereabouts unknown                | [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]]       |
+| **Skull-Faced Man**             | Purple robes, gold cane       | Session 41 cemetery mausoleum | Teleported away (S41); at large | [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]]    |
+| **Unknown Axe Fighter**         | Magical 2H axe warrior        | Session 42 cemetery mausoleum | Forced to withdraw (S42); at large | [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]]       |
 | **Mysterious Skeletal Soldier** | Skeletal voice, teleportation | Session 26 throne room | **Escaped via eerie green light**  | [Mysterious Skeletal Soldier] |
 | **Black Knight (Warhammer)**    | Heavy armour, warhammer        | Session 26 door breach | **Departed via brownish light**    | [Black Knight (Warhammer)]    |
 
@@ -135,7 +135,7 @@
 
 ### Skull-Faced Man
 **Role:** Unknown (advisor? co-leader? servant?)
-**Status:** Whereabouts unknown after Session 24
+**Status:** Teleported away from the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] mausoleum (S41); at large
 
 **Appearance:**
 - Actual skull face (not masked)
@@ -155,25 +155,29 @@
 - Demon or outsider?
 - Ancient being?
 
+**Sessions 41-42:** Resurfaced at the cemetery mausoleum with the Axe Fighter, [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] and the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - Unnamed]]; the DM's S42 recap identified him as the figure who cast the incantation at [[NPCs/Avicia\|Avicia]]'s transformation ritual
+
 **See:** [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]] for full details
 
 ### Unknown Axe Fighter
 **Role:** Warrior/enforcer?
-**Status:** Whereabouts unknown after Session 24
+**Status:** Forced to withdraw from the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] mausoleum (S42); at large
 
 **Equipment:**
 - Magical 2H axe
 - Unknown armour/gear
 
 **Previous Encounter:**
-- Kidnapped [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] in earlier session
-- Returned him unharmed
+- Found by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] rifling through [[NPCs/Countess Alyssa Crowsbane\|Countess Alyssa Crowsbane]]'s bedroom drawers in an earlier session
+- Left through a window once his search appeared finished
 - Purpose unknown
 
 **Observed Behavior:**
 - Watched throne room battle
 - Did not engage directly
 - Escape method unknown
+
+**Session 42:** Proved to wield [[NPCs/The Bane\|The Bane]] - raised four undead champions at the cemetery mausoleum, drained life force from three of the party, struck down [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], and left only when [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s Command forced him to
 
 **See:** [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] for full details
 
@@ -264,7 +268,7 @@
 - Unknown if network involved in earlier phases
 
 **Possible Earlier Involvement:**
-- Axe fighter kidnapped Tessell (earlier session)
+- Axe fighter caught by Tessell searching Countess Crowsbane's bedroom (earlier session)
 - Unknown other activities
 - How long has network existed?
 

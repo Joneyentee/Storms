@@ -104,6 +104,9 @@
 - Feeds on trauma, guilt, emotional pain
 - Stronger in ethereal/other planes
 - **Can flow physically through a Bane Watcher's body to activate external Bane-connected structures** (Session 37 - flowed from [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s palm into garrison wall, activating hidden cult symbol; retracted upon passage sealing; only Tessell could sense or trigger it)
+- **Can be channelled by its servants to raise the dead as named champions** (Session 42 - the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] burned a green rune into the ground at the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] and called four champions from the mausoleum by title; the rune drained them even as it gave them power)
+- **Can tear life force from the living and spend it elsewhere** (Session 42 - taken from three of the party and used to animate a dead tree; when the tree was destroyed the stolen force returned to its donors as necrotic damage)
+- **Wielded deliberately by at least two mortal agents** - [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] (S39) and the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] (S42)
 
 **Current Threat:**
 
@@ -113,7 +116,7 @@
 - Strong presence in [[Locations/Belendar\|Belendar]]
 - Seen in underground dwarven roads
 
-**New Manifestations (Sessions 24-38):**
+**New Manifestations (Sessions 24-42):**
 
 - Green glow on spells (progressive corruption)
 - Temporary trauma-triggered petrification (self-resolving with Wisdom saves)
@@ -121,6 +124,7 @@
 - Unpredictable effects (enhancement or disability)
 - **Dragon's Breath manifesting as green Bane flame** (Session 36 - Elvva's innate draconic ability corrupted)
 - **Physical outflow through Bane Watcher's palm** (Session 37 - see Capabilities above)
+- **Bane rune: undead champions and life drain** (Session 42 - see Capabilities above)
 
 ---
 
@@ -535,6 +539,14 @@ The dragonborn's final words to Elik'r were: _"The seal is weakening. You must f
 - Who ordered pursuit of Avicia's family?
 - Who transformed Avicia into doll?
 - Does Crown Princess know Avicia exists?
+- **S42:** The two hooded figures who performed [[NPCs/Avicia\|Avicia]]'s doll-to-child ritual with [[NPCs/Elincia Flowers\|Elincia Flowers]] were identified by the DM as the [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]] and the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - Unnamed]] - why was an Ember Vein figure part of it?
+
+**The Champions of the Mausoleum (S42):**
+
+- Four champions of an earlier age - the Veiled Oracle, the Hollow Blade, the Oathless and the Last Huntress - lay in the mausoleum outside [[Locations/Thalas'Miriel\|Thalas'Miriel]] until [[NPCs/The Bane\|The Bane]] raised them
+- Who were they, and why were they entombed together?
+- The Oathless bore a lantern emblem that had been deliberately defaced - a fallen knight of the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]]?
+- See [[NPCs/Champions of the Mausoleum\|Champions of the Mausoleum]]
 
 **Dragon's Tear:**
 
@@ -557,3 +569,4 @@ The dragonborn's final words to Elik'r were: _"The seal is weakening. You must f
 - **Session 38:** Ember Vein cult identified; Darius Kain killed; Purple Dragonborn animated
 - **Session 39:** Purple Dragonborn confirmed as Stormswallow ancestor and defeated; seal broken; wyrm risen and taken by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] via Bane portal — now loose in the world
 - **Session 41:** Dragonclaw Isle revealed as the location of "the other dragon" by the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]]
+- **Session 42:** The [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] revealed as a Bane-wielder; four undead champions raised from the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] mausoleum and destroyed; [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] found hiding on site

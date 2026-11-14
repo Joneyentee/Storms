@@ -8,10 +8,11 @@
 
 ## Description
 
-Gnome shot in the eye by [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] during early tournament melee event. Wears bandage over one eye. Leading group of gnomes tracking the party from woods between [[Locations/Belendar\|Belendar]] and party's castle. Seen in Bane Watcher shared vision watching party from the woods.
+Zorry (transcribed as Barry or Larry), a gnome shot in the eye by [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] during early tournament melee event. Wears bandage over one eye. Leading group of gnomes tracking the party from woods between [[Locations/Belendar\|Belendar]] and party's castle. Seen in Bane Watcher shared vision watching party from the woods.
 
 ## Key Details
-- Also known as: Larry (uncertain which name is correct)
+- Correct name: **Zorry** (confirmed by Ant). "Barry" and "Larry" were mishearings in the transcripts; this page keeps its old title so existing links still work
+- Origin: Zorry was meant to be the player character of Lee, a friend of Ant. Lee never joined any sessions, so Ant reused the character as a recurring NPC
 - Physical: Wears bandage over one eye
 - Injury: Shot in eye by [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] during tournament
 - Role: Leader of gnome army

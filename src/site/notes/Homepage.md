@@ -8,7 +8,7 @@
 
 ---
 
-> [!tip]**Last Session:** [[Sessions/Session 41 - 11 July 2026\|Session 41 - 11 July 2026]] - The zombie incursion at [[Locations/Thalas'Miriel\|Thalas'Miriel]] was resolved, but [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] escaped via a decoy. The party traced the incursion to a cemetery mausoleum, where four Bane-aligned figures were meeting - the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] revealed a new lead, Dragonclaw Isle, before the session ended on an unresolved fight against the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]].
+> [!tip]**Last Session:** [[Sessions/Session 42 - 17 October 2026\|Session 42 - 17 October 2026]] - One long battle at the cemetery mausoleum. The [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] raised four undead champions with [[NPCs/The Bane\|The Bane]]; the party destroyed them all and [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] drove him off with a single word of Command. Then, as a turned zombie horde fled, a lute began to play - [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] had been there the whole time.
 
 > **[[General Files/Next Session Briefing Document\|Next Session]]**
 
@@ -28,7 +28,7 @@ In the months that followed, the party - who would come to call themselves the *
 
 The civil war that followed changed everything. The High King was assassinated. [[NPCs/Elincia Flowers\|Elincia Flowers]] - secretly the Black Knight Thalas, the tournament's White Falcon, and the architect of the conspiracy - escaped. The kingdom split 50/50 between the Eagle faction (loyal to [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]]) and the Falcon faction (loyal to [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]]). The party emerged from the chaos as the **Marshals of the North**, granted an army, a castle, and a mission: rally the northern territories for the Princess before the kingdom tears itself apart.
 
-They have just cleared [[Locations/Thalas'Miriel\|Thalas'Miriel]] of a zombie incursion, only to discover it was a diversion from the real threat: a cemetery mausoleum outside town where four Bane-aligned figures - including [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] and a mysterious Ember Vein envoy - were meeting. They now have a new lead, Dragonclaw Isle, and an unfinished fight on their hands.
+They have just cleared [[Locations/Thalas'Miriel\|Thalas'Miriel]] of a zombie incursion and traced it to a cemetery mausoleum outside town, where four Bane-aligned figures were meeting. One of them, a towering knight in ebony plate, raised the dead against them; the party broke his champions and forced him to withdraw. They have a new lead, Dragonclaw Isle - and [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] has just stepped out of hiding.
 
 _For the full story, see [[General Files/Campaign Overview\|Campaign Overview]]._
 
@@ -36,11 +36,11 @@ _For the full story, see [[General Files/Campaign Overview\|Campaign Overview]].
 
 ## Current Situation
 
-**Session 41** | Location: [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]], mausoleum | **Mid-combat**
+**Session 42** | Location: [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]], mausoleum | **Battle won - new confrontation**
 
-The party finished off [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] and the zombie horde at [[Locations/Thalas'Miriel\|Thalas'Miriel]] - or thought they had. [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s Radiant Bow destroyed a decoy; his true, invisible self had been elsewhere the whole time, and he portalled away with a taunt. After resting in the town's tavern - now a field hospital - [[NPCs/Calen Thorne\|Calen Thorne]] confirmed to [[Party Members/Tooo-Ah\|Tooo-Ah]] that he intends to claim the Ducal throne, and [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] contacted [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] via the Steve stone, who warned against trusting Pompaduke and revealed he'd been cast out of Co'narr's own order decades ago. The party then rode to a cemetery south-west of town - the real source of the incursion - and found four figures meeting at an old mausoleum: the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]], Pompaduke again, the [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]], and the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]]. The Envoy revealed "the other dragon you awakened" is on **Dragonclaw Isle** before leaving for Neverwinter; Pompaduke escaped a second time; the Cloaked Man cast a necromancy spell and vanished. The Axe Fighter stayed to fight - the session ended on the initiative roll.
+The whole session was a single fight at the mausoleum. The [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] - about 7'5" in full ebony plate - burned a rune of [[NPCs/The Bane\|The Bane]] into the ground and called up four undead champions: the Veiled Oracle, the Hollow Blade, the Oathless and the Last Huntress. An opening Fireball left most of the party bloodied; [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] planted his family banner for the first time, [[Party Members/Elvva Beltavar\|Elvva Beltavar]] answered with a Bane-green Fireball for 53 damage, and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s Radiant Bow and [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s Spiritual Weapon finished the champions. The Axe Fighter drained life from three of the party to animate a dead tree and cut Elik'r down, but failed his save against Tessell's Command - "Retreat" - and portalled away. A zombie horde closed in from all sides and was turned. As it fled, [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] revealed he had been invisible beside the mausoleum all along.
 
-**Next:** Resolve the fight against the Unknown Axe Fighter; work out what Dragonclaw Isle means; read the sealed scroll; counter [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]]'s delegation to [[Locations/Neverwinter\|Neverwinter]].
+**Next:** Deal with Lord Pompaduke at the mausoleum; find out what the final Wisdom save did to Elik'r and Odonia; work out what Dragonclaw Isle means; read the sealed scroll; counter [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]]'s delegation to [[Locations/Neverwinter\|Neverwinter]].
 
 ---
 
@@ -48,11 +48,11 @@ The party finished off [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third
 
 |Character|Player|Class|Status|
 |---|---|---|---|
-|[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]|Paul|Life Cleric 6|Knight of Storm Riders, General of the Left; Bane manifested through palm (S37); seraph said "Kill them all" (S38)|
+|[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]|Paul|Life Cleric 6|Knight of Storm Riders, General of the Left; Bane manifested through palm (S37); seraph said "Kill them all" (S38); drove off the Unknown Axe Fighter with Command (S42)|
 |[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]|Annie|Ranger 6|Lady of Sylobelle, General of the North, Warg ability|
-|[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]|Kieran|Paladin 6|General of the Right; active curse; missing pinky; attuned to Stormswallow longsword - Ember Wave ability (S40)|
+|[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]|Kieran|Paladin 6|General of the Right; active curse; missing pinky; attuned to Stormswallow longsword - Ember Wave ability (S40); family banner first planted in battle (S42)|
 |[[Party Members/Tooo-Ah\|Tooo-Ah]]|Joy|Monk 6|Chariot General, adopted [[NPCs/Avicia\|Avicia]]; killed [[NPCs/Darius Kain\|Darius Kain]] (S38)|
-|[[Party Members/Elvva Beltavar\|Elvva Beltavar]]|Shannon|Sorc 5/Lock 1|Main DPS, **CRITICAL Bane corruption**; knocked to 0 HP by Calen's Ice Blade, stabilised (S41)|
+|[[Party Members/Elvva Beltavar\|Elvva Beltavar]]|Shannon|Sorc 5/Lock 1|Main DPS, **CRITICAL Bane corruption**; Bane-green Fireball for 53 damage (S42)|
 
 **Travelling with party:** [[NPCs/Calen Thorne\|Calen Thorne]] (**confirmed his intent to claim the Ducal throne, S41**; bastard son of [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]; Silver Lantern backing still needed) · [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] (Crown loyalist, **openly in command of the Silver Lantern garrison, S41**) **Former Member:** [[Party Members/Ser Pas Rata\|Ser Pas Rata]] (deceased)
 
@@ -60,11 +60,13 @@ The party finished off [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third
 
 ## Critical Concerns
 
-⚠️ **[[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] at the cemetery mausoleum** - remained after the other three departed specifically to challenge the party; fight unresolved, session ended on the initiative roll.
+⚠️ **[[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] at the cemetery mausoleum** - invisible beside the fight for the whole of Session 42 and revealed as the zombies fled; his Session 41 portal exit was a feint. The whole party made a Wisdom save as he appeared, and the effect on [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] is not yet known.
+
+⚠️ **[[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]]** - wields [[NPCs/The Bane\|The Bane]]; raised four undead champions and nearly killed Elik'r before [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s Command forced him to withdraw. Undefeated and at large.
 
 ⚠️ **Dragonclaw Isle** - brand new lead (S41); location of "the other dragon" per the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]]; connection to [[NPCs/The Bane\|The Bane]] implied but unconfirmed.
 
-⚠️ **[[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]** - escaped twice this session; confirmed cast out of [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]'s order decades ago; true agenda still unknown.
+⚠️ **Pompaduke's history** - confirmed cast out of [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]'s order decades ago; holds the wyrm; true agenda still unknown.
 
 ⚠️ **[[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Bane corruption** - Dragon's Breath manifests as green Bane flame; third failed Wisdom save reflects full spell damage back. Citadel visit urgent.
 
@@ -88,7 +90,7 @@ The party finished off [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third
 
 **Primary:**
 
-- 🗡️ **Resolve Combat vs the Unknown Axe Fighter** - Cemetery mausoleum, unresolved (S41 cliffhanger)
+- 🗡️ **Confront Lord Pompaduke at the Mausoleum** - revealed on site as the zombies fled (S42 cliffhanger)
 - 🗡️ **Investigate the Cemetery & Dragonclaw Isle** - Source of the zombie incursion; new lead on "the other dragon"
 - 🗡️ **Rally the North** - Read sealed scroll; counter Vaelorian's delegation; then Neverwinter
 - 🗡️ **Secure Eastern Border** - Eastern Citadel gone silent, investigate
@@ -99,8 +101,8 @@ The party finished off [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third
 **Ongoing:**
 
 - 🔍 **Avicia's Education Decision** - Tooo-Ah must decide her future
-- 🔍 **Gnome Army Revenge Plot** - [[NPCs/Barry\|Barry]] and his army still tracking party
-- 🔍 **Lord Pompaduke's True Agenda** - escaped twice at the cemetery mausoleum (S41); goals still unknown
+- 🔍 **Gnome Army Revenge Plot** - [[NPCs/Barry\|Zorry]] and his army still tracking party
+- 🔍 **Lord Pompaduke's True Agenda** - faked his second escape (S41) and stayed hidden at the mausoleum (S42); goals still unknown
 
 ---
 
@@ -108,7 +110,7 @@ The party finished off [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third
 
 **Allies:** [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] · [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]] · [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] · [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] (departed for Nolunia; contacted via Steve, S41) · [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]] · [[NPCs/Avicia\|Avicia]] (rightful heir, secret) · [[NPCs/Seraphine\|Seraphine]] (healer at Keep) · [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] (openly in command of the Silver Lantern garrison, S41) · [[NPCs/Calen Thorne\|Calen Thorne]] (confirmed Ducal claim intent, S41)
 
-**Enemies:** [[NPCs/Elincia Flowers\|Elincia Flowers]] (escaped, promised war) · [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]] (Falcon faction leader) · [[NPCs/Emperor Vladier Drakonhart\|Emperor Vladier Drakonhart]] · [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]] (reappeared at cemetery mausoleum, S41) · [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] (challenging the party in combat, S41) · [[NPCs/Humanoid Wolf Rider\|Humanoid Wolf Rider]] (serves Zorn) · **Zorn** (unknown, imminent threat) · [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] (escaped twice at the cemetery mausoleum, S41)
+**Enemies:** [[NPCs/Elincia Flowers\|Elincia Flowers]] (escaped, promised war) · [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]] (Falcon faction leader) · [[NPCs/Emperor Vladier Drakonhart\|Emperor Vladier Drakonhart]] · [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]] (reappeared at cemetery mausoleum, S41) · [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] (wields The Bane; driven off by Command, S42) · [[NPCs/Humanoid Wolf Rider\|Humanoid Wolf Rider]] (serves Zorn) · **Zorn** (unknown, imminent threat) · [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] (revealed still at the cemetery mausoleum, S42)
 
 **Uncertain:** [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] (restored party to full strength S38; revealed Dragonclaw Isle, S41; agenda unknown; at large)
 
@@ -116,7 +118,7 @@ The party finished off [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third
 
 ## Key Locations
 
-**Current:** [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] — mausoleum, mid-combat (S41) **Base:** [[Locations/Stormhold Keep\|Stormhold Keep]] (732 troops, walls under construction) **Capital:** [[Locations/Belendar\|Belendar]] (secured, Eagle faction, [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] on throne) **Destination:** [[Locations/Neverwinter\|Neverwinter]] (Ducal succession complications; Vaelorian delegation en route) **Critical:** Bane Watcher Citadel (island in central lake — urgent for Elvva) · [[Locations/DragonClaw Isle\|Dragonclaw Isle]] (unvisited, new lead S41) **Other:** [[Locations/Sylobelle\|Sylobelle]] (Odonia's lands, Lady Isolde mayor) · [[Locations/Canathalas\|Canathalas]] (port) · [[Locations/Ulvenora\|Ulvenora]] (stone supply)
+**Current:** [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] — mausoleum; battle won, Pompaduke revealed (S42) **Base:** [[Locations/Stormhold Keep\|Stormhold Keep]] (732 troops, walls under construction) **Capital:** [[Locations/Belendar\|Belendar]] (secured, Eagle faction, [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] on throne) **Destination:** [[Locations/Neverwinter\|Neverwinter]] (Ducal succession complications; Vaelorian delegation en route) **Critical:** Bane Watcher Citadel (island in central lake — urgent for Elvva) · [[Locations/DragonClaw Isle\|Dragonclaw Isle]] (unvisited, new lead S41) **Other:** [[Locations/Sylobelle\|Sylobelle]] (Odonia's lands, Lady Isolde mayor) · [[Locations/Canathalas\|Canathalas]] (port) · [[Locations/Ulvenora\|Ulvenora]] (stone supply)
 
 ---
 
@@ -130,4 +132,4 @@ The party finished off [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third
 
 ---
 
-_Last updated: Session 41_
+_Last updated: Session 42_
