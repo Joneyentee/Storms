@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/dragon-s-tear-gem/"}
 ---
 
-*Image to be added.*
+[![dragons_tear_gem.jpg|300](/img/user/Images/dragons_tear_gem.jpg)](https://swallow-brigade.netlify.app/img/user/images/dragons_tear_gem.jpg)
 
 **Owner:** [[Party Members/Elvva Beltavar\|Elvva Beltavar]] | **Type:** Gem | **Rarity:** Unique
 **Attunement:** Unknown | **Status:** Properties unknown

@@ -222,7 +222,7 @@ The party stands in silence at the top of a passage that goes further down than 
 - **Cliffhanger:** The party, [[NPCs/Brother Calen\|Brother Calen]], Ser Alric Vayne, and several freed Silver Lanterns are sealed inside a hidden underground passage, lit by green-flamed lanterns, descending below the garrison basement into the unknown.
 - **To investigate:**
     - What is at the bottom of the passage, and what is its connection to the green symbol that responds to [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]?
-    - Who was the man being tortured in the locked chamber - and in whose colours (blue and silver) was the figure watching him?
+    - Who was the man being tortured in the locked chamber? The figure watching him wore blue and silver - the colours of the [[Organisations/Falcon Faction\|Falcon Faction]] (Ant, Session 26)
     - Is [[NPCs/Brother Calen\|Brother Calen]] truly [[NPCs/Calen Thorne\|Calen Thorne]], bastard son of [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]?
     - What has happened to Clara? The cell holds golden hair and bloodstains - and nothing else.
     - What does the unfinished journal contain?

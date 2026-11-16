@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/mini-steve/"}
 ---
 
-*Image to be added.*
+[![mini_steve.jpg|300](/img/user/Images/mini_steve.jpg)](https://swallow-brigade.netlify.app/img/user/images/mini_steve.jpg)
 
 **Owner:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] | **Type:** Keepsake | **Rarity:** -
 **Attunement:** No | **Status:** Active

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/tales-of-the-lost-princess/"}
 ---
 
-*Image to be added.*
+[![tales_of_the_lost_princess.jpg|300](/img/user/Images/tales_of_the_lost_princess.jpg)](https://swallow-brigade.netlify.app/img/user/images/tales_of_the_lost_princess.jpg)
 
 **Owner:** [[Party Members/Tooo-Ah\|Tooo-Ah]] | **Type:** Book | **Rarity:** -
 **Attunement:** - | **Status:** Held

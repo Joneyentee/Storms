@@ -22,7 +22,7 @@
 - **Location:** [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]], at the mausoleum, with [[NPCs/Calen Thorne\|Calen Thorne]]; squires, horses and wagon sent back to [[Locations/Thalas'Miriel\|Thalas'Miriel]]
 - **Last action:** Destroyed four Bane-raised undead champions and forced the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] to withdraw; turned a zombie horde
 - **Immediate threat:** [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]], revealed invisible at the mausoleum as the session ended
-- **New in battle:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] planted the Stormswallow Family Banner for the first time (see [[Items/Stormswallow Family Banner\|Homebrew]])
+- **New in battle:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] planted the Stormswallow Family Banner for the first time (see [[Items/Banner of House Stormswallow\|Homebrew]])
 - Troops (732 + healer) remain at [[Locations/Stormhold Keep\|Stormhold Keep]]; mission unchanged - see [[General Files/Campaign Reference\|Campaign Reference]] for the current picture
 
 ## Current Status (Session 32)

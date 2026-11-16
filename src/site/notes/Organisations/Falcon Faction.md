@@ -6,6 +6,7 @@
 **Type:** Rebel Faction (Civil War)
 **Alignment:** Antagonist (challenging legitimate rule)
 **Symbol:** Falcon (bastard claim)
+**Colours:** Blue and silver - the royal arms of [[Locations/Odessia\|Odessia]] in the wrong colours (the kingdom's are green and gold). Worn by the soldiers attacking the castle in the throne-room battle (S26); Ant linked them to the counterfeit liveries found in the docks warehouse (~S15). Also worn by the watcher in the [[Locations/Silver Lantern Garrison\|Silver Lantern Garrison]] torture room (S37)
 **Founded:** Session 23 (civil war outbreak)
 **Current Status:** Active, ~50% kingdom support
 

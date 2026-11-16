@@ -194,11 +194,11 @@
 
 ### Stormswallow Longsword
 
-Moved to [[Items/Stormswallow Longsword\|Stormswallow Longsword]].
+Moved to [[Items/Longsword of the Order of the Ember Vein\|Longsword of the Order of the Ember Vein]].
 
 ### Stormswallow Family Banner
 
-Moved to [[Items/Stormswallow Family Banner\|Stormswallow Family Banner]].
+Moved to [[Items/Banner of House Stormswallow\|Banner of House Stormswallow]].
 
 ### The First Lantern's Glaive
 

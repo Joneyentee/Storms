@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/hearts-rend/"}
 ---
 
-*Image to be added.*
+[![hearts_rend.jpg|300](/img/user/Images/hearts_rend.jpg)](https://swallow-brigade.netlify.app/img/user/images/hearts_rend.jpg)
 
 **Owner:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] | **Type:** Weapon (longsword) | **Rarity:** Unknown
 **Attunement:** Required - **attuned (Session 9)**; cursed | **Status:** Active

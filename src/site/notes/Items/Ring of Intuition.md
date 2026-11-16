@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/ring-of-intuition/"}
 ---
 
-*Image to be added.*
+[![ring_of_intuition.png|300](/img/user/Images/ring_of_intuition.png)](https://swallow-brigade.netlify.app/img/user/images/ring_of_intuition.png)
 
 **Owner:** [[Party Members/Tooo-Ah\|Tooo-Ah]] | **Type:** Ring | **Rarity:** Unknown
 **Attunement:** Required - attuned | **Status:** Active

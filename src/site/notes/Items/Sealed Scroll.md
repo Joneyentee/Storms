@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/sealed-scroll/"}
 ---
 
-*Image to be added.*
+[![sealed_scroll.png|300](/img/user/Images/sealed_scroll.png)](https://swallow-brigade.netlify.app/img/user/images/sealed_scroll.png)
 
 **Owner:** Party | **Type:** Document | **Rarity:** -
 **Attunement:** - | **Status:** Unread

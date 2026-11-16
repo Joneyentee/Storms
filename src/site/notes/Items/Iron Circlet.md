@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/iron-circlet/"}
 ---
 
-*Image to be added.*
+[![iron_circlet.jpg|300](/img/user/Images/iron_circlet.jpg)](https://swallow-brigade.netlify.app/img/user/images/iron_circlet.jpg)
 
 **Owner:** [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] | **Type:** Wondrous item (circlet) | **Rarity:** Unknown
 **Attunement:** Unknown | **Status:** Properties unknown

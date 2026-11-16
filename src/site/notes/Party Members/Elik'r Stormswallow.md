@@ -52,7 +52,7 @@ _Full details, abilities and images for each item are on its own linked page._
 
 ### Weapons
 
-- [[Items/Stormswallow Longsword\|Stormswallow Longsword]] (S39, attuned S40) - +2; Ember Wave; fire and necrotic resistance
+- [[Items/Longsword of the Order of the Ember Vein\|Longsword of the Order of the Ember Vein]] (S39, attuned S40) - +2; Ember Wave; fire and necrotic resistance
 - [[Items/Hearts Rend\|Hearts Rend]] (attuned, cursed) - charges from Elik'r's own HP; flaming cone at 100 HP
 - Greataxe (2H) - 1d12 slashing
 
@@ -62,7 +62,7 @@ _Full details, abilities and images for each item are on its own linked page._
 
 ### Magic Items
 
-- [[Items/Stormswallow Family Banner\|Stormswallow Family Banner]] (S39) - planted as a bonus action; slows enemies and sustains allies within 30 feet
+- [[Items/Banner of House Stormswallow\|Banner of House Stormswallow]] (S39) - planted as a bonus action; slows enemies and sustains allies within 30 feet
 - [[Items/Cloak of Ethereal Traveller\|Cloak of Ethereal Traveller]] (S27, attuned) - Misty Step, Ethereal Step
 - [[Items/Key of the Wrong Door\|Key of the Wrong Door]] (S39) - 1/long rest, d6 outcome
 - [[Items/Mini Steve\|Mini Steve]] (S31) - painted rock from Co'narr; not magical
@@ -151,7 +151,7 @@ _Full details, abilities and images for each item are on its own linked page._
     
 - **[[Sessions/Session 40 - 25 May 2026\|Session 40 - 25 May 2026]]:** Attuned to the Stormswallow Longsword and discovered its Ember Wave ability. Fought through a zombie ambush at [[Locations/Thalas'Miriel\|Thalas'Miriel]] alongside [[NPCs/Calen Thorne\|Calen Thorne]], using Misty Step (via Cloak of Ethereal Traveller) to reach [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] on a rooftop and engage him directly in melee.
     
-- **[[Sessions/Session 42 - 17 October 2026\|Session 42 - 17 October 2026]]:** Planted the Stormswallow Family Banner in battle for the first time at the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] mausoleum, revealing its powers (see [[Items/Stormswallow Family Banner\|Stormswallow Family Banner]]). Pulled [[Party Members/Elvva Beltavar\|Elvva Beltavar]] and [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] back from the brink with Cure Wounds, resisted the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]]'s life drain on a natural 20, then was struck down by him for 43 damage in a single turn. Passed his first death save, only for the DM to turn it into a failure with the disadvantage token; stabilised by Elvva's Spare the Dying and healed by Tessell. Rolled a natural 1 on the closing Wisdom save, then a 6 on a d6 the DM asked for afterwards; the effect was revealed at the start of Session 43 as a compulsion to attack Tessell.
+- **[[Sessions/Session 42 - 17 October 2026\|Session 42 - 17 October 2026]]:** Planted the Stormswallow Family Banner in battle for the first time at the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] mausoleum, revealing its powers (see [[Items/Banner of House Stormswallow\|Banner of House Stormswallow]]). Pulled [[Party Members/Elvva Beltavar\|Elvva Beltavar]] and [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] back from the brink with Cure Wounds, resisted the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]]'s life drain on a natural 20, then was struck down by him for 43 damage in a single turn. Passed his first death save, only for the DM to turn it into a failure with the disadvantage token; stabilised by Elvva's Spare the Dying and healed by Tessell. Rolled a natural 1 on the closing Wisdom save, then a 6 on a d6 the DM asked for afterwards; the effect was revealed at the start of Session 43 as a compulsion to attack Tessell.
     
 - **[[Sessions/Session 43 - 14 November 2026\|Session 43 - 14 November 2026]]:** Compelled to attack [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (hit him with the sword hilt). Received [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]'s threat to pass on to [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] and later left it on the Steve stone as a message. Healed himself with Lay on Hands. In the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]], pulled [[NPCs/Calen Thorne\|Calen Thorne]] off the Courage plate and took his place, rising against the crushing force to complete the Courage trial. At the tavern: Eloquia from the special ale, a danger-sensing moustache, and a **natural 20 spoken-word performance, "The Ballad of the First Lantern"**. Outlasted everyone but Elvva and woke with her and a baby goat - [[NPCs/Guy 2\|Guy 2]], now his canon sidekick.
     

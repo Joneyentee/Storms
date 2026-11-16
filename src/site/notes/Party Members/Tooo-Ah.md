@@ -112,7 +112,7 @@ _Full details, abilities and images for each item are on its own linked page._
 **Warehouse Investigation (Session ~15):**
 
 - **Stealth Mission with [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]:** Successfully infiltrated warehouse at docks whilst [[Party Members/Elvva Beltavar\|Elvva Beltavar]] created dancing lights distraction for hooded figures
-- Discovered faction war evidence: note mentioning "Leaf Eaters, Dragon, Falcon and Eagle," boxes of blue/white liveries (fake royal crest), arms and armour, coded correspondence about four city gates
+- Discovered faction war evidence: note mentioning "Leaf Eaters, Dragon, Falcon and Eagle," boxes of blue/silver liveries (fake royal crest), arms and armour, coded correspondence about four city gates
 - Found scrap signed with ornate 'B' on blue crest paper
 - Large bag of gold offered as reward by Crown Princess
 - [[Sessions/Session 18 - 2 November 2024\|Session 18 - 2 November 2024]] - Survived Bane Watcher initiation, slept 6 hours.

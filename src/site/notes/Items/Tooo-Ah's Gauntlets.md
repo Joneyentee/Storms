@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/tooo-ah-s-gauntlets/"}
 ---
 
-*Image to be added.*
+[![guantlets.png|300](/img/user/Images/guantlets.png)](https://swallow-brigade.netlify.app/img/user/images/guantlets.png)
 
 **Owner:** [[Party Members/Tooo-Ah\|Tooo-Ah]] | **Type:** Weapon (gauntlets) | **Rarity:** Uncommon (est.) - "slightly magical"
 **Attunement:** Not recorded | **Status:** Active

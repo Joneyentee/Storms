@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/balthazar-s-book-of-names/"}
 ---
 
-*Image to be added.*
+[![balthazars_book_of_names.jpg|300](/img/user/Images/balthazars_book_of_names.jpg)](https://swallow-brigade.netlify.app/img/user/images/balthazars_book_of_names.jpg)
 
 **Owner:** [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] | **Type:** Book (evidence) | **Rarity:** -
 **Attunement:** - | **Status:** Held

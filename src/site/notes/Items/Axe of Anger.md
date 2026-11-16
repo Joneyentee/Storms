@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/axe-of-anger/"}
 ---
 
-*Image to be added.*
+[![axe_of_anger.png|300](/img/user/Images/axe_of_anger.png)](https://swallow-brigade.netlify.app/img/user/images/axe_of_anger.png)
 
 **Owner:** [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] | **Type:** Weapon (handaxe) | **Rarity:** Uncommon (est.)
 **Attunement:** Not recorded | **Status:** Active - secondary weapon since S43

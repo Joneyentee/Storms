@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/locations/neverwinter/"}
 ---
 
+[![map_neverwinter.jpeg|300](/img/user/Images/map_neverwinter.jpeg)](https://swallow-brigade.netlify.app/img/user/images/map_neverwinter.jpeg)
+
 **Type:** Duchy (Major northern territory)
 **Region:** North [[Locations/Odessia\|Odessia]] or [[Locations/Nolunia\|Nolunia]]
 **Status:** Allied

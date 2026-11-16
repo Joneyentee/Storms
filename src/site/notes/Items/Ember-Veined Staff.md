@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/ember-veined-staff/"}
 ---
 
-*Image to be added.*
+[![ember-veined-staff.jpg|300](/img/user/Images/ember-veined-staff.jpg)](https://swallow-brigade.netlify.app/img/user/images/ember-veined-staff.jpg)
 
 **Owner:** [[Party Members/Elvva Beltavar\|Elvva Beltavar]] | **Type:** Staff (two-handed) | **Rarity:** Unknown
 **Attunement:** Required (Ant, S40) - attunement status not recorded | **Status:** Properties unknown

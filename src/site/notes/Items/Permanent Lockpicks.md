@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/permanent-lockpicks/"}
 ---
 
-*Image to be added.*
+[![magical_lockpicks.png|300](/img/user/Images/magical_lockpicks.png)](https://swallow-brigade.netlify.app/img/user/images/magical_lockpicks.png)
 
 **Owner:** [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] | **Type:** Wondrous item (tools) | **Rarity:** Unknown
 **Attunement:** No | **Status:** Active
@@ -22,7 +22,7 @@
 
 ### Notes
 
-- Used on the torture-room door in the [[Locations/Silver Lantern Garrison\|Silver Lantern Garrison]] (S37), leaving a man locked inside
+- Used on the torture-room door in the [[Locations/Silver Lantern Garrison\|Silver Lantern Garrison]] (S37), sealing everyone inside: the prisoner (a loyal Silver Lantern man), the three guards torturing him, and the watcher at the desk in the royal arms in [[Organisations/Falcon Faction\|Falcon Faction]] colours (blue and silver)
 
 ### Appearances
 

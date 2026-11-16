@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/np-cs/ser-elenai/"}
 ---
 
+[![Ser_Elenai.jpeg|300](/img/user/Images/Ser_Elenai.jpeg)](https://swallow-brigade.netlify.app/img/user/images/Ser_Elenai.jpeg)
+
 **Faction:** Ally (historical) | **Status:** Deceased (centuries ago) - entombed in the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]]
 **Race:** Unknown | **Class:** Knight (paladin/cleric equivalent)
 **Tags:** #npc/ally #npc/deceased #npc/knights #npc/historical

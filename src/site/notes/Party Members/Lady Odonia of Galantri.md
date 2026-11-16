@@ -57,7 +57,7 @@ _Full details, abilities and images for each item are on its own linked page._
 
 ### Weapons
 
-- [[Items/Twin Blades of the Serpent\|Twin Blades of the Serpent]] (attuned) - chained scimitars; trip, disarm, Whirling Fang Strike, Venomous Bite
+- [[Items/Twin Blades of the Serpent\|Twin Blades of the Serpent]] (attuned) - chained shortswords; trip, disarm, Whirling Fang Strike, Venomous Bite
 - [[Items/Infinite Radiant Bow\|Infinite Radiant Bow]] - +1d4 radiant, infinite arrows
 
 ### Armour
@@ -127,7 +127,7 @@ _Full details, abilities and images for each item are on its own linked page._
     
 - Successfully infiltrated warehouse at docks with [[Party Members/Tooo-Ah\|Tooo-Ah]] whilst [[Party Members/Elvva Beltavar\|Elvva Beltavar]] created dancing lights distraction for hooded figures
     
-- Discovered faction war evidence: note mentioning "Leaf Eaters, Dragon, Falcon and Eagle," boxes of blue/white liveries (fake royal crest), arms and armour, coded correspondence about four city gates
+- Discovered faction war evidence: note mentioning "Leaf Eaters, Dragon, Falcon and Eagle," boxes of blue/silver liveries (fake royal crest), arms and armour, coded correspondence about four city gates
     
 - Found scrap signed with ornate 'B' on blue crest paper
     

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/magical-bean/"}
 ---
 
-*Image to be added.*
+[![magical_bean.jpg|300](/img/user/Images/magical_bean.jpg)](https://swallow-brigade.netlify.app/img/user/images/magical_bean.jpg)
 
 **Owner:** [[Party Members/Tooo-Ah\|Tooo-Ah]] (unaware) | **Type:** Curio | **Rarity:** Unknown
 **Attunement:** - | **Status:** Properties unknown

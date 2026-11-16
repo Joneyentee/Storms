@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/blood-pact-rings/"}
 ---
 
-*Image to be added.*
+[![blood_pact_rings.png|300](/img/user/Images/blood_pact_rings.png)](https://swallow-brigade.netlify.app/img/user/images/blood_pact_rings.png)
 
 **Owner:** Party loot - probably carried by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (unconfirmed) | **Type:** Ring (pair) | **Rarity:** Rare
 **Attunement:** Not stated | **Status:** Held - not known to be worn

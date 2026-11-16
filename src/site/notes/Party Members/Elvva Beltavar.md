@@ -125,7 +125,7 @@ _Full details, abilities and images for each item are on its own linked page._
 
 - Party tasked with investigating warehouse at docks - hooded figures and suspicious deliveries
 - **Used Dancing Lights cantrip** to create distraction, allowing [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] and [[Party Members/Tooo-Ah\|Tooo-Ah]] to infiltrate warehouse unnoticed
-- Party discovered faction war evidence: note about "Leaf Eaters, Dragon, Falcon and Eagle," boxes of blue/white liveries, arms shipments, coded correspondence
+- Party discovered faction war evidence: note about "Leaf Eaters, Dragon, Falcon and Eagle," boxes of blue/silver liveries, arms shipments, coded correspondence
 - Large bag of gold offered as reward by Crown Princess
 
 **Riverside Shack Quest (Session ~15):**

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/hide-armour/"}
 ---
 
-*Image to be added.*
+[![hide_armour.jpg|300](/img/user/Images/hide_armour.jpg)](https://swallow-brigade.netlify.app/img/user/images/hide_armour.jpg)
 
 **Owner:** [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] | **Type:** Armour (hide) | **Rarity:** Unknown (magical)
 **Attunement:** Unknown | **Status:** Properties unknown

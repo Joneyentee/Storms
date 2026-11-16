@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/wand-of-dusk-veil/"}
 ---
 
-*Image to be added.*
+[![wand_of_dusk_veil.jpg|300](/img/user/Images/wand_of_dusk_veil.jpg)](https://swallow-brigade.netlify.app/img/user/images/wand_of_dusk_veil.jpg)
 
 **Owner:** [[Party Members/Elvva Beltavar\|Elvva Beltavar]] | **Type:** Wand | **Rarity:** Uncommon
 **Attunement:** Required - attuned | **Status:** Active

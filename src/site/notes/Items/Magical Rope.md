@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/magical-rope/"}
 ---
 
-*Image to be added.*
+[![magical_rope.png|300](/img/user/Images/magical_rope.png)](https://swallow-brigade.netlify.app/img/user/images/magical_rope.png)
 
 **Owner:** [[Party Members/Tooo-Ah\|Tooo-Ah]] | **Type:** Wondrous item (rope) | **Rarity:** Unknown
 **Attunement:** Unknown | **Status:** Properties unknown

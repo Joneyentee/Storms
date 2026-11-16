@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/locations/tomb-of-ser-elenai/"}
 ---
 
+[![Ser_Elenai.jpeg|300](/img/user/Images/Ser_Elenai.jpeg)](https://swallow-brigade.netlify.app/img/user/images/Ser_Elenai.jpeg)
+*The central statue of Ser Elenai, before it crumbled (image from Ant).*
+
 **Type:** Tomb / Trial chamber (working title until named in-world)
 **Region:** Beneath the old mausoleum in the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]], south-west of [[Locations/Thalas'Miriel\|Thalas'Miriel]]
 **Status:** Opened and trials completed (S43); central statue crumbled; glaive claimed
@@ -25,7 +28,7 @@ Reached by a stairwell below the cemetery mausoleum; the doors grind shut once t
 |#|Statue|Inscription|Virtue|School|Completed by|
 |---|---|---|---|---|---|
 |1|Blindfolded figure beside a stone pedestal carved with 12 stars; 13 stars carved in the ceiling above|_"The first must see what others overlook."_|Vigilance - the one who sees|Divination|[[Party Members/Tooo-Ah\|Tooo-Ah]] - pressed the 13th star|
-|2|Kneeling figure holding an offering bowl|_"A flame shared is never diminished. A gift given for reward was never freely given."_|Mercy - the one who gives|Abjuration|[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] - overflowed the bowl with 100 silver|
+|2|Kneeling figure holding an offering bowl|_"A flame shared is never diminished. A gift given for reward was never freely given."_|Mercy - the one who gives|Abjuration|[[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] - overflowed the bowl with 110 silver (10, then 100)|
 |3|Knight with a shield bearing a lantern|_"A third must stand, when others flee."_|Courage - the one who stands|Enchantment|[[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] - stood against the crushing force|
 |4|Figure holding a tarnished mirror|_"The fourth must reveal what is hidden."_|Truth - the one who reveals|Illusion|[[Party Members/Elvva Beltavar\|Elvva Beltavar]] - turned the mirror's light onto the lantern; the mirror shattered|
 |5|Figure tightly clutching a stone lantern, the other hand open|_"What you clutch too tightly may become your prison. What you release may become another's salvation."_|Sacrifice - the one who lets go|Transmutation|[[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] - a spoken confession; objects placed in the hand drew fire|

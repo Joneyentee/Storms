@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/psychic-link-rings/"}
 ---
 
-*Image to be added.*
+[![psychic_link_rings.png|300](/img/user/Images/psychic_link_rings.png)](https://swallow-brigade.netlify.app/img/user/images/psychic_link_rings.png)
 
 **Owner:** [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] & [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (formerly) | **Type:** Ring (pair) - also known as the **cursed lover's rings** | **Rarity:** Unknown
 **Attunement:** Unknown | **Status:** Removed; Elik'r's ring given to [[NPCs/Ser Anfalen\|Ser Anfalen]] (rejected) - current whereabouts of both rings to confirm

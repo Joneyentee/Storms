@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/np-cs/ser-silvar-glinnan/"}
 ---
 
+[![ser_silvar_glinnan.jpeg|300](/img/user/Images/ser_silvar_glinnan.jpeg)](https://swallow-brigade.netlify.app/img/user/images/ser_silvar_glinnan.jpeg)
+
 **Faction:** Ally | **Status:** Active
 **Race:** Elf
 **Tags:** #npc/ally #npc/military #npc/knights

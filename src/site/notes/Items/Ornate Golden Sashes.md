@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/ornate-golden-sashes/"}
 ---
 
-*Image to be added.*
+[![ornate_golden_sashes.jpg|300](/img/user/Images/ornate_golden_sashes.jpg)](https://swallow-brigade.netlify.app/img/user/images/ornate_golden_sashes.jpg)
 
 **Owner:** Each party member (Tessell, Odonia, Elik'r, Tooo-Ah, Elvva) | **Type:** Ceremonial regalia | **Rarity:** -
 **Attunement:** No | **Status:** Held

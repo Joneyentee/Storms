@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/key-of-the-wrong-door/"}
 ---
 
-*Image to be added.*
+[![key_of_the_wrong_door.jpg|300](/img/user/Images/key_of_the_wrong_door.jpg)](https://swallow-brigade.netlify.app/img/user/images/key_of_the_wrong_door.jpg)
 
 **Owner:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] | **Type:** Wondrous item (key) | **Rarity:** Uncommon
 **Attunement:** No | **Status:** Active

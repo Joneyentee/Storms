@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/infinite-radiant-bow/"}
 ---
 
-*Image to be added.*
+[![radiant_bow.png|300](/img/user/Images/radiant_bow.png)](https://swallow-brigade.netlify.app/img/user/images/radiant_bow.png)
 
 **Owner:** [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] | **Type:** Weapon (longbow) | **Rarity:** Wondrous item
 **Attunement:** Not recorded | **Status:** Active

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/founder-s-wand/"}
 ---
 
-*Image to be added.*
+[![founders_wand.png|300](/img/user/Images/founders_wand.png)](https://swallow-brigade.netlify.app/img/user/images/founders_wand.png)
 
 **Owner:** [[Party Members/Elvva Beltavar\|Elvva Beltavar]] | **Type:** Wand | **Rarity:** Unknown
 **Attunement:** Unknown | **Status:** Properties unknown

@@ -257,7 +257,7 @@ Tessell now keeps the veil tucked into his robes, using it in moments of prayer,
     
 - **[[Sessions/Session 42 - 17 October 2026\|Session 42 - 17 October 2026]]:** Performed his campaign anthem "Achiever" before play and was awarded a hero token. At the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] mausoleum he was knocked unconscious by the Hollow Blade's necrotic eruption and revived by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], destroyed the Last Huntress with Spiritual Weapon, and passed by a single point a Wisdom save that would have petrified him. **Cast Command ("Retreat") on the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]], who failed the save and portalled away - ending the boss fight.** Spent the hero token on a second Turn Undead that routed the zombie horde.
     
-- **[[Sessions/Session 43 - 14 November 2026\|Session 43 - 14 November 2026]]:** Attacked by compelled allies (Elik'r's hilt-punch, Odonia's slap - caught) as the S42 effect played out. Heard a goddess's voice telling him to go straight ahead, prayed open the mausoleum's lantern door and found the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]], whose prophecy names him. Completed the Mercy trial (100 silver into the offering bowl) and answered the lantern's riddle. **[[NPCs/Ser Elenai\|Ser Elenai]]'s voice named him worthy and her glaive flew to his hand - he is now the "First Light"**; attuned to it during the long rest. Persuaded [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] to commit the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] to [[NPCs/Calen Thorne\|Calen Thorne]]'s claim after Tooo-Ah's natural 1. In the tavern: a glass-shattering burp and a talking stomach.
+- **[[Sessions/Session 43 - 14 November 2026\|Session 43 - 14 November 2026]]:** Attacked by compelled allies (Elik'r's hilt-punch, Odonia's slap - caught) as the S42 effect played out. Heard a goddess's voice telling him to go straight ahead, prayed open the mausoleum's lantern door and found the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]], whose prophecy names him. Completed the Mercy trial (110 silver into the offering bowl - 10, then 100) and answered the lantern's riddle. **[[NPCs/Ser Elenai\|Ser Elenai]]'s voice named him worthy and her glaive flew to his hand - he is now the "First Light"**; attuned to it during the long rest. Persuaded [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] to commit the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] to [[NPCs/Calen Thorne\|Calen Thorne]]'s claim after Tooo-Ah's natural 1. In the tavern: a glass-shattering burp and a talking stomach.
     
 
 ### Character Arc
@@ -352,5 +352,5 @@ Tessell now keeps the veil tucked into his robes, using it in moments of prayer,
 ## Currency
 
 - -40 gold (Session 26 - drunken chapel pledge)
-- -100 silver (Session 43 - offering bowl, Mercy trial)
+- -110 silver (Session 43 - offering bowl, Mercy trial: 10, then 100)
 - +11 silver, +3 copper (Session 37 - looted from [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] guard room)

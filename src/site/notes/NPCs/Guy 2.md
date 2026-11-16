@@ -8,7 +8,7 @@
 
 ### Description
 
-A baby goat that [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] and [[Party Members/Elvva Beltavar\|Elvva Beltavar]] somehow acquired during their drunken night at the [[Locations/Thalas'Miriel\|Thalas'Miriel]] tavern in Session 43. They woke to find it asleep between them; the innkeeper reported that they had come back loudly declaring it their child. Named by Elik'r after his late squire [[NPCs/Guy (Elik'r's Squire)\|Guy]]. Ant's picture of him has a little hat, a monocle and a satchel or briefcase, so the table also calls him "Guy the Second".
+A baby goat that [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] and [[Party Members/Elvva Beltavar\|Elvva Beltavar]] somehow acquired during their drunken night at the [[Locations/Thalas'Miriel\|Thalas'Miriel]] tavern in Session 43. They woke to find it asleep between them; the innkeeper reported that they had come back loudly declaring that they now had a kid. Named by Elik'r after his late squire [[NPCs/Guy (Elik'r's Squire)\|Guy]]. Ant's picture of him has a little hat, a monocle and a satchel or briefcase, so the table also calls him "Guy the Second".
 
 ### Key Details
 

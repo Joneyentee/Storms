@@ -133,7 +133,7 @@
 - What becomes of the Kain loyalist knights now that [[NPCs/Darius Kain\|Darius Kain]] is dead?
 - Does [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]] know the extent of the [[Organisations/Ember Vein\|Ember Vein]]'s control over the Order?
 - Does the Order have presence beyond [[Locations/Thalas'Miriel\|Thalas'Miriel]]?
-- Who is the unidentified man still locked in the torture room (permanent lockpicks, S37)?
+- Who is the loyal man still locked in the torture room with his three torturers and the watcher in [[Organisations/Falcon Faction\|Falcon Faction]] blue and silver (permanent lockpicks, S37)?
 - What caused the zombie incursion the garrison is now barricaded against (S40)?
 - Who was the Oathless, entombed in the cemetery mausoleum with a defaced lantern emblem - and does [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] or the Order's records know of him (S42)? Was he buried above the founder's tomb as a guardian, or as a disgrace (S43)?
 - What was the Long Night the First Lantern carried her glaive through?

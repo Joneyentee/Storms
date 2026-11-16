@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/wyvern-s-diary-and-death-certificates/"}
 ---
 
-*Image to be added.*
+[![wyverns_diary_and_death_certificates.png|300](/img/user/Images/wyverns_diary_and_death_certificates.png)](https://swallow-brigade.netlify.app/img/user/images/wyverns_diary_and_death_certificates.png)
 
 **Owner:** [[Party Members/Elvva Beltavar\|Elvva Beltavar]] | **Type:** Book (evidence) | **Rarity:** -
 **Attunement:** - | **Status:** Held

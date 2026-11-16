@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/horn-of-the-winter-gale/"}
 ---
 
-*Image to be added.*
+[![horn_of_the_winter_gale.png|300](/img/user/Images/horn_of_the_winter_gale.png)](https://swallow-brigade.netlify.app/img/user/images/horn_of_the_winter_gale.png)
 
 **Owner:** [[Party Members/Tooo-Ah\|Tooo-Ah]] | **Type:** Wondrous item (horn) | **Rarity:** Unknown
 **Attunement:** Not stated | **Status:** Active

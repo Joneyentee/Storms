@@ -339,7 +339,7 @@ _Each item has its own page with images and full abilities - follow the links be
 **Weapons/Armour:**
 
 - [[Items/The First Lantern's Glaive\|The First Lantern's Glaive]] (Tessell) - **NEW S43, attuned** - rare glaive, 1d8 / 1d12 two-handed, 10ft reach; Lantern's Sanctuary 1/day, Warding Glow 2/day
-- [[Items/Stormswallow Longsword\|Stormswallow Longsword]] (Elik'r) - attuned S40; +2, Ember Wave, fire and necrotic resistance
+- [[Items/Longsword of the Order of the Ember Vein\|Longsword of the Order of the Ember Vein]] (Elik'r) - attuned S40; +2, Ember Wave, fire and necrotic resistance
 - [[Items/Hearts Rend\|Hearts Rend]] (Elik'r) - cursed, attuned; charges from his own HP (100 total) for a flaming cone
 - [[Items/Infinite Radiant Bow\|Infinite Radiant Bow]] (Odonia) - +1d4 radiant, infinite arrows
 - [[Items/Twin Blades of the Serpent\|Twin Blades of the Serpent]] (Odonia) - attuned; chain, trip/disarm, Whirling Fang Strike
@@ -351,7 +351,7 @@ _Each item has its own page with images and full abilities - follow the links be
 
 **Utility/Mystery:**
 
-- [[Items/Stormswallow Family Banner\|Stormswallow Family Banner]] (Elik'r) - planted, 30ft: enemies -10ft speed, allies advantage vs frightened/charmed enemies, chosen allies 3 temp HP each turn
+- [[Items/Banner of House Stormswallow\|Banner of House Stormswallow]] (Elik'r) - planted, 30ft: enemies -10ft speed, allies advantage vs frightened/charmed enemies, chosen allies 3 temp HP each turn
 - [[Items/Wand of Dusk Veil\|Wand of Dusk Veil]] (Elvva) - attuned; 6 charges; Veil Step
 - [[Items/Coin of Fate\|Coin of Fate]] (Elvva) - 1/long rest double or reflect damage
 - [[Items/Cloak of Ethereal Traveller\|Cloak of Ethereal Traveller]] (Elik'r) - attuned; Misty Step, Ethereal Step
@@ -401,7 +401,7 @@ _Each item has its own page with images and full abilities - follow the links be
 - **Sessions 3-5:** Canathalas courier and smuggler missions (Tooo-Ah found doll), Sylobelle tournament (Elik'r won archery), Sylobelle attack + castle recon (Professor Emms quest, Ryvenien murdered)
 - **Sessions 6-8:** Castle clearing (Stormhold Keep), portal dungeon, Thalas encounter, Avicia transformation ritual, White Falcon rewards (castle deed), Ulvenora negotiations (stone supply, orc quest)
 - **Sessions 9-14:** Travel to Belendar, Grand Tournament (Tessell won dancing and chariot race despite Emperor Drakenhart cheating with grappling hook - imprisoned, Co'narr surprisingly third in dancing)
-- **Sessions 15-17:** **Elvva joins party** (Shannon's first session), warehouse investigation (hooded figures, four-faction war note, blue/white liveries, coded gate correspondence signed 'B'), riverside shack quest (skeleton with Eagle crest, Elvva poisoned), **four-gate siege of Belendar** (party defended Silverdew Crossing, Balthazar Thornwood wyvern killed by Odonia - city hero)
+- **Sessions 15-17:** **Elvva joins party** (Shannon's first session), warehouse investigation (hooded figures, four-faction war note, blue/silver liveries, coded gate correspondence signed 'B'), riverside shack quest (skeleton with Eagle crest, Elvva poisoned), **four-gate siege of Belendar** (party defended Silverdew Crossing, Balthazar Thornwood wyvern killed by Odonia - city hero)
 - **Session 18:** Bane Watcher initiation (dragon blood ritual, shared vision, purple dragonborn called Elik'r's name, Odonia saw Zorry's gnome army)
 - **Recent:** Party released Bane (horn blown), formed Riders of the Storm, initiated as Bane Watchers
 - **Session 21:** Grand Joust, Crown Princess revealed as Eagle Knight

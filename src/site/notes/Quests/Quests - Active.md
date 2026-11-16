@@ -96,7 +96,7 @@
 
 - [[Party Members/Tooo-Ah\|Tooo-Ah]] rescued; [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] freed alongside approximately 8 imprisoned Silver Lanterns; safehouse location shared for surviving loyalists
 - Green cult symbol on garrison wall activated exclusively by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] via [[NPCs/The Bane\|The Bane]] - party entered [[Locations/Silver Lantern Garrison - Hidden Passage\|Silver Lantern Garrison - Hidden Passage]]
-- Garrison reinforcements fully alerted (S37); man in torture room locked inside by permanent lockpicks
+- Garrison reinforcements fully alerted (S37); torture room sealed by permanent lockpicks with the prisoner, his three torturers and the Falcon-coloured watcher at the desk all inside
 
 **Session 36 Intelligence - Thalas'Miriel:**
 
