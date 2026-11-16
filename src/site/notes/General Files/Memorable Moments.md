@@ -6,6 +6,16 @@
 
 ---
 
+#### Session 43
+
+**Session 43 - The First Light** - [[NPCs/Ser Elenai\|Ser Elenai]]'s spirit named [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] worthy of her glaive after fondly listing his castle faceplant and his "dealings" with a certain Countess, then advised him not to fall at the Countess's feet again because it "rather undermines this occasion".
+
+**Session 43 - I Killed the King** - To pass the Sacrifice trial, [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] confessed aloud to the party and [[NPCs/Calen Thorne\|Calen Thorne]] that she is the Princess's assassin and killed the king, and the party replied that they had already worked it out.
+
+**Session 43 - Written Long Ago** - Ant revealed that the prophecy in the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]] was a quest line he wrote for Tessell long ago, and that Tessell had kept wandering away every time Ant tried to steer him towards it.
+
+---
+
 #### Session 42
 
 **Session 42 - Retreat** - With the 7'5" [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] standing over a downed [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] ended the boss fight with a single word of Command, and the knight sneered that the party were not worth his time and portalled away.

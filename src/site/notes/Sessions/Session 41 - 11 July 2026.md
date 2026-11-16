@@ -25,7 +25,7 @@
 - At an old mausoleum within the cemetery, the party found four figures in a clandestine meeting: the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]], [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]], an unnamed ornately-dressed man wielding a cane that conceals a sword, and the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]], wielding a massive hammer or axe
 - The [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] revealed that "the other dragon you awakened" is located on **Dragonclaw Isle**, before declaring their side's "time is over here" and departing for Neverwinter
 - [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] bowed deeply and portalled away a second time this session
-- The unnamed cane-sword man - previously present in the town square when [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] was forced to kill [[Party Members/Elvva Beltavar\|Elvva Beltavar]] and when [[Guy\|Guy]] died - cast a necromancy spell, sending four bolts of green Bane light off the map before vanishing
+- The unnamed cane-sword man - previously present in the town square when [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] was forced to kill [[Party Members/Elvva Beltavar\|Elvva Beltavar]] and when [[NPCs/Guy (Elik'r's Squire)\|Guy]] died - cast a necromancy spell, sending four bolts of green Bane light off the map before vanishing
 - The [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] remained, challenging the party with "let's see what the famed warriors can do" before the session ended on the initiative roll
 
 ## NPCs Encountered

@@ -18,6 +18,7 @@ Four skeletal champions raised from the old mausoleum in the [[Locations/Thalas'
 - **The Last Huntress** - white-haired skeletal archer with a longbow and short sword; fired two necrotic arrows a turn, taking [[Party Members/Elvva Beltavar\|Elvva Beltavar]] to 1 HP. Cut in half by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s Spiritual Weapon
 - Radiant damage from the Infinite Radiant Bow was doubled against them
 - Which title belongs to which figure was only stated outright for the Veiled Oracle; the other three are matched by description
+- **S43:** the mausoleum they rose from is the entrance to the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]], founder of the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] - their connection to her is unknown
 
 ### Relationships
 

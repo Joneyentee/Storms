@@ -3,7 +3,7 @@
 ---
 
 **Faction:** Confirmed antagonist — own agenda, Bane-connected 
-**Status:** Active — revealed still at the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] mausoleum at the end of Session 42; confrontation unresolved.
+**Status:** Active — at large; left the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] by portal at the start of Session 43 with a threat for [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]].
 **Race:** Human 
 **Class:** Bard (College of Enchantment, estimated level 7-9) 
 **Tags:** #npc/unknown #npc/bard #npc/antagonist #npc/performer #npc/powerful-mage
@@ -103,6 +103,7 @@ Theatrical and lordly with mischievous, roguish edge. Speaks in very posh manner
 - **[[Sessions/Session 40 - 25 May 2026\|Session 40 - 25 May 2026]]** - Resurfaced at [[Locations/Thalas'Miriel\|Thalas'Miriel]], directing a zombie incursion against the town from a rooftop while playing his lute. Cast Counterspell against [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Fireball, only for her own Counterspell to counter his, letting the original Fireball through for 42 damage. Deployed a Hunger of Hadar-style spore effect. Silenced by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] and blinded by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], effectively neutralised for the remainder of the fight. Battle still ongoing as [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] arrived with reinforcements at session end.
 - **[[Sessions/Session 41 - 11 July 2026\|Session 41 - 11 July 2026]]** - Concluded the [[Locations/Thalas'Miriel\|Thalas'Miriel]] fight: [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s Radiant Bow destroyed a decoy/illusory form; his true, invisible self had been elsewhere on the battlefield throughout. Bowed and portalled away with "See you at our next chapter!" Reappeared shortly after at a cemetery mausoleum with the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - Unnamed]], the [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]], and the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]]; bowed again and portalled away a second time.
 - **[[Sessions/Session 42 - 17 October 2026\|Session 42 - 17 October 2026]]** - Not seen during the mausoleum battle, and the DM's opening recap implied he had gone. As the turned zombies fled at the end of the session, a lute began to play: he had only appeared to portal away in Session 41 and had been invisible near the mausoleum throughout, one square outside the blast of [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Fireball. Session ended as he revealed himself.
+- **[[Sessions/Session 43 - 14 November 2026\|Session 43 - 14 November 2026]]** - Revealed himself at the mausoleum and gave [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] a message for Co'narr: _"You can tell that stubborn oaf I'm coming for him next."_ Portalled away in a cloud of green mist, using [[NPCs/The Bane\|The Bane]] as he went so that every remaining skeleton collapsed. No fight.
 
 ---
 

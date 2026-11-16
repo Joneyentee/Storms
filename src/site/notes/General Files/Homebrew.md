@@ -90,6 +90,32 @@
 
 ---
 
+## Ser Alric's Special Ale & Feast (Session 43)
+
+**Source:** [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]], at the [[Locations/Thalas'Miriel\|Thalas'Miriel]] tavern | **Type:** Random magical consumables (DM effect table, like [[General Files/Homebrew#Tooo-Ah's Magical Tea\|Tooo-Ah's tea]])
+
+**Mechanics:** The ale tastes of the drinker's favourite flavour. Each drink, and each plate from the feast that followed, is a d20 roll on the DM's table; drinking also calls for Constitution saves as the night goes on. Rolling the same number again lets the player reroll or go one up or down. Most effects last 24 hours.
+
+**Known effects (drinks):**
+
+|Roll|Effect|
+|---|---|
+|6|Hair turns bright pink and smells of cheese|
+|10|A thunderous burp that shatters nearby glass|
+|13|A moustache grows that wiggles when danger is near; repeat drinks add more|
+|15|Your next in-character sentence comes true|
+|16|Your tankard refills itself when emptied, then floats after you, refilling, for 24 hours|
+|17|Dramatic Death Syndrome - act out a mortal wound whenever you move|
+|19|Eloquia - eloquent speech, Charisma raised with advantage on Charisma rolls, disadvantage on Wisdom and Intelligence (stacks)|
+
+**Known effects (feast):** duck - two dogs follow you, fascinated; cake - your stomach talks loudly about everything, or everyone must call you "Your Deliciousness"; steak - bonus AC against the next attack made on you; pickles - skin turns green, bonus on the next Acrobatics check; bread - a loaf appears on your head and stays until someone else eats from it; sausages - an urge to share them with everyone.
+
+**End of the night (d6 for the last two standing):** 5 - you wake having adopted an animal (see [[NPCs/Guy 2\|Guy 2]]); other entries included matching tattoos (1), believing you are long-lost siblings (3), promising to help the tavern keeper, and starting a tavern-wide conga line through the town (6).
+
+**Note:** Roll numbers are as heard on the recording; several rolls overlapped at the table, so treat the mapping as approximate.
+
+---
+
 ## Odonia's Warg Ability
 
 **Type:** Homebrew (replaces druid multiclass) **Acquired:** Session 30 (green Minotaur ooze transformation during dream vision)
@@ -164,316 +190,97 @@
 
 ## Magical Items
 
+**Item details now live on their own pages - one per item, with images.** The headings below are kept so older links still land here.
+
 ### Stormswallow Longsword
 
-**Owner:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] | **Type:** Longsword | **Status:** Attuned (S40) | **Source:** Passed by the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] on his death (Session 39)
-
-**Description:** Dark iron blade threaded with ember-red veins; resized to Elik'r's proportions on transfer.
-
-**Properties:**
-
-- Standard longsword (1d8 slashing, versatile 1d10)
-- Attuned to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (S40)
-- **+2 weapon** (added to damage rolls in S40; Ant called it an "upgraded sword")
-- Grants Elik'r **fire resistance** (S40, S42)
-- Grants Elik'r **necrotic resistance** (S42 - halved necrotic damage three times at the cemetery mausoleum)
-- *To verify with Ant:* a Session 40 damage roll reads as 1d12+2, and Ant said it is large enough to need two hands - both differ from the 1d8/versatile 1d10 listed above
-
-**Ember Wave** _(triggered on a successful hit, S40)_
-
-- On a successful hit, Elik'r can slam the blade into the ground as part of the same action
-- **Effect:** 10-foot radius wave of fire
-- **Saving Throw:** DC 14 Dexterity, half damage on success
-- Other properties not yet identified
-
----
+Moved to [[Items/Stormswallow Longsword\|Stormswallow Longsword]].
 
 ### Stormswallow Family Banner
 
-**Owner:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] | **Type:** Battle standard | **Source:** Left to him by the [[NPCs/Purple Dragonborn\|Purple Dragonborn]] (Session 39) | **First Used:** Session 42
+Moved to [[Items/Stormswallow Family Banner\|Stormswallow Family Banner]].
 
-**Description:** A purple dragon bound by chains on a long gold and red wooden shaft. The item text reads that it deals no attacks: its power sustains allies and drags down foes within 30 feet when planted or held.
+### The First Lantern's Glaive
 
-**Activation:** Planted in the ground as a bonus action (Session 42). Radius 30 feet.
-
-**Base Powers:**
-
-- **Chain Wind Hindrance** - enemies within range have their speed reduced by 10 feet (the Session 42 zombies were cut from 15 feet to 5)
-- **Aura of Subjugation** - allies have advantage on attacks against frightened or charmed enemies
-- **Bonded Resolve** - chosen allies within range gain temporary hit points equal to Elik'r's proficiency bonus (3) every turn, handed out at the start of his turn
-
-**Notes:**
-
-- Elik'r chooses which allies benefit from Bonded Resolve
-- Temporary hit points do not revive an unconscious ally (DM ruling, S42)
-- These were described as its "base powers", which suggests there may be more to unlock
-- The banner is a physical object standing in the fight; Kieran noted the zombies might be able to damage it
-
----
+Moved to [[Items/The First Lantern's Glaive\|The First Lantern's Glaive]].
 
 ### Cloak of Ethereal Traveller
 
-**Owner:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] | **Source:** [[NPCs/Fizwidget Spindleflash\|Fizwidget Spindleflash]] (Session 27 - Elik'r's pick from two boxes at the toadstool-realm feast) | **Attunement:** Yes (attuned over downtime before Session 31)
-
-**Description:** Bright orange cloak, "more like a cape to attach onto your arm". Elik'r called it his "Mist Form" cloak in S33; named "the Ethereal Traveller" in S36.
-
-**Abilities (as described in S40 and S42):**
-
-- **Misty Step** - once per day, cast as a 2nd-level spell without spending a spell slot
-- **Ethereal Step** - bonus action, lasts 1 minute: phase partially into the ethereal and move through creatures and objects as if they were difficult terrain
-- Ant said in S40 that most of its abilities are bonus actions
-- **Rulings (S42):** the cloak's Misty Step uses his action; Ethereal Step only lets him pass through creatures and objects when *he* moves - attacks against him are not affected
-
-**Notes:**
-
-- Taken along with the party's other gear by Fizwidget at the start of S33 (Ant confirmed the cloak was included)
-- The other box Fizwidget offered held a massively long spear, which he flung away and which vanished
-- Full item-card text not yet checked, so there may be further abilities
-
----
+Moved to [[Items/Cloak of Ethereal Traveller\|Cloak of Ethereal Traveller]].
 
 ### Hearts Rend
 
-**Owner:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] | **Type:** Longsword | **Status:** Cursed, attuned | **Named by:** Elik'r | **Source:** The evil sword that impaled the undead Professor Emms (Session 7, from Kieran's notes); studied in Session 8 (4 glyphs, evocation, flames), attuned in Session 9
-
-**Properties:**
-
-- Standard longsword (1d8 slashing, versatile 1d10)
-- Cursed and attuned to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
-- Can be enhanced with Elik'r's dragon breath to add fire damage (existing ability)
-
-**Charge Mechanic:**
-
-- Charges by absorbing HP from Elik'r himself - he must deal damage to himself to charge it
-- Requires **100 HP total** from Elik'r to fully charge (significant investment given his 46 HP max - spans multiple encounters)
-- Charge progress unknown (no visible indicator confirmed)
-
-**Activation (at 100 HP charged):**
-
-- Triggers a flaming cone attack
-- **Area:** Cone (dimensions unconfirmed)
-- **Damage:** 4d10 + 2 (Kieran's early notes say 4d10+3, the fire slash Talas used - to confirm)
-
-⚠️ **Warning:** At 46 HP max, Elik'r cannot fully charge Hearts Rend in a single encounter. Charging requires sustained self-harm across multiple sessions. The cursed nature of the attunement and any additional drawbacks are not yet fully known.
-
----
+Moved to [[Items/Hearts Rend\|Hearts Rend]].
 
 ### Permanent Lockpicks
 
-**Owner:** [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] | **Source:** Balthazar's body (Session 18)
-
-**Properties:**
-
-- Permanently locks anything (even objects without locks)
-- Creates magical seal
-- **Cannot unlock anything**
-- No known method to break locks created
-- No save/check required
-
-⚠️ **Warning:** Effect is irreversible
-
----
+Moved to [[Items/Permanent Lockpicks\|Permanent Lockpicks]].
 
 ### Infinite Radiant Bow
 
-**Owner:** [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] | **Source:** Gift from Crown Princess (Session 21) | **Rarity:** Wondrous item
-
-**Properties:**
-
-- Standard longbow damage (1d8 + modifier)
-- **+1d4 radiant damage** on every hit (confirmed Session 38)
-- Infinite magical arrows - no ammunition tracking
-- No physical arrows required
-- **Table rule (confirmed Session 42):** radiant damage is doubled against undead, and the bow always deals radiant damage, so its hits were doubled against the undead champions at the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]]. This applies to all radiant damage from any source, not just the bow
-- Kieran's notes (which all predate Session 18): Odonia was offered either 15 armoured knights or a "unique longbow" for her investigation, and took the longbow. This is the earlier offer; the bow itself was presented in Session 21 (transcript 00:38, after a d4 roll to pick one of four bows; the DM said it had been offered "in the previous session"), so the Session 21 source above stands. Delivered to her house after the ball
-
----
+Moved to [[Items/Infinite Radiant Bow\|Infinite Radiant Bow]].
 
 ### Twin Blades of the Serpent
 
-**Owner:** [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] | **Source:** Unknown | **Rarity:** Rare (Requires Attunement) **Weapon:** Scimtar (pair)
-
-**Description:** A matched pair of shortswords with sleek, curved blades resembling snake fangs. Crafted from dark, near-obsidian metal with a faint greenish shimmer. Hilts wrapped in black leather with serpent motifs etched into the metalwork. A hidden mechanism in each hilt houses a magical chain of interlocking scales that can connect the two blades.
-
-**Properties:**
-
-**Serpent's Chain** _(Bonus Action)_ The hidden chain extends and connects the two swords, stretching up to 10 feet. While connected, the chain can be used to perform special manoeuvres:
-
-- **Trip:** Target creature makes DC 15 Dexterity saving throw or is tripped
-- **Disarm:** Target creature makes DC 15 Strength saving throw or is disarmed The chain can be retracted or extended again as a bonus action.
-
-**Whirling Fang Strike** _(Action — 1/short or long rest)_ While the swords are connected by the chain, make a single attack roll. On a hit, target all creatures within a 10-foot radius, dealing **1d6 slashing damage** to each.
-
-**Venomous Bite** _(Passive — on Critical Hit)_ When a critical hit is scored with either blade, the target must make a **DC 14 Constitution saving throw**. On a failed save, the target takes an additional **2d6 poison damage** and becomes **poisoned for 1 minute**.
-
----
+Moved to [[Items/Twin Blades of the Serpent\|Twin Blades of the Serpent]].
 
 ### Psychic Link Rings
 
-**Owners:** [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] & [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] | **Source:** Found in prison (Session 17?)
-
-**Properties:**
-
-- Two rings create psychic connection between wearers
-- Range/limitations unknown
-- Mental communication possible
-- Details TBD through use
-
----
+Moved to [[Items/Psychic Link Rings\|Psychic Link Rings]].
 
 ### Horn of the Winter Gale
 
-**Owner:** [[Party Members/Tooo-Ah\|Tooo-Ah]] | **Source:** [[NPCs/Fizwidget Spindleflash\|Fizwidget Spindleflash]] (Session 35, won snowman sculpture competition)
-
-**Properties:**
-
-- **Activation:** Once per long rest
-- **Effect:** 30ft cone freezing wind attack
-- **Saving Throw:** DC 15 Constitution
-- **Damage:** 4d8 cold damage on failed save, half damage on success
-- **Additional Effect:** Target knocked prone on failed save
-- Magical item (presumably)
-
-**Acquisition:** Returned from Fizwidget's Winter Realm (Session 35) after winning a snowman sculpture competition
-
----
+Moved to [[Items/Horn of the Winter Gale\|Horn of the Winter Gale]].
 
 ### Wand of Dusk Veil
 
-**Owner:** [[Party Members/Elvva Beltavar\|Elvva Beltavar]] | **Source:** Unnamed magical curio shop, [[Locations/Thalas'Miriel\|Thalas'Miriel]] (Session 36, 380 gp) | **Rarity:** Uncommon | **Attunement:** Yes
-
-**Charges:** 6 | **Recharge:** 1d4+2 at dawn
-
-**Spells:**
-
-- **Disguise Self** - 1 charge
-- **Silent Image** - 1 charge
-- **Darkness** - 2 charges
-
-**Special Ability - Veil Step:**
-
-- Cast Darkness, then move up to 10ft without provoking opportunity attacks
-
----
+Moved to [[Items/Wand of Dusk Veil\|Wand of Dusk Veil]].
 
 ### Key of the Wrong Door
 
-**Owner:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] | **Source:** Makeshift office chest, [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] (Session 39) | **Rarity:** Uncommon
-
-**Description:** Small gold key with a tiny green eye set in the bow.
-
-**Properties:**
-
-- **Activation:** Once per long rest — insert into any locked door and turn
-- Roll 1d6:
-- **1** — Door explodes
-- **2–3** — Remains locked (no negative consequence)
-- **4–5** — Opens normally
-- **6** — Opens to a completely different location (DM's choice)
-
-⚠️ **Note:** Does not override or supersede doors sealed by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s Permanent Lockpicks.
-
----
+Moved to [[Items/Key of the Wrong Door\|Key of the Wrong Door]].
 
 ### Coin of Fate
 
-**Owner:** [[Party Members/Elvva Beltavar\|Elvva Beltavar]] | **Source:** Found on a cultist, [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] (Session 39) | **Rarity:** Uncommon
-
-**Description:** Tarnished silver coin of unknown origin.
-
-**Properties:**
-
-- **Activation:** Once per long rest — when hitting a creature with an attack, flip the coin before damage is dealt
-- **Heads** — Target takes double damage
-- **Tails** — You take the damage instead (at normal value)
-
----
+Moved to [[Items/Coin of Fate\|Coin of Fate]].
 
 ### Blood-Pact Rings
 
-**Owner:** Party loot (found on [[NPCs/Darius Kain\|Darius Kain]], Session 39) | **Type:** Paired rings | **Rarity:** Rare (requires both rings to function)
-
-**Description:** Two rings designed to be worn as a matched pair — one in darker metal, one lighter, each set with a deep red stone (ruby or garnet) in swirling carved metalwork.
-
-**Properties (requires both rings to be worn by two different creatures):**
-
-- **Soul-Binding:** The rings link the life forces of both wearers
-- **Shared Fate:** Once per day — if one wearer is reduced to 0 hit points, they instead drop to 1 HP; the other wearer immediately takes double the damage that would have dropped their partner
-
-⚠️ **Note:** [[NPCs/Darius Kain\|Darius Kain]] was found wearing both rings on the same finger — wearing both yourself provides no benefit.
-
----
+Moved to [[Items/Blood-Pact Rings\|Blood-Pact Rings]].
 
 ### Dragon's Tear Gem
 
-**Owner:** [[Party Members/Elvva Beltavar\|Elvva Beltavar]] | **Source:** Dream Temple, Session 30 (see Origin below)
-
-**Properties:**
-
-- Appears alive (confirmed by observation)
-- Looks like sapphire to normal appraisers
-- Eerie swirling light inside
-- **Only item from Dream Temple that persisted into reality**
-- All other dream gems (100+ collected) vanished upon waking
-- Properties unknown, likely supernatural/Bane connection
-
-**Origin:** Dragon cried tear after [[Party Members/Elvva Beltavar\|Elvva Beltavar]] forgave [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] for her death
-
-**Mystery:** Why did only this gem persist? What are its powers?
-
----
+Moved to [[Items/Dragon's Tear Gem\|Dragon's Tear Gem]].
 
 ### Mini Steve
 
-**Owner:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] | **Source:** [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] (Session 31)
+Moved to [[Items/Mini Steve\|Mini Steve]].
 
-**Properties:**
-
-- Painted rock with face
-- **Not magical** - purely sentimental keepsake
-- Parting gift when Co'narr departed for Nolunia
-- Represents completed Bane Watcher training (Dream Vision was Co'narr's training method)
-
-**Background:** "Steve" in Dream Temple was manifestation of Co'narr's training, not a real entity
+Also in the Items folder: [[Items/Axe of Anger\|Axe of Anger]], [[Items/Iron Circlet\|Iron Circlet]], [[Items/Hide Armour\|Hide Armour]], [[Items/Founder's Wand\|Founder's Wand]], [[Items/Magical Rope\|Magical Rope]], [[Items/Ember-Veined Staff\|Ember-Veined Staff]], [[Items/Tooo-Ah's Gauntlets\|Tooo-Ah's Gauntlets]], [[Items/Ring of Intuition\|Ring of Intuition]], [[Items/Magical Bean\|Magical Bean]], [[Items/Sealed Scroll\|Sealed Scroll]], [[Items/Ornate Golden Sashes\|Ornate Golden Sashes]].
 
 ---
 
 ## Evidence & Lore Items
 
-**Wyvern's Death Certificates (Elvva):**
+Moved to the Items folder: [[Items/Wyvern's Diary and Death Certificates\|Wyvern's Diary and Death Certificates]], [[Items/Balthazar's Book of Names\|Balthazar's Book of Names]], [[Items/Massive Iridescent Scale\|Massive Iridescent Scale]], [[Items/Tales of the Lost Princess\|Tales of the Lost Princess]], [[Items/Sealed Scroll\|Sealed Scroll]].
 
-- Diary listing party deaths with dates
-- Most dates blank
-- [[Party Members/Ser Pas Rata\|Ser Pas Rata]]'s date accurate (proved prophetic)
-- Ominous implications
+**Evidence scroll (no longer held):** handed to [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] in Session 26. It listed Anfarlan, Duke Vallandor Firebloom (later renamed [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]), [[NPCs/Baron Roderick Stonewall\|Baron Roderick Stonewall]], [[NPCs/Ser Tristan Blackwood\|Ser Tristan Blackwood]] and Mark (a former member).
 
-**Balthazar's Book of Names (Odonia):**
+### Founder's Wand
 
-- Many names crossed out
-- Party members listed
-- Unknown purpose
-- Possible target list?
+Moved to [[Items/Founder's Wand\|Founder's Wand]].
 
-**Mark's Inclusion (Evidence scroll):**
+### Hide Armour
 
-- Handed to Princess Session 26
-- Evidence scroll listed:
-- Anfarlan
-- Duke Vallandor Firebloom
-- Baron Roderick Stonewall
-- Ser Tristan Blackwood
-- Mark (former member) listed
+Moved to [[Items/Hide Armour\|Hide Armour]].
 
-**Massive Iridescent Scale (Elik'r):**
+### Magical Rope
 
-- From unknown sea beast
-- Possible crafting material
+Moved to [[Items/Magical Rope\|Magical Rope]].
 
-**Tales of the Lost Princess (Tooo-Ah):**
+### Tales of the Lost Princess
 
-- Small book, series
-- [[Party Members/Tooo-Ah\|Tooo-Ah]] practicing reading
-- Possible connection to [[NPCs/Avicia\|Avicia]] mystery
+Moved to [[Items/Tales of the Lost Princess\|Tales of the Lost Princess]].
 
 ---
 

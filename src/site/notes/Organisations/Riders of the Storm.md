@@ -10,12 +10,19 @@
 
 ---
 
+## Current Status (Session 43)
+
+- **Location:** On the road from [[Locations/Thalas'Miriel\|Thalas'Miriel]] towards [[Locations/Neverwinter\|Neverwinter]], after [[NPCs/High Luminary Aelthir Vaelorian\|High Luminary Aelthir Vaelorian]]'s delegation
+- **Allied force:** 104 of the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] (41 knights, 63 acolytes and squires) under [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]], pledged to [[NPCs/Calen Thorne\|Calen Thorne]]'s claim
+- **New:** [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] bears the First Lantern's glaive and is recognised by the Order as the "First Light"; [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] has confessed to the party that she killed the king; [[NPCs/Guy 2\|Guy 2]] (goat sidekick) joined [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] and [[Party Members/Elvva Beltavar\|Elvva Beltavar]]
+- Troops (732 + healer) remain at [[Locations/Stormhold Keep\|Stormhold Keep]]
+
 ## Current Status (Session 42)
 
 - **Location:** [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]], at the mausoleum, with [[NPCs/Calen Thorne\|Calen Thorne]]; squires, horses and wagon sent back to [[Locations/Thalas'Miriel\|Thalas'Miriel]]
 - **Last action:** Destroyed four Bane-raised undead champions and forced the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] to withdraw; turned a zombie horde
 - **Immediate threat:** [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]], revealed invisible at the mausoleum as the session ended
-- **New in battle:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] planted the Stormswallow Family Banner for the first time (see [[General Files/Homebrew#Stormswallow Family Banner\|Homebrew]])
+- **New in battle:** [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] planted the Stormswallow Family Banner for the first time (see [[Items/Stormswallow Family Banner\|Homebrew]])
 - Troops (732 + healer) remain at [[Locations/Stormhold Keep\|Stormhold Keep]]; mission unchanged - see [[General Files/Campaign Reference\|Campaign Reference]] for the current picture
 
 ## Current Status (Session 32)
@@ -229,6 +236,7 @@
 |Unnamed Squire|Squire (secondary)|Elik'r Stormswallow|Active, combat-capable|
 |[[NPCs/Ser Garet of the Wildlands\|Ser Garet of the Wildlands]]|Knight → Commander|Elik'r Stormswallow|Promoted Session 26|
 |River|Rottweiler|Lady Odonia|Active|
+|[[NPCs/Guy 2\|Guy 2]]|Goat (sidekick)|Elik'r Stormswallow & Elvva Beltavar|Active - acquired Session 43|
 |[[NPCs/Avicia\|Avicia]]|Rightful heir (secret)|Tooo-Ah (adoptive parent)|Safe in Belendar, magical prodigy|
 
 **Note on Avicia:**

@@ -22,6 +22,7 @@ Lady Alyssa Crowsbane, Countess of [[Locations/Canathalas\|Canathalas]], is a ce
 - Lost to [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] in Round 1 (close match, 5-4 score over 3 tilts)
 - Sits with [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]]'s faction group
 - Appears connected to conspiracy faction
+- Named in the prophecy in the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]] (S43): _"A countess shall offer him affection sweet, while sharpening the blade beneath her seat."_ [[NPCs/Ser Elenai\|Ser Elenai]]'s spirit also teased [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] about his "dealings with a certain Countess" and told him not to fall at her feet again (Paul confirmed this is Countess Crowsbane)
 - Her bedroom was searched by the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]]: [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] found him rifling through her drawers before he left through a window (clarified Session 42) - what he was looking for is unknown
 
 ---
@@ -36,6 +37,7 @@ Lady Alyssa Crowsbane, Countess of [[Locations/Canathalas\|Canathalas]], is a ce
 ## Appearances
 
 - [[Sessions/Session 21 - 23 February 2025\|Session 21 - 23 February 2025]] - Seated with [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]]'s group at royal feast; [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] approached her and thanked her "for the bread and cheese" but insisted "don't ever do that again" (imprisoning him), came across as threatening (Intimidation 15); competed in Grand Joust Round 1, lost to [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] 5-4 in close 3-tilt match
+- [[Sessions/Session 43 - 14 November 2026\|Session 43 - 14 November 2026]] - Not present; named in the First Lantern's prophecy and in [[NPCs/Ser Elenai\|Ser Elenai]]'s speech to Tessell
 
 ---
 ## Related Quests

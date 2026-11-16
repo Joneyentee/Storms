@@ -57,10 +57,12 @@ Boxing champion at [[Locations/Crossroads Inn\|Crossroads Inn]]. Forgave [[Party
 
 ## Equipment
 
+_Full details, abilities and images for each item are on its own linked page._
+
 ### Weapons
 
-- Unknown (spellcaster)
-- **Veiny two-handed staff** - ember-veined staff that needs attunement (Ant, S40). First mentioned in Session 40; where she got it is not recorded in the transcripts checked (S36 to S39), so the origin is still to be confirmed
+- Spellcaster
+- [[Items/Ember-Veined Staff\|Ember-Veined Staff]] - two-handed; bought in Belendar before Session 18; needs attunement; properties unknown
 
 ### Armour
 
@@ -68,19 +70,18 @@ Boxing champion at [[Locations/Crossroads Inn\|Crossroads Inn]]. Forgave [[Party
 
 ### Magic Items
 
-- **Dragon's Tear gem** (Session 30) - Unique gem created when dragon shed tear after Elvva demonstrated genuine forgiveness to Elik'r. Only item from Dream Temple that remained upon waking (all other gems disappeared). Appears alive inside with moving/shifting light. Properties unknown. Formed from dragon's emotional response to authentic forgiveness - possibly connected to themes of redemption, emotional healing, or supernatural judgement of sincerity.
-- Wyvern's diary (contains death certificates including [[Party Members/Ser Pas Rata\|Ser Pas Rata]])
-- [[NPCs/Ser Balthazar Thornwood\|Ser Balthazar Thornwood]]'s personal diary (contains his darkest secrets)
-- Death certificates: Four blank ones for current party members, one dated for [[Party Members/Ser Pas Rata\|Ser Pas Rata]] (died ~1 month ago)
-- **Ornate golden sash** (Session 26 - symbolic item from Princess, marks military honour)
-- **Founder's Wand** (Session 27 - reward from Fizwidget Spindleflash) - Simple wand, magical properties unknown (requires Identify), name suggests significance
-- **Wand of Dusk Veil** (Session 36 - purchased for 380 gp, attuned) - Matte-black wand tipped with smoky quartz. 6 charges; recharges 1d4 + 2 at dawn. Spells: _Disguise Self_ (1 charge), _Silent Image_ (1 charge), _Darkness_ (2 charges). Special - _Veil Step_: when casting Darkness from this wand, may immediately move up to 10ft without provoking opportunity attacks.
-- **Coin of Fate** (Session 39) - Tarnished silver coin found on a cultist in the [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]]; once per long rest, when hitting a creature with an attack, flip the coin: heads = target takes double the damage, tails = you take the damage instead.
+- [[Items/Wand of Dusk Veil\|Wand of Dusk Veil]] (S36, attuned) - Disguise Self, Silent Image, Darkness; Veil Step
+- [[Items/Coin of Fate\|Coin of Fate]] (S39) - 1/long rest: double the damage, or take it yourself
+- [[Items/Dragon's Tear Gem\|Dragon's Tear Gem]] (S30) - properties unknown
+- [[Items/Founder's Wand\|Founder's Wand]] (S27) - properties unknown
+- [[Items/Wyvern's Diary and Death Certificates\|Wyvern's Diary and Death Certificates]] - Balthazar's diary; party death certificates
+- [[Items/Ornate Golden Sashes\|Ornate golden sash]] (S26) - ceremonial
 
 ### Other Gear
 
 - Standard adventuring equipment
-- **Frog** (Session 31) - Pet purchased from [[NPCs/Seraphine\|Seraphine]]
+- **Frog** (Session 31) - pet purchased from [[NPCs/Seraphine\|Seraphine]]
+- [[NPCs/Guy 2\|Guy 2]] (Session 43) - goat sidekick, shared with [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]
 
 ### Property
 
@@ -169,13 +170,15 @@ Boxing champion at [[Locations/Crossroads Inn\|Crossroads Inn]]. Forgave [[Party
     
 - **[[Sessions/Session 34 - 25 January 2026\|Session 34 - 25 January 2026]]:** Bane corruption pattern confirmed during [[Locations/Moth Queen Cavern\|Moth Queen Cavern]] battle. Held Fireball through two moth bites (passed Constitution saves 19 and 25), spell erupted bright green. Later cast Aganazzar's Scorcher dealing 32 damage to Moth Queen but failed third Wisdom save (rolled 5) - green flames reflected full damage back, knocked unconscious at moment of victory. Pattern established: escalating reflection risk with repeated spellcasting failures.
     
-- **[[Sessions/Session 36 - 21 February 2026\|Session 36 - 21 February 2026]]:** Purchased [[Party Members/Elvva Beltavar#Magic Items\|Wand of Dusk Veil]] from magical curio shop in [[Locations/Thalas'Miriel\|Thalas'Miriel]] for 380 gp (attuned). Dragon's Breath cast during frost wolf combat manifested as green flame (Bane corruption visible), knocking unconscious an already-wounded [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]. Morning tea left her convinced her hands and feet had been replaced with wooden spoons for 24 hours.
+- **[[Sessions/Session 36 - 21 February 2026\|Session 36 - 21 February 2026]]:** Purchased [[Items/Wand of Dusk Veil\|Wand of Dusk Veil]] from magical curio shop in [[Locations/Thalas'Miriel\|Thalas'Miriel]] for 380 gp (attuned). Dragon's Breath cast during frost wolf combat manifested as green flame (Bane corruption visible), knocking unconscious an already-wounded [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]. Morning tea left her convinced her hands and feet had been replaced with wooden spoons for 24 hours.
     
 - **[[Sessions/Session 38 - 6 April 2026\|Session 38 - 6 April 2026]]:** Player absent; character remained seated in the [[Locations/Cathedral of Gentle Redemption\|Cathedral of Gentle Redemption]] throughout the session, held in place by an elderly nun with an inexplicable grip. Took 20 psychic damage from the sermon. Teleported directly into the [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] ritual chamber by the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy (unnamed)]] at session end, reuniting with the full party.
     
 - **[[Sessions/Session 39 - 18 April 2026\|Session 39 - 18 April 2026]]:** Participated in the two-phase [[NPCs/Purple Dragonborn\|Purple Dragonborn]] boss fight. Took 28 points of damage (22 slashing, 6 fire) from the dragonborn's sword and was reduced to 1 HP. Used Misty Step to reposition (bonus action), then delivered the killing blow with a Lightning Chromatic Orb at level three — 49 total damage (23 lightning doubled for vulnerability, plus 3 Hex). Acquired the **Coin of Fate** from a cultist's body during the post-combat investigation.
     
 - **[[Sessions/Session 42 - 17 October 2026\|Session 42 - 17 October 2026]]:** Dropped to 1 HP by the Last Huntress's necrotic arrows in the opening round at the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] mausoleum. Answered with a Fireball that turned Bane-green as it left her hand - 53 damage including Hex, incinerating the Veiled Oracle; the DM judged it probably the most damage the party has dealt in one hit. Declined to risk the Coin of Fate on it. Stabilised [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] with Spare the Dying, destroyed a line of zombies with Aganazzar's Scorcher, and passed Dragon's Breath to [[NPCs/Calen Thorne\|Calen Thorne]].
+    
+- **[[Sessions/Session 43 - 14 November 2026\|Session 43 - 14 November 2026]]:** Completed the Truth trial in the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]], turning the statue's mirror to throw its light onto the founder's lantern (the mirror shattered). At the tavern, rolled into a self-refilling floating tankard, prophetic speech, constant correcting and complimenting of everyone, and having to speak dramatically; remained standing longer than anyone (Constitution 26). Woke with [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] and a baby goat, [[NPCs/Guy 2\|Guy 2]], now their shared sidekick, and was hailed by the patrons as _"Her Excellency Lady Wobblebottom the Tankard Conqueror, Lady of the Spilled Ale and Breaker of Barstools"_.
     
 
 ### Character Arc
@@ -334,6 +337,9 @@ Main damage dealer for party. 217 years old with extensive life experience. Carr
 
 ## Related Items
 
-- [[General Files/Homebrew#Dragon's Tear Gem\|Homebrew#Dragon's Tear Gem]]
-- [[General Files/Homebrew#Founder's Wand\|Homebrew#Founder's Wand]]
-- [[General Files/Homebrew#Coin of Fate\|Homebrew#Coin of Fate]]
+- [[Items/Dragon's Tear Gem\|Dragon's Tear Gem]]
+- [[Items/Founder's Wand\|Founder's Wand]]
+- [[Items/Coin of Fate\|Coin of Fate]]
+- [[Items/Wand of Dusk Veil\|Wand of Dusk Veil]]
+- [[Items/Ember-Veined Staff\|Ember-Veined Staff]]
+- [[Items/Wyvern's Diary and Death Certificates\|Wyvern's Diary and Death Certificates]]

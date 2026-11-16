@@ -9,7 +9,7 @@
 **Race:** Half-Elf
 **Class:** Life Cleric
 **Level:** 6 
-**Tags:** #pc #party-member #leader #healer #bane-watcher #tournament-competitor #noble
+**Tags:** #pc #party-member #leader #healer #bane-watcher #tournament-competitor #noble #prophecy-connected
 
 ---
  
@@ -43,6 +43,8 @@ Life Cleric devoted to Ilmater, god of endurance. Leader of the [[Organisations/
 
 **Military Rank:** General of the Left (Session 26 - appointed by [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]])
 
+**First Light (Session 43):** Bearer of [[NPCs/Ser Elenai\|Ser Elenai]]'s glaive. By the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]]'s leadership legends, whoever is granted the glaive takes on being the "First Light". This does not make him leader of the Order unless he challenges [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] for it. The subject of a centuries-old prophecy in the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]].
+
 ---
 
 ### Origin Story
@@ -65,25 +67,29 @@ With faith tempered by doubt, and compassion stronger than fear, Tessell left th
 
 ## Equipment
 
+_Full details, abilities and images for each item are on its own linked page._
+
 ### Weapons
 
-- **Axe of Anger** (primary melee weapon) - +2 Handaxe, used instead of mace when melee combat needed
-- Mace - 1d6 bludgeoning (backup weapon)
+- [[Items/The First Lantern's Glaive\|The First Lantern's Glaive]] (S43, attuned) - rare glaive, 1d8 / 1d12 two-handed with 10ft reach; Lantern's Sanctuary and Warding Glow
+- [[Items/Axe of Anger\|Axe of Anger]] - +2 handaxe (possibly bought in Belendar); main melee weapon before S43
+- Mace - 1d6 bludgeoning (backup)
 
 ### Armour
 
-- Chain mail - AC 18
+- Chain mail - AC 18 (with shield)
 
 ### Magic Items
 
-- Permanent Lockpicks (see [[General Files/Homebrew#Permanent Lockpicks\|Homebrew#Permanent Lockpicks]]) - Can permanently lock anything, cannot unlock (looted from [[NPCs/Ser Balthazar Thornwood\|Ser Balthazar Thornwood]])
-- **Ornate golden sash** (Session 26 - symbolic item from Princess, marks military rank)
-- **Iron Circlet** (Session 27 - reward from Fizwidget Spindleflash) - Simple iron band, magical properties unknown (requires Identify)
+- [[Items/Permanent Lockpicks\|Permanent Lockpicks]] - lock anything, unlock nothing
+- [[Items/Iron Circlet\|Iron Circlet]] (S27) - properties unknown
+- [[Items/Blood-Pact Rings\|Blood-Pact Rings]] (S39) - probably carried by Tessell; not known to be worn
+- [[Items/Psychic Link Rings\|Psychic Link Rings]] - the cursed lover's rings shared with Elik'r; removed (whether Tessell kept his is unrecorded)
+- [[Items/Ornate Golden Sashes\|Ornate golden sash]] (S26) - ceremonial
 
 ### Other Gear
 
-- Signet ring for stamping letters (given to Tessell before Session 18 - from Kieran's notes, exact session unconfirmed)
-
+- Signet ring for stamping letters (given before Session 18 - from Kieran's notes, exact session unconfirmed)
 - Lute (purchased in Belendar - required for The Goddess Song ability)
 - Standard adventuring equipment
 
@@ -211,6 +217,8 @@ Tessell now keeps the veil tucked into his robes, using it in moments of prayer,
 - Military advisor: [[NPCs/Ser Silvar Glinnan\|Ser Silvar Glinnan]]
 - Admirer: [[NPCs/Countess Alyssa Crowsbane\|Countess Alyssa Crowsbane]] (has soft spot for him)
 - Strategic advisor: [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]]
+- Glaive entrusted by: [[NPCs/Ser Elenai\|Ser Elenai]] (the First Lantern, S43)
+- [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] - in command of the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]]; leads the Order alongside the party (S43): _"You guide the way, we will follow"_
 
 ---
 
@@ -249,10 +257,12 @@ Tessell now keeps the veil tucked into his robes, using it in moments of prayer,
     
 - **[[Sessions/Session 42 - 17 October 2026\|Session 42 - 17 October 2026]]:** Performed his campaign anthem "Achiever" before play and was awarded a hero token. At the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] mausoleum he was knocked unconscious by the Hollow Blade's necrotic eruption and revived by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], destroyed the Last Huntress with Spiritual Weapon, and passed by a single point a Wisdom save that would have petrified him. **Cast Command ("Retreat") on the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]], who failed the save and portalled away - ending the boss fight.** Spent the hero token on a second Turn Undead that routed the zombie horde.
     
+- **[[Sessions/Session 43 - 14 November 2026\|Session 43 - 14 November 2026]]:** Attacked by compelled allies (Elik'r's hilt-punch, Odonia's slap - caught) as the S42 effect played out. Heard a goddess's voice telling him to go straight ahead, prayed open the mausoleum's lantern door and found the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]], whose prophecy names him. Completed the Mercy trial (100 silver into the offering bowl) and answered the lantern's riddle. **[[NPCs/Ser Elenai\|Ser Elenai]]'s voice named him worthy and her glaive flew to his hand - he is now the "First Light"**; attuned to it during the long rest. Persuaded [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] to commit the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] to [[NPCs/Calen Thorne\|Calen Thorne]]'s claim after Tooo-Ah's natural 1. In the tavern: a glass-shattering burp and a talking stomach.
+    
 
 ### Character Arc
 
-**Ser Tessell Highfrost**, leader of [[Organisations/Riders of the Storm\|Riders of the Storm]], granted army and [[Locations/Stormhold Keep\|Stormhold Keep]] by [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]]. **Formally knighted Session 26** with title Knight of the Storm Riders. **Appointed General of the Left** and commissioned as Marshal of the North. Tasked with securing north and east territories. Focus on healing and supporting party while managing military responsibilities.
+**Ser Tessell Highfrost**, leader of [[Organisations/Riders of the Storm\|Riders of the Storm]], granted army and [[Locations/Stormhold Keep\|Stormhold Keep]] by [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]]. **Formally knighted Session 26** with title Knight of the Storm Riders. **Appointed General of the Left** and commissioned as Marshal of the North. Tasked with securing north and east territories. Focus on healing and supporting party while managing military responsibilities. **Session 43:** revealed as the subject of an ancient prophecy (_"a stranger born of two worlds... whose greatest victories are oft preceded by a fall"_) and granted the First Lantern's glaive - _"somewhere beneath that wonderfully troublesome exterior there burns a light worth following."_ The Order of the Silver Lantern now marches with the party and looks to him.
 
 ### Skills & Abilities
 
@@ -342,4 +352,5 @@ Tessell now keeps the veil tucked into his robes, using it in moments of prayer,
 ## Currency
 
 - -40 gold (Session 26 - drunken chapel pledge)
+- -100 silver (Session 43 - offering bowl, Mercy trial)
 - +11 silver, +3 copper (Session 37 - looted from [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] guard room)

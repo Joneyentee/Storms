@@ -44,10 +44,13 @@ Formerly part of gang with [[NPCs/Logrin the Dwarf\|Logrin the Dwarf]]. Brews ma
 
 ## Equipment
 
+_Full details, abilities and images for each item are on its own linked page._
+
 ### Weapons
 
 - Unarmed strikes (monk) - 1d4 + DEX with talons
-- Gauntlets that give +2 to hit - studded (extra damage where the knuckles land) and slightly magical. Ant reworked them in Session 23 because the first pair he gave her "didn't work". Kieran's notes record "Too-ah bought new magic gauntlets 230Gp" in the capital (Odessia/Belendar), on the same page as Odonia choosing her bow and Tessell receiving a signet ring - so before Session 18 (Kieran's notes stop there; exact session unconfirmed because his page has no session heading). Ant later reworked them in Session 23
+- [[Items/Tooo-Ah's Gauntlets\|Tooo-Ah's Gauntlets]] - +2 to hit, studded, slightly magical
+- Wing darts - see Skills & Abilities
 
 ### Armour
 
@@ -55,12 +58,13 @@ Formerly part of gang with [[NPCs/Logrin the Dwarf\|Logrin the Dwarf]]. Brews ma
 
 ### Magic Items
 
-- [[General Files/Homebrew\|Magical Tea Bags]]- d100 random effects, homebrewed ability
-- [[General Files/Homebrew\|Tales of the Lost Princess]] book (looted from [[NPCs/Ser Balthazar Thornwood\|Ser Balthazar Thornwood]]) - practicing reading with it
-- **Ornate golden sash** (Session 26 - symbolic item from Princess, marks military honour)
-- **Magical Rope** (Session 27 - reward from Fizwidget Spindleflash) - Rope with glimmer in random parts, magical properties unknown (requires Identify), can wear around body like mountaineering rope
-- **[[General Files/Homebrew#Horn of the Winter Gale\|Horn of the Winter Gale]]** (Session 35 - reward from [[NPCs/Fizwidget Spindleflash\|Fizwidget Spindleflash]]) - Long carved horn from long-dead ice beast. Once per long rest (action): blow horn to create 30ft cone of freezing wind. Creatures in cone make DC 15 Constitution save (fail: 4d8 cold damage + knocked prone; success: half damage, remain standing). Area becomes icy terrain until end of turn.
-- **Ring of Intuition** (Session 31 - attuned; properties confirmed Session 36) - Once per long rest, gain advantage on Intelligence-based saving throws and skill checks.
+- [[Items/Horn of the Winter Gale\|Horn of the Winter Gale]] (S35) - 1/long rest 30ft cold cone
+- [[Items/Ring of Intuition\|Ring of Intuition]] (S31, attuned) - advantage on Intelligence saves and checks, 1/long rest
+- [[Items/Magical Rope\|Magical Rope]] (S27) - properties unknown
+- [[Items/Magical Bean\|Magical Bean]] (S26) - in her bag without her knowing; properties unknown
+- [[Items/Tales of the Lost Princess\|Tales of the Lost Princess]] - practising her reading with it
+- Magical Tea Bags - d100 effects; see [[General Files/Homebrew#Tooo-Ah's Magical Tea\|Homebrew#Tooo-Ah's Magical Tea]]
+- [[Items/Ornate Golden Sashes\|Ornate golden sash]] (S26) - ceremonial
 
 ### Other Gear
 
@@ -116,9 +120,10 @@ Formerly part of gang with [[NPCs/Logrin the Dwarf\|Logrin the Dwarf]]. Brews ma
 - **[[Sessions/Session 24 - 4 May 2025\|Session 24 - 4 May 2025]]:** [[NPCs/Avicia\|Avicia]]'s identity revealed as rightful heir - [[Party Members/Tooo-Ah\|Tooo-Ah]] adopted legitimate successor to throne
 - **[[Sessions/Session 26 - 16 July 2025\|Session 26 - 16 July 2025]]:** **Appointed Chariot General.** Asked [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] about [[NPCs/Avicia\|Avicia]]'s magical education - showing parental concern for her development and future. Unknowingly acquired magical sprouting bean in bag (slipped in during feast). Attempted to grab Black Knight's warhammer through splintered door, pulled close for punch that mysteriously stopped mid-air.
 - **[[Sessions/Session 27 - 26 July 2025\|Session 27 - 26 July 2025]]:** Received magical rope from Fizwidget Spindleflash after completing carnival challenges. Lost wings temporarily in mirror maze challenge during magical alternate reality experience (reversed at reality reset).
-- **[[Sessions/Session 35 - 8 February 2026\|Session 35 - 8 February 2026]]:** Returned from [[Locations/Fizwidget's Winter Realm\|Fizwidget's Winter Realm]] after winning snowman sculpture competition against Fizwidget (Natural 20 vs Natural 1). Received [[General Files/Homebrew#Horn of the Winter Gale\|Horn of the Winter Gale]] as reward. Rejoined party en route to [[Locations/Thalas'Miriel\|Thalas'Miriel]].
+- **[[Sessions/Session 35 - 8 February 2026\|Session 35 - 8 February 2026]]:** Returned from [[Locations/Fizwidget's Winter Realm\|Fizwidget's Winter Realm]] after winning snowman sculpture competition against Fizwidget (Natural 20 vs Natural 1). Received [[Items/Horn of the Winter Gale\|Horn of the Winter Gale]] as reward. Rejoined party en route to [[Locations/Thalas'Miriel\|Thalas'Miriel]].
 - **[[Sessions/Session 36 - 21 February 2026\|Session 36 - 21 February 2026]]:** Ring of Intuition properties formally confirmed. Attempted to Warg into the Frost Wolf during combat with female orc rider - met by rider's spirit in a green-lit spirit realm, punched back for 12 psychic damage. Morning tea compelled her to punch [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]. Caught stealing from the cathedral collection basket at the Cathedral of Gentle Redemption (Sleight of Hand 12, Deception 9 - failed); escorted to the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] garrison by guards to end the session.
 - **[[Sessions/Session 42 - 17 October 2026\|Session 42 - 17 October 2026]]:** Stunned the Oathless with Stunning Strike at the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] mausoleum (32 damage in one turn). Alone failed the Wisdom save against the Hollow Blade's Bane-charged screech and was compelled to attack [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] on her next turn - both attacks missed. Had 10 HP of life force torn from her by the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] to animate a dead tree.
+- **[[Sessions/Session 43 - 14 November 2026\|Session 43 - 14 November 2026]]:** Completed the Vigilance trial in the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]] - flew up, counted 13 stars carved in the ceiling against 12 on the pedestal, and pressed the extra star. Asked [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] for the Order's backing of [[NPCs/Calen Thorne\|Calen Thorne]] (natural 1; Tessell finished the job). At the tavern a duck dinner left two dogs following her, and a slice of cake made everyone call her "Your Deliciousness".
 
 ### Character Arc
 
@@ -218,5 +223,9 @@ Monk with criminal past (gang member) now adventuring hero. Adopted [[NPCs/Avici
 ## Related Items
 
 - [[General Files/Homebrew#Tooo-Ah's Magical Tea\|Homebrew#Tooo-Ah's Magical Tea]]
-- [[General Files/Homebrew#Tales of the Lost Princess\|Homebrew#Tales of the Lost Princess]]
-- [[General Files/Homebrew#Magical Rope\|Homebrew#Magical Rope]]
+- [[Items/Tales of the Lost Princess\|Tales of the Lost Princess]]
+- [[Items/Magical Rope\|Magical Rope]]
+- [[Items/Tooo-Ah's Gauntlets\|Tooo-Ah's Gauntlets]]
+- [[Items/Horn of the Winter Gale\|Horn of the Winter Gale]]
+- [[Items/Ring of Intuition\|Ring of Intuition]]
+- [[Items/Magical Bean\|Magical Bean]]

@@ -6,7 +6,42 @@
 
 **Long-term mysteries, ancient secrets, ongoing investigations**
 
-[Index](02 Quests Index.md) | [Active](Quests - Active.md) | [On Hold](Quests - On Hold.md) | **Mysteries**
+[Active](Quests - Active.md) | [On Hold](Quests - On Hold.md) | **Mysteries**
+
+---
+
+## Session 43 Mysteries
+
+### The Prophecy of the First Lantern
+
+**HIGH** | Revealed S43 - partly fulfilled
+
+**Event:** An inscription beneath [[NPCs/Ser Elenai\|Ser Elenai]]'s statue in the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]], recited to the party by her voice, foretold "a stranger born of two worlds" - Tessell, with poetic licence over "Highfrost" - who would pass five trials with others' help and receive the First Lantern's flame. The trials are done and the glaive granted, but several lines point beyond the tomb (full text in [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]]).
+
+**Key Questions:**
+
+- _"A countess shall offer him affection sweet, while sharpening the blade beneath her seat"_ - what is [[NPCs/Countess Alyssa Crowsbane\|Countess Alyssa Crowsbane]] planning, and how does it connect to the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] searching her bedroom?
+- _"He shall steal the hearts of noble blood, though some may seek to spill his own"_ - who?
+- _"And the world may yet remember Tessell's name"_ - what is the "First Light" meant to do?
+- What was the Long Night that Ser Elenai carried the glaive through?
+- Why were the Bane-raised champions, including the defaced-lantern Oathless, entombed directly above the founder?
+
+**Related:** [[NPCs/Ser Elenai\|Ser Elenai]] | [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]] | [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] | [[Items/The First Lantern's Glaive\|The First Lantern's Glaive]]
+
+---
+
+### The Goddess's Voice
+
+**MEDIUM** | S43
+
+**Event:** At the cemetery, a Religion check (17) let [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] alone hear a goddess's voice telling him to go straight ahead - towards the mausoleum door that opened only to his prayer. Tessell's god is Ilmater, and the voice was a goddess's.
+
+**Key Questions:**
+
+- Was it [[NPCs/Ser Elenai\|Ser Elenai]], the deity she served, or someone else?
+- Has the same voice spoken to Tessell before?
+
+**Related:** [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] | [Tessell's Bane Connection](Quests - Mysteries.md#tessells-bane-connection---the-cult-symbol--the-seraph)
 
 ---
 
@@ -25,6 +60,7 @@
 - Did the [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]]'s four bolts of green Bane light (S41) prepare them for raising?
 - Can the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] raise more of them elsewhere?
 - What was the petrifying effect he tried to use on [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]], and is it linked to the campaign's other petrifications?
+- **S43:** the mausoleum they rose from sits directly above the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]], founder of the Order - guardians, prisoners, or disgraced knights buried at her door?
 
 **Related:** [[NPCs/Champions of the Mausoleum\|Champions of the Mausoleum]] | [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] | [The Bane](Quests - Active.md#the-bane)
 
@@ -186,7 +222,7 @@ The complex has been fully explored, the cult eliminated, and the ritual chamber
 
 ### Lord Pompaduke's True Identity
 
-**HIGH** | Revealed still at the cemetery mausoleum near [[Locations/Thalas'Miriel\|Thalas'Miriel]] (S42) — confrontation unresolved
+**HIGH** | Left the cemetery with a threat against [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] (S43); at large
 
 **S39 Resolution (partial):** [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] revealed his true agenda openly: he engineered the party's actions throughout — including the sequence of events leading to the wyrm's release — for his own ends. His exact words: _"Thank you, everyone, for completing the task I needed to do. For me."_ He then opened a Bane-powered portal and departed with the wyrm. His lute abilities, portal creation, and combat invisibility are all confirmed as Bane-powered. His "Brother Algrim" identity at the cathedral was a cover used to monitor and influence events.
 
@@ -195,6 +231,8 @@ The complex has been fully explored, the cult eliminated, and the ritual chamber
 **S41 Development:** Fight concluded - his decoy/illusory form was destroyed by [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]]'s Radiant Bow while his true, invisible self was elsewhere on the battlefield; he portalled away with "See you at our next chapter!" Reappeared shortly after at a cemetery mausoleum alongside the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]], the [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]], and the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]]; bowed and portalled away a second time. [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] (via the Steve stone link) warned the party against trusting him, revealing he was cast out of Co'narr's own order many decades ago.
 
 **S42 Development:** His second Session 41 portal exit was a feint. He remained invisible beside the cemetery mausoleum for the whole of the Session 42 battle against the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] and his undead champions - the same trick he used on the rooftops of [[Locations/Thalas'Miriel\|Thalas'Miriel]] - and revealed himself by playing his lute only as the turned zombie horde fled. The DM hinted that he was the one sustaining the horde. Session ended on his reappearance.
+
+**S43 Development:** No fight. He told [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] to pass on to Co'narr: _"You can tell that stubborn oaf I'm coming for him next"_, then portalled away in green mist, using [[NPCs/The Bane\|The Bane]] to collapse the remaining skeletons as he went; the fleeing zombies later crumbled to dust - consistent with his having sustained them.
 
 **Remaining Key Questions:**
 
@@ -205,6 +243,7 @@ The complex has been fully explored, the cult eliminated, and the ritual chamber
 - What is his connection to the wider Bane threat?
 - What order was he cast out of, and why (S41)?
 - Why did he stay hidden at the mausoleum rather than leave with the others, and is he the one raising and sustaining the zombie horde (S42)?
+- Why is he going after [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] next, and does it connect to his expulsion from Co'narr's order (S43)?
 
 **Related:** [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] | [The Bane](Quests - Active.md#the-bane) | [Mysterious Figures Network](https://claude.ai/chat/d4f13236-d20b-42e9-949a-3a4dc8e1f9ba#mysterious-figures-network)
 
@@ -366,7 +405,7 @@ The complex has been fully explored, the cult eliminated, and the ritual chamber
 - Will grant magical items after Winter Realm? (Session 27 precedent: 4 items)
 - How to prevent future interventions?
 
-**Session 35 Update:** Tooo-Ah returned with [[General Files/Homebrew#Horn of the Winter Gale\|Horn of the Winter Gale]] after winning snowman sculpture competition against Fizwidget (Natural 20 vs Natural 1). Liora Emberveil's fate remains unknown.
+**Session 35 Update:** Tooo-Ah returned with [[Items/Horn of the Winter Gale\|Horn of the Winter Gale]] after winning snowman sculpture competition against Fizwidget (Natural 20 vs Natural 1). Liora Emberveil's fate remains unknown.
 
 **Threat Assessment:** PATTERN CONFIRMED (Session 33) - Second intervention establishes he will return repeatedly. Targets party during mission-critical moments. Unpredictable timing. Far beyond normal gnome. Could threaten Stormhold Keep while party away. Conventional defenses useless against reality warping.
 
@@ -555,4 +594,4 @@ The complex has been fully explored, the cult eliminated, and the ritual chamber
 
 **Last Updated:** Session 42
 
-> [Index](02 Quests Index.md) | [Active](Quests - Active.md) | [On Hold](Quests - On Hold.md) | **Mysteries**
+> [Active](Quests - Active.md) | [On Hold](Quests - On Hold.md) | **Mysteries**

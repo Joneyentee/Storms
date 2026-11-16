@@ -4,7 +4,39 @@
 
 **Archive of resolved quests**
 
-> [Index](02 Quests Index.md) | [Active](Quests - Active.md) | [On Hold](Quests - On Hold.md) | [Mysteries](Quests - Mysteries.md) | **Completed**
+> [Active](Quests - Active.md) | [On Hold](Quests - On Hold.md) | [Mysteries](Quests - Mysteries.md) | **Completed**
+
+---
+
+## Session 43 Completions
+
+### ✅ Investigate the Cemetery (Source of the Undead)
+
+**Completed:** Session 43
+
+**Outcome:** The [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] was confirmed as the source of the zombie incursion (S41). The [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] was driven off and his four champions destroyed (S42); [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] left by portal (S43) and the fleeing zombies crumbled to dust outside [[Locations/Thalas'Miriel\|Thalas'Miriel]]. The mausoleum's real secret was the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]] beneath it.
+
+**Loose Ends:** The [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] and Pompaduke are both at large; who the [[NPCs/Champions of the Mausoleum\|Champions of the Mausoleum]] were is still unknown.
+
+---
+
+### ✅ The Trials of the First Lantern
+
+**Completed:** Session 43 (discovered and finished in the same session)
+
+**Outcome:** In the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]], the party completed five trials of the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]]'s founder: Vigilance ([[Party Members/Tooo-Ah\|Tooo-Ah]]), Mercy ([[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]), Courage ([[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]], after [[NPCs/Calen Thorne\|Calen Thorne]] faltered), Truth ([[Party Members/Elvva Beltavar\|Elvva Beltavar]]) and Sacrifice ([[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], by confessing to killing the king). Tessell answered the lantern's riddle and [[NPCs/Ser Elenai\|Ser Elenai]]'s spirit entrusted him with [[Items/The First Lantern's Glaive\|her glaive]]; the central statue crumbled.
+
+**Impact:** Tessell is recognised by the Order as the "First Light". The prophecy that named him remains partly unfulfilled (see [[Quests/Quests - Mysteries#The Prophecy of the First Lantern\|Quests - Mysteries#The Prophecy of the First Lantern]]).
+
+---
+
+### ✅ Secure Silver Lantern Backing for Calen's Claim
+
+**Completed:** Session 43
+
+**Outcome:** After [[Party Members/Tooo-Ah\|Tooo-Ah]]'s fumbled appeal (natural 1), [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] - bearing the founder's glaive - persuaded [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] to lead the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] with the party to restore [[Locations/Neverwinter\|Neverwinter]] to [[NPCs/Calen Thorne\|Calen Thorne]]: _"You guide the way, we will follow."_ 41 knights and 63 acolytes and squires (104) marched out with the party.
+
+**Related:** [[Quests/Quests - Active#Rally the North\|Quests - Active#Rally the North]]
 
 ---
 
@@ -317,16 +349,17 @@
 
 ## Statistics
 
-**Total Completed:** 14 (13 major + 1 partial) **Session 39:** 1 completion **Session 38:** 1 completion **Session 34:** 1 completion **Session 31:** 4 completions **Session 30:** 1 completion **Session 26:** 5 completions **Completion Rate:** ~30% of total tracked quests
+**Total Completed:** 17 (16 major + 1 partial) **Session 43:** 3 completions **Session 39:** 1 completion **Session 38:** 1 completion **Session 34:** 1 completion **Session 31:** 4 completions **Session 30:** 1 completion **Session 26:** 5 completions **Completion Rate:** ~30% of total tracked quests
 
 **By Priority at Completion:**
 
-- Critical: 8 (Palace Defense, Princess, Avicia, Thalas, Ceremony, Sylobelle Murders, Dream Vision, Identify Ember Vein Cult)
+- Critical: 10 (Palace Defense, Princess, Avicia, Thalas, Ceremony, Sylobelle Murders, Dream Vision, Identify Ember Vein Cult, Investigate the Cemetery, Silver Lantern Backing)
+- High: 1 (Trials of the First Lantern)
 - Medium: 4 (Steward, Steve Mystery, Eldrin, Spud Quest)
 - Low: 1 (Old Sylobelle)
 
 ---
 
-**Last Updated:** Session 39
+**Last Updated:** Session 43
 
-> [Index](02 Quests Index.md) | [Active](Quests - Active.md) | [On Hold](Quests - On Hold.md) | [Mysteries](Quests - Mysteries.md) | **Completed**
+> [Active](Quests - Active.md) | [On Hold](Quests - On Hold.md) | [Mysteries](Quests - Mysteries.md) | **Completed**

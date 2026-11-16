@@ -6,7 +6,7 @@
 
 # Campaign Reference - Quick Lookup
 
-**Last Updated:** Session 42 **Campaign:** Riders of the Storm **System:** D&D 5E **Current Party Level:** 6 (levelled Session 30)
+**Last Updated:** Session 43 **Campaign:** Riders of the Storm **System:** D&D 5E **Current Party Level:** 6 (levelled Session 30)
 
 ---
 
@@ -14,29 +14,28 @@
 
 |Character|Player|Class|Key Info|
 |---|---|---|---|
-|**Ser Tessell Highfrost**|Paul|Life Cleric 6|Knight of Storm Riders, General of the Left, permanent scar, targeted by dormant Bane command (Tooo-Ah), Bane manifested physically through palm (S37), **seraph contact via ember fissure - "Kill them all" (S38)**; **forced the Unknown Axe Fighter to withdraw with Command (S42)**|
-|**Lady Odonia of Galantri**|Annie|Ranger 6|Lady of Sylobelle, Royal Advisor, General of the North, **Warg ability (even/odd control)**, dormant Bane command (kill Co'narr)|
-|**Elik'r Stormswallow**|Kieran|Paladin 6|Age 17, dragonborn, General of the Right, curse active (3 psychic when harming Elvva), missing pinky finger (S34), Mini Steve, **attuned to Stormswallow Longsword - Ember Wave ability (S40)**; **Stormswallow Family Banner first planted (S42)**|
+|**Ser Tessell Highfrost**|Paul|Life Cleric 6|Knight of Storm Riders, General of the Left, permanent scar, targeted by dormant Bane command (Tooo-Ah), Bane manifested physically through palm (S37), **seraph contact via ember fissure - "Kill them all" (S38)**; forced the Unknown Axe Fighter to withdraw with Command (S42); **First Lantern's Glaive (attuned) - the "First Light", subject of Ser Elenai's prophecy (S43)**|
+|**Lady Odonia of Galantri**|Annie|Ranger 6|Lady of Sylobelle, Royal Advisor, General of the North, **Warg ability (even/odd control)**, dormant Bane command (kill Co'narr); **confessed to the party and Calen that she killed the king (S43)**|
+|**Elik'r Stormswallow**|Kieran|Paladin 6|Age 17, dragonborn, General of the Right, curse active (3 psychic when harming Elvva), missing pinky finger (S34), Mini Steve, **attuned to Stormswallow Longsword - Ember Wave ability (S40)**; Stormswallow Family Banner first planted (S42); **Guy 2 goat sidekick, shared with Elvva (S43)**|
 |**Tooo-Ah**|Joy|Monk 6|Aarakocra, Chariot General, brews magical teas, adopted Avicia, Horn of Winter Gale (S35), Ring of Intuition (S31); **killed Darius Kain (S38)**|
-|**Elvva Beltavar**|Shannon|Sorc 5/Lock 1|Age 217, drow, main DPS, **CRITICAL Bane corruption (Dragon's Breath now green Bane flame S36)**, Dragon's Tear gem, Wand of Dusk Veil (S36); **teleported to underground chamber by Ember Vein Envoy (S38); full party reunited**; **Bane-green Fireball for 53 damage (S42)**|
+|**Elvva Beltavar**|Shannon|Sorc 5/Lock 1|Age 217, drow, main DPS, **CRITICAL Bane corruption (Dragon's Breath now green Bane flame S36)**, Dragon's Tear gem, Wand of Dusk Veil (S36); **teleported to underground chamber by Ember Vein Envoy (S38); full party reunited**; Bane-green Fireball for 53 damage (S42); **Guy 2 goat sidekick, shared with Elik'r (S43)**|
 
 **Former Member:** Ser Pas Rata (Deceased ~1 month ago) **Fate Unknown:** Liora Emberveil (appeared Fizwidget's Winter Realm S33, did not return S34)
 
 ---
 
-## Current Situation (Session 42)
+## Current Situation (Session 43)
 
-**Location:** [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] - mausoleum; battle against the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] and his undead champions won, [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] revealed (S42) **Status:** Marshals of the North, 732 troops + Seraphine (at Stormhold Keep); zombie incursion at [[Locations/Thalas'Miriel\|Thalas'Miriel]] resolved (S41) **Mission:** Rally the North - now investigating the cemetery source and Dragonclaw Isle **Crisis:** Four undead champions destroyed and the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] driven off; [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] was invisible on site throughout and has just revealed himself
+**Location:** On the road from [[Locations/Thalas'Miriel\|Thalas'Miriel]] towards [[Locations/Neverwinter\|Neverwinter]] (S43) **Status:** Marshals of the North, 732 troops + Seraphine (at Stormhold Keep); **104 of the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] (41 knights, 63 acolytes/squires) marching with the party under [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]]** **Mission:** Rally the North - reach Neverwinter, counter Vaelorian's delegation, press [[NPCs/Calen Thorne\|Calen Thorne]]'s claim **Crisis:** None immediate; travel rolls pending
 
 **Immediate Concerns:**
 
-- **Lord Pompaduke at the mausoleum (S42 cliffhanger):** His S41 portal exit was a feint; invisible beside the fight throughout; revealed by lute music as the turned zombies fled
-- **Unresolved Wisdom save (S42):** Whole party saved as Pompaduke appeared; [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] (natural 1) and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] each rolled a d6 (6 and 2) for an effect not yet revealed
+- **The road to Neverwinter (S43):** d20/d12 travel rolls made but not yet resolved; delegation ahead of the party
+- **Calen's claim (S43):** Silver Lantern backing secured; Calen does not want his brothers killed; [[NPCs/Edran Thorne\|Edran Thorne]], [[NPCs/Marek Thorne\|Marek Thorne]]'s mercenaries and the unnamed Regent stand in the way
+- **Pompaduke threatens Co'narr (S43):** "Tell that stubborn oaf I'm coming for him next"; message left on the Steve stone, no reply
 - **Unknown Axe Fighter at large (S42):** Wields The Bane; forced to withdraw by Command, undefeated
-- **Zombie horde (S42):** Turned by Tessell, not destroyed - fled into the cemetery surroundings
 - **Dragonclaw Isle revealed (S41):** [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] named it as the location of "the other dragon"
-- **Lord Pompaduke's history (S41):** Confirmed cast out of [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]'s order decades ago; escaped twice this session
-- **[[NPCs/Calen Thorne\|Calen Thorne]]'s Ducal claim (S41):** Now confirmed he intends to claim the throne; Silver Lantern backing still undecided
+- **Tavern effects (S43):** most 24-hour ale/feast effects should have expired by the march - check with Ant (the floating tankard and moustaches were all 24 hours)
 - Sealed scroll from [[NPCs/Darius Kain\|Darius Kain]] still unread
 - Vaelorian's delegation to Neverwinter: Ticking clock - counters Rally the North mission directly
 - Elvva's Bane corruption CRITICAL (Dragon's Breath manifesting as green Bane flame S36)
@@ -44,7 +43,7 @@
 - Eastern Citadel fallen silent (strange creatures attacking)
 - Wyrm taken by Pompaduke (S39) - possibly tied to Dragonclaw Isle (S41)
 
-**Next Steps:** Deal with Lord Pompaduke at the mausoleum; learn the effect of the final Wisdom save; finish investigating the cemetery; investigate Dragonclaw Isle; read sealed scroll; counter Neverwinter delegation; determine next move toward Neverwinter
+**Next Steps:** Resolve the journey; catch or counter Vaelorian's delegation; plan Calen's claim with the Silver Lanterns; read sealed scroll; reach Co'narr; investigate Dragonclaw Isle
 
 ---
 
@@ -92,12 +91,13 @@
 
 ### Support
 
-- **Ser Alric Vayne** - **S37**: Former second in command, Order of the Silver Lantern; Crown loyalist; **openly in command of the garrison (S41)**
-- **Calen Thorne** - **JOINED PARTY S40** (was "Brother Calen"): Combat-trained monk; bastard son of [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]; **confirmed intent to claim the Ducal throne (S41)**; Silver Lantern backing still needed; abilities: Ice Blade (S41), Brace (S42)
+- **Ser Alric Vayne** - **S37**: Former second in command, Order of the Silver Lantern; Crown loyalist; openly in command of the garrison (S41); **pledged the Order to Calen's claim and marches with the party - 104 strong (S43)**
+- **Calen Thorne** - **JOINED PARTY S40** (was "Brother Calen"): Combat-trained monk; bastard son of [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]; **confirmed intent to claim the Ducal throne (S41)**; **Silver Lantern backing secured (S43)**; abilities: Ice Blade (S41), Brace (S42)
 - **Lord Pompaduke the Third** - ~~Companion~~ **RECLASSIFIED ANTAGONIST (S39)** - see Key Antagonists
 - Sylobelle: Erland Greystone (mayor/investigator), Sofia (attack survivor), Terry (guard)
 - Squires: Alarin Moonwhisper (Tessell's), ~~Guy~~ (DEAD Session 22), Ser Garet (Elik'r's)
-- Companions: River (Rottweiler), Bob the Whipping Boy
+- Companions: River (Rottweiler), Bob the Whipping Boy, **[[NPCs/Guy 2\|Guy 2]] (goat sidekick of Elik'r and Elvva, S43)**
+- **[[NPCs/Ser Elenai\|Ser Elenai]]** - **S43**: The First Lantern, founder of the Order of the Silver Lantern (long dead); her spirit entrusted her glaive to Tessell
 - **Joneyentee** - **NEW Session 31** (via tea portal): Wood Elf wizard, former party member Session 1, seeking Chronos Scepter
 
 ---
@@ -122,7 +122,7 @@
 - **Ser Anfalen** - Former Lord of Sylobelle, stripped of lands, declared for Falcon
 - **High Luminary Aelthir Vaelorian** - **NEW S36**: 482-year-old elf, head of Cathedral of Gentle Redemption, Thalas'Miriel; actively organising Falcon's northern campaign; commands Order of the Silver Lantern
 - **Ember Vein Envoy (unnamed)** - **NEW S38**: Senior [[Organisations/Ember Vein\|Ember Vein]] figure; phasing (immune to physical attacks); animated Purple Dragonborn; addressed party directly; teleported Elvva; restored party to full strength; **reappeared at cemetery mausoleum, revealed Dragonclaw Isle, departed for Neverwinter (S41)**; **present at Avicia's transformation ritual (S42 recap)**
-- **Lord Pompaduke the Third** - **CONFIRMED ANTAGONIST (S39)**; **fight at Thalas'Miriel concluded - escaped via decoy, reappeared at cemetery mausoleum, escaped again (S41); confirmed cast out of Co'narr's order decades ago**; **second escape was a feint - invisible at the mausoleum throughout the S42 battle, revealed at session end**
+- **Lord Pompaduke the Third** - **CONFIRMED ANTAGONIST (S39)**; **fight at Thalas'Miriel concluded - escaped via decoy, reappeared at cemetery mausoleum, escaped again (S41); confirmed cast out of Co'narr's order decades ago**; **second escape was a feint - invisible at the mausoleum throughout the S42 battle, revealed at session end**; **revealed himself, threatened Co'narr ("I'm coming for him next") and portalled away (S43)**
 - **Darius Kain** - ~~ACTIVE~~ **DECEASED (S38)** - killed by [[Party Members/Tooo-Ah\|Tooo-Ah]]; confirmed [[Organisations/Ember Vein\|Ember Vein]] Third Vein operative
 - Baron Roderick Stonewall, Ser Tristan Blackwood (conspirators)
 
@@ -137,23 +137,29 @@
 
 ## Key Locations
 
-**Current:** [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] - mausoleum outside Thalas'Miriel; undead champions destroyed, [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] revealed (S42) **Base:** Stormhold Keep (732 troops + Seraphine, official deed, walls under construction) **Next Destination:** Neverwinter (after resolving the cemetery cliffhanger)
+**Current:** Road from [[Locations/Thalas'Miriel\|Thalas'Miriel]] to [[Locations/Neverwinter\|Neverwinter]] (S43) **Base:** Stormhold Keep (732 troops + Seraphine, official deed, walls under construction) **Next Destination:** Neverwinter (en route with the Silver Lanterns, S43)
 
-**Kingdoms:** Odessia (civil war 50/50 split), Nolunia (north), Immortal Draconic Empire (south hostile) **Cities:** Belendar (capital, secured), Neverwinter (northern duchy, first target, Iron Finch + Crimson Pike mercenaries there) **Towns:** Sylobelle (Odonia's seat, Lady Isolde mayor S31), Canathalas (port), Ulvenora (mining), **Thalas'Miriel (zombie incursion resolved S41; Falcon-aligned, Cathedral of Gentle Redemption)** **Inns:** Crossroads Inn (Burrow and Barrel Inn, visited S32), Secret Tavern Hideout **Dungeons:** Moth Queen Cavern (cleared S34), Fizwidget's Winter Realm (S33-35, resolved), Challenge Rooms, Underground Roads, Purple Dragonborn's Cavern, Stonereach Cavern (collapsed S31), [[Locations/Silver Lantern Garrison\|Silver Lantern Garrison]] (**allied, openly under Ser Alric Vayne's command S41**), [[Locations/Silver Lantern Garrison - Hidden Passage\|Silver Lantern Garrison - Hidden Passage]], [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] (ancient cult site, cleared/abandoned S39), **[[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] (S41 - source of the zombie incursion; four undead champions destroyed S42, Pompaduke still on site)** **Critical:** Eastern Citadel (gone silent), Bane Watcher Citadel (island in central lake, urgent destination), **Dragonclaw Isle (NEW S41 - unvisited, location of "the other dragon")** **Destroyed:** Ser Silvar's Mansion (Session 22)
+**Kingdoms:** Odessia (civil war 50/50 split), Nolunia (north), Immortal Draconic Empire (south hostile) **Cities:** Belendar (capital, secured), Neverwinter (northern duchy, first target, Iron Finch + Crimson Pike mercenaries there) **Towns:** Sylobelle (Odonia's seat, Lady Isolde mayor S31), Canathalas (port), Ulvenora (mining), **Thalas'Miriel (zombie incursion resolved S41; Falcon-aligned, Cathedral of Gentle Redemption)** **Inns:** Crossroads Inn (Burrow and Barrel Inn, visited S32), Secret Tavern Hideout **Dungeons:** Moth Queen Cavern (cleared S34), Fizwidget's Winter Realm (S33-35, resolved), Challenge Rooms, Underground Roads, Purple Dragonborn's Cavern, Stonereach Cavern (collapsed S31), [[Locations/Silver Lantern Garrison\|Silver Lantern Garrison]] (**allied, openly under Ser Alric Vayne's command S41**), [[Locations/Silver Lantern Garrison - Hidden Passage\|Silver Lantern Garrison - Hidden Passage]], [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] (ancient cult site, cleared/abandoned S39), **[[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] (S41 - source of the zombie incursion; cleared S43)**, **[[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]] (NEW S43 - founder's tomb below the mausoleum; trials completed)** **Critical:** Eastern Citadel (gone silent), Bane Watcher Citadel (island in central lake, urgent destination), **Dragonclaw Isle (NEW S41 - unvisited, location of "the other dragon")** **Destroyed:** Ser Silvar's Mansion (Session 22)
 
 ---
 
 ## Critical Quests (Active)
 
-### PRIMARY MISSIONS (Session 42)
+### PRIMARY MISSIONS (Session 43)
 
-- **Confront Lord Pompaduke at the Mausoleum** - **CRITICAL IMMEDIATE**: Revealed invisible on site at the end of S42; zombie horde turned but not destroyed; effect of the final Wisdom save unknown
-- **Investigate the Cemetery & Dragonclaw Isle** - **CRITICAL NEW (S41)**: Source of the zombie incursion; Dragonclaw Isle revealed as location of "the other dragon"
+- **Rally the North** - **ACTIVE**: Marching to Neverwinter with 104 Silver Lanterns; secure Duke Alaric Thorne, press [[NPCs/Calen Thorne\|Calen Thorne]]'s claim, unite northern nobles for the Princess
+- **Counter Vaelorian's Delegation** - **CRITICAL**: Delegation ahead of the party on the road to Neverwinter
 - **Read Sealed Scroll** - **HIGH**: Recovered from [[NPCs/Darius Kain\|Darius Kain]]'s body (S39); still unread
-- **Counter Vaelorian's Delegation** - **CRITICAL**: High Luminary organising Neverwinter delegation (ticking clock, counters Rally the North)
-- **Rally the North** - **ACTIVE**: Secure Duke Alaric Thorne (Neverwinter), unite northern nobles for Princess; [[NPCs/Calen Thorne\|Calen Thorne]] confirmed intent to claim the Ducal throne (S41), Silver Lantern backing still needed
+- **Investigate Dragonclaw Isle** - **CRITICAL (S41)**: Location of "the other dragon"
+- **Warn Co'narr** - **HIGH (S43)**: Pompaduke says he is coming for him next
 - **Visit Bane Watcher Citadel** - CRITICAL-URGENT: Elvva's corruption (Dragon's Breath S36), Elik'r's curse active, dormant commands, Dragon's Tear
 - **Secure Eastern Border** - HIGH: Investigate Eastern Citadel silence, strange creatures attacking
+
+### COMPLETED (Session 43)
+
+- ✅ **Investigate the Cemetery** - Pompaduke gone, horde crumbled to dust, founder's tomb found below the mausoleum
+- ✅ **The Trials of the First Lantern** - five trials passed; [[NPCs/Ser Elenai\|Ser Elenai]]'s glaive granted to Tessell
+- ✅ **Secure Silver Lantern Backing for Calen** - [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] leads 104 of the Order with the party
 
 ### PARTIALLY RESOLVED (Session 42)
 
@@ -186,6 +192,12 @@
 
 - ✅ **Escape Shared Dream Vision** - Defeated Khorrak, solved forgiveness riddle (Co'narr's Bane Watcher training revealed Session 31)
 - ✅ **Survive Khorrak** - Two-phase boss battle completed
+
+### MYSTERIES (Session 43 Updates)
+
+- **The Prophecy of the First Lantern (NEW):** Names Tessell; open lines - a countess "sharpening the blade beneath her seat" (Countess Crowsbane, confirmed by Paul) and "the world may yet remember Tessell's name"
+- **The Goddess's Voice (NEW):** A goddess spoke to Tessell alone at the cemetery; identity unknown
+- **The Long Night (NEW):** What Ser Elenai carried her glaive through
 
 ### MYSTERIES (Session 42 Updates)
 
@@ -235,7 +247,7 @@
 - **Eagle Faction** - Crown Princess's forces, controlling Belendar and palace
 - **Falcon Faction** - Elincia/Alvar forces, ~50% kingdom support, southern army; **northern campaign now active via Thalas'Miriel (S36)**
 - **Ember Vein** - **NEW S38**: Ancient containment cult; maintains seraph's slumber via ember fissures; Inner Ember + High Flame at large; [[NPCs/Darius Kain\|Darius Kain]] (Third Vein, deceased); [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] at large
-- **Order of the Silver Lantern** - **S36**: Knightly order, Thalas'Miriel garrison; **[[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] openly in command (S41)**; [[NPCs/Darius Kain\|Darius Kain]] deceased; an undead champion at the cemetery wore a defaced lantern emblem (S42)
+- **Order of the Silver Lantern** - **S36**: Knightly order, Thalas'Miriel garrison; **[[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] openly in command (S41)**; [[NPCs/Darius Kain\|Darius Kain]] deceased; an undead champion at the cemetery wore a defaced lantern emblem (S42); **founder [[NPCs/Ser Elenai\|Ser Elenai]] (the First Lantern) found entombed below the cemetery; Tessell granted her glaive as "First Light"; 104 marching with the party (S43)**
 - **Iron Finch Company** - **NEW S32**: Professional mercenaries (reliable), Captain Mara Veylan, hired by Duke Alaric Thorne
 - **Crimson Pike** - **NEW S32**: Mercenaries (NO ALLEGIANCES, will switch sides), Captain Rhyla Garron "Red Viper"
 - **Gnome Army** - Zorry leads, revenge on Odonia
@@ -247,7 +259,7 @@
 **CRITICAL SECRETS:**
 
 - Avicia is rightful heir (only party + Patriarch + Princess + Eldrin know)
-- Odonia made assassination arrangement with Princess (meta-knowledge - party unaware except Odonia)
+- Odonia made assassination arrangement with Princess - **S43: Odonia confessed in character to the party and Calen that she is the Princess's assassin and killed the king**
 - Dormant Bane commands in Tooo-Ah/Odonia/Patriarch (party aware)
 - Elvva's corruption CRITICAL (sprite manifestation, overflow risk)
 - **Calen Thorne identity confirmed (S38):** "Brother Calen" is [[NPCs/Calen Thorne\|Calen Thorne]], bastard son of [[NPCs/Duke Alaric Thorne\|Duke Alaric Thorne]]; his mentor knew of the Neverwinter equivalent site; brief green glow observed on him in the underground complex
@@ -259,6 +271,7 @@
 - **Dragonclaw Isle (S41):** First concrete location lead for "the other dragon" since the wyrm was taken by Pompaduke (S39)
 - **Avicia's transformation ritual (S42 recap):** The two hooded figures alongside [[NPCs/Elincia Flowers\|Elincia Flowers]] were the [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]] (casting the incantation) and the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - Unnamed]]
 - **Unknown Axe Fighter's nature (S42 - CRITICAL):** Wields [[NPCs/The Bane\|The Bane]] directly; can raise undead champions, drain life force and petrify; previously caught searching [[NPCs/Countess Alyssa Crowsbane\|Countess Alyssa Crowsbane]]'s bedroom
+- **Tessell is the "First Light" (S43):** Bearer of [[NPCs/Ser Elenai\|Ser Elenai]]'s glaive and subject of her centuries-old prophecy; recognised by the Order of the Silver Lantern but not its commander
 - **The Oathless (S42):** One of the four undead champions wore a deliberately defaced lantern emblem - possible fallen knight of the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]]
 
 **KEY RELATIONSHIPS:**
@@ -313,7 +326,7 @@
 - Stormhold Keep (official deed)
 - Odonia: Lady of Sylobelle, Royal Advisor position
 - Castle deed co-ownership (all party)
-- Ornate golden sashes (ceremonial)
+- [[Items/Ornate Golden Sashes\|Ornate Golden Sashes]] (ceremonial)
 
 **Mission:** Rally northern territories for Princess. Kill/destroy rebels. Secure eastern border.
 
@@ -321,37 +334,45 @@
 
 ## Magic Items (Party)
 
-**Weapons/Armor:**
+_Each item has its own page with images and full abilities - follow the links below._
 
-- Infinite Radiant Bow (Odonia) - +1d4 radiant, infinite ammo
-- Twin Blades of the Serpent (Odonia)
-- **Hearts Rend (Elik'r)** - Longsword, cursed, attuned; charges via self-inflicted damage (100 HP total); activates flaming cone (4d10+2) at full charge; named by Elik'r
-- **Stormswallow Longsword (Elik'r)** - **NEW S40, attuned** - ember-veined longsword from the Purple Dragonborn; Ember Wave (10ft radius fire wave on hit, DC 14 Dex half); fire and necrotic resistance
-- **Stormswallow Family Banner (Elik'r)** - **first used S42** - planted as a bonus action, 30ft: enemies -10ft speed, allies have advantage vs frightened/charmed enemies, chosen allies gain 3 temporary HP each turn
-- Basic Jousting Armor (Elvva)
-- Hide Armour (Odonia) - **NEW Session 27**, properties unknown
+**Weapons/Armour:**
+
+- [[Items/The First Lantern's Glaive\|The First Lantern's Glaive]] (Tessell) - **NEW S43, attuned** - rare glaive, 1d8 / 1d12 two-handed, 10ft reach; Lantern's Sanctuary 1/day, Warding Glow 2/day
+- [[Items/Stormswallow Longsword\|Stormswallow Longsword]] (Elik'r) - attuned S40; +2, Ember Wave, fire and necrotic resistance
+- [[Items/Hearts Rend\|Hearts Rend]] (Elik'r) - cursed, attuned; charges from his own HP (100 total) for a flaming cone
+- [[Items/Infinite Radiant Bow\|Infinite Radiant Bow]] (Odonia) - +1d4 radiant, infinite arrows
+- [[Items/Twin Blades of the Serpent\|Twin Blades of the Serpent]] (Odonia) - attuned; chain, trip/disarm, Whirling Fang Strike
+- [[Items/Tooo-Ah's Gauntlets\|Tooo-Ah's Gauntlets]] (Tooo-Ah) - +2 to hit
+- [[Items/Axe of Anger\|Axe of Anger]] (Tessell) - +2 handaxe
+- [[Items/Ember-Veined Staff\|Ember-Veined Staff]] (Elvva) - properties unknown
+- [[Items/Hide Armour\|Hide Armour]] (Odonia) - properties unknown
+- Basic jousting armour (Elvva)
 
 **Utility/Mystery:**
 
-- **Wand of Dusk Veil (Elvva)** - **Session 36** (380 gp, attuned) - 6 charges; Disguise Self (1), Silent Image (1), Darkness (2); Veil Step (cast Darkness, move 10ft without OA)
-- **Ring of Intuition (Tooo-Ah)** - **Session 31** (attuned, confirmed S36) - once per long rest, advantage on Intelligence saves and skill checks
-- **Horn of Winter Gale (Tooo-Ah)** - **Session 35** (won from Fizwidget) - once per long rest, 30ft cone, DC 15 Con, 4d8 cold + prone on fail
-- Iron Circlet (Tessell) - **Session 27**, properties unknown
-- Permanent Lockpicks (Tessell) - locks anything, cannot unlock
-- Psychic Link Rings (Tessell & Elik'r)
-- Magical Tea Bags (Tooo-Ah) - d100 effects (**NEW TABLE Session 31** - 100 individual effects not paired ranges)
-- Magical Rope (Tooo-Ah) - **Session 27**, properties unknown
-- Founder's Wand (Elvva) - **Session 27**, properties unknown
-- **Mini Steve (Elik'r)** - **Session 31** painted rock, parting gift from Co'narr (sentimental, not magical)
-- Hide Armour (Odonia) - **Session 27**, properties unknown
+- [[Items/Stormswallow Family Banner\|Stormswallow Family Banner]] (Elik'r) - planted, 30ft: enemies -10ft speed, allies advantage vs frightened/charmed enemies, chosen allies 3 temp HP each turn
+- [[Items/Wand of Dusk Veil\|Wand of Dusk Veil]] (Elvva) - attuned; 6 charges; Veil Step
+- [[Items/Coin of Fate\|Coin of Fate]] (Elvva) - 1/long rest double or reflect damage
+- [[Items/Cloak of Ethereal Traveller\|Cloak of Ethereal Traveller]] (Elik'r) - attuned; Misty Step, Ethereal Step
+- [[Items/Key of the Wrong Door\|Key of the Wrong Door]] (Elik'r) - 1/long rest, d6 outcome
+- [[Items/Horn of the Winter Gale\|Horn of the Winter Gale]] (Tooo-Ah) - 1/long rest 30ft cold cone
+- [[Items/Ring of Intuition\|Ring of Intuition]] (Tooo-Ah) - attuned; advantage on Int saves/checks
+- [[Items/Permanent Lockpicks\|Permanent Lockpicks]] (Tessell) - lock anything, unlock nothing
+- [[Items/Blood-Pact Rings\|Blood-Pact Rings]] (party, probably Tessell) - shared-fate pair; not worn
+- [[Items/Psychic Link Rings\|Psychic Link Rings]] (the cursed lover's rings, Tessell & Elik'r) - removed; Elik'r's given to Ser Anfalen
+- [[Items/Dragon's Tear Gem\|Dragon's Tear Gem]] (Elvva), [[Items/Iron Circlet\|Iron Circlet]] (Tessell), [[Items/Founder's Wand\|Founder's Wand]] (Elvva), [[Items/Magical Rope\|Magical Rope]] (Tooo-Ah), [[Items/Magical Bean\|Magical Bean]] (Tooo-Ah, unaware) - properties unknown
+- [[Items/Mini Steve\|Mini Steve]] (Elik'r) - painted rock from Co'narr, not magical
+- Magical Tea Bags (Tooo-Ah) - d100 effects, see [[General Files/Homebrew#Tooo-Ah's Magical Tea\|Homebrew#Tooo-Ah's Magical Tea]]
 
 **Evidence/Lore:**
 
-- Wyvern's diary (Elvva) - death certificates for party (dates blank except Pas Rata's accurate)
-- Balthazar's book of names (Odonia) - many crossed out, party listed
-- Tales of the Lost Princess (Tooo-Ah) - connection to Avicia?
-- Massive iridescent scale (Elik'r) - unknown sea beast
-- Evidence scroll (Elik'r) - handed to Princess Session 26
+- [[Items/Sealed Scroll\|Sealed Scroll]] (from Darius Kain) - unread
+- [[Items/Wyvern's Diary and Death Certificates\|Wyvern's Diary and Death Certificates]] (Elvva) - dates blank except Pas Rata's (accurate)
+- [[Items/Balthazar's Book of Names\|Balthazar's Book of Names]] (Odonia) - many crossed out, party listed
+- [[Items/Tales of the Lost Princess\|Tales of the Lost Princess]] (Tooo-Ah) - connection to Avicia?
+- [[Items/Massive Iridescent Scale\|Massive Iridescent Scale]] (Elik'r) - unknown sea beast
+- Evidence scroll - handed to the Princess (S26)
 
 **Items Lost (Session 30):**
 
@@ -369,6 +390,7 @@
 - **Calen Thorne's Ice Blade** - **NEW S41**: AoE cold burst on weapon strike, hits allies and foes alike; mechanics not fully established
 - **Calen Thorne's Brace** - **NEW S42**: braces a shielded ally from behind for +2 AC while he holds it
 - **Tooo-Ah's Wing Darts** - three feather darts as one action, +8 to hit, 1d4+5 each (used S42)
+- **Ser Alric's Special Ale & Feast** - **S43**: d20 random effects per drink/plate, mostly 24 hours (see [[General Files/Homebrew#Ser Alric's Special Ale & Feast (Session 43)\|Homebrew]])
 - **Hero token / disadvantage token** - table rule: a hero token turns a roll in the holder's favour; the DM can call in the disadvantage token to make that player's roll fail (see [[General Files/Campaign Mechanics\|Campaign Mechanics]])
 
 ---
@@ -401,6 +423,7 @@
 - **Session 40:** [[NPCs/Calen Thorne\|Calen Thorne]] joined the party after a negotiation over his Ducal options; [[Locations/Thalas'Miriel\|Thalas'Miriel]] found overrun by a zombie incursion directed by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]; [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] found in command of the barricaded Silver Lantern garrison; [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] attuned to the Stormswallow Longsword and discovered its Ember Wave ability; fight against Pompaduke and the zombies unresolved as reinforcements arrived at session end
 - **Session 41:** Zombie incursion at [[Locations/Thalas'Miriel\|Thalas'Miriel]] resolved, [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] escaped via decoy; party rested, then investigated a cemetery source of the incursion; confronted four Bane-aligned figures at a mausoleum - [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]] revealed Dragonclaw Isle, Pompaduke escaped again, [[NPCs/Mysterious Cloaked Man\|Mysterious Cloaked Man]] cast a necromancy spell and vanished; session ended on an unresolved combat cliffhanger against the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]]
 - **Session 42:** Single battle at the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] mausoleum - the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] raised four undead champions with The Bane (all destroyed), drained life force to animate a tree, and downed [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] before [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s Command forced him to withdraw; Elik'r planted the Stormswallow Family Banner for the first time; a zombie horde was turned; [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] revealed to have been invisible on site throughout (cliffhanger)
+- **Session 43:** [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] left the cemetery threatening Co'narr; the mausoleum opened onto the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]], founder of the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]]; the party passed her five trials (Odonia confessing to killing the king) and [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] was granted her glaive as the "First Light"; [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] pledged 104 of the Order to [[NPCs/Calen Thorne\|Calen Thorne]]'s claim; a magical ale night produced [[NPCs/Guy 2\|Guy 2]]; the party set out for [[Locations/Neverwinter\|Neverwinter]]
 
 ---
 
@@ -447,14 +470,13 @@
 - Ser Pas Rata (Former party, ~1 month ago)
 - Ser Balthazar Thornwood (Wyvern shapeshifter, killed by Odonia)
 
-### Session 42 Immediate Decisions
+### Session 43 Immediate Decisions
 
-1. **Deal with [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]** at the cemetery mausoleum - fight, talk or withdraw
-2. **Investigate Dragonclaw Isle** - location of "the other dragon"
+1. **The journey to [[Locations/Neverwinter\|Neverwinter]]** - resolve the travel rolls; catch or counter Vaelorian's delegation
+2. **How to press [[NPCs/Calen Thorne\|Calen Thorne]]'s claim** - with 104 Silver Lanterns, without killing his brothers
 3. **Read the sealed scroll** recovered from [[NPCs/Darius Kain\|Darius Kain]]'s body
-4. **Counter Vaelorian's delegation** to Neverwinter before it departs
-5. **Formalise [[NPCs/Calen Thorne\|Calen Thorne]]'s Ducal claim** - Silver Lantern backing still needed
-6. **Determine next move toward Neverwinter**
+4. **Reach [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]** about Pompaduke's threat
+5. **Dragonclaw Isle** - when to go
 
 ---
 
@@ -488,6 +510,9 @@
 - **Mysterious Cloaked Man** (NOT to be confused with Pompaduke, though both wear ornate attire) - confirmed present at S22 ambush, S41
 - **The Veiled Oracle, the Hollow Blade, the Oathless, the Last Huntress** (the four undead champions - file: [[NPCs/Champions of the Mausoleum\|Champions of the Mausoleum]]) - **S42; DESTROYED**
 - **Unknown Axe Fighter** (also heard as "the Unknown" and "the Unknown Knight" - same person) - **S42**
+- **Ser Elenai** (the First Lantern; spelled out E-L-E-N-A-I at the table; no surname) - **S43**
+- **Guy 2** (goat; also "Guy the Second" - NOT Gaitu, Guy Two) - **S43**
+- **Lord Pompaduke the Third** (also "Banjo Man", "Brother Algrim")
 
 **Location Names:**
 
@@ -497,14 +522,16 @@
 - **Stormhold Keep** (NOT Storm Hold, Stormhold Castle)
 - **Neverwinter** (NOT Never Winter)
 - **Bane Watcher Citadel** (NOT Bane Watchers Citadel, Banewatcher Citadel)
-- **Thalas'Miriel** (apostrophe - NOT Thalas Miriel, Thalas' Miriel) - **S32**
+- **Thalas'Miriel** (apostrophe - NOT Thalas Miriel, Thalas' Miriel, Talas Muriel, Talas Myriel) - **S32**
 - **Ember Vein Underground Complex** (working title until named in-world) - **S38**
 - **Thalas'Miriel Cemetery** (working title until named in-world) - **NEW S41**
 - **Dragonclaw Isle** (unvisited - NOT Dragonclaw Island, Dragon Claw Isle) - **NEW S41**
+- **Tomb of Ser Elenai** (working title until named in-world) - **NEW S43**
 
 **Important Terms:**
 
 - **Ser** (Knight title - NOT Sir, always Ser in this campaign)
+- **First Lantern** (Ser Elenai's title) / **First Light** (title of the glaive's bearer - Tessell); the Order is the **Order of the Silver Lantern** ("Silver Lanterns" for its members)
 - **The Bane** (NOT Bain, The Bain, Bane)
 - **Aganazzar's Scorcher** (NOT Agonising Scorcher, Agonizers Scorcher) - use official spell names throughout
 
@@ -518,7 +545,7 @@
 
 ## File Structure Quick Reference
 
-**Index Files:** 02 Party Members Index, 02 NPCs Index, 02 Locations Index, 02 Organisations Index, 02 Quests Index **Detail Files:** Individual .md per character/NPC/location/organisation/session **Quest Files:** Quests - Active/On Hold/Mysteries/Completed **Reference:** Homebrew.md, Campaign_Mechanics.md, Game_Mechanics_Reference.md, Lore_and_Worldbuilding.md **Special:** Memorable_Moments.md
+**Index Files:** 02 Party Members Index, 02 Items Index, 02 NPCs Index, 02 Locations Index, 02 Organisations Index, 02 Quests Index **Detail Files:** Individual .md per character/NPC/location/organisation/item/session **Quest Files:** Quests - Active/On Hold/Mysteries/Completed **Reference:** Homebrew.md, Campaign_Mechanics.md, Game_Mechanics_Reference.md, Lore_and_Worldbuilding.md **Special:** Memorable_Moments.md
 
 ---
 

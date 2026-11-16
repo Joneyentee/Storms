@@ -30,6 +30,7 @@ Young, fair-featured human male with light blonde hair and a toned, athletic bui
 - **S40: Formally joined the [[Organisations/Riders of the Storm\|Riders of the Storm]] as a travelling party member**, following a negotiation in which the party offered to help him secure the Ducal throne of [[Locations/Neverwinter\|Neverwinter]]; fought alongside the party against a zombie incursion at [[Locations/Thalas'Miriel\|Thalas'Miriel]], taking heavy damage but holding his own with sword and shield
 - **S41:** Unleashed Ice Blade for the first time when swarmed at low HP (see [[General Files/Homebrew#Calen Thorne's Ice Blade\|Ice Blade]]); confirmed to [[Party Members/Tooo-Ah\|Tooo-Ah]] that he intends to claim the Ducal throne of [[Locations/Neverwinter\|Neverwinter]]
 - **S42:** Revealed **Brace** (see [[General Files/Homebrew#Calen Thorne's Brace\|Brace]]), setting himself behind [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] shield-wall style for +2 AC; had 10 HP of life force torn from him by the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] and took the backlash when the animated tree died; breathed a cone of [[Party Members/Elvva Beltavar\|Elvva Beltavar]]'s Dragon's Breath to destroy five zombies
+- **S43:** Identified [[NPCs/Ser Elenai\|Ser Elenai]] as the founder of the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]]; was first onto the Courage plate in the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]] and had to be pulled off by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]]. Set out his family's position: his father supports the Crown by default but is on his last legs; [[NPCs/Edran Thorne\|Edran Thorne]] runs the duchy; [[NPCs/Marek Thorne\|Marek Thorne]] has just returned from mercenary work; Calen was sent to a monastery and has not seen his brothers in years. **Will put his own claim forward to the ducal throne and does not want to kill his brothers** (though accidents on the battlefield were joked about). His relationship with [[NPCs/Clara\|Clara]] is "a chat he'll need to have with her". Heard [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] confess to killing the king. **Now backed by the Order of the Silver Lantern**, which marches with the party to restore the duchy to him
 
 ### Relationships
 
@@ -37,6 +38,7 @@ Young, fair-featured human male with light blonde hair and a toned, athletic bui
 - Half-brothers: [[NPCs/Edran Thorne\|Edran Thorne]] (legitimate heir, 35), [[NPCs/Marek Thorne\|Marek Thorne]] (legitimate, 24)
 - Sought: [[NPCs/Clara\|Clara]] (priestess-in-training; rescued from ritual table S38; current status uncertain)
 - Aligned with: [[Organisations/Riders of the Storm\|Riders of the Storm]] (joined as party member, S40)
+- Backed by: [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] under [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] (S43)
 - Against: [[NPCs/Darius Kain\|Darius Kain]] (deceased S38)
 
 ### Appearances
@@ -48,6 +50,7 @@ Young, fair-featured human male with light blonde hair and a toned, athletic bui
 - [[Sessions/Session 40 - 25 May 2026\|Session 40 - 25 May 2026]] - Agreed to join the party after a breakfast negotiation over options for securing the Ducal throne; fought alongside the party against a zombie ambush at [[Locations/Thalas'Miriel\|Thalas'Miriel]], directed by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]
 - [[Sessions/Session 41 - 11 July 2026\|Session 41 - 11 July 2026]] - Swarmed and near death in the [[Locations/Thalas'Miriel\|Thalas'Miriel]] town centre, detonated Ice Blade for 34 cold damage to friend and foe alike; told [[Party Members/Tooo-Ah\|Tooo-Ah]] he has decided to claim the Ducal throne; rode with the party to the cemetery
 - [[Sessions/Session 42 - 17 October 2026\|Session 42 - 17 October 2026]] - Fought at the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] mausoleum: braced [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]], hacked at the Bane-animated tree (one critical hit), and destroyed five zombies with a borrowed Dragon's Breath
+- [[Sessions/Session 43 - 14 November 2026\|Session 43 - 14 November 2026]] - Entered the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]] with the party; named the founder; stepped onto the Courage plate first; laid out his claim and his family; gained the Silver Lanterns' backing; marched out towards [[Locations/Neverwinter\|Neverwinter]]
 
 ### Related Quests
 

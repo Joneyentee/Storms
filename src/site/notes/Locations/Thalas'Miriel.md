@@ -6,7 +6,7 @@
 **Common Name:** Tears of the Forest 
 **Type:** Town (Cathedral settlement) 
 **Region:** Central [[Locations/Odessia\|Odessia]] 
-**Status:** Zombie incursion resolved (S41) - source traced to a nearby cemetery; previously Rebel-aligned (Threat)
+**Status:** Zombie incursion over; cemetery source cleared (S43); the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] has marched out with the party towards [[Locations/Neverwinter\|Neverwinter]]; previously Rebel-aligned (Threat)
 **Tags:** #location #location/town #location/hostile #location/active-quest
 
 ---
@@ -99,6 +99,13 @@ Long-standing cathedral town. Religious centre for concept of "Gentle Redemption
 - [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] declined to spare any Silver Lanterns to escort the party to the cemetery, citing the town's ongoing defence as priority
 - [[NPCs/Calen Thorne\|Calen Thorne]] confirmed his decision to formally claim the Ducal throne of Neverwinter while resting in the tavern
 
+**Session 43:**
+
+- The party returned from the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]] that night; the fleeing zombies had crumbled to dust outside the gates
+- The Order's veteran knights recognised the First Lantern's glaive in [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s hands
+- [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] pledged the Order to [[NPCs/Calen Thorne\|Calen Thorne]]'s claim and hosted a magical special-ale night in the battered tavern
+- Next morning the Order (41 knights, 63 acolytes and squires) marched out with the party after Vaelorian's delegation; how many Silver Lanterns remain to hold the town was not stated
+
 ## Connections
 
 **Part of:**
@@ -146,7 +153,9 @@ Long-standing cathedral town. Religious centre for concept of "Gentle Redemption
     
 - [[Sessions/Session 40 - 25 May 2026\|Session 40 - 25 May 2026]] - Found deserted and overrun by a zombie incursion directed by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] from a rooftop; party (with newly recruited [[NPCs/Calen Thorne\|Calen Thorne]]) fought through waves of zombies near the town inn; [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] garrison found barricaded under [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]]'s command. Battle still ongoing as reinforcements arrived at session end.
     
-- [[Session_41\|Session_41]] - Concluded the zombie incursion battle; party retreated to the tavern (field hospital) for a long rest; traced the incursion's source to a cemetery south-west of town; [[NPCs/Calen Thorne\|Calen Thorne]] confirmed his Ducal claim decision
+- [[Sessions/Session 41 - 11 July 2026\|Session 41 - 11 July 2026]] - Concluded the zombie incursion battle; party retreated to the tavern (field hospital) for a long rest; traced the incursion's source to a cemetery south-west of town; [[NPCs/Calen Thorne\|Calen Thorne]] confirmed his Ducal claim decision
+    
+- [[Sessions/Session 43 - 14 November 2026\|Session 43 - 14 November 2026]] - Party returned with the First Lantern's glaive; [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] pledged the Order to Calen; the special-ale night at the tavern (where [[NPCs/Guy 2\|Guy 2]] was acquired); the party and 104 Silver Lanterns set out for [[Locations/Neverwinter\|Neverwinter]]
     
 
 ## Notes

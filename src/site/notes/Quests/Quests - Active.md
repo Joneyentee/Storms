@@ -4,9 +4,9 @@
 
 ---
 
-**Session 42** | Marshals of the North | 732 troops | War chest access
+**Session 43** | Marshals of the North | 732 troops + 104 Silver Lanterns marching with the party | War chest access
 
-> [Index](02 Quests Index.md) | **Active** | [On Hold](Quests - On Hold.md) | [Mysteries](Quests - Mysteries.md)
+> **Active** | [On Hold](Quests - On Hold.md) | [Mysteries](Quests - Mysteries.md)
 
 ---
 
@@ -27,16 +27,26 @@
 - [x] ~~Confirm [[NPCs/Clara\|Clara]]'s status~~ (S39 - safe; conscious; at [[NPCs/Calen Thorne\|Calen Thorne]]'s hovel)
 - [x] ~~Exit the [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]]~~ (S39 - party at Calen's hovel for long rest)
 - [ ] **Read sealed scroll found on [[NPCs/Darius Kain\|Darius Kain]]** (contents unknown; potential orders)
-- [x] ~~Establish [[NPCs/Calen Thorne\|Calen Thorne]]'s decision on Ducal claim~~ (S41 - confirmed he intends to claim the Ducal throne of Neverwinter; formal Silver Lantern backing still undecided)
+- [x] ~~Establish [[NPCs/Calen Thorne\|Calen Thorne]]'s decision on Ducal claim~~ (S41 - confirmed he intends to claim the Ducal throne of Neverwinter)
+- [x] ~~Secure Silver Lantern backing for Calen's claim~~ (S43 - [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] leads 104 of the Order with the party)
 - [ ] **Counter Vaelorian's delegation to Neverwinter** before it departs (S36 - ticking clock)
 - [x] ~~Navigate Thalas'Miriel without breaking party's cover~~ (S40 - moot: cover broken by open combat against a zombie incursion in the town)
 - [x] ~~Resolve the zombie incursion at [[Locations/Thalas'Miriel\|Thalas'Miriel]]~~ (S41 - [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] driven off, zombie horde destroyed)
-- [ ] **Investigate the cemetery source of the zombie incursion** (S41 - located south-west of Thalas'Miriel; S42 - four undead champions destroyed and the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] driven off, but [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] revealed still on site and the zombie horde only turned, not destroyed)
+- [x] ~~Investigate the cemetery source of the zombie incursion~~ (S43 - [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] departed, horde crumbled to dust; mausoleum led to the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]], trials completed)
 - [ ] **Investigate Dragonclaw Isle** (S41 - revealed as location of "the other dragon")
-- [ ] Travel to Neverwinter
+- [ ] **Travel to Neverwinter** (S43 - under way with the Order; travel rolls pending)
 - [ ] Secure Duke Alaric Thorne's allegiance (key to northern support)
 - [ ] Rally undecided nobles before Falcon faction does
 - [ ] Establish defensive positions
+
+**Session 43 Intelligence - The First Lantern & Thalas'Miriel:**
+
+- [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] left the cemetery by portal, threatening [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] ("I'm coming for him next"); the S42 Wisdom-save effect was a compulsion on Elik'r and Odonia to attack Tessell
+- The mausoleum hid the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]], founder of the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]]; its prophecy names [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]; five trials completed and her glaive granted to him - he is now the "First Light" (not commander of the Order)
+- [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] confessed to the party and [[NPCs/Calen Thorne\|Calen Thorne]] that she is the Princess's assassin and killed the king
+- [[NPCs/Calen Thorne\|Calen Thorne]]: father loyal to the Crown by default but dying; [[NPCs/Edran Thorne\|Edran Thorne]] runs the duchy; [[NPCs/Marek Thorne\|Marek Thorne]] back from mercenary work; Calen will claim the throne without killing his brothers
+- [[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] pledged the Order to Calen's claim; 41 knights and 63 acolytes/squires (104, not all mounted) marched out with the party after Vaelorian's delegation
+- [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] left Co'narr a message on the Steve stone; no reply
 
 **Session 42 Intelligence - Cemetery Mausoleum:**
 
@@ -123,11 +133,11 @@
 
 - **Wyrm now loose in the world** — taken by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] through a Bane portal (S39); now believed connected to Dragonclaw Isle (S41)
 - **Sealed scroll from [[NPCs/Darius Kain\|Darius Kain]] unread** — contents unknown; may contain critical intelligence
-- **[[NPCs/Calen Thorne\|Calen Thorne]]'s Ducal decision** — confirmed he intends to claim the throne (S41); Silver Lantern backing still undecided
+- **[[NPCs/Calen Thorne\|Calen Thorne]]'s Ducal claim** — confirmed (S41); Silver Lantern backing secured (S43); he does not want his brothers killed
 - **[[NPCs/Marek Thorne\|Marek Thorne]] returned with mercenary company** — origin unknown; creates military uncertainty around Neverwinter
 - **Vaelorian's delegation to Neverwinter** — ticking clock, counters party's mission
-- **[[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]'s agenda** — admitted engineering party's actions; escaped at [[Locations/Thalas'Miriel\|Thalas'Miriel]] and feigned a second escape at the cemetery (S41), then revealed still at the mausoleum (S42); confirmed cast out of [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]'s order decades ago; true allegiance still unknown
-- **[[NPCs/Ser Alric Vayne\|Ser Alric Vayne]] status confirmed** — openly in command of the Silver Lantern garrison (S41)
+- **[[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]'s agenda** — admitted engineering party's actions; escaped at [[Locations/Thalas'Miriel\|Thalas'Miriel]], feigned a second escape at the cemetery (S41), was revealed still there (S42) and left with a threat against [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] (S43); confirmed cast out of Co'narr's order decades ago; true allegiance still unknown
+- **[[NPCs/Ser Alric Vayne\|Ser Alric Vayne]]** — in command of the Order and marching with the party (S43); looks to Tessell as the First Light
 - Kingdom 50/50 split (Eagle vs Falcon)
 - Elvva's Bane corruption advancing (may need Citadel visit first)
 - Elik'r's curse active combat threat (triggered Session 30)
@@ -248,6 +258,10 @@
 
 **CRITICAL** | World-ending threat
 
+**Session 43 Updates:**
+
+- **[[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] used [[NPCs/The Bane\|The Bane]] to collapse the remaining skeletons** as he portalled away, and threatened [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] ("I'm coming for him next") - a Bane-wielder now openly targeting the Bane Watchers' leader
+
 **Session 42 Updates:**
 
 - **The [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] is a Bane-wielder** — raised four undead champions through a green Bane rune that the party's Bane Sense felt as a physical pull; the rune drained the champions as it empowered them
@@ -302,7 +316,8 @@
 
 - [ ] **Track/locate the wyrm** (taken by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] via Bane portal S39; possibly connected to Dragonclaw Isle S41)
 - [ ] **Investigate Dragonclaw Isle** (S41 - location of "the other dragon")
-- [ ] **Determine [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]'s true allegiance and agenda** (Bane-powered abilities confirmed S39; expelled from Co'narr's order confirmed S41)
+- [ ] **Determine [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]'s true allegiance and agenda** (Bane-powered abilities confirmed S39; expelled from Co'narr's order confirmed S41; threatened Co'narr S43)
+- [ ] **Warn [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]** of Pompaduke's threat (message left via the Steve stone S43; no reply yet)
 - [ ] Visit Citadel URGENT (see above)
 - [ ] Address Elvva's corruption
 - [ ] **Treat Elik'r's active curse** (combat liability when near Elvva)
@@ -365,15 +380,15 @@
 
 ## NEXT SESSION IMMEDIATE PRIORITIES
 
-1. **Deal with [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]** at the cemetery mausoleum, and learn what the final Wisdom save did to [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] and [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]] (S42 cliffhanger)
-2. **Read the sealed scroll** recovered from [[NPCs/Darius Kain\|Darius Kain]]'s body
-3. **Investigate Dragonclaw Isle** — location of "the other dragon" (S41)
-4. **Counter Vaelorian's delegation to [[Locations/Neverwinter\|Neverwinter]]** — ticking clock
-5. **Formalise [[NPCs/Calen Thorne\|Calen Thorne]]'s Ducal claim** — Silver Lantern backing still needed
-6. **Determine next move toward [[Locations/Neverwinter\|Neverwinter]]**
+1. **The road to [[Locations/Neverwinter\|Neverwinter]]** — travel rolls pending; catch or counter Vaelorian's delegation before it reaches the Duke
+2. **Plan Calen's claim** — with 104 Silver Lanterns behind him; [[NPCs/Edran Thorne\|Edran Thorne]], [[NPCs/Marek Thorne\|Marek Thorne]]'s mercenaries and the unnamed Regent stand in the way
+3. **Read the sealed scroll** recovered from [[NPCs/Darius Kain\|Darius Kain]]'s body
+4. **Reach [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]]** — Pompaduke says he is coming for him next
+5. **Investigate Dragonclaw Isle** — location of "the other dragon" (S41)
+6. **Learn the First Lantern's Glaive in play** — Lantern's Sanctuary and Warding Glow; what the "First Light" role means
 
 ---
 
-**Last Updated:** Session 42
+**Last Updated:** Session 43
 
-> [Index](02 Quests Index.md) | **Active** | [On Hold](Quests - On Hold.md) | [Mysteries](Quests - Mysteries.md)
+> **Active** | [On Hold](Quests - On Hold.md) | [Mysteries](Quests - Mysteries.md)

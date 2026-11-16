@@ -4,7 +4,7 @@
 
 **Paused due to northern campaign priorities**
 
-> [Index](02 Quests Index.md) | [Active](Quests - Active.md) | **On Hold** | [Mysteries](Quests - Mysteries.md)
+> [Active](Quests - Active.md) | **On Hold** | [Mysteries](Quests - Mysteries.md)
 
 ---
 
@@ -177,4 +177,4 @@ _No current regional investigations on hold. Thalas'Miriel moved to Active (S36)
 
 **Last Updated:** Session 36
 
-> [Index](02 Quests Index.md) | [Active](Quests - Active.md) | **On Hold** | [Mysteries](Quests - Mysteries.md)
+> [Active](Quests - Active.md) | **On Hold** | [Mysteries](Quests - Mysteries.md)

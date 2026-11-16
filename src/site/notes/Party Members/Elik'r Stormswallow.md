@@ -48,11 +48,13 @@ Young gold dragonborn Paladin of Vengeance. Has spirit guide Steve (only he can 
 
 ## Equipment
 
+_Full details, abilities and images for each item are on its own linked page._
+
 ### Weapons
 
+- [[Items/Stormswallow Longsword\|Stormswallow Longsword]] (S39, attuned S40) - +2; Ember Wave; fire and necrotic resistance
+- [[Items/Hearts Rend\|Hearts Rend]] (attuned, cursed) - charges from Elik'r's own HP; flaming cone at 100 HP
 - Greataxe (2H) - 1d12 slashing
-- **Hearts Rend** (longsword, 1H) - 1d8 slashing (versatile 1d10); cursed, attuned; can be enhanced with dragon breath skill to add fire damage; charges via self-inflicted damage - see [[General Files/Homebrew#Hearts Rend\|Homebrew#Hearts Rend]]. **Origin (Kieran's notes):** the evil sword that impaled the undead Professor Emms in Session 7; Elik'r studied it over a short rest in Session 8 (cursed iron, 4 glyphs, evocation, feeling of flames) and attuned to it in Session 9. Kieran also noted a "Necromancy School" version "renamed the Mortician" which, charged by the wielder's blood, makes a fire sword slash (4d10+3) - the attack Talas used. Damage bonus (+3 vs +2 in Homebrew) to confirm
-- **Stormswallow Longsword** (1H, unnamed - working title) - dark iron blade threaded with ember-red veins; formerly wielded by the [[NPCs/Purple Dragonborn\|Purple Dragonborn]]; resized to Elik'r's proportions upon transfer (S39); **attuned (S40)**; possesses **Ember Wave** - on a successful hit, can slam the blade into the ground as part of the same action to unleash a 10-foot radius wave of fire (DC 14 Dexterity save for half damage); other properties still unidentified; also **+2** and grants Elik'r **fire resistance** (both seen in play, S40 and S42; Ant called it an "upgraded sword"). *To verify with Ant:* a Session 40 damage roll reads as 1d12+2 rather than the 1d8/1d10 listed in [[General Files/Homebrew#Stormswallow Longsword\|Homebrew#Stormswallow Longsword]], and Ant said in S40 that it is large enough to need two hands, which conflicts with the "1H" above
 
 ### Armour
 
@@ -60,17 +62,17 @@ Young gold dragonborn Paladin of Vengeance. Has spirit guide Steve (only he can 
 
 ### Magic Items
 
-- **Cloak of Ethereal Traveller** (Session 27) - bright orange magical cloak/cape from Fizwidget Spindleflash, picked from a choice of two boxes at the toadstool-realm feast (see [[Sessions/Session 27 - 26 July 2025\|Session 27 - 26 July 2025]]); attuned over downtime before Session 31. Once per day casts Misty Step as a 2nd-level spell without a spell slot; **Ethereal Step** (bonus action, lasts 1 minute) lets him move through creatures and objects as if they were difficult terrain. Elik'r also called it his "Mist Form" cloak in S33 - see [[General Files/Homebrew#Cloak of Ethereal Traveller\|Cloak of Ethereal Traveller]]
-- **Hearts Rend** (longsword, cursed, attuned) - see [[General Files/Homebrew#Hearts Rend\|Homebrew#Hearts Rend]]; charges by dealing damage to Elik'r himself; activates flaming cone attack at 100 HP charged
-- **Key of the Wrong Door** (Session 39) - Gold key with a small green eye set in the bow; once per long rest, insert into any locked door and turn it, then roll 1d6: 1 = door explodes, 2–3 = remains stubbornly locked, 4–5 = opens normally, 6 = opens to a DM-chosen location entirely; does not supersede doors sealed by [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]]'s magical lock picks
-- **Mini Steve** (Session 31) - Painted rock with face, physical gift from [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] before departing for [[Locations/Nolunia\|Nolunia]], permanent backpack companion representing spirit guide
-- Massive iridescent scale from unknown sea beast (looted from [[NPCs/Ser Balthazar Thornwood\|Ser Balthazar Thornwood]])
-- **Ornate golden sash** (Session 26 - symbolic item from Princess, marks military rank)
+- [[Items/Stormswallow Family Banner\|Stormswallow Family Banner]] (S39) - planted as a bonus action; slows enemies and sustains allies within 30 feet
+- [[Items/Cloak of Ethereal Traveller\|Cloak of Ethereal Traveller]] (S27, attuned) - Misty Step, Ethereal Step
+- [[Items/Key of the Wrong Door\|Key of the Wrong Door]] (S39) - 1/long rest, d6 outcome
+- [[Items/Mini Steve\|Mini Steve]] (S31) - painted rock from Co'narr; not magical
+- [[Items/Massive Iridescent Scale\|Massive Iridescent Scale]] - from an unknown sea beast
+- [[Items/Ornate Golden Sashes\|Ornate golden sash]] (S26) - ceremonial
 
 ### Other Gear
 
 - Standard adventuring equipment
-- **Stormswallow Family Banner** (Session 39) - Purple dragon bound by chains on a long gold and red wood shaft; had been stored in the [[Locations/Ember Vein Underground Complex\|Ember Vein Underground Complex]] ritual chamber; claimed by Elik'r after the [[NPCs/Purple Dragonborn\|Purple Dragonborn]]'s death; the dragonborn gestured to it as _"a symbol of what our job is, what our family's right is to be"_; **first planted in battle in Session 42** - slows enemies and sustains allies within 30 feet, see [[General Files/Homebrew#Stormswallow Family Banner\|Stormswallow Family Banner]]
+- [[NPCs/Guy 2\|Guy 2]] (S43) - goat sidekick, shared with [[Party Members/Elvva Beltavar\|Elvva Beltavar]]
 
 ### Property
 
@@ -93,6 +95,7 @@ Young gold dragonborn Paladin of Vengeance. Has spirit guide Steve (only he can 
 - **Spirit guide: Steve** - **Session 31:** [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] revealed dream vision was his Bane Watcher training, explaining Steve's voice. Gifted physical Mini Steve before departing for [[Locations/Nolunia\|Nolunia]].
 - Squire: [[NPCs/Ser Garet of the Wildlands\|Ser Garet of the Wildlands]]
 - **Deceased Squire:** [[NPCs/Guy (Elik'r's Squire)\|Guy (Elik'r's Squire)]] (killed Session 22) - **sent 50 gold to family Session 26**
+- **Sidekick:** [[NPCs/Guy 2\|Guy 2]] - baby goat adopted with [[Party Members/Elvva Beltavar\|Elvva Beltavar]] (Session 43), named after Guy
 - Mentor/Patron: [[NPCs/Ser Alvar Flowers\|Ser Alvar Flowers]] (mysterious connection - nature unknown)
 - Called by: [[NPCs/Purple Dragonborn\|Purple Dragonborn]] (ancient petrified dragonborn knows his name)
 - Married to: [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] (during magic 'alternative reality' caused by Fizwidget Spindleflash)
@@ -100,7 +103,7 @@ Young gold dragonborn Paladin of Vengeance. Has spirit guide Steve (only he can 
 
 ### Cursed Ring Incident
 
-- Put on cursed lover's ring with [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]], created psychic/physical link
+- Put on the cursed lover's ring ([[Items/Psychic Link Rings\|Psychic Link Rings]]) with [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]], created psychic/physical link
 - Damage to one affected the other (shared HP loss)
 - Only way to remove: Kiss each other
 - Sneaked away from palace party to remove rings privately
@@ -148,7 +151,9 @@ Young gold dragonborn Paladin of Vengeance. Has spirit guide Steve (only he can 
     
 - **[[Sessions/Session 40 - 25 May 2026\|Session 40 - 25 May 2026]]:** Attuned to the Stormswallow Longsword and discovered its Ember Wave ability. Fought through a zombie ambush at [[Locations/Thalas'Miriel\|Thalas'Miriel]] alongside [[NPCs/Calen Thorne\|Calen Thorne]], using Misty Step (via Cloak of Ethereal Traveller) to reach [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] on a rooftop and engage him directly in melee.
     
-- **[[Sessions/Session 42 - 17 October 2026\|Session 42 - 17 October 2026]]:** Planted the Stormswallow Family Banner in battle for the first time at the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] mausoleum, revealing its powers (see [[General Files/Homebrew#Stormswallow Family Banner\|Stormswallow Family Banner]]). Pulled [[Party Members/Elvva Beltavar\|Elvva Beltavar]] and [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] back from the brink with Cure Wounds, resisted the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]]'s life drain on a natural 20, then was struck down by him for 43 damage in a single turn. Passed his first death save, only for the DM to turn it into a failure with the disadvantage token; stabilised by Elvva's Spare the Dying and healed by Tessell. Rolled a natural 1 on the closing Wisdom save, then a 6 on a d6 the DM asked for afterwards; the effect was never revealed.
+- **[[Sessions/Session 42 - 17 October 2026\|Session 42 - 17 October 2026]]:** Planted the Stormswallow Family Banner in battle for the first time at the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] mausoleum, revealing its powers (see [[Items/Stormswallow Family Banner\|Stormswallow Family Banner]]). Pulled [[Party Members/Elvva Beltavar\|Elvva Beltavar]] and [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] back from the brink with Cure Wounds, resisted the [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]]'s life drain on a natural 20, then was struck down by him for 43 damage in a single turn. Passed his first death save, only for the DM to turn it into a failure with the disadvantage token; stabilised by Elvva's Spare the Dying and healed by Tessell. Rolled a natural 1 on the closing Wisdom save, then a 6 on a d6 the DM asked for afterwards; the effect was revealed at the start of Session 43 as a compulsion to attack Tessell.
+    
+- **[[Sessions/Session 43 - 14 November 2026\|Session 43 - 14 November 2026]]:** Compelled to attack [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] (hit him with the sword hilt). Received [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]]'s threat to pass on to [[NPCs/Co'narr 'Banewatcher' Hyborian\|Co'narr 'Banewatcher' Hyborian]] and later left it on the Steve stone as a message. Healed himself with Lay on Hands. In the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]], pulled [[NPCs/Calen Thorne\|Calen Thorne]] off the Courage plate and took his place, rising against the crushing force to complete the Courage trial. At the tavern: Eloquia from the special ale, a danger-sensing moustache, and a **natural 20 spoken-word performance, "The Ballad of the First Lantern"**. Outlasted everyone but Elvva and woke with her and a baby goat - [[NPCs/Guy 2\|Guy 2]], now his canon sidekick.
     
 
 ### Character Arc

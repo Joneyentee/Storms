@@ -19,6 +19,7 @@ Duke of [[Locations/Neverwinter\|Neverwinter]], the largest northern duchy. Old 
 - Wife: Deceased
 - Tournament: Participated in Grand Tournament at [[Locations/Belendar\|Belendar]] (Session 21, planned as his last)
 - Called for: Mercenaries (strategic need)
+- **S43 (per [[NPCs/Calen Thorne\|Calen Thorne]]):** supports the Crown by default as a noble, but is an old man on his last legs; [[NPCs/Edran Thorne\|Edran Thorne]] runs the duchy in practice
 
 ## Relationships
 

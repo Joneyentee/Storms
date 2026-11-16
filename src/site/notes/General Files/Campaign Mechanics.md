@@ -244,6 +244,10 @@ _For standard D&D 5E rules, see [[General Files/Game Mechanics - Reference\|Game
 - Standing from prone costs half movement, not an action
 - Spare the Dying stabilises the target; at this table the character was treated as conscious on 1 HP but still down
 
+### Sidekicks (Session 43)
+
+- [[NPCs/Guy 2\|Guy 2]], a baby goat, is a canon sidekick shared by [[Party Members/Elik'r Stormswallow\|Elik'r Stormswallow]] and [[Party Members/Elvva Beltavar\|Elvva Beltavar]]; either of them can command it on their turn (DM ruling)
+
 ### Milestone Leveling
 
 - No XP tracking
@@ -336,8 +340,8 @@ _For standard D&D 5E rules, see [[General Files/Game Mechanics - Reference\|Game
 
 - Standard D&D rules → [[General Files/Game Mechanics - Reference\|Game Mechanics - Reference]]
 - Homebrew items/effects → [[General Files/Homebrew\|Homebrew]]
-- Character details → [[General Files/02 Party Members Index\|02 Party Members Index]]
-- NPCs → [[General Files/02 NPCs Index\|02 NPCs Index]]
+- Character details → individual party member pages
+- NPCs → individual NPC pages
 - Lore context → [[General Files/Lore and Worldbuilding\|Lore and Worldbuilding]]
 
 **Last Updated:** Session 39 (stale petrification note removed from Party Composition Reference)

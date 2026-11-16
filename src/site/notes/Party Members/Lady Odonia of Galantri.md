@@ -33,13 +33,13 @@
 
 ## Physical Description
 
-32 years old, 5'11" tall, 186 lbs. White-tanned skin with copper hair and hazel eyes. Wears leather armour. Has shifting tattoo on chest (wolf/eagle/serpent) connected to warg ability.
+32 years old, 5'11" tall, 186 lbs. White-tanned skin with copper hair and hazel eyes. Wears leather armour. Has shifting tattoo on chest (wolf/eagle/serpent) connected to warg ability. Wore an eye patch until Session 43, when it was burned up in the Sacrifice trial in the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]].
 
 ---
 
 ## Background
 
-**Lady of [[Locations/Sylobelle\|Sylobelle]]** (elevated Session 26). Ranger hunter with homebrewed warg ability allowing her to warg into creatures within 30ft. Carries the dark secret that [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] ordered the High King's assassination - only [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]] and the Princess know of her involvement.
+**Lady of [[Locations/Sylobelle\|Sylobelle]]** (elevated Session 26). Ranger hunter with homebrewed warg ability allowing her to warg into creatures within 30ft. Carried the dark secret that [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] ordered the High King's assassination. **Session 43:** confessed aloud in the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]], in front of the party and [[NPCs/Calen Thorne\|Calen Thorne]], that she is the Princess's assassin and killed the king.
 
 **City Hero:** Most famous person in [[Locations/Belendar\|Belendar]] after delivering killing blow to [[NPCs/Ser Balthazar Thornwood\|Ser Balthazar Thornwood]] the wyvern during siege.
 
@@ -53,25 +53,26 @@
 
 ## Equipment
 
+_Full details, abilities and images for each item are on its own linked page._
+
 ### Weapons
 
-- Twin Blades of the Serpent (see [[General Files/Homebrew#Twin Blades of the Serpent\|Homebrew#Twin Blades of the Serpent]]) — Matched pair of shortswords; dark obsidian-like metal with faint green shimmer; hidden chain mechanism connects blades (up to 10ft); can trip (DC 15 Dex) or disarm (DC 15 Str); Whirling Fang Strike hits all within 10ft (1/rest); critical hits apply Venomous Bite (DC 14 Con or 2d6 poison + poisoned 1 min); Requires Attunement
-- Infinite Radiant Bow (see [[General Files/Homebrew#Infinite Radiant Bow\|Homebrew#Infinite Radiant Bow]]) - magical longbow, infinite ammunition, +1d4 radiant damage
+- [[Items/Twin Blades of the Serpent\|Twin Blades of the Serpent]] (attuned) - chained scimitars; trip, disarm, Whirling Fang Strike, Venomous Bite
+- [[Items/Infinite Radiant Bow\|Infinite Radiant Bow]] - +1d4 radiant, infinite arrows
 
 ### Armour
 
 - Leather armour - AC 14
+- [[Items/Hide Armour\|Hide Armour]] (S27) - magical, properties unknown
 
 ### Magic Items
 
-- Book with runes from wyvern
-- [[NPCs/Ser Balthazar Thornwood\|Ser Balthazar Thornwood]]'s book of names (mostly crossed out, includes current party and [[Party Members/Ser Pas Rata\|Ser Pas Rata]])
-- **Ornate golden sash** (Session 26 - symbolic item from Princess, marks military rank)
-- **Hide Armour** (Session 27 - reward from Fizwidget Spindleflash) - Magical hide armour, properties unknown (requires Identify)
-- **Shifting Tattoo** (Session 30) - Magical tattoo on chest that constantly morphs between animal forms (wolf, eagle, serpent, bear, etc.), connected to Warg ability, appears as onyx/orchid coloured ink.
+- [[Items/Balthazar's Book of Names\|Balthazar's Book of Names]] (the "book with runes from the wyvern") - party listed
+- [[Items/Ornate Golden Sashes\|Ornate golden sash]] (S26) - ceremonial
 
 ### Other Gear
 
+- **Shifting Tattoo** (Session 30) - magical tattoo on her chest that constantly morphs between animal forms (wolf, eagle, serpent, bear, etc.), connected to her Warg ability; onyx/orchid coloured ink
 - Standard adventuring equipment
 
 ### Property
@@ -96,7 +97,7 @@
 - Companion: [[NPCs/River\|River]] (Rottweiler)
 - **Serves:** [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]] (advisor position, left of throne)
 - **Co-conspirator:** [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]] (knows about assassination arrangement)
-- **Secret Keeper:** Only three people know about High King's assassination arrangement: Odonia, Princess, [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]]
+- **Secret Keeper:** Until Session 43 only Odonia, the Princess and [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]] knew of the assassination arrangement; she has now confessed it to the party and [[NPCs/Calen Thorne\|Calen Thorne]] (the Princess's role in ordering it was not spelled out)
 - **Nemesis:** [[NPCs/Barry\|Zorry]] and gnome army (revenge for eye-shooting during tournament)
 - **Strategic Advisor:** [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]] (suggested Neverwinter as first target)
 
@@ -150,6 +151,8 @@
     
 - **[[Sessions/Session 31 - 18 October 2025\|Session 31 - 18 October 2025]]:** First combat warg attempt (rolled 3 - odd = hostile instincts). Attacked [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] for 15 damage while warging Earthbound Dire Wolf. Accidentally warged into frog while drunk during darts. Appointed [[NPCs/Lady Isolde of the Silver Rose\|Lady Isolde of the Silver Rose]] as [[Locations/Sylobelle\|Sylobelle]] mayor.
     
+- **[[Sessions/Session 43 - 14 November 2026\|Session 43 - 14 November 2026]]:** Compelled by the effect rolled at the end of Session 42 to attack [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] - her slap was caught. Took the Sacrifice trial in the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]]: a silver coin and then her eye patch drew fire from the statue (28 fire damage, reduced with Absorb Elements; the eye patch destroyed) before she passed by confessing aloud: _"I'm the Princess's assassin and I killed the king."_ The party had already worked it out.
+    
 
 ### Character Arc
 
@@ -200,24 +203,24 @@
 
 ---
 
-## Assassination Secret (Meta-Knowledge)
+## Assassination Secret (Confessed Session 43)
 
-**KNOWN ONLY TO:** [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]], [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]]
+**ORIGINALLY KNOWN ONLY TO:** [[Party Members/Lady Odonia of Galantri\|Lady Odonia of Galantri]], [[NPCs/Crown Princess Eilrora Everglade\|Crown Princess Eilrora Everglade]], [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]]
 
 **Arrangement:** Princess ordered High King's assassination prior to siege. [[NPCs/Patriarch Siegfried Wildner\|Patriarch Siegfried Wildner]] also played role. Odonia performed/facilitated assassination during chaos of battle.
 
 **Session 26 Review:** Private meeting in Royal study confirmed arrangement. [[NPCs/Eldrin Oakenhart\|Eldrin Oakenhart]] questioned leaving king "undignified" on throne. Odonia responded pragmatically about lack of bag space. Princess thanked Odonia for service.
 
-**Party Status:** Other party members completely unaware. Believe king killed by [[NPCs/Thalas\|Thalas]] during siege.
+**Party Status (updated Session 43):** Odonia confessed in character during the Sacrifice trial in the [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]], in front of the whole party and [[NPCs/Calen Thorne\|Calen Thorne]]: _"I'm the Princess's assassin and I killed the king."_ The party now know she killed the king; whether they understand that the Princess ordered it was not discussed.
 
-**DM Note:** This is meta-gaming information for file completeness. Other party members genuinely do not know.
+**Former DM Note:** Before Session 43 this was meta-gaming information only; it is now known in character.
 
 ---
 
 ## Notes
 
 - Most famous person in [[Locations/Belendar\|Belendar]] (killed wyvern)
-- **Only three people know about High King's assassination arrangement**
+- **Confessed the High King's assassination to the party and Calen (Session 43)**
 - Being tracked by gnome army led by [[NPCs/Barry\|Zorry]]
 - **Session 31:** Appointed [[NPCs/Lady Isolde of the Silver Rose\|Lady Isolde of the Silver Rose]] as mayor of [[Locations/Sylobelle\|Sylobelle]] - decision completed
 - **Session 26:** Major social/political elevation (Lady, General, Advisor) - party members visibly surprised
@@ -240,7 +243,8 @@
 
 ## Related Items
 
-- [[General Files/Homebrew#Infinite Radiant Bow\|Homebrew#Infinite Radiant Bow]] - Magical bow with infinite ammunition
-- [[General Files/Homebrew#Twin Blades of the Serpent\|Homebrew#Twin Blades of the Serpent]] - Dual-wielding weapon set
-- [[General Files/Homebrew#Hide Armour\|Homebrew#Hide Armour]] - Magical hide armour (Fizwidget's reward)
+- [[Items/Infinite Radiant Bow\|Infinite Radiant Bow]] - Magical bow with infinite ammunition
+- [[Items/Twin Blades of the Serpent\|Twin Blades of the Serpent]] - Dual-wielding weapon set
+- [[Items/Hide Armour\|Hide Armour]] - Magical hide armour (Fizwidget's reward)
+- [[Items/Balthazar's Book of Names\|Balthazar's Book of Names]]
 - [[General Files/Homebrew#Odonia's Warg Ability\|Homebrew#Odonia's Warg Ability]] - Warg into creatures within 30ft

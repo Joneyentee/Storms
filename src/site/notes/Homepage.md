@@ -128,7 +128,7 @@ The whole session was a single fight at the mausoleum. The [[NPCs/Unknown Axe Fi
 
 **Reference:** [[General Files/Campaign Reference\|Campaign Reference]] · [[General Files/Memorable Moments\|Memorable Moments]] · [[Quests/Quests - Active\|Quests - Active]] · [[Quests/Quests - Mysteries\|Quests - Mysteries]] · [[General Files/Homebrew\|Homebrew]]
 
-**World:** [[Locations/Odessia\|Odessia]] · [[Locations/Belendar\|Belendar]] · [[Locations/Stormhold Keep\|Stormhold Keep]] · [[Locations/Sylobelle\|Sylobelle]] · [[General Files/02 Organisations Index\|02 Organisations Index]]
+**World:** [[Locations/Odessia\|Odessia]] · [[Locations/Belendar\|Belendar]] · [[Locations/Stormhold Keep\|Stormhold Keep]] · [[Locations/Sylobelle\|Sylobelle]]
 
 ---
 

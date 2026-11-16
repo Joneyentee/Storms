@@ -197,6 +197,34 @@ The dragonborn's final words to Elik'r were: _"The seal is weakening. You must f
 
 ---
 
+### The First Lantern and the Order of the Silver Lantern
+
+**Status:** Founder entombed beneath the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] | **Revealed:** Session 43
+
+**Known Lore:**
+
+The [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] was founded by [[NPCs/Ser Elenai\|Ser Elenai]], the **First Lantern**, a regal female knight who carried her lantern-headed glaive "through the long nights" - the Long Night, according to the glaive's description. The glaive's moonstone core is said to be a shard from the very first lantern lit to guide mortals from shadow. She was entombed in a circular chamber beneath a cemetery mausoleum south-west of [[Locations/Thalas'Miriel\|Thalas'Miriel]], behind a door bearing the Order's heraldry that opens only to prayer.
+
+**The Five Lights:** Her tomb tests five virtues, one statue each - Vigilance (the one who sees), Mercy (the one who gives), Courage (the one who stands), Truth (the one who reveals) and Sacrifice (the one who lets go) - each tied to a school of magic now faded (divination, abjuration, enchantment, illusion, transmutation). Their lights feed a central lantern that asks what a lantern is for. Answer: to guide others through the dark.
+
+**The Heart of the Order (Ser Elenai, S43):** A lantern is worthy of its flame not for its beauty or brightness, but for "the darkness it is willing to enter so that another might find their way". The Silver Lanterns rise when they fall, and do not leave a fallen companion behind.
+
+**Motto:** _"Where this glaive stands, the dark shall not pass. Where its light falls, the wounded shall rise."_
+
+**The First Light:** By the legends passed down through the Order's leadership, the founder's glaive is never handed over unwillingly, and the one granted it takes on being the "First Light". Granted to [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] in Session 43. The title does not carry command of the Order.
+
+**The Prophecy:** Inscribed beneath the founder's statue, foretelling "a stranger born of two worlds" who would pass the five trials with others' help - Tessell (full text in [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]]).
+
+**Open Questions:**
+
+- What was the Long Night?
+- Who was Ser Elenai beyond the Order - and whom did she serve?
+- Why were Bane-raised champions, including a knight whose lantern emblem had been defaced, entombed directly above her?
+
+**Related:** [[NPCs/Ser Elenai\|Ser Elenai]] | [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]] | [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] | [[Items/The First Lantern's Glaive\|The First Lantern's Glaive]]
+
+---
+
 ## Magic & Mysticism
 
 ### Philosophical Views
@@ -263,6 +291,10 @@ The dragonborn's final words to Elik'r were: _"The seal is weakening. You must f
 - Various gods across [[Locations/Eros\|Eros]], celestial beings granting power
 
 ### Religious Institutions
+
+#### Order of the Silver Lantern:
+
+- Founded by [[NPCs/Ser Elenai\|Ser Elenai]], the First Lantern; religious-military order of [[Locations/Thalas'Miriel\|Thalas'Miriel]]; see [The First Lantern and the Order of the Silver Lantern](#the-first-lantern-and-the-order-of-the-silver-lantern)
 
 #### Cathedral of Gentle Redemption ([[Locations/Thalas'Miriel\|Thalas'Miriel]]):
 
@@ -548,6 +580,12 @@ The dragonborn's final words to Elik'r were: _"The seal is weakening. You must f
 - The Oathless bore a lantern emblem that had been deliberately defaced - a fallen knight of the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]]?
 - See [[NPCs/Champions of the Mausoleum\|Champions of the Mausoleum]]
 
+**The First Lantern's Prophecy (S43):**
+
+- The countess "sharpening the blade beneath her seat" - [[NPCs/Countess Alyssa Crowsbane\|Countess Alyssa Crowsbane]]'s intent?
+- What the "First Light" is destined for - _"the world may yet remember Tessell's name"_
+- See [[Quests/Quests - Mysteries#The Prophecy of the First Lantern\|Quests - Mysteries#The Prophecy of the First Lantern]]
+
 **Dragon's Tear:**
 
 - Why did it persist when all other dream items disappeared?
@@ -558,11 +596,11 @@ The dragonborn's final words to Elik'r were: _"The seal is weakening. You must f
 
 ## Timeline Summary
 
-**Ancient Era:** First races (dwarves and goliaths) created → Bane corrupts dwarves → Great War → Near-extinction of both races → Dragon gods imprison Bane → Bane Watchers founded → A Stormswallow ancestor binds a wyrm beneath Thalas'Miriel at the cost of his own life; entombed in stone as the seal
+**Ancient Era:** First races (dwarves and goliaths) created → Bane corrupts dwarves → Great War → Near-extinction of both races → Dragon gods imprison Bane → Bane Watchers founded → A Stormswallow ancestor binds a wyrm beneath Thalas'Miriel at the cost of his own life; entombed in stone as the seal → Ser Elenai, the First Lantern, founds the Order of the Silver Lantern and carries her glaive through the Long Night; entombed beneath a mausoleum near Thalas'Miriel with her trials and a prophecy naming Tessell (relative order of these ancient events unknown)
 
 **Recent History:** Various royal deaths → High King assassinated → Civil war erupts → The Bane released (horn blown) → Riders of the Storm formed and join Bane Watchers
 
-**Current Campaign:** Sessions 1-41, mid-civil war; northern campaign in progress
+**Current Campaign:** Sessions 1-43, mid-civil war; northern campaign in progress
 
 - **Session 27:** Fizwidget's 1st intervention (Carnival Realm)
 - **Session 33:** Fizwidget's 2nd intervention (Winter Realm, pattern confirmed)
@@ -570,3 +608,4 @@ The dragonborn's final words to Elik'r were: _"The seal is weakening. You must f
 - **Session 39:** Purple Dragonborn confirmed as Stormswallow ancestor and defeated; seal broken; wyrm risen and taken by [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] via Bane portal — now loose in the world
 - **Session 41:** Dragonclaw Isle revealed as the location of "the other dragon" by the [[NPCs/Ember Vein Envoy - Unnamed\|Ember Vein Envoy - unnamed]]
 - **Session 42:** The [[NPCs/Unknown Axe Fighter\|Unknown Axe Fighter]] revealed as a Bane-wielder; four undead champions raised from the [[Locations/Thalas'Miriel Cemetery\|Thalas'Miriel Cemetery]] mausoleum and destroyed; [[NPCs/Lord Pompaduke the Third\|Lord Pompaduke the Third]] found hiding on site
+- **Session 43:** The [[Locations/Tomb of Ser Elenai\|Tomb of Ser Elenai]] found beneath the mausoleum; [[Party Members/Ser Tessell Highfrost\|Ser Tessell Highfrost]] passes the founder's trials with the party and is granted the First Lantern's glaive; the [[Organisations/Order of the Silver Lantern\|Order of the Silver Lantern]] marches with the party to [[Locations/Neverwinter\|Neverwinter]]
